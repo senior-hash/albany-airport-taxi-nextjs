@@ -6,9 +6,9 @@ const NAV_LINKS = [
   { href: "/", label: "Home" },
   { href: "/airport-taxi", label: "Airports" },
   { href: "/long-distance", label: "Long Distance" },
+  { href: "/venues", label: "Venues" },
   { href: "/cars", label: "Fleet" },
   { href: "/blog", label: "Blog" },
-  { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
 ];
 

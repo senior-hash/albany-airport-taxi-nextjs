@@ -21,6 +21,9 @@ export function Footer() {
             <li><Link href="/long-distance" className="hover:text-ink">Long Distance</Link></li>
             <li><Link href="/services/non-emergency-medical-transportation" className="hover:text-ink">Non-Emergency Medical Transportation</Link></li>
             <li><Link href="/services/courier" className="hover:text-ink">Courier &amp; Messenger</Link></li>
+            <li><Link href="/services/wedding" className="hover:text-ink">Wedding Transportation</Link></li>
+            <li><Link href="/services/corporate" className="hover:text-ink">Corporate Transportation</Link></li>
+            <li><Link href="/venues" className="hover:text-ink">Venues We Serve</Link></li>
             <li><Link href="/cars" className="hover:text-ink">Our Fleet</Link></li>
           </ul>
         </div>

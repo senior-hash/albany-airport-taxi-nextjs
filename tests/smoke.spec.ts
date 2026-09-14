@@ -9,8 +9,13 @@ const PAGES = [
   { path: "/cars/chevrolet-suburban", name: "car detail" },
   { path: "/blog", name: "blog list" },
   { path: "/long-distance/albany-to-nyc", name: "flagship long-distance" },
+  { path: "/long-distance/boston", name: "long-distance destination" },
   { path: "/services/non-emergency-medical-transportation", name: "NEMT" },
   { path: "/services/courier", name: "courier" },
+  { path: "/services/wedding", name: "wedding" },
+  { path: "/services/corporate", name: "corporate" },
+  { path: "/venues", name: "venues list" },
+  { path: "/venues/albany-med", name: "venue detail" },
   { path: "/about", name: "about" },
   { path: "/contact", name: "contact" },
 ];

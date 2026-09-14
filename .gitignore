@@ -21,6 +21,9 @@
 /content/_missing-towns-report.txt
 /deploy/_unmapped-redirects.txt
 
+# local-only Claude Code permission overrides
+/.claude/settings.local.json
+
 # next.js
 /.next/
 /out/

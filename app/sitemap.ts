@@ -1,5 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAirports, getCounties, getCities, getCars, getAllBlogPosts } from "@/lib/content";
+import { getVenues } from "@/lib/venues";
+import { getDestinations } from "@/lib/long-distance-destinations";
 import { SITE_URL } from "@/lib/schema";
 
 export const dynamic = "force-static";
@@ -10,6 +12,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const cities = getCities();
   const cars = getCars();
   const posts = getAllBlogPosts();
+  const venues = getVenues();
+  const destinations = getDestinations();
 
   const staticUrls: MetadataRoute.Sitemap = [
     { url: `${SITE_URL}/` },
@@ -19,10 +23,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/about` },
     { url: `${SITE_URL}/privacy` },
     { url: `${SITE_URL}/contact` },
+    { url: `${SITE_URL}/venues` },
     { url: `${SITE_URL}/long-distance` },
     { url: `${SITE_URL}/long-distance/albany-to-nyc` },
     { url: `${SITE_URL}/services/non-emergency-medical-transportation` },
     { url: `${SITE_URL}/services/courier` },
+    { url: `${SITE_URL}/services/wedding` },
+    { url: `${SITE_URL}/services/corporate` },
   ];
 
   const airportUrls: MetadataRoute.Sitemap = airports.map((a) => ({
@@ -41,6 +48,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const carUrls: MetadataRoute.Sitemap = cars.map((c) => ({ url: `${SITE_URL}/cars/${c.slug}` }));
   const postUrls: MetadataRoute.Sitemap = posts.map((p) => ({ url: `${SITE_URL}/blog/${p.slug}` }));
+  const venueUrls: MetadataRoute.Sitemap = venues.map((v) => ({ url: `${SITE_URL}/venues/${v.slug}` }));
+  const destinationUrls: MetadataRoute.Sitemap = destinations.map((d) => ({
+    url: `${SITE_URL}/long-distance/${d.slug}`,
+  }));
 
-  return [...staticUrls, ...airportUrls, ...placeUrls, ...carUrls, ...postUrls];
+  return [
+    ...staticUrls,
+    ...airportUrls,
+    ...placeUrls,
+    ...carUrls,
+    ...postUrls,
+    ...venueUrls,
+    ...destinationUrls,
+  ];
 }

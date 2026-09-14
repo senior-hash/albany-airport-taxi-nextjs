@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { getDestinations } from "@/lib/long-distance-destinations";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -10,11 +11,8 @@ export const metadata: Metadata = {
   alternates: { canonical: "/long-distance" },
 };
 
-const ROUTES = [
-  { href: "/long-distance/albany-to-nyc", label: "Albany to NYC / New York City" },
-];
-
 export default function LongDistanceHubPage() {
+  const destinations = getDestinations();
   return (
     <>
       <PageHeading
@@ -25,13 +23,21 @@ export default function LongDistanceHubPage() {
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Long Distance", path: "/long-distance" }]} />
       <Container className="py-12">
         <ul className="grid gap-4 sm:grid-cols-2">
-          {ROUTES.map((route) => (
-            <li key={route.href}>
+          <li>
+            <Link
+              href="/long-distance/albany-to-nyc"
+              className="block rounded-lg border border-border bg-surface p-6 font-medium text-primary transition-shadow hover:shadow-md"
+            >
+              Albany to NYC / New York City
+            </Link>
+          </li>
+          {destinations.map((destination) => (
+            <li key={destination.slug}>
               <Link
-                href={route.href}
+                href={`/long-distance/${destination.slug}`}
                 className="block rounded-lg border border-border bg-surface p-6 font-medium text-primary transition-shadow hover:shadow-md"
               >
-                {route.label}
+                Albany to {destination.name}
               </Link>
             </li>
           ))}

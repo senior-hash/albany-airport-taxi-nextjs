@@ -71,10 +71,9 @@ cutover.
   endpoint kept on this same cPanel hosting, then set
   `NEXT_PUBLIC_CONTACT_FORM_ENDPOINT` (step 1 above). Until this is set, the
   contact page shows a "not yet configured" notice instead of a form.
-- **Call-tracking phone numbers** — `content/counties.json` has a
-  `trackingPhone` field per county, currently `null` for all 23. Populate
-  once a call-tracking platform account exists (see plan: "Call Tracking:
-  Local Phone Numbers Per County").
+- ~~Call-tracking phone numbers~~ — done. Real static numbers for all 23
+  counties are in `scripts/lib/county-tracking-phones.json`, rendered
+  server-side on county pages and inherited by their cities.
 - **TripAdvisor / Facebook / Instagram links** — add to
   `lib/schema.ts`'s `sameAs` array once you have the real URLs, and wire up
   the footer/header social icons (currently omitted rather than linking
