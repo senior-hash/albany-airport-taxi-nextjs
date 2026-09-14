@@ -35,8 +35,9 @@ export function organizationSchema() {
       "@type": "State",
       name: ["New York", "Massachusetts", "Vermont"],
     },
-    // Populate once real profile URLs are provided (see plan: Trust Signals).
-    sameAs: [] as string[],
+    // Real social/review profile URLs (see plan: Trust Signals). Add
+    // TripAdvisor and Instagram here too once those URLs are provided.
+    sameAs: ["https://www.facebook.com/profile.php?id=100073627144127"] as string[],
   };
 }
 

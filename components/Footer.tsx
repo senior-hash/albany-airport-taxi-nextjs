@@ -43,6 +43,16 @@ export function Footer() {
             <li><a href={`mailto:${BUSINESS.email}`} className="hover:text-ink">{BUSINESS.email}</a></li>
             <li>{BUSINESS.addressLocality}, {BUSINESS.addressRegion}</li>
             <li>Available 24/7</li>
+            <li>
+              <a
+                href="https://www.facebook.com/profile.php?id=100073627144127"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-ink"
+              >
+                Facebook
+              </a>
+            </li>
           </ul>
         </div>
       </Container>
