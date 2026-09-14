@@ -97,7 +97,7 @@ export const BUSINESS = {
   name: "Albany Airport Taxi and Limo Service",
   phone: "+1-518-327-0700",
   phoneDisplay: "(518) 327-0700",
-  email: "info@albanyairport.taxi",
+  email: "info@albanynyairporttaxi.com",
   streetAddress: "1410 Curry Road",
   addressLocality: "Rotterdam",
   addressRegion: "NY",

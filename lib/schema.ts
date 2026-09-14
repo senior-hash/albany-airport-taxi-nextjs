@@ -1,6 +1,6 @@
 import { BUSINESS } from "@/lib/content";
 
-const SITE_URL = "https://albanyairport.taxi";
+const SITE_URL = "https://albanynyairporttaxi.com";
 
 export function organizationSchema() {
   return {

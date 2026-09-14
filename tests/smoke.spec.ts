@@ -33,7 +33,7 @@ for (const page of PAGES) {
 
     const canonicalHref = await pw.locator('link[rel="canonical"]').getAttribute("href");
     expect(canonicalHref, "canonical tag should exist").toBeTruthy();
-    expect(canonicalHref).toContain(page.path === "/" ? "albanyairport.taxi" : page.path);
+    expect(canonicalHref).toContain(page.path === "/" ? "albanynyairporttaxi.com" : page.path);
 
     const jsonLdBlocks = await pw.locator('script[type="application/ld+json"]').allTextContents();
     expect(jsonLdBlocks.length, "should have at least one JSON-LD block (Organization)").toBeGreaterThan(0);
