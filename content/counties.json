@@ -4,7 +4,7 @@
     "name": "Albany County",
     "stateId": 1,
     "detailHtml": "Albany County",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 327-0700",
     "slug": "albany-county"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Greene County",
     "stateId": 1,
     "detailHtml": "Greene county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-5900",
     "slug": "greene-county"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Columbia County",
     "stateId": 1,
     "detailHtml": "Columbia county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-5690",
     "slug": "columbia-county"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Dutchess County",
     "stateId": 1,
     "detailHtml": "Dutchess county",
-    "trackingPhone": null,
+    "trackingPhone": "(845) 273-5666",
     "slug": "dutchess-county"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Ulster County",
     "stateId": 1,
     "detailHtml": "Ulster county",
-    "trackingPhone": null,
+    "trackingPhone": "(845) 307-5300",
     "slug": "ulster-county"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Delaware County",
     "stateId": 1,
     "detailHtml": "Delaware county",
-    "trackingPhone": null,
+    "trackingPhone": "(845) 307-5300",
     "slug": "delaware-county"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Otsego County",
     "stateId": 1,
     "detailHtml": "Otsego county",
-    "trackingPhone": null,
+    "trackingPhone": "(607) 214-2999",
     "slug": "otsego-county"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Schoharie County",
     "stateId": 1,
     "detailHtml": "Schoharie county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7520",
     "slug": "schoharie-county"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Montgomery County",
     "stateId": 1,
     "detailHtml": "Montgomery county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7544",
     "slug": "montgomery-county"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Rensselaer County",
     "stateId": 1,
     "detailHtml": "Rensselaer county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 327-0700",
     "slug": "rensselaer-county"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Saratoga County",
     "stateId": 1,
     "detailHtml": "Saratogo county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 467-8700",
     "slug": "saratoga-county"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Schenectady County",
     "stateId": 1,
     "detailHtml": "Schecectady county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 327-0700",
     "slug": "schenectady-county"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Washington County",
     "stateId": 1,
     "detailHtml": "Washington county",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7530",
     "slug": "washington-county"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Warren County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-5700",
     "slug": "warren-county"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Hamilton County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7511",
     "slug": "hamilton-county"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Essex County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-5300",
     "slug": "essex-county"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Franklin County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7611",
     "slug": "franklin-county"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Clinton County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 316-7500",
     "slug": "clinton-county"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Herkimer County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(315) 526-8411",
     "slug": "herkimer-county"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Fulton County",
     "stateId": 1,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(518) 327-0700",
     "slug": "fulton-county"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Berkshire County",
     "stateId": 2,
     "detailHtml": "",
-    "trackingPhone": null,
+    "trackingPhone": "(413) 303-6800",
     "slug": "berkshire-county"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Bennington County",
     "stateId": 3,
     "detailHtml": "<p>Bennington County</p>",
-    "trackingPhone": null,
+    "trackingPhone": "(802) 209-0444",
     "slug": "bennington-county"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Rutland County",
     "stateId": 3,
     "detailHtml": "<p>Rutland County</p>",
-    "trackingPhone": null,
+    "trackingPhone": "(802) 209-0400",
     "slug": "rutland-county"
   }
 ]

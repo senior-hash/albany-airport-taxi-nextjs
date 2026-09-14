@@ -4,6 +4,7 @@ import { extractInsertRows, type SqlRow } from "./lib/mysql-dump-parser";
 import { sanitizeDetailHtml, containsPlaceholderText } from "./lib/sanitize";
 import { assignUniqueSlugs, baseSlug } from "./lib/slug";
 import clientAreas from "./lib/client-supplied-areas.json";
+import countyTrackingPhones from "./lib/county-tracking-phones.json";
 
 const DUMP_PATH =
   process.argv[2] ??
@@ -107,16 +108,20 @@ function main() {
   states.push(vermontState);
 
   // ---- kc_county ----
+  const trackingPhones: Record<string, string> = countyTrackingPhones;
   const countyRows = extractInsertRows(sql, "kc_county");
-  const counties = countyRows.map((row) => ({
-    id: asNumber(row.countyid),
+  const counties = countyRows.map((row) => {
     // Fix known DB typos ("Saratogo" / "Schecectady") using the client-supplied
     // correct spellings so we don't ship misspelled place names.
-    name: fixCountyName(asString(row.county)),
-    stateId: asNumber(row.state),
-    detailHtml: sanitize(asString(row.county_detail), `kc_county#${row.countyid}`),
-    trackingPhone: null as string | null,
-  }));
+    const name = fixCountyName(asString(row.county));
+    return {
+      id: asNumber(row.countyid),
+      name,
+      stateId: asNumber(row.state),
+      detailHtml: sanitize(asString(row.county_detail), `kc_county#${row.countyid}`),
+      trackingPhone: trackingPhones[name] ?? null,
+    };
+  });
 
   // Add Bennington County VT and Rutland County VT from the client-supplied list.
   let nextCountyId = Math.max(...counties.map((c) => c.id)) + 1;
@@ -129,7 +134,7 @@ function main() {
       name: vtCounty.county,
       stateId: vermontState.id,
       detailHtml: `<p>${vtCounty.county}</p>`,
-      trackingPhone: null,
+      trackingPhone: trackingPhones[vtCounty.county] ?? null,
     });
     addedCounties.push({ name: vtCounty.county, id });
   }

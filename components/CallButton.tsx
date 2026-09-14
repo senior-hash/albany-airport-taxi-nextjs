@@ -1,21 +1,31 @@
 import { BUSINESS } from "@/lib/content";
+import { phoneToTelHref } from "@/lib/phone";
 
 /**
- * Canonical phone CTA. Renders the single business number server-side (SEO-safe,
- * NAP-consistent, works with JS disabled). A call-tracking platform's client-side
- * script can later swap the visible number per county page for live visitors
- * only — see plan: "Call Tracking: Local Phone Numbers Per County". This
- * component intentionally does not accept a per-page phone override, so that
- * swap stays a pure client-side enhancement, not a build-time content change.
+ * Phone CTA. Defaults to the canonical business number (used site-wide, and
+ * in the Organization JSON-LD schema, for NAP consistency). Pages for a
+ * specific county can pass that county's real static tracking number
+ * instead — these are genuine local numbers for that service area, not a
+ * client-side swap, so it's safe to render them server-side and they still
+ * show up correctly with JS disabled or to crawlers.
  */
-export function CallButton({ className = "" }: { className?: string }) {
+export function CallButton({
+  className = "",
+  phone,
+  phoneDisplay,
+}: {
+  className?: string;
+  phone?: string;
+  phoneDisplay?: string;
+}) {
+  const display = phoneDisplay ?? BUSINESS.phoneDisplay;
+  const href = phone ? phoneToTelHref(phone) : `tel:${BUSINESS.phone}`;
   return (
     <a
-      href={`tel:${BUSINESS.phone}`}
-      data-call-tracking-canonical={BUSINESS.phone}
+      href={href}
       className={`inline-flex items-center justify-center gap-2 rounded-full bg-accent px-6 py-3 font-medium text-white transition-colors hover:bg-accent-hover ${className}`}
     >
-      Call {BUSINESS.phoneDisplay}
+      Call {display}
     </a>
   );
 }

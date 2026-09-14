@@ -124,7 +124,11 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             <div className="rounded-lg border border-border bg-surface p-6">
               <p className="font-medium text-primary">Book your ride</p>
               <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
-              <CallButton className="mt-4 w-full" />
+              <CallButton
+                className="mt-4 w-full"
+                phone={county?.trackingPhone ?? undefined}
+                phoneDisplay={county?.trackingPhone ?? undefined}
+              />
             </div>
           </aside>
         </Container>
@@ -158,11 +162,24 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             { name: county.name, path: `/airport-taxi/${airport.slug}/${county.slug}` },
           ]}
         />
-        <Container className="py-12">
-          <ProseContent html={county.detailHtml || fallbackBody} />
-          {citiesInCounty.length > 0 && (
-            <NearbyCities cities={citiesInCounty} currentSlug="" airportSlug={airport.slug} />
-          )}
+        <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
+          <div>
+            <ProseContent html={county.detailHtml || fallbackBody} />
+            {citiesInCounty.length > 0 && (
+              <NearbyCities cities={citiesInCounty} currentSlug="" airportSlug={airport.slug} />
+            )}
+          </div>
+          <aside>
+            <div className="rounded-lg border border-border bg-surface p-6">
+              <p className="font-medium text-primary">Book your ride</p>
+              <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
+              <CallButton
+                className="mt-4 w-full"
+                phone={county.trackingPhone ?? undefined}
+                phoneDisplay={county.trackingPhone ?? undefined}
+              />
+            </div>
+          </aside>
         </Container>
       </>
     );
