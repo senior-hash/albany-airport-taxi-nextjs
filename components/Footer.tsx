@@ -41,7 +41,7 @@ export function Footer() {
           <ul className="mt-3 space-y-2 text-ink-muted">
             <li><a href={`tel:${BUSINESS.phone}`} className="hover:text-ink">{BUSINESS.phoneDisplay}</a></li>
             <li><a href={`mailto:${BUSINESS.email}`} className="hover:text-ink">{BUSINESS.email}</a></li>
-            <li>{BUSINESS.addressLocality}, {BUSINESS.addressRegion}</li>
+            <li>{BUSINESS.streetAddress}, {BUSINESS.addressLocality}, {BUSINESS.addressRegion} {BUSINESS.postalCode}</li>
             <li>Available 24/7</li>
             <li>
               <a

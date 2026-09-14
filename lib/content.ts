@@ -98,6 +98,8 @@ export const BUSINESS = {
   phone: "+1-518-327-0700",
   phoneDisplay: "(518) 327-0700",
   email: "info@albanyairport.taxi",
-  addressLocality: "Albany",
+  streetAddress: "1410 Curry Road",
+  addressLocality: "Rotterdam",
   addressRegion: "NY",
+  postalCode: "12306",
 } as const;

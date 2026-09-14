@@ -13,8 +13,10 @@ export function organizationSchema() {
     url: SITE_URL,
     address: {
       "@type": "PostalAddress",
+      streetAddress: BUSINESS.streetAddress,
       addressLocality: BUSINESS.addressLocality,
       addressRegion: BUSINESS.addressRegion,
+      postalCode: BUSINESS.postalCode,
       addressCountry: "US",
     },
     openingHoursSpecification: {
