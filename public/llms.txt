@@ -1,0 +1,27 @@
+# Albany Airport Taxi and Limo Service
+
+> 24/7 taxi, car, and limo service to and from Albany International Airport
+> (ALB), JFK, LaGuardia (LGA), Newark (EWR), Boston Logan, and New York City,
+> serving the Capital Region of New York plus parts of Vermont and
+> Massachusetts.
+
+- Phone: (518) 327-0700
+- Email: info@albanyairport.taxi
+- Hours: 24 hours a day, 7 days a week
+- Service area: Albany, NY and surrounding counties (Albany, Rensselaer,
+  Saratoga, Schenectady, Columbia, Greene, Dutchess, Ulster, Delaware,
+  Otsego, Schoharie, Montgomery, Washington, Warren, Hamilton, Essex,
+  Franklin, Clinton, Herkimer, Fulton counties in NY; Bennington and
+  Rutland counties in VT; Berkshire county in MA)
+- Fleet: taxi, sedan, SUV, and limo vehicles
+
+## Key pages
+
+- [Home](/)
+- [Airport Taxi Service](/airport-taxi)
+- [Long Distance: Albany to NYC](/long-distance/albany-to-nyc)
+- [Non-Emergency Medical Transportation (self-pay)](/services/non-emergency-medical-transportation)
+- [Courier & Messenger Service](/services/courier)
+- [Our Fleet](/cars)
+- [About Us](/about)
+- [Contact](/contact)

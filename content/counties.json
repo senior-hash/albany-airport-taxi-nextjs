@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "Albany County",
+    "stateId": 1,
+    "detailHtml": "Albany County",
+    "trackingPhone": null,
+    "slug": "albany-county"
+  },
+  {
+    "id": 2,
+    "name": "Greene County",
+    "stateId": 1,
+    "detailHtml": "Greene county",
+    "trackingPhone": null,
+    "slug": "greene-county"
+  },
+  {
+    "id": 3,
+    "name": "Columbia County",
+    "stateId": 1,
+    "detailHtml": "Columbia county",
+    "trackingPhone": null,
+    "slug": "columbia-county"
+  },
+  {
+    "id": 4,
+    "name": "Dutchess County",
+    "stateId": 1,
+    "detailHtml": "Dutchess county",
+    "trackingPhone": null,
+    "slug": "dutchess-county"
+  },
+  {
+    "id": 5,
+    "name": "Ulster County",
+    "stateId": 1,
+    "detailHtml": "Ulster county",
+    "trackingPhone": null,
+    "slug": "ulster-county"
+  },
+  {
+    "id": 6,
+    "name": "Delaware County",
+    "stateId": 1,
+    "detailHtml": "Delaware county",
+    "trackingPhone": null,
+    "slug": "delaware-county"
+  },
+  {
+    "id": 7,
+    "name": "Otsego County",
+    "stateId": 1,
+    "detailHtml": "Otsego county",
+    "trackingPhone": null,
+    "slug": "otsego-county"
+  },
+  {
+    "id": 8,
+    "name": "Schoharie County",
+    "stateId": 1,
+    "detailHtml": "Schoharie county",
+    "trackingPhone": null,
+    "slug": "schoharie-county"
+  },
+  {
+    "id": 9,
+    "name": "Montgomery County",
+    "stateId": 1,
+    "detailHtml": "Montgomery county",
+    "trackingPhone": null,
+    "slug": "montgomery-county"
+  },
+  {
+    "id": 10,
+    "name": "Rensselaer County",
+    "stateId": 1,
+    "detailHtml": "Rensselaer county",
+    "trackingPhone": null,
+    "slug": "rensselaer-county"
+  },
+  {
+    "id": 11,
+    "name": "Saratoga County",
+    "stateId": 1,
+    "detailHtml": "Saratogo county",
+    "trackingPhone": null,
+    "slug": "saratoga-county"
+  },
+  {
+    "id": 12,
+    "name": "Schenectady County",
+    "stateId": 1,
+    "detailHtml": "Schecectady county",
+    "trackingPhone": null,
+    "slug": "schenectady-county"
+  },
+  {
+    "id": 13,
+    "name": "Washington County",
+    "stateId": 1,
+    "detailHtml": "Washington county",
+    "trackingPhone": null,
+    "slug": "washington-county"
+  },
+  {
+    "id": 14,
+    "name": "Warren County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "warren-county"
+  },
+  {
+    "id": 15,
+    "name": "Hamilton County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "hamilton-county"
+  },
+  {
+    "id": 16,
+    "name": "Essex County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "essex-county"
+  },
+  {
+    "id": 17,
+    "name": "Franklin County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "franklin-county"
+  },
+  {
+    "id": 18,
+    "name": "Clinton County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "clinton-county"
+  },
+  {
+    "id": 19,
+    "name": "Herkimer County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "herkimer-county"
+  },
+  {
+    "id": 20,
+    "name": "Fulton County",
+    "stateId": 1,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "fulton-county"
+  },
+  {
+    "id": 21,
+    "name": "Berkshire County",
+    "stateId": 2,
+    "detailHtml": "",
+    "trackingPhone": null,
+    "slug": "berkshire-county"
+  },
+  {
+    "id": 22,
+    "name": "Bennington County",
+    "stateId": 3,
+    "detailHtml": "<p>Bennington County</p>",
+    "trackingPhone": null,
+    "slug": "bennington-county"
+  },
+  {
+    "id": 23,
+    "name": "Rutland County",
+    "stateId": 3,
+    "detailHtml": "<p>Rutland County</p>",
+    "trackingPhone": null,
+    "slug": "rutland-county"
+  }
+]

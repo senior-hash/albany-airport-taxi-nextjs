@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "New York",
+    "slug": "new-york"
+  },
+  {
+    "id": 2,
+    "name": "Massachusetts",
+    "slug": "massachusetts"
+  },
+  {
+    "id": 3,
+    "name": "Vermont",
+    "slug": "vermont"
+  }
+]

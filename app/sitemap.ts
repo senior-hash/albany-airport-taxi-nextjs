@@ -1,0 +1,46 @@
+import type { MetadataRoute } from "next";
+import { getAirports, getCounties, getCities, getCars, getAllBlogPosts } from "@/lib/content";
+import { SITE_URL } from "@/lib/schema";
+
+export const dynamic = "force-static";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const airports = getAirports();
+  const counties = getCounties();
+  const cities = getCities();
+  const cars = getCars();
+  const posts = getAllBlogPosts();
+
+  const staticUrls: MetadataRoute.Sitemap = [
+    { url: `${SITE_URL}/` },
+    { url: `${SITE_URL}/airport-taxi` },
+    { url: `${SITE_URL}/cars` },
+    { url: `${SITE_URL}/blog` },
+    { url: `${SITE_URL}/about` },
+    { url: `${SITE_URL}/privacy` },
+    { url: `${SITE_URL}/contact` },
+    { url: `${SITE_URL}/long-distance` },
+    { url: `${SITE_URL}/long-distance/albany-to-nyc` },
+    { url: `${SITE_URL}/services/non-emergency-medical-transportation` },
+    { url: `${SITE_URL}/services/courier` },
+  ];
+
+  const airportUrls: MetadataRoute.Sitemap = airports.map((a) => ({
+    url: `${SITE_URL}/airport-taxi/${a.slug}`,
+  }));
+
+  const placeUrls: MetadataRoute.Sitemap = [];
+  for (const airport of airports) {
+    for (const county of counties) {
+      placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${county.slug}` });
+    }
+    for (const city of cities) {
+      placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${city.slug}` });
+    }
+  }
+
+  const carUrls: MetadataRoute.Sitemap = cars.map((c) => ({ url: `${SITE_URL}/cars/${c.slug}` }));
+  const postUrls: MetadataRoute.Sitemap = posts.map((p) => ({ url: `${SITE_URL}/blog/${p.slug}` }));
+
+  return [...staticUrls, ...airportUrls, ...placeUrls, ...carUrls, ...postUrls];
+}

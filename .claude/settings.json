@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Browser__navigate",
+      "mcp__Claude_Browser__read_console_messages",
+      "mcp__Claude_Browser__find",
+      "mcp__Claude_Browser__get_page_text",
+      "mcp__Claude_Browser__read_network_requests",
+      "mcp__Claude_Browser__read_page",
+      "mcp__Claude_Browser__tabs_context",
+      "mcp__Claude_Browser__preview_logs",
+      "mcp__c1b048e2-9691-4a07-ab4c-404675c6d3de__site-explorer-metrics",
+      "mcp__c1b048e2-9691-4a07-ab4c-404675c6d3de__site-explorer-organic-keywords",
+      "mcp__c1b048e2-9691-4a07-ab4c-404675c6d3de__keywords-explorer-overview",
+      "mcp__c1b048e2-9691-4a07-ab4c-404675c6d3de__doc",
+      "mcp__c1b048e2-9691-4a07-ab4c-404675c6d3de__site-explorer-organic-competitors",
+      "mcp__mcp-registry__search_mcp_registry",
+      "mcp__mcp-registry__suggest_connectors",
+      "mcp__ccd_connectors__session_connectors_status",
+      "Bash(nslookup *)",
+      "PowerShell(Test-Path *)",
+      "PowerShell(Get-ChildItem *)"
+    ]
+  }
+}

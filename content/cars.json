@@ -1,0 +1,26 @@
+[
+  {
+    "id": 128,
+    "title": "Chevrolet Suburban",
+    "detailHtml": "<p> The all-new, 12th-generation Chevrolet Suburban will launch for the 2021 model year, not the 2020 model year as we originally reported. That means that the current, 11th-generation model gets to live for another (final) model year as the 2020 Chevrolet Suburban, while getting a few minor changes and updates. So, here’s what’s new and different for the 2020 Suburban.</p>\r\n<div> </div>\r\n<div>There are no changes to the model line or the mechanical side of extended-length, full-size SUV. Changes to the exterior are limited to the deletion of the Pepperdust Metallic color as well as new finishes for the following wheels:</div>\r\n<div> </div>\r\n<div>22-inch Gloss Black aluminum wheels with custom silver accents (SGK)</div>\r\n<div>22-inch Bright machined aluminum wheels with Bright Silver finish (SIY)</div>\r\n<div> </div>\r\n<div>Similarly, the 2020 Chevrolet Suburban doesn’t feature any changes or updates to the interior. The two remaining changes impact two optional packages, as the large SUV deletes the All-Season Package and the LT Signature Package. </div>\r\n<div> </div>\r\n<div> </div>\r\n<div>The GM Arlington plant where the Suburban is assembled alongside other full-size GM SUVs was recently re-tooled to produce the all-new, future Suburban based on the T1 platform.</div>",
+    "image": "img_1638638195.jpg",
+    "brand": 1,
+    "slug": "chevrolet-suburban"
+  },
+  {
+    "id": 129,
+    "title": "Honda Passport",
+    "detailHtml": "<p> The best way to think of the 2021 Honda Passport is a Honda Pilot without the third row of seats. It's a bit easier to maneuver than the Pilot and offers more interior space than the smaller Honda CR-V. With both the Pilot and CR-V holding very favorable spots in their respective classes, it's no surprise the Passport is also a great pick.</p>\r\n<div> </div>\r\n<div>The Honda Passport's combination of spaciousness, comfort and convenience allows it to slightly outrank other midsize SUVs that include the Volkswagen Atlas Cross Sport, Toyota Venza and Hyundai Santa Fe. However, the scoring is pretty close. Check out our in-depth Expert Rating to help you decide if the Passport is for you.</div>\r\n<div> </div>\r\n<div>What's it like to live with?</div>\r\n<div>Edmunds tested a Passport for a year and more than 20,000 miles. We liked it for its long-distance comfort and convenience features, but were unimpressed with the infotainment system and advanced safety feature tuning. For more about our experience with the Passport, check out our long-term test logbook. Note that we tested a 2019 model, but the 2021 Passport is largely unchanged, so our observations still apply.</div>",
+    "image": "img_1638638397.png",
+    "brand": 2,
+    "slug": "honda-passport"
+  },
+  {
+    "id": 130,
+    "title": "Lincoln MKT",
+    "detailHtml": "<p> Despite being technically replaced by the upcoming Lincoln Aviator, the Lincoln MKT will continue to live in the near-term, Automotive News reports, citing an interview with Robert Parker, Lincoln's marketing manager. The MKT will be used for fleet sales -- think livery vehicles, rentals, that sort of thing.</p>\r\n<div> </div>\r\n<div>So why wouldn't Lincoln be keen to get its flashy new SUV in as many places as possible, as quickly as possible? According to AN's interview, Parker says that Lincoln doesn't want to heap fleet discounts onto its new luxury ute right away, which could be detrimental to the brand's growing cachet. Instead, it'll sell the MKT at a discount.</div>\r\n<div> </div>\r\n<div>Of course, if companies want to buy a fleet of Aviators for their hotel or whathaveyou, that's entirely possible, but it won't come with a lower price tag. \"If you see an Aviator in Denver at a rental-car location, it's because they paid us what you would have paid when you bought it,\" Parker told Automotive News.</div>\r\n<div> </div>\r\n<div>The Lincoln MKT is nearly a decade old, and it shows. It sports Lincoln's last-generation design language, and AN says that's not likely to change. It has Lincoln's last-gen gauge cluster, as well, but at least it packs the latest iteration of Ford's Sync 3 infotainment. It relies on a 3.5-liter turbocharged V6 putting out 365 horsepower and 350 pound-feet of torque, and it's pretty thirsty at an EPA-estimated 15 mpg city and 21 mpg highway.</div>\r\n<div> </div>\r\n<div>By comparison, the Aviator looks like it's coming out for the 3018 model year. Riding on a rear-wheel-drive platform with optional all-wheel drive, all Aviators will wield twin-turbocharged V6s, and a plug-in-hybrid variant will add both more power and a dash of efficiency. It's built to look like a little Navigator, which is smart, because the new Navi is one of the prettiest things Lincoln has built in decades. And yes, it'll rock Lincoln's ultra-complicated 30-way adjustable massaging seats.</div>",
+    "image": "img_1638638533.jpg",
+    "brand": 3,
+    "slug": "lincoln-mkt"
+  }
+]
