@@ -8,7 +8,9 @@
     "preview": "node scripts/static-server.js",
     "lint": "eslint",
     "test": "playwright test",
-    "parse-dump": "tsx scripts/parse-dump.ts"
+    "parse-dump": "tsx scripts/parse-dump.ts",
+    "generate-redirects": "tsx scripts/generate-redirects.ts",
+    "generate-htaccess": "tsx scripts/generate-htaccess.ts"
   },
   "dependencies": {
     "next": "16.3.5",

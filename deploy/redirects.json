@@ -1,0 +1,4626 @@
+[
+  {
+    "from": "/",
+    "to": "/"
+  },
+  {
+    "from": "/contact.php",
+    "to": "/contact"
+  },
+  {
+    "from": "/content.php?id=336",
+    "to": "/about"
+  },
+  {
+    "from": "/services.php",
+    "to": "/airport-taxi"
+  },
+  {
+    "from": "/cars.php",
+    "to": "/cars"
+  },
+  {
+    "from": "/blogs.php",
+    "to": "/blog"
+  },
+  {
+    "from": "/service-detail.php?id=335",
+    "to": "/airport-taxi/logan"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=1",
+    "to": "/airport-taxi/logan/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=2",
+    "to": "/airport-taxi/logan/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=3",
+    "to": "/airport-taxi/logan/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=4",
+    "to": "/airport-taxi/logan/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=5",
+    "to": "/airport-taxi/logan/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=6",
+    "to": "/airport-taxi/logan/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=7",
+    "to": "/airport-taxi/logan/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=8",
+    "to": "/airport-taxi/logan/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=9",
+    "to": "/airport-taxi/logan/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=10",
+    "to": "/airport-taxi/logan/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=11",
+    "to": "/airport-taxi/logan/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=12",
+    "to": "/airport-taxi/logan/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=13",
+    "to": "/airport-taxi/logan/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=14",
+    "to": "/airport-taxi/logan/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=15",
+    "to": "/airport-taxi/logan/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=16",
+    "to": "/airport-taxi/logan/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=17",
+    "to": "/airport-taxi/logan/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=18",
+    "to": "/airport-taxi/logan/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=19",
+    "to": "/airport-taxi/logan/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=20",
+    "to": "/airport-taxi/logan/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=335&cid=21",
+    "to": "/airport-taxi/logan/berkshire-county"
+  },
+  {
+    "from": "/service-detail.php?id=334",
+    "to": "/airport-taxi/nyc"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=1",
+    "to": "/airport-taxi/nyc/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=2",
+    "to": "/airport-taxi/nyc/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=3",
+    "to": "/airport-taxi/nyc/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=4",
+    "to": "/airport-taxi/nyc/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=5",
+    "to": "/airport-taxi/nyc/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=6",
+    "to": "/airport-taxi/nyc/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=7",
+    "to": "/airport-taxi/nyc/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=8",
+    "to": "/airport-taxi/nyc/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=9",
+    "to": "/airport-taxi/nyc/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=10",
+    "to": "/airport-taxi/nyc/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=11",
+    "to": "/airport-taxi/nyc/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=12",
+    "to": "/airport-taxi/nyc/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=13",
+    "to": "/airport-taxi/nyc/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=14",
+    "to": "/airport-taxi/nyc/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=15",
+    "to": "/airport-taxi/nyc/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=16",
+    "to": "/airport-taxi/nyc/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=17",
+    "to": "/airport-taxi/nyc/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=18",
+    "to": "/airport-taxi/nyc/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=19",
+    "to": "/airport-taxi/nyc/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=20",
+    "to": "/airport-taxi/nyc/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=334&cid=21",
+    "to": "/airport-taxi/nyc/berkshire-county"
+  },
+  {
+    "from": "/service-detail.php?id=333",
+    "to": "/airport-taxi/ewr"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=1",
+    "to": "/airport-taxi/ewr/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=2",
+    "to": "/airport-taxi/ewr/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=3",
+    "to": "/airport-taxi/ewr/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=4",
+    "to": "/airport-taxi/ewr/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=5",
+    "to": "/airport-taxi/ewr/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=6",
+    "to": "/airport-taxi/ewr/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=7",
+    "to": "/airport-taxi/ewr/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=8",
+    "to": "/airport-taxi/ewr/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=9",
+    "to": "/airport-taxi/ewr/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=10",
+    "to": "/airport-taxi/ewr/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=11",
+    "to": "/airport-taxi/ewr/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=12",
+    "to": "/airport-taxi/ewr/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=13",
+    "to": "/airport-taxi/ewr/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=14",
+    "to": "/airport-taxi/ewr/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=15",
+    "to": "/airport-taxi/ewr/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=16",
+    "to": "/airport-taxi/ewr/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=17",
+    "to": "/airport-taxi/ewr/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=18",
+    "to": "/airport-taxi/ewr/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=19",
+    "to": "/airport-taxi/ewr/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=20",
+    "to": "/airport-taxi/ewr/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=333&cid=21",
+    "to": "/airport-taxi/ewr/berkshire-county"
+  },
+  {
+    "from": "/service-detail.php?id=332",
+    "to": "/airport-taxi/lga"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=1",
+    "to": "/airport-taxi/lga/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=2",
+    "to": "/airport-taxi/lga/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=3",
+    "to": "/airport-taxi/lga/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=4",
+    "to": "/airport-taxi/lga/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=5",
+    "to": "/airport-taxi/lga/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=6",
+    "to": "/airport-taxi/lga/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=7",
+    "to": "/airport-taxi/lga/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=8",
+    "to": "/airport-taxi/lga/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=9",
+    "to": "/airport-taxi/lga/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=10",
+    "to": "/airport-taxi/lga/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=11",
+    "to": "/airport-taxi/lga/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=12",
+    "to": "/airport-taxi/lga/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=13",
+    "to": "/airport-taxi/lga/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=14",
+    "to": "/airport-taxi/lga/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=15",
+    "to": "/airport-taxi/lga/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=16",
+    "to": "/airport-taxi/lga/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=17",
+    "to": "/airport-taxi/lga/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=18",
+    "to": "/airport-taxi/lga/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=19",
+    "to": "/airport-taxi/lga/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=20",
+    "to": "/airport-taxi/lga/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=332&cid=21",
+    "to": "/airport-taxi/lga/berkshire-county"
+  },
+  {
+    "from": "/service-detail.php?id=331",
+    "to": "/airport-taxi/jfk"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=1",
+    "to": "/airport-taxi/jfk/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=2",
+    "to": "/airport-taxi/jfk/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=3",
+    "to": "/airport-taxi/jfk/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=4",
+    "to": "/airport-taxi/jfk/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=5",
+    "to": "/airport-taxi/jfk/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=6",
+    "to": "/airport-taxi/jfk/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=7",
+    "to": "/airport-taxi/jfk/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=8",
+    "to": "/airport-taxi/jfk/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=9",
+    "to": "/airport-taxi/jfk/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=10",
+    "to": "/airport-taxi/jfk/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=11",
+    "to": "/airport-taxi/jfk/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=12",
+    "to": "/airport-taxi/jfk/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=13",
+    "to": "/airport-taxi/jfk/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=14",
+    "to": "/airport-taxi/jfk/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=15",
+    "to": "/airport-taxi/jfk/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=16",
+    "to": "/airport-taxi/jfk/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=17",
+    "to": "/airport-taxi/jfk/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=18",
+    "to": "/airport-taxi/jfk/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=19",
+    "to": "/airport-taxi/jfk/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=20",
+    "to": "/airport-taxi/jfk/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=331&cid=21",
+    "to": "/airport-taxi/jfk/berkshire-county"
+  },
+  {
+    "from": "/service-detail.php?id=330",
+    "to": "/airport-taxi/alb"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=1",
+    "to": "/airport-taxi/alb/albany-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=2",
+    "to": "/airport-taxi/alb/greene-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=3",
+    "to": "/airport-taxi/alb/columbia-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=4",
+    "to": "/airport-taxi/alb/dutchess-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=5",
+    "to": "/airport-taxi/alb/ulster-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=6",
+    "to": "/airport-taxi/alb/delaware-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=7",
+    "to": "/airport-taxi/alb/otsego-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=8",
+    "to": "/airport-taxi/alb/schoharie-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=9",
+    "to": "/airport-taxi/alb/montgomery-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=10",
+    "to": "/airport-taxi/alb/rensselaer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=11",
+    "to": "/airport-taxi/alb/saratoga-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=12",
+    "to": "/airport-taxi/alb/schenectady-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=13",
+    "to": "/airport-taxi/alb/washington-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=14",
+    "to": "/airport-taxi/alb/warren-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=15",
+    "to": "/airport-taxi/alb/hamilton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=16",
+    "to": "/airport-taxi/alb/essex-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=17",
+    "to": "/airport-taxi/alb/franklin-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=18",
+    "to": "/airport-taxi/alb/clinton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=19",
+    "to": "/airport-taxi/alb/herkimer-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=20",
+    "to": "/airport-taxi/alb/fulton-county"
+  },
+  {
+    "from": "/service-county-detail.php?id=330&cid=21",
+    "to": "/airport-taxi/alb/berkshire-county"
+  },
+  {
+    "from": "/content.php?id=320",
+    "to": "/privacy"
+  },
+  {
+    "from": "/blog-detail.php?id=335",
+    "to": "/blog/airport-limo-services-are-often-seen-by-most"
+  },
+  {
+    "from": "/index.php",
+    "to": "/"
+  },
+  {
+    "from": "/car-detail.php?id=128",
+    "to": "/cars/chevrolet-suburban"
+  },
+  {
+    "from": "/car-detail.php?id=129",
+    "to": "/cars/honda-passport"
+  },
+  {
+    "from": "/car-detail.php?id=130",
+    "to": "/cars/lincoln-mkt"
+  },
+  {
+    "from": "/car-detail.php?id=156",
+    "to": "/cars"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=1",
+    "to": "/airport-taxi/logan/albany"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=2",
+    "to": "/airport-taxi/logan/alcove"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=3",
+    "to": "/airport-taxi/logan/altamont"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=4",
+    "to": "/airport-taxi/logan/berne"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=5",
+    "to": "/airport-taxi/logan/clarksville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=6",
+    "to": "/airport-taxi/logan/coeymans"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=7",
+    "to": "/airport-taxi/logan/coeymans-hollow"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=8",
+    "to": "/airport-taxi/logan/cohoes"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=9",
+    "to": "/airport-taxi/logan/delmar"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=10",
+    "to": "/airport-taxi/logan/east-berne"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=11",
+    "to": "/airport-taxi/logan/feura-bush"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=12",
+    "to": "/airport-taxi/logan/glenmont"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=13",
+    "to": "/airport-taxi/logan/guilderland"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=14",
+    "to": "/airport-taxi/logan/guilderland-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=15",
+    "to": "/airport-taxi/logan/knox"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=16",
+    "to": "/airport-taxi/logan/latham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=17",
+    "to": "/airport-taxi/logan/medusa"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=18",
+    "to": "/airport-taxi/logan/newtonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=19",
+    "to": "/airport-taxi/logan/preston-hollow"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=20",
+    "to": "/airport-taxi/logan/ravena"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=21",
+    "to": "/airport-taxi/logan/rensselaerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=22",
+    "to": "/airport-taxi/logan/selkirk"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=23",
+    "to": "/airport-taxi/logan/slingerlands"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=24",
+    "to": "/airport-taxi/logan/south-bethlehem"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=25",
+    "to": "/airport-taxi/logan/troy-albany-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=26",
+    "to": "/airport-taxi/logan/voorheesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=27",
+    "to": "/airport-taxi/logan/acra"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=28",
+    "to": "/airport-taxi/logan/ashland"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=29",
+    "to": "/airport-taxi/logan/athens"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=30",
+    "to": "/airport-taxi/logan/cairo"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=31",
+    "to": "/airport-taxi/logan/catskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=32",
+    "to": "/airport-taxi/logan/climax"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=33",
+    "to": "/airport-taxi/logan/cornwallville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=34",
+    "to": "/airport-taxi/logan/coxsackie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=35",
+    "to": "/airport-taxi/logan/durham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=36",
+    "to": "/airport-taxi/logan/earlton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=37",
+    "to": "/airport-taxi/logan/east-durham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=38",
+    "to": "/airport-taxi/logan/east-jewett"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=39",
+    "to": "/airport-taxi/logan/elka-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=40",
+    "to": "/airport-taxi/logan/freehold"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=41",
+    "to": "/airport-taxi/logan/greenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=42",
+    "to": "/airport-taxi/logan/haines-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=43",
+    "to": "/airport-taxi/logan/hannacroix"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=44",
+    "to": "/airport-taxi/logan/hensonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=45",
+    "to": "/airport-taxi/logan/hunter"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=46",
+    "to": "/airport-taxi/logan/jewett"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=47",
+    "to": "/airport-taxi/logan/lanesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=48",
+    "to": "/airport-taxi/logan/leeds"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=49",
+    "to": "/airport-taxi/logan/lexington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=50",
+    "to": "/airport-taxi/logan/maplecrest"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=51",
+    "to": "/airport-taxi/logan/new-baltimore"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=52",
+    "to": "/airport-taxi/logan/oak-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=53",
+    "to": "/airport-taxi/logan/palenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=54",
+    "to": "/airport-taxi/logan/prattsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=55",
+    "to": "/airport-taxi/logan/purling"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=56",
+    "to": "/airport-taxi/logan/round-top"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=57",
+    "to": "/airport-taxi/logan/south-cairo"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=58",
+    "to": "/airport-taxi/logan/surprise"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=59",
+    "to": "/airport-taxi/logan/tannersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=60",
+    "to": "/airport-taxi/logan/west-coxsackie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=61",
+    "to": "/airport-taxi/logan/west-kill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=62",
+    "to": "/airport-taxi/logan/windham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=63",
+    "to": "/airport-taxi/logan/ancram"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=64",
+    "to": "/airport-taxi/logan/ancramdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=65",
+    "to": "/airport-taxi/logan/austerlitz"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=66",
+    "to": "/airport-taxi/logan/canaan"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=67",
+    "to": "/airport-taxi/logan/chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=68",
+    "to": "/airport-taxi/logan/claverack"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=69",
+    "to": "/airport-taxi/logan/columbiaville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=70",
+    "to": "/airport-taxi/logan/copake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=71",
+    "to": "/airport-taxi/logan/copake-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=72",
+    "to": "/airport-taxi/logan/craryville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=73",
+    "to": "/airport-taxi/logan/east-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=74",
+    "to": "/airport-taxi/logan/elizaville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=75",
+    "to": "/airport-taxi/logan/germantown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=76",
+    "to": "/airport-taxi/logan/ghent"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=77",
+    "to": "/airport-taxi/logan/hillsdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=78",
+    "to": "/airport-taxi/logan/hollowville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=79",
+    "to": "/airport-taxi/logan/hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=80",
+    "to": "/airport-taxi/logan/kinderhook"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=81",
+    "to": "/airport-taxi/logan/livingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=82",
+    "to": "/airport-taxi/logan/malden-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=83",
+    "to": "/airport-taxi/logan/mellenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=84",
+    "to": "/airport-taxi/logan/new-lebanon"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=85",
+    "to": "/airport-taxi/logan/niverville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=86",
+    "to": "/airport-taxi/logan/north-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=87",
+    "to": "/airport-taxi/logan/old-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=88",
+    "to": "/airport-taxi/logan/philmont"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=89",
+    "to": "/airport-taxi/logan/spencertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=90",
+    "to": "/airport-taxi/logan/stottville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=91",
+    "to": "/airport-taxi/logan/stuyvesant"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=92",
+    "to": "/airport-taxi/logan/stuyvesant-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=93",
+    "to": "/airport-taxi/logan/valatie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=94",
+    "to": "/airport-taxi/logan/west-lebanon"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=95",
+    "to": "/airport-taxi/logan/amenia"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=96",
+    "to": "/airport-taxi/logan/annandale-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=97",
+    "to": "/airport-taxi/logan/bangall"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=98",
+    "to": "/airport-taxi/logan/barrytown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=99",
+    "to": "/airport-taxi/logan/beacon"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=100",
+    "to": "/airport-taxi/logan/billings"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=101",
+    "to": "/airport-taxi/logan/castle-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=102",
+    "to": "/airport-taxi/logan/chelsea"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=103",
+    "to": "/airport-taxi/logan/clinton-corners"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=104",
+    "to": "/airport-taxi/logan/dover-plains"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=105",
+    "to": "/airport-taxi/logan/fishkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=106",
+    "to": "/airport-taxi/logan/glenham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=107",
+    "to": "/airport-taxi/logan/holmes"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=108",
+    "to": "/airport-taxi/logan/hopewell-junction"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=109",
+    "to": "/airport-taxi/logan/hughsonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=110",
+    "to": "/airport-taxi/logan/hyde-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=111",
+    "to": "/airport-taxi/logan/lagrangeville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=112",
+    "to": "/airport-taxi/logan/millbrook"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=113",
+    "to": "/airport-taxi/logan/millerton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=114",
+    "to": "/airport-taxi/logan/pawling"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=115",
+    "to": "/airport-taxi/logan/pine-plains"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=116",
+    "to": "/airport-taxi/logan/pleasant-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=117",
+    "to": "/airport-taxi/logan/poughkeepsie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=118",
+    "to": "/airport-taxi/logan/poughquag"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=119",
+    "to": "/airport-taxi/logan/red-hook"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=120",
+    "to": "/airport-taxi/logan/rhinebeck"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=121",
+    "to": "/airport-taxi/logan/rhinecliff"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=122",
+    "to": "/airport-taxi/logan/salt-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=123",
+    "to": "/airport-taxi/logan/staatsburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=124",
+    "to": "/airport-taxi/logan/stanfordville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=125",
+    "to": "/airport-taxi/logan/stormville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=126",
+    "to": "/airport-taxi/logan/tivoli"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=127",
+    "to": "/airport-taxi/logan/verbank"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=128",
+    "to": "/airport-taxi/logan/wappingers-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=129",
+    "to": "/airport-taxi/logan/wassaic"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=130",
+    "to": "/airport-taxi/logan/wingdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=131",
+    "to": "/airport-taxi/logan/accord"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=132",
+    "to": "/airport-taxi/logan/bearsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=133",
+    "to": "/airport-taxi/logan/big-indian"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=134",
+    "to": "/airport-taxi/logan/bloomington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=135",
+    "to": "/airport-taxi/logan/boiceville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=136",
+    "to": "/airport-taxi/logan/chichester"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=137",
+    "to": "/airport-taxi/logan/clintondale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=138",
+    "to": "/airport-taxi/logan/connelly"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=139",
+    "to": "/airport-taxi/logan/cottekill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=140",
+    "to": "/airport-taxi/logan/cragsmoor"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=141",
+    "to": "/airport-taxi/logan/ellenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=142",
+    "to": "/airport-taxi/logan/esopus"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=143",
+    "to": "/airport-taxi/logan/gardiner"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=144",
+    "to": "/airport-taxi/logan/glasco"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=145",
+    "to": "/airport-taxi/logan/glenford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=146",
+    "to": "/airport-taxi/logan/greenfield-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=147",
+    "to": "/airport-taxi/logan/high-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=148",
+    "to": "/airport-taxi/logan/highland"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=149",
+    "to": "/airport-taxi/logan/highmount"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=150",
+    "to": "/airport-taxi/logan/hurley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=151",
+    "to": "/airport-taxi/logan/kerhonkson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=152",
+    "to": "/airport-taxi/logan/kingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=153",
+    "to": "/airport-taxi/logan/lake-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=154",
+    "to": "/airport-taxi/logan/lake-katrine"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=155",
+    "to": "/airport-taxi/logan/malden-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=156",
+    "to": "/airport-taxi/logan/marlboro"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=157",
+    "to": "/airport-taxi/logan/milton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=158",
+    "to": "/airport-taxi/logan/modena"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=159",
+    "to": "/airport-taxi/logan/mount-marion"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=160",
+    "to": "/airport-taxi/logan/mount-tremper"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=161",
+    "to": "/airport-taxi/logan/napanoch"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=162",
+    "to": "/airport-taxi/logan/new-paltz"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=163",
+    "to": "/airport-taxi/logan/olivebridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=164",
+    "to": "/airport-taxi/logan/phoenicia"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=165",
+    "to": "/airport-taxi/logan/pine-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=166",
+    "to": "/airport-taxi/logan/plattekill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=167",
+    "to": "/airport-taxi/logan/port-ewen"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=168",
+    "to": "/airport-taxi/logan/rifton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=169",
+    "to": "/airport-taxi/logan/rosendale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=170",
+    "to": "/airport-taxi/logan/ruby"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=171",
+    "to": "/airport-taxi/logan/saugerties"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=172",
+    "to": "/airport-taxi/logan/shandaken"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=173",
+    "to": "/airport-taxi/logan/shokan"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=174",
+    "to": "/airport-taxi/logan/spring-glen"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=175",
+    "to": "/airport-taxi/logan/stone-ridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=176",
+    "to": "/airport-taxi/logan/tillson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=177",
+    "to": "/airport-taxi/logan/ulster-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=178",
+    "to": "/airport-taxi/logan/walker-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=179",
+    "to": "/airport-taxi/logan/wallkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=180",
+    "to": "/airport-taxi/logan/wawarsing"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=181",
+    "to": "/airport-taxi/logan/west-camp"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=182",
+    "to": "/airport-taxi/logan/west-hurley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=183",
+    "to": "/airport-taxi/logan/west-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=184",
+    "to": "/airport-taxi/logan/west-shokan"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=185",
+    "to": "/airport-taxi/logan/willow"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=186",
+    "to": "/airport-taxi/logan/woodstock"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=187",
+    "to": "/airport-taxi/logan/andes"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=188",
+    "to": "/airport-taxi/logan/arkville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=189",
+    "to": "/airport-taxi/logan/bloomville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=190",
+    "to": "/airport-taxi/logan/bovina-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=191",
+    "to": "/airport-taxi/logan/davenport"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=192",
+    "to": "/airport-taxi/logan/davenport-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=193",
+    "to": "/airport-taxi/logan/delancey"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=194",
+    "to": "/airport-taxi/logan/delhi"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=195",
+    "to": "/airport-taxi/logan/denver"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=196",
+    "to": "/airport-taxi/logan/downsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=197",
+    "to": "/airport-taxi/logan/east-branch"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=198",
+    "to": "/airport-taxi/logan/east-meredith"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=199",
+    "to": "/airport-taxi/logan/fishs-eddy"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=200",
+    "to": "/airport-taxi/logan/fleischmanns"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=201",
+    "to": "/airport-taxi/logan/franklin"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=202",
+    "to": "/airport-taxi/logan/grand-gorge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=203",
+    "to": "/airport-taxi/logan/halcottsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=204",
+    "to": "/airport-taxi/logan/hamden"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=205",
+    "to": "/airport-taxi/logan/hancock-delaware-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=206",
+    "to": "/airport-taxi/logan/harpersfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=207",
+    "to": "/airport-taxi/logan/hobart"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=208",
+    "to": "/airport-taxi/logan/margaretville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=209",
+    "to": "/airport-taxi/logan/masonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=210",
+    "to": "/airport-taxi/logan/meridale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=211",
+    "to": "/airport-taxi/logan/new-kingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=212",
+    "to": "/airport-taxi/logan/roxbury"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=213",
+    "to": "/airport-taxi/logan/sidney"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=214",
+    "to": "/airport-taxi/logan/sidney-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=215",
+    "to": "/airport-taxi/logan/south-kortright"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=216",
+    "to": "/airport-taxi/logan/stamford-delaware-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=217",
+    "to": "/airport-taxi/logan/treadwell"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=218",
+    "to": "/airport-taxi/logan/trout-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=219",
+    "to": "/airport-taxi/logan/walton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=220",
+    "to": "/airport-taxi/logan/west-davenport"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=221",
+    "to": "/airport-taxi/logan/burlington-flats"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=222",
+    "to": "/airport-taxi/logan/cherry-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=223",
+    "to": "/airport-taxi/logan/colliersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=224",
+    "to": "/airport-taxi/logan/cooperstown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=225",
+    "to": "/airport-taxi/logan/east-springfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=226",
+    "to": "/airport-taxi/logan/east-worcester"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=227",
+    "to": "/airport-taxi/logan/edmeston"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=228",
+    "to": "/airport-taxi/logan/fly-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=229",
+    "to": "/airport-taxi/logan/garrattsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=230",
+    "to": "/airport-taxi/logan/gilbertsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=231",
+    "to": "/airport-taxi/logan/hartwick"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=232",
+    "to": "/airport-taxi/logan/laurens"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=233",
+    "to": "/airport-taxi/logan/maryland"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=234",
+    "to": "/airport-taxi/logan/milford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=235",
+    "to": "/airport-taxi/logan/morris"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=236",
+    "to": "/airport-taxi/logan/mount-vision"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=237",
+    "to": "/airport-taxi/logan/new-lisbon"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=238",
+    "to": "/airport-taxi/logan/oneonta"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=239",
+    "to": "/airport-taxi/logan/otego"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=240",
+    "to": "/airport-taxi/logan/portlandville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=241",
+    "to": "/airport-taxi/logan/richfield-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=242",
+    "to": "/airport-taxi/logan/roseboom"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=243",
+    "to": "/airport-taxi/logan/schenevus"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=244",
+    "to": "/airport-taxi/logan/schuyler-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=245",
+    "to": "/airport-taxi/logan/springfield-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=246",
+    "to": "/airport-taxi/logan/unadilla"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=247",
+    "to": "/airport-taxi/logan/wells-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=248",
+    "to": "/airport-taxi/logan/west-burlington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=249",
+    "to": "/airport-taxi/logan/west-oneonta"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=250",
+    "to": "/airport-taxi/logan/westford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=251",
+    "to": "/airport-taxi/logan/worcester"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=252",
+    "to": "/airport-taxi/logan/carlisle"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=253",
+    "to": "/airport-taxi/logan/central-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=254",
+    "to": "/airport-taxi/logan/charlotteville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=255",
+    "to": "/airport-taxi/logan/cobleskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=256",
+    "to": "/airport-taxi/logan/fultonham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=257",
+    "to": "/airport-taxi/logan/gallupville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=258",
+    "to": "/airport-taxi/logan/gilboa"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=259",
+    "to": "/airport-taxi/logan/howes-cave"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=260",
+    "to": "/airport-taxi/logan/jefferson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=261",
+    "to": "/airport-taxi/logan/middleburgh"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=262",
+    "to": "/airport-taxi/logan/north-blenheim"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=263",
+    "to": "/airport-taxi/logan/richmondville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=264",
+    "to": "/airport-taxi/logan/schoharie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=265",
+    "to": "/airport-taxi/logan/sharon-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=266",
+    "to": "/airport-taxi/logan/sloansville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=267",
+    "to": "/airport-taxi/logan/summit"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=268",
+    "to": "/airport-taxi/logan/warnerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=269",
+    "to": "/airport-taxi/logan/west-fulton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=270",
+    "to": "/airport-taxi/logan/amsterdam"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=271",
+    "to": "/airport-taxi/logan/canajoharie"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=272",
+    "to": "/airport-taxi/logan/esperance"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=273",
+    "to": "/airport-taxi/logan/fonda"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=274",
+    "to": "/airport-taxi/logan/fort-hunter"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=275",
+    "to": "/airport-taxi/logan/fort-johnson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=276",
+    "to": "/airport-taxi/logan/fort-plain"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=277",
+    "to": "/airport-taxi/logan/fultonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=278",
+    "to": "/airport-taxi/logan/hagaman"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=279",
+    "to": "/airport-taxi/logan/nelliston"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=280",
+    "to": "/airport-taxi/logan/palatine-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=281",
+    "to": "/airport-taxi/logan/saint-johnsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=282",
+    "to": "/airport-taxi/logan/sprakers"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=283",
+    "to": "/airport-taxi/logan/tribes-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=284",
+    "to": "/airport-taxi/logan/averill-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=285",
+    "to": "/airport-taxi/logan/berlin"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=286",
+    "to": "/airport-taxi/logan/brainard"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=287",
+    "to": "/airport-taxi/logan/castleton-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=288",
+    "to": "/airport-taxi/logan/cherry-plain"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=289",
+    "to": "/airport-taxi/logan/cropseyville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=290",
+    "to": "/airport-taxi/logan/eagle-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=291",
+    "to": "/airport-taxi/logan/east-greenbush"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=292",
+    "to": "/airport-taxi/logan/east-nassau"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=293",
+    "to": "/airport-taxi/logan/east-schodack"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=294",
+    "to": "/airport-taxi/logan/grafton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=295",
+    "to": "/airport-taxi/logan/hoosick"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=296",
+    "to": "/airport-taxi/logan/hoosick-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=297",
+    "to": "/airport-taxi/logan/johnsonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=298",
+    "to": "/airport-taxi/logan/melrose"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=299",
+    "to": "/airport-taxi/logan/nassau"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=300",
+    "to": "/airport-taxi/logan/north-hoosick"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=301",
+    "to": "/airport-taxi/logan/petersburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=302",
+    "to": "/airport-taxi/logan/poestenkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=303",
+    "to": "/airport-taxi/logan/rensselaer"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=304",
+    "to": "/airport-taxi/logan/sand-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=305",
+    "to": "/airport-taxi/logan/schaghticoke"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=306",
+    "to": "/airport-taxi/logan/schodack-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=307",
+    "to": "/airport-taxi/logan/stephentown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=308",
+    "to": "/airport-taxi/logan/troy-rensselaer-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=309",
+    "to": "/airport-taxi/logan/valley-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=310",
+    "to": "/airport-taxi/logan/west-sand-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=311",
+    "to": "/airport-taxi/logan/wynantskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=312",
+    "to": "/airport-taxi/logan/ballston-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=313",
+    "to": "/airport-taxi/logan/ballston-spa"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=314",
+    "to": "/airport-taxi/logan/burnt-hills"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=315",
+    "to": "/airport-taxi/logan/clifton-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=316",
+    "to": "/airport-taxi/logan/corinth"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=317",
+    "to": "/airport-taxi/logan/galway"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=318",
+    "to": "/airport-taxi/logan/gansevoort"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=319",
+    "to": "/airport-taxi/logan/greenfield-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=320",
+    "to": "/airport-taxi/logan/hadley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=321",
+    "to": "/airport-taxi/logan/mechanicville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=322",
+    "to": "/airport-taxi/logan/middle-grove"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=323",
+    "to": "/airport-taxi/logan/porter-corners"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=324",
+    "to": "/airport-taxi/logan/rexford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=325",
+    "to": "/airport-taxi/logan/rock-city-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=326",
+    "to": "/airport-taxi/logan/round-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=327",
+    "to": "/airport-taxi/logan/saratoga-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=328",
+    "to": "/airport-taxi/logan/schuylerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=329",
+    "to": "/airport-taxi/logan/south-glens-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=330",
+    "to": "/airport-taxi/logan/stillwater"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=331",
+    "to": "/airport-taxi/logan/victory-mills"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=332",
+    "to": "/airport-taxi/logan/waterford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=333",
+    "to": "/airport-taxi/logan/schenectady"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=334",
+    "to": "/airport-taxi/logan/rotterdam"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=335",
+    "to": "/airport-taxi/logan/scotia"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=336",
+    "to": "/airport-taxi/logan/east-glenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=337",
+    "to": "/airport-taxi/logan/niskayuna"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=338",
+    "to": "/airport-taxi/logan/mariaville-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=339",
+    "to": "/airport-taxi/logan/duanesburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=340",
+    "to": "/airport-taxi/logan/delanson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=341",
+    "to": "/airport-taxi/logan/duane-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=342",
+    "to": "/airport-taxi/logan/argyle"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=343",
+    "to": "/airport-taxi/logan/buskirk"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=344",
+    "to": "/airport-taxi/logan/cambridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=345",
+    "to": "/airport-taxi/logan/clemons"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=346",
+    "to": "/airport-taxi/logan/comstock"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=347",
+    "to": "/airport-taxi/logan/cossayuna"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=348",
+    "to": "/airport-taxi/logan/fort-ann"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=349",
+    "to": "/airport-taxi/logan/fort-edward"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=350",
+    "to": "/airport-taxi/logan/granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=351",
+    "to": "/airport-taxi/logan/greenwich"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=352",
+    "to": "/airport-taxi/logan/hampton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=353",
+    "to": "/airport-taxi/logan/hartford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=354",
+    "to": "/airport-taxi/logan/hudson-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=355",
+    "to": "/airport-taxi/logan/huletts-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=356",
+    "to": "/airport-taxi/logan/middle-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=357",
+    "to": "/airport-taxi/logan/middle-granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=358",
+    "to": "/airport-taxi/logan/north-granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=359",
+    "to": "/airport-taxi/logan/putnam-station"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=360",
+    "to": "/airport-taxi/logan/salem"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=361",
+    "to": "/airport-taxi/logan/shushan"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=362",
+    "to": "/airport-taxi/logan/whitehall"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=363",
+    "to": "/airport-taxi/logan/adirondack"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=364",
+    "to": "/airport-taxi/logan/athol"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=365",
+    "to": "/airport-taxi/logan/bakers-mills"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=366",
+    "to": "/airport-taxi/logan/bolton-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=367",
+    "to": "/airport-taxi/logan/brant-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=368",
+    "to": "/airport-taxi/logan/chestertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=369",
+    "to": "/airport-taxi/logan/cleverdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=370",
+    "to": "/airport-taxi/logan/diamond-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=371",
+    "to": "/airport-taxi/logan/glens-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=372",
+    "to": "/airport-taxi/logan/hague"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=373",
+    "to": "/airport-taxi/logan/johnsburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=374",
+    "to": "/airport-taxi/logan/kattskill-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=375",
+    "to": "/airport-taxi/logan/lake-george"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=376",
+    "to": "/airport-taxi/logan/lake-luzerne"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=377",
+    "to": "/airport-taxi/logan/north-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=378",
+    "to": "/airport-taxi/logan/north-river"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=379",
+    "to": "/airport-taxi/logan/pottersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=380",
+    "to": "/airport-taxi/logan/queensbury"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=381",
+    "to": "/airport-taxi/logan/riparius"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=382",
+    "to": "/airport-taxi/logan/silver-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=383",
+    "to": "/airport-taxi/logan/stony-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=384",
+    "to": "/airport-taxi/logan/warrensburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=385",
+    "to": "/airport-taxi/logan/wevertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=386",
+    "to": "/airport-taxi/logan/blue-mountain-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=387",
+    "to": "/airport-taxi/logan/hoffmeister"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=388",
+    "to": "/airport-taxi/logan/indian-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=389",
+    "to": "/airport-taxi/logan/inlet"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=390",
+    "to": "/airport-taxi/logan/lake-pleasant"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=391",
+    "to": "/airport-taxi/logan/long-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=392",
+    "to": "/airport-taxi/logan/piseco"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=393",
+    "to": "/airport-taxi/logan/raquette-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=394",
+    "to": "/airport-taxi/logan/sabael"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=395",
+    "to": "/airport-taxi/logan/speculator"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=396",
+    "to": "/airport-taxi/logan/wells-hamilton-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=397",
+    "to": "/airport-taxi/logan/bloomingdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=398",
+    "to": "/airport-taxi/logan/crown-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=399",
+    "to": "/airport-taxi/logan/elizabethtown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=400",
+    "to": "/airport-taxi/logan/essex"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=401",
+    "to": "/airport-taxi/logan/jay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=402",
+    "to": "/airport-taxi/logan/keene"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=403",
+    "to": "/airport-taxi/logan/keene-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=404",
+    "to": "/airport-taxi/logan/lake-placid"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=405",
+    "to": "/airport-taxi/logan/lewis"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=406",
+    "to": "/airport-taxi/logan/minerva"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=407",
+    "to": "/airport-taxi/logan/mineville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=408",
+    "to": "/airport-taxi/logan/moriah"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=409",
+    "to": "/airport-taxi/logan/moriah-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=410",
+    "to": "/airport-taxi/logan/new-russia"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=411",
+    "to": "/airport-taxi/logan/newcomb"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=412",
+    "to": "/airport-taxi/logan/north-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=413",
+    "to": "/airport-taxi/logan/olmstedville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=414",
+    "to": "/airport-taxi/logan/paradox"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=415",
+    "to": "/airport-taxi/logan/port-henry"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=416",
+    "to": "/airport-taxi/logan/port-kent"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=417",
+    "to": "/airport-taxi/logan/ray-brook"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=418",
+    "to": "/airport-taxi/logan/schroon-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=419",
+    "to": "/airport-taxi/logan/severance"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=420",
+    "to": "/airport-taxi/logan/ticonderoga"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=421",
+    "to": "/airport-taxi/logan/upper-jay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=422",
+    "to": "/airport-taxi/logan/westport"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=423",
+    "to": "/airport-taxi/logan/willsboro"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=424",
+    "to": "/airport-taxi/logan/wilmington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=425",
+    "to": "/airport-taxi/logan/witherbee"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=426",
+    "to": "/airport-taxi/logan/bombay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=427",
+    "to": "/airport-taxi/logan/brainardsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=428",
+    "to": "/airport-taxi/logan/brushton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=429",
+    "to": "/airport-taxi/logan/burke"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=430",
+    "to": "/airport-taxi/logan/chateaugay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=431",
+    "to": "/airport-taxi/logan/constable"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=432",
+    "to": "/airport-taxi/logan/dickinson-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=433",
+    "to": "/airport-taxi/logan/fort-covington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=434",
+    "to": "/airport-taxi/logan/gabriels"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=435",
+    "to": "/airport-taxi/logan/hogansburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=436",
+    "to": "/airport-taxi/logan/lake-clear"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=437",
+    "to": "/airport-taxi/logan/malone"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=438",
+    "to": "/airport-taxi/logan/moira"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=439",
+    "to": "/airport-taxi/logan/north-bangor"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=440",
+    "to": "/airport-taxi/logan/owls-head"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=441",
+    "to": "/airport-taxi/logan/paul-smiths"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=442",
+    "to": "/airport-taxi/logan/rainbow-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=443",
+    "to": "/airport-taxi/logan/saint-regis-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=444",
+    "to": "/airport-taxi/logan/saranac-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=445",
+    "to": "/airport-taxi/logan/tupper-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=446",
+    "to": "/airport-taxi/logan/vermontville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=447",
+    "to": "/airport-taxi/logan/whippleville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=448",
+    "to": "/airport-taxi/logan/altona"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=449",
+    "to": "/airport-taxi/logan/au-sable-forks"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=450",
+    "to": "/airport-taxi/logan/cadyville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=451",
+    "to": "/airport-taxi/logan/champlain"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=452",
+    "to": "/airport-taxi/logan/chazy"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=453",
+    "to": "/airport-taxi/logan/churubusco"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=454",
+    "to": "/airport-taxi/logan/dannemora"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=455",
+    "to": "/airport-taxi/logan/ellenburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=456",
+    "to": "/airport-taxi/logan/ellenburg-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=457",
+    "to": "/airport-taxi/logan/ellenburg-depot"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=458",
+    "to": "/airport-taxi/logan/keeseville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=459",
+    "to": "/airport-taxi/logan/lyon-mountain"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=460",
+    "to": "/airport-taxi/logan/mooers"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=461",
+    "to": "/airport-taxi/logan/mooers-forks"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=462",
+    "to": "/airport-taxi/logan/morrisonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=463",
+    "to": "/airport-taxi/logan/peru-clinton-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=464",
+    "to": "/airport-taxi/logan/plattsburgh"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=465",
+    "to": "/airport-taxi/logan/redford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=466",
+    "to": "/airport-taxi/logan/rouses-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=467",
+    "to": "/airport-taxi/logan/saranac"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=468",
+    "to": "/airport-taxi/logan/schuyler-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=469",
+    "to": "/airport-taxi/logan/west-chazy"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=470",
+    "to": "/airport-taxi/logan/cold-brook"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=471",
+    "to": "/airport-taxi/logan/dolgeville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=472",
+    "to": "/airport-taxi/logan/eagle-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=473",
+    "to": "/airport-taxi/logan/frankfort"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=474",
+    "to": "/airport-taxi/logan/herkimer"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=475",
+    "to": "/airport-taxi/logan/ilion"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=476",
+    "to": "/airport-taxi/logan/jordanville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=477",
+    "to": "/airport-taxi/logan/little-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=478",
+    "to": "/airport-taxi/logan/middleville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=479",
+    "to": "/airport-taxi/logan/mohawk"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=480",
+    "to": "/airport-taxi/logan/newport"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=481",
+    "to": "/airport-taxi/logan/old-forge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=482",
+    "to": "/airport-taxi/logan/poland"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=483",
+    "to": "/airport-taxi/logan/salisbury-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=484",
+    "to": "/airport-taxi/logan/thendara"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=485",
+    "to": "/airport-taxi/logan/van-hornesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=486",
+    "to": "/airport-taxi/logan/west-winfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=487",
+    "to": "/airport-taxi/logan/broadalbin"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=488",
+    "to": "/airport-taxi/logan/caroga-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=489",
+    "to": "/airport-taxi/logan/gloversville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=490",
+    "to": "/airport-taxi/logan/johnstown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=491",
+    "to": "/airport-taxi/logan/mayfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=492",
+    "to": "/airport-taxi/logan/northville"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=493",
+    "to": "/airport-taxi/logan/stratford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=494",
+    "to": "/airport-taxi/logan/adams"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=495",
+    "to": "/airport-taxi/logan/alford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=496",
+    "to": "/airport-taxi/logan/becket"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=497",
+    "to": "/airport-taxi/logan/cheshire"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=498",
+    "to": "/airport-taxi/logan/clarksburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=499",
+    "to": "/airport-taxi/logan/dalton"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=500",
+    "to": "/airport-taxi/logan/egremont"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=501",
+    "to": "/airport-taxi/logan/florida"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=502",
+    "to": "/airport-taxi/logan/great-barrington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=503",
+    "to": "/airport-taxi/logan/hancock-berkshire-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=504",
+    "to": "/airport-taxi/logan/hinsdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=505",
+    "to": "/airport-taxi/logan/lanesboro"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=506",
+    "to": "/airport-taxi/logan/lee"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=507",
+    "to": "/airport-taxi/logan/lenox"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=508",
+    "to": "/airport-taxi/logan/monterey"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=509",
+    "to": "/airport-taxi/logan/mount-washington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=510",
+    "to": "/airport-taxi/logan/new-ashford"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=511",
+    "to": "/airport-taxi/logan/new-marlborough"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=512",
+    "to": "/airport-taxi/logan/north-adams"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=513",
+    "to": "/airport-taxi/logan/otis"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=514",
+    "to": "/airport-taxi/logan/peru-berkshire-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=515",
+    "to": "/airport-taxi/logan/pittsfield-berkshire-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=516",
+    "to": "/airport-taxi/logan/richmond"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=517",
+    "to": "/airport-taxi/logan/sandisfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=518",
+    "to": "/airport-taxi/logan/savoy"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=519",
+    "to": "/airport-taxi/logan/sheffield"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=520",
+    "to": "/airport-taxi/logan/stockbridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=521",
+    "to": "/airport-taxi/logan/tyringham"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=522",
+    "to": "/airport-taxi/logan/washington"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=523",
+    "to": "/airport-taxi/logan/west-stockbridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=524",
+    "to": "/airport-taxi/logan/williamstown"
+  },
+  {
+    "from": "/service-city-detail.php?id=335&coid=525",
+    "to": "/airport-taxi/logan/windsor"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=1",
+    "to": "/airport-taxi/nyc/albany"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=2",
+    "to": "/airport-taxi/nyc/alcove"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=3",
+    "to": "/airport-taxi/nyc/altamont"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=4",
+    "to": "/airport-taxi/nyc/berne"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=5",
+    "to": "/airport-taxi/nyc/clarksville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=6",
+    "to": "/airport-taxi/nyc/coeymans"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=7",
+    "to": "/airport-taxi/nyc/coeymans-hollow"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=8",
+    "to": "/airport-taxi/nyc/cohoes"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=9",
+    "to": "/airport-taxi/nyc/delmar"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=10",
+    "to": "/airport-taxi/nyc/east-berne"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=11",
+    "to": "/airport-taxi/nyc/feura-bush"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=12",
+    "to": "/airport-taxi/nyc/glenmont"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=13",
+    "to": "/airport-taxi/nyc/guilderland"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=14",
+    "to": "/airport-taxi/nyc/guilderland-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=15",
+    "to": "/airport-taxi/nyc/knox"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=16",
+    "to": "/airport-taxi/nyc/latham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=17",
+    "to": "/airport-taxi/nyc/medusa"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=18",
+    "to": "/airport-taxi/nyc/newtonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=19",
+    "to": "/airport-taxi/nyc/preston-hollow"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=20",
+    "to": "/airport-taxi/nyc/ravena"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=21",
+    "to": "/airport-taxi/nyc/rensselaerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=22",
+    "to": "/airport-taxi/nyc/selkirk"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=23",
+    "to": "/airport-taxi/nyc/slingerlands"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=24",
+    "to": "/airport-taxi/nyc/south-bethlehem"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=25",
+    "to": "/airport-taxi/nyc/troy-albany-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=26",
+    "to": "/airport-taxi/nyc/voorheesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=27",
+    "to": "/airport-taxi/nyc/acra"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=28",
+    "to": "/airport-taxi/nyc/ashland"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=29",
+    "to": "/airport-taxi/nyc/athens"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=30",
+    "to": "/airport-taxi/nyc/cairo"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=31",
+    "to": "/airport-taxi/nyc/catskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=32",
+    "to": "/airport-taxi/nyc/climax"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=33",
+    "to": "/airport-taxi/nyc/cornwallville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=34",
+    "to": "/airport-taxi/nyc/coxsackie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=35",
+    "to": "/airport-taxi/nyc/durham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=36",
+    "to": "/airport-taxi/nyc/earlton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=37",
+    "to": "/airport-taxi/nyc/east-durham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=38",
+    "to": "/airport-taxi/nyc/east-jewett"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=39",
+    "to": "/airport-taxi/nyc/elka-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=40",
+    "to": "/airport-taxi/nyc/freehold"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=41",
+    "to": "/airport-taxi/nyc/greenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=42",
+    "to": "/airport-taxi/nyc/haines-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=43",
+    "to": "/airport-taxi/nyc/hannacroix"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=44",
+    "to": "/airport-taxi/nyc/hensonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=45",
+    "to": "/airport-taxi/nyc/hunter"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=46",
+    "to": "/airport-taxi/nyc/jewett"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=47",
+    "to": "/airport-taxi/nyc/lanesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=48",
+    "to": "/airport-taxi/nyc/leeds"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=49",
+    "to": "/airport-taxi/nyc/lexington"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=50",
+    "to": "/airport-taxi/nyc/maplecrest"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=51",
+    "to": "/airport-taxi/nyc/new-baltimore"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=52",
+    "to": "/airport-taxi/nyc/oak-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=53",
+    "to": "/airport-taxi/nyc/palenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=54",
+    "to": "/airport-taxi/nyc/prattsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=55",
+    "to": "/airport-taxi/nyc/purling"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=56",
+    "to": "/airport-taxi/nyc/round-top"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=57",
+    "to": "/airport-taxi/nyc/south-cairo"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=58",
+    "to": "/airport-taxi/nyc/surprise"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=59",
+    "to": "/airport-taxi/nyc/tannersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=60",
+    "to": "/airport-taxi/nyc/west-coxsackie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=61",
+    "to": "/airport-taxi/nyc/west-kill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=62",
+    "to": "/airport-taxi/nyc/windham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=63",
+    "to": "/airport-taxi/nyc/ancram"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=64",
+    "to": "/airport-taxi/nyc/ancramdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=65",
+    "to": "/airport-taxi/nyc/austerlitz"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=66",
+    "to": "/airport-taxi/nyc/canaan"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=67",
+    "to": "/airport-taxi/nyc/chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=68",
+    "to": "/airport-taxi/nyc/claverack"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=69",
+    "to": "/airport-taxi/nyc/columbiaville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=70",
+    "to": "/airport-taxi/nyc/copake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=71",
+    "to": "/airport-taxi/nyc/copake-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=72",
+    "to": "/airport-taxi/nyc/craryville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=73",
+    "to": "/airport-taxi/nyc/east-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=74",
+    "to": "/airport-taxi/nyc/elizaville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=75",
+    "to": "/airport-taxi/nyc/germantown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=76",
+    "to": "/airport-taxi/nyc/ghent"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=77",
+    "to": "/airport-taxi/nyc/hillsdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=78",
+    "to": "/airport-taxi/nyc/hollowville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=79",
+    "to": "/airport-taxi/nyc/hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=80",
+    "to": "/airport-taxi/nyc/kinderhook"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=81",
+    "to": "/airport-taxi/nyc/livingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=82",
+    "to": "/airport-taxi/nyc/malden-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=83",
+    "to": "/airport-taxi/nyc/mellenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=84",
+    "to": "/airport-taxi/nyc/new-lebanon"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=85",
+    "to": "/airport-taxi/nyc/niverville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=86",
+    "to": "/airport-taxi/nyc/north-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=87",
+    "to": "/airport-taxi/nyc/old-chatham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=88",
+    "to": "/airport-taxi/nyc/philmont"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=89",
+    "to": "/airport-taxi/nyc/spencertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=90",
+    "to": "/airport-taxi/nyc/stottville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=91",
+    "to": "/airport-taxi/nyc/stuyvesant"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=92",
+    "to": "/airport-taxi/nyc/stuyvesant-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=93",
+    "to": "/airport-taxi/nyc/valatie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=94",
+    "to": "/airport-taxi/nyc/west-lebanon"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=95",
+    "to": "/airport-taxi/nyc/amenia"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=96",
+    "to": "/airport-taxi/nyc/annandale-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=97",
+    "to": "/airport-taxi/nyc/bangall"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=98",
+    "to": "/airport-taxi/nyc/barrytown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=99",
+    "to": "/airport-taxi/nyc/beacon"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=100",
+    "to": "/airport-taxi/nyc/billings"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=101",
+    "to": "/airport-taxi/nyc/castle-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=102",
+    "to": "/airport-taxi/nyc/chelsea"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=103",
+    "to": "/airport-taxi/nyc/clinton-corners"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=104",
+    "to": "/airport-taxi/nyc/dover-plains"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=105",
+    "to": "/airport-taxi/nyc/fishkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=106",
+    "to": "/airport-taxi/nyc/glenham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=107",
+    "to": "/airport-taxi/nyc/holmes"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=108",
+    "to": "/airport-taxi/nyc/hopewell-junction"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=109",
+    "to": "/airport-taxi/nyc/hughsonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=110",
+    "to": "/airport-taxi/nyc/hyde-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=111",
+    "to": "/airport-taxi/nyc/lagrangeville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=112",
+    "to": "/airport-taxi/nyc/millbrook"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=113",
+    "to": "/airport-taxi/nyc/millerton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=114",
+    "to": "/airport-taxi/nyc/pawling"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=115",
+    "to": "/airport-taxi/nyc/pine-plains"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=116",
+    "to": "/airport-taxi/nyc/pleasant-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=117",
+    "to": "/airport-taxi/nyc/poughkeepsie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=118",
+    "to": "/airport-taxi/nyc/poughquag"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=119",
+    "to": "/airport-taxi/nyc/red-hook"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=120",
+    "to": "/airport-taxi/nyc/rhinebeck"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=121",
+    "to": "/airport-taxi/nyc/rhinecliff"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=122",
+    "to": "/airport-taxi/nyc/salt-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=123",
+    "to": "/airport-taxi/nyc/staatsburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=124",
+    "to": "/airport-taxi/nyc/stanfordville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=125",
+    "to": "/airport-taxi/nyc/stormville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=126",
+    "to": "/airport-taxi/nyc/tivoli"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=127",
+    "to": "/airport-taxi/nyc/verbank"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=128",
+    "to": "/airport-taxi/nyc/wappingers-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=129",
+    "to": "/airport-taxi/nyc/wassaic"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=130",
+    "to": "/airport-taxi/nyc/wingdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=131",
+    "to": "/airport-taxi/nyc/accord"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=132",
+    "to": "/airport-taxi/nyc/bearsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=133",
+    "to": "/airport-taxi/nyc/big-indian"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=134",
+    "to": "/airport-taxi/nyc/bloomington"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=135",
+    "to": "/airport-taxi/nyc/boiceville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=136",
+    "to": "/airport-taxi/nyc/chichester"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=137",
+    "to": "/airport-taxi/nyc/clintondale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=138",
+    "to": "/airport-taxi/nyc/connelly"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=139",
+    "to": "/airport-taxi/nyc/cottekill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=140",
+    "to": "/airport-taxi/nyc/cragsmoor"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=141",
+    "to": "/airport-taxi/nyc/ellenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=142",
+    "to": "/airport-taxi/nyc/esopus"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=143",
+    "to": "/airport-taxi/nyc/gardiner"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=144",
+    "to": "/airport-taxi/nyc/glasco"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=145",
+    "to": "/airport-taxi/nyc/glenford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=146",
+    "to": "/airport-taxi/nyc/greenfield-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=147",
+    "to": "/airport-taxi/nyc/high-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=148",
+    "to": "/airport-taxi/nyc/highland"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=149",
+    "to": "/airport-taxi/nyc/highmount"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=150",
+    "to": "/airport-taxi/nyc/hurley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=151",
+    "to": "/airport-taxi/nyc/kerhonkson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=152",
+    "to": "/airport-taxi/nyc/kingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=153",
+    "to": "/airport-taxi/nyc/lake-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=154",
+    "to": "/airport-taxi/nyc/lake-katrine"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=155",
+    "to": "/airport-taxi/nyc/malden-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=156",
+    "to": "/airport-taxi/nyc/marlboro"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=157",
+    "to": "/airport-taxi/nyc/milton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=158",
+    "to": "/airport-taxi/nyc/modena"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=159",
+    "to": "/airport-taxi/nyc/mount-marion"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=160",
+    "to": "/airport-taxi/nyc/mount-tremper"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=161",
+    "to": "/airport-taxi/nyc/napanoch"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=162",
+    "to": "/airport-taxi/nyc/new-paltz"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=163",
+    "to": "/airport-taxi/nyc/olivebridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=164",
+    "to": "/airport-taxi/nyc/phoenicia"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=165",
+    "to": "/airport-taxi/nyc/pine-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=166",
+    "to": "/airport-taxi/nyc/plattekill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=167",
+    "to": "/airport-taxi/nyc/port-ewen"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=168",
+    "to": "/airport-taxi/nyc/rifton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=169",
+    "to": "/airport-taxi/nyc/rosendale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=170",
+    "to": "/airport-taxi/nyc/ruby"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=171",
+    "to": "/airport-taxi/nyc/saugerties"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=172",
+    "to": "/airport-taxi/nyc/shandaken"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=173",
+    "to": "/airport-taxi/nyc/shokan"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=174",
+    "to": "/airport-taxi/nyc/spring-glen"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=175",
+    "to": "/airport-taxi/nyc/stone-ridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=176",
+    "to": "/airport-taxi/nyc/tillson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=177",
+    "to": "/airport-taxi/nyc/ulster-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=178",
+    "to": "/airport-taxi/nyc/walker-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=179",
+    "to": "/airport-taxi/nyc/wallkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=180",
+    "to": "/airport-taxi/nyc/wawarsing"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=181",
+    "to": "/airport-taxi/nyc/west-camp"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=182",
+    "to": "/airport-taxi/nyc/west-hurley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=183",
+    "to": "/airport-taxi/nyc/west-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=184",
+    "to": "/airport-taxi/nyc/west-shokan"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=185",
+    "to": "/airport-taxi/nyc/willow"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=186",
+    "to": "/airport-taxi/nyc/woodstock"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=187",
+    "to": "/airport-taxi/nyc/andes"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=188",
+    "to": "/airport-taxi/nyc/arkville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=189",
+    "to": "/airport-taxi/nyc/bloomville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=190",
+    "to": "/airport-taxi/nyc/bovina-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=191",
+    "to": "/airport-taxi/nyc/davenport"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=192",
+    "to": "/airport-taxi/nyc/davenport-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=193",
+    "to": "/airport-taxi/nyc/delancey"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=194",
+    "to": "/airport-taxi/nyc/delhi"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=195",
+    "to": "/airport-taxi/nyc/denver"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=196",
+    "to": "/airport-taxi/nyc/downsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=197",
+    "to": "/airport-taxi/nyc/east-branch"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=198",
+    "to": "/airport-taxi/nyc/east-meredith"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=199",
+    "to": "/airport-taxi/nyc/fishs-eddy"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=200",
+    "to": "/airport-taxi/nyc/fleischmanns"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=201",
+    "to": "/airport-taxi/nyc/franklin"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=202",
+    "to": "/airport-taxi/nyc/grand-gorge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=203",
+    "to": "/airport-taxi/nyc/halcottsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=204",
+    "to": "/airport-taxi/nyc/hamden"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=205",
+    "to": "/airport-taxi/nyc/hancock-delaware-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=206",
+    "to": "/airport-taxi/nyc/harpersfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=207",
+    "to": "/airport-taxi/nyc/hobart"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=208",
+    "to": "/airport-taxi/nyc/margaretville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=209",
+    "to": "/airport-taxi/nyc/masonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=210",
+    "to": "/airport-taxi/nyc/meridale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=211",
+    "to": "/airport-taxi/nyc/new-kingston"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=212",
+    "to": "/airport-taxi/nyc/roxbury"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=213",
+    "to": "/airport-taxi/nyc/sidney"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=214",
+    "to": "/airport-taxi/nyc/sidney-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=215",
+    "to": "/airport-taxi/nyc/south-kortright"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=216",
+    "to": "/airport-taxi/nyc/stamford-delaware-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=217",
+    "to": "/airport-taxi/nyc/treadwell"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=218",
+    "to": "/airport-taxi/nyc/trout-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=219",
+    "to": "/airport-taxi/nyc/walton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=220",
+    "to": "/airport-taxi/nyc/west-davenport"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=221",
+    "to": "/airport-taxi/nyc/burlington-flats"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=222",
+    "to": "/airport-taxi/nyc/cherry-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=223",
+    "to": "/airport-taxi/nyc/colliersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=224",
+    "to": "/airport-taxi/nyc/cooperstown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=225",
+    "to": "/airport-taxi/nyc/east-springfield"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=226",
+    "to": "/airport-taxi/nyc/east-worcester"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=227",
+    "to": "/airport-taxi/nyc/edmeston"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=228",
+    "to": "/airport-taxi/nyc/fly-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=229",
+    "to": "/airport-taxi/nyc/garrattsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=230",
+    "to": "/airport-taxi/nyc/gilbertsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=231",
+    "to": "/airport-taxi/nyc/hartwick"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=232",
+    "to": "/airport-taxi/nyc/laurens"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=233",
+    "to": "/airport-taxi/nyc/maryland"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=234",
+    "to": "/airport-taxi/nyc/milford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=235",
+    "to": "/airport-taxi/nyc/morris"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=236",
+    "to": "/airport-taxi/nyc/mount-vision"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=237",
+    "to": "/airport-taxi/nyc/new-lisbon"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=238",
+    "to": "/airport-taxi/nyc/oneonta"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=239",
+    "to": "/airport-taxi/nyc/otego"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=240",
+    "to": "/airport-taxi/nyc/portlandville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=241",
+    "to": "/airport-taxi/nyc/richfield-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=242",
+    "to": "/airport-taxi/nyc/roseboom"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=243",
+    "to": "/airport-taxi/nyc/schenevus"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=244",
+    "to": "/airport-taxi/nyc/schuyler-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=245",
+    "to": "/airport-taxi/nyc/springfield-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=246",
+    "to": "/airport-taxi/nyc/unadilla"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=247",
+    "to": "/airport-taxi/nyc/wells-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=248",
+    "to": "/airport-taxi/nyc/west-burlington"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=249",
+    "to": "/airport-taxi/nyc/west-oneonta"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=250",
+    "to": "/airport-taxi/nyc/westford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=251",
+    "to": "/airport-taxi/nyc/worcester"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=252",
+    "to": "/airport-taxi/nyc/carlisle"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=253",
+    "to": "/airport-taxi/nyc/central-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=254",
+    "to": "/airport-taxi/nyc/charlotteville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=255",
+    "to": "/airport-taxi/nyc/cobleskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=256",
+    "to": "/airport-taxi/nyc/fultonham"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=257",
+    "to": "/airport-taxi/nyc/gallupville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=258",
+    "to": "/airport-taxi/nyc/gilboa"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=259",
+    "to": "/airport-taxi/nyc/howes-cave"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=260",
+    "to": "/airport-taxi/nyc/jefferson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=261",
+    "to": "/airport-taxi/nyc/middleburgh"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=262",
+    "to": "/airport-taxi/nyc/north-blenheim"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=263",
+    "to": "/airport-taxi/nyc/richmondville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=264",
+    "to": "/airport-taxi/nyc/schoharie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=265",
+    "to": "/airport-taxi/nyc/sharon-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=266",
+    "to": "/airport-taxi/nyc/sloansville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=267",
+    "to": "/airport-taxi/nyc/summit"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=268",
+    "to": "/airport-taxi/nyc/warnerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=269",
+    "to": "/airport-taxi/nyc/west-fulton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=270",
+    "to": "/airport-taxi/nyc/amsterdam"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=271",
+    "to": "/airport-taxi/nyc/canajoharie"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=272",
+    "to": "/airport-taxi/nyc/esperance"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=273",
+    "to": "/airport-taxi/nyc/fonda"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=274",
+    "to": "/airport-taxi/nyc/fort-hunter"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=275",
+    "to": "/airport-taxi/nyc/fort-johnson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=276",
+    "to": "/airport-taxi/nyc/fort-plain"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=277",
+    "to": "/airport-taxi/nyc/fultonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=278",
+    "to": "/airport-taxi/nyc/hagaman"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=279",
+    "to": "/airport-taxi/nyc/nelliston"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=280",
+    "to": "/airport-taxi/nyc/palatine-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=281",
+    "to": "/airport-taxi/nyc/saint-johnsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=282",
+    "to": "/airport-taxi/nyc/sprakers"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=283",
+    "to": "/airport-taxi/nyc/tribes-hill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=284",
+    "to": "/airport-taxi/nyc/averill-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=285",
+    "to": "/airport-taxi/nyc/berlin"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=286",
+    "to": "/airport-taxi/nyc/brainard"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=287",
+    "to": "/airport-taxi/nyc/castleton-on-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=288",
+    "to": "/airport-taxi/nyc/cherry-plain"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=289",
+    "to": "/airport-taxi/nyc/cropseyville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=290",
+    "to": "/airport-taxi/nyc/eagle-bridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=291",
+    "to": "/airport-taxi/nyc/east-greenbush"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=292",
+    "to": "/airport-taxi/nyc/east-nassau"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=293",
+    "to": "/airport-taxi/nyc/east-schodack"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=294",
+    "to": "/airport-taxi/nyc/grafton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=295",
+    "to": "/airport-taxi/nyc/hoosick"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=296",
+    "to": "/airport-taxi/nyc/hoosick-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=297",
+    "to": "/airport-taxi/nyc/johnsonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=298",
+    "to": "/airport-taxi/nyc/melrose"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=299",
+    "to": "/airport-taxi/nyc/nassau"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=300",
+    "to": "/airport-taxi/nyc/north-hoosick"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=301",
+    "to": "/airport-taxi/nyc/petersburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=302",
+    "to": "/airport-taxi/nyc/poestenkill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=303",
+    "to": "/airport-taxi/nyc/rensselaer"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=304",
+    "to": "/airport-taxi/nyc/sand-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=305",
+    "to": "/airport-taxi/nyc/schaghticoke"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=306",
+    "to": "/airport-taxi/nyc/schodack-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=307",
+    "to": "/airport-taxi/nyc/stephentown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=308",
+    "to": "/airport-taxi/nyc/troy-rensselaer-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=309",
+    "to": "/airport-taxi/nyc/valley-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=310",
+    "to": "/airport-taxi/nyc/west-sand-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=311",
+    "to": "/airport-taxi/nyc/wynantskill"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=312",
+    "to": "/airport-taxi/nyc/ballston-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=313",
+    "to": "/airport-taxi/nyc/ballston-spa"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=314",
+    "to": "/airport-taxi/nyc/burnt-hills"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=315",
+    "to": "/airport-taxi/nyc/clifton-park"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=316",
+    "to": "/airport-taxi/nyc/corinth"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=317",
+    "to": "/airport-taxi/nyc/galway"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=318",
+    "to": "/airport-taxi/nyc/gansevoort"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=319",
+    "to": "/airport-taxi/nyc/greenfield-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=320",
+    "to": "/airport-taxi/nyc/hadley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=321",
+    "to": "/airport-taxi/nyc/mechanicville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=322",
+    "to": "/airport-taxi/nyc/middle-grove"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=323",
+    "to": "/airport-taxi/nyc/porter-corners"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=324",
+    "to": "/airport-taxi/nyc/rexford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=325",
+    "to": "/airport-taxi/nyc/rock-city-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=326",
+    "to": "/airport-taxi/nyc/round-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=327",
+    "to": "/airport-taxi/nyc/saratoga-springs"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=328",
+    "to": "/airport-taxi/nyc/schuylerville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=329",
+    "to": "/airport-taxi/nyc/south-glens-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=330",
+    "to": "/airport-taxi/nyc/stillwater"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=331",
+    "to": "/airport-taxi/nyc/victory-mills"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=332",
+    "to": "/airport-taxi/nyc/waterford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=333",
+    "to": "/airport-taxi/nyc/schenectady"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=334",
+    "to": "/airport-taxi/nyc/rotterdam"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=335",
+    "to": "/airport-taxi/nyc/scotia"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=336",
+    "to": "/airport-taxi/nyc/east-glenville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=337",
+    "to": "/airport-taxi/nyc/niskayuna"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=338",
+    "to": "/airport-taxi/nyc/mariaville-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=339",
+    "to": "/airport-taxi/nyc/duanesburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=340",
+    "to": "/airport-taxi/nyc/delanson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=341",
+    "to": "/airport-taxi/nyc/duane-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=342",
+    "to": "/airport-taxi/nyc/argyle"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=343",
+    "to": "/airport-taxi/nyc/buskirk"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=344",
+    "to": "/airport-taxi/nyc/cambridge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=345",
+    "to": "/airport-taxi/nyc/clemons"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=346",
+    "to": "/airport-taxi/nyc/comstock"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=347",
+    "to": "/airport-taxi/nyc/cossayuna"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=348",
+    "to": "/airport-taxi/nyc/fort-ann"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=349",
+    "to": "/airport-taxi/nyc/fort-edward"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=350",
+    "to": "/airport-taxi/nyc/granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=351",
+    "to": "/airport-taxi/nyc/greenwich"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=352",
+    "to": "/airport-taxi/nyc/hampton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=353",
+    "to": "/airport-taxi/nyc/hartford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=354",
+    "to": "/airport-taxi/nyc/hudson-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=355",
+    "to": "/airport-taxi/nyc/huletts-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=356",
+    "to": "/airport-taxi/nyc/middle-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=357",
+    "to": "/airport-taxi/nyc/middle-granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=358",
+    "to": "/airport-taxi/nyc/north-granville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=359",
+    "to": "/airport-taxi/nyc/putnam-station"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=360",
+    "to": "/airport-taxi/nyc/salem"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=361",
+    "to": "/airport-taxi/nyc/shushan"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=362",
+    "to": "/airport-taxi/nyc/whitehall"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=363",
+    "to": "/airport-taxi/nyc/adirondack"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=364",
+    "to": "/airport-taxi/nyc/athol"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=365",
+    "to": "/airport-taxi/nyc/bakers-mills"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=366",
+    "to": "/airport-taxi/nyc/bolton-landing"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=367",
+    "to": "/airport-taxi/nyc/brant-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=368",
+    "to": "/airport-taxi/nyc/chestertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=369",
+    "to": "/airport-taxi/nyc/cleverdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=370",
+    "to": "/airport-taxi/nyc/diamond-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=371",
+    "to": "/airport-taxi/nyc/glens-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=372",
+    "to": "/airport-taxi/nyc/hague"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=373",
+    "to": "/airport-taxi/nyc/johnsburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=374",
+    "to": "/airport-taxi/nyc/kattskill-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=375",
+    "to": "/airport-taxi/nyc/lake-george"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=376",
+    "to": "/airport-taxi/nyc/lake-luzerne"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=377",
+    "to": "/airport-taxi/nyc/north-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=378",
+    "to": "/airport-taxi/nyc/north-river"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=379",
+    "to": "/airport-taxi/nyc/pottersville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=380",
+    "to": "/airport-taxi/nyc/queensbury"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=381",
+    "to": "/airport-taxi/nyc/riparius"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=382",
+    "to": "/airport-taxi/nyc/silver-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=383",
+    "to": "/airport-taxi/nyc/stony-creek"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=384",
+    "to": "/airport-taxi/nyc/warrensburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=385",
+    "to": "/airport-taxi/nyc/wevertown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=386",
+    "to": "/airport-taxi/nyc/blue-mountain-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=387",
+    "to": "/airport-taxi/nyc/hoffmeister"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=388",
+    "to": "/airport-taxi/nyc/indian-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=389",
+    "to": "/airport-taxi/nyc/inlet"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=390",
+    "to": "/airport-taxi/nyc/lake-pleasant"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=391",
+    "to": "/airport-taxi/nyc/long-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=392",
+    "to": "/airport-taxi/nyc/piseco"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=393",
+    "to": "/airport-taxi/nyc/raquette-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=394",
+    "to": "/airport-taxi/nyc/sabael"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=395",
+    "to": "/airport-taxi/nyc/speculator"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=396",
+    "to": "/airport-taxi/nyc/wells-hamilton-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=397",
+    "to": "/airport-taxi/nyc/bloomingdale"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=398",
+    "to": "/airport-taxi/nyc/crown-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=399",
+    "to": "/airport-taxi/nyc/elizabethtown"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=400",
+    "to": "/airport-taxi/nyc/essex"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=401",
+    "to": "/airport-taxi/nyc/jay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=402",
+    "to": "/airport-taxi/nyc/keene"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=403",
+    "to": "/airport-taxi/nyc/keene-valley"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=404",
+    "to": "/airport-taxi/nyc/lake-placid"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=405",
+    "to": "/airport-taxi/nyc/lewis"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=406",
+    "to": "/airport-taxi/nyc/minerva"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=407",
+    "to": "/airport-taxi/nyc/mineville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=408",
+    "to": "/airport-taxi/nyc/moriah"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=409",
+    "to": "/airport-taxi/nyc/moriah-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=410",
+    "to": "/airport-taxi/nyc/new-russia"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=411",
+    "to": "/airport-taxi/nyc/newcomb"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=412",
+    "to": "/airport-taxi/nyc/north-hudson"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=413",
+    "to": "/airport-taxi/nyc/olmstedville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=414",
+    "to": "/airport-taxi/nyc/paradox"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=415",
+    "to": "/airport-taxi/nyc/port-henry"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=416",
+    "to": "/airport-taxi/nyc/port-kent"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=417",
+    "to": "/airport-taxi/nyc/ray-brook"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=418",
+    "to": "/airport-taxi/nyc/schroon-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=419",
+    "to": "/airport-taxi/nyc/severance"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=420",
+    "to": "/airport-taxi/nyc/ticonderoga"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=421",
+    "to": "/airport-taxi/nyc/upper-jay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=422",
+    "to": "/airport-taxi/nyc/westport"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=423",
+    "to": "/airport-taxi/nyc/willsboro"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=424",
+    "to": "/airport-taxi/nyc/wilmington"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=425",
+    "to": "/airport-taxi/nyc/witherbee"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=426",
+    "to": "/airport-taxi/nyc/bombay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=427",
+    "to": "/airport-taxi/nyc/brainardsville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=428",
+    "to": "/airport-taxi/nyc/brushton"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=429",
+    "to": "/airport-taxi/nyc/burke"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=430",
+    "to": "/airport-taxi/nyc/chateaugay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=431",
+    "to": "/airport-taxi/nyc/constable"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=432",
+    "to": "/airport-taxi/nyc/dickinson-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=433",
+    "to": "/airport-taxi/nyc/fort-covington"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=434",
+    "to": "/airport-taxi/nyc/gabriels"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=435",
+    "to": "/airport-taxi/nyc/hogansburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=436",
+    "to": "/airport-taxi/nyc/lake-clear"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=437",
+    "to": "/airport-taxi/nyc/malone"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=438",
+    "to": "/airport-taxi/nyc/moira"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=439",
+    "to": "/airport-taxi/nyc/north-bangor"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=440",
+    "to": "/airport-taxi/nyc/owls-head"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=441",
+    "to": "/airport-taxi/nyc/paul-smiths"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=442",
+    "to": "/airport-taxi/nyc/rainbow-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=443",
+    "to": "/airport-taxi/nyc/saint-regis-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=444",
+    "to": "/airport-taxi/nyc/saranac-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=445",
+    "to": "/airport-taxi/nyc/tupper-lake"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=446",
+    "to": "/airport-taxi/nyc/vermontville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=447",
+    "to": "/airport-taxi/nyc/whippleville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=448",
+    "to": "/airport-taxi/nyc/altona"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=449",
+    "to": "/airport-taxi/nyc/au-sable-forks"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=450",
+    "to": "/airport-taxi/nyc/cadyville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=451",
+    "to": "/airport-taxi/nyc/champlain"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=452",
+    "to": "/airport-taxi/nyc/chazy"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=453",
+    "to": "/airport-taxi/nyc/churubusco"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=454",
+    "to": "/airport-taxi/nyc/dannemora"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=455",
+    "to": "/airport-taxi/nyc/ellenburg"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=456",
+    "to": "/airport-taxi/nyc/ellenburg-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=457",
+    "to": "/airport-taxi/nyc/ellenburg-depot"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=458",
+    "to": "/airport-taxi/nyc/keeseville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=459",
+    "to": "/airport-taxi/nyc/lyon-mountain"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=460",
+    "to": "/airport-taxi/nyc/mooers"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=461",
+    "to": "/airport-taxi/nyc/mooers-forks"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=462",
+    "to": "/airport-taxi/nyc/morrisonville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=463",
+    "to": "/airport-taxi/nyc/peru-clinton-county"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=464",
+    "to": "/airport-taxi/nyc/plattsburgh"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=465",
+    "to": "/airport-taxi/nyc/redford"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=466",
+    "to": "/airport-taxi/nyc/rouses-point"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=467",
+    "to": "/airport-taxi/nyc/saranac"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=468",
+    "to": "/airport-taxi/nyc/schuyler-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=469",
+    "to": "/airport-taxi/nyc/west-chazy"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=470",
+    "to": "/airport-taxi/nyc/cold-brook"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=471",
+    "to": "/airport-taxi/nyc/dolgeville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=472",
+    "to": "/airport-taxi/nyc/eagle-bay"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=473",
+    "to": "/airport-taxi/nyc/frankfort"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=474",
+    "to": "/airport-taxi/nyc/herkimer"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=475",
+    "to": "/airport-taxi/nyc/ilion"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=476",
+    "to": "/airport-taxi/nyc/jordanville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=477",
+    "to": "/airport-taxi/nyc/little-falls"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=478",
+    "to": "/airport-taxi/nyc/middleville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=479",
+    "to": "/airport-taxi/nyc/mohawk"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=480",
+    "to": "/airport-taxi/nyc/newport"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=481",
+    "to": "/airport-taxi/nyc/old-forge"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=482",
+    "to": "/airport-taxi/nyc/poland"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=483",
+    "to": "/airport-taxi/nyc/salisbury-center"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=484",
+    "to": "/airport-taxi/nyc/thendara"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=485",
+    "to": "/airport-taxi/nyc/van-hornesville"
+  },
+  {
+    "from": "/service-city-detail.php?id=334&coid=486",
+    "to": "/airport-taxi/nyc/west-winfield"
+  }
+]
