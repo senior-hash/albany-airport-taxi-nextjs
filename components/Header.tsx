@@ -14,7 +14,7 @@ const NAV_LINKS = [
 
 export function Header() {
   return (
-    <header className="border-b border-border bg-surface">
+    <header className="sticky top-0 z-10 border-b border-border bg-surface/95 backdrop-blur">
       <Container className="flex h-20 items-center justify-between gap-6">
         <Link href="/" className="text-lg font-semibold tracking-tight text-primary">
           Albany Airport Taxi <span className="text-ink-muted font-normal">&amp; Limo</span>

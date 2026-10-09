@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { BUSINESS } from "@/lib/content";
 import { Container } from "@/components/Container";
+import { PhoneIcon, ClockIcon } from "@/components/icons";
 
 export function Footer() {
   const year = new Date().getFullYear();
@@ -40,10 +41,16 @@ export function Footer() {
         <div className="text-sm">
           <p className="font-medium text-ink">Contact</p>
           <ul className="mt-3 space-y-2 text-ink-muted">
-            <li><a href={`tel:${BUSINESS.phone}`} className="hover:text-ink">{BUSINESS.phoneDisplay}</a></li>
+            <li className="flex items-center gap-2">
+              <PhoneIcon className="h-4 w-4 shrink-0 text-accent" />
+              <a href={`tel:${BUSINESS.phone}`} className="hover:text-ink">{BUSINESS.phoneDisplay}</a>
+            </li>
             <li><a href={`mailto:${BUSINESS.email}`} className="hover:text-ink">{BUSINESS.email}</a></li>
             <li>{BUSINESS.streetAddress}, {BUSINESS.addressLocality}, {BUSINESS.addressRegion} {BUSINESS.postalCode}</li>
-            <li>Available 24/7</li>
+            <li className="flex items-center gap-2">
+              <ClockIcon className="h-4 w-4 shrink-0 text-accent" />
+              Available 24/7
+            </li>
             <li>
               <a
                 href="https://www.facebook.com/profile.php?id=100073627144127"

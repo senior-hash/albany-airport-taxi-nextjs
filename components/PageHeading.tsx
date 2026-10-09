@@ -1,3 +1,5 @@
+import { RouteLine } from "@/components/RouteLine";
+
 export function PageHeading({
   eyebrow,
   title,
@@ -8,16 +10,17 @@ export function PageHeading({
   description?: string;
 }) {
   return (
-    <div className="border-b border-border bg-surface py-12 sm:py-16">
-      <div className="mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
+    <div className="relative overflow-hidden bg-primary py-12 sm:py-16">
+      <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-white" />
+      <div className="relative mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
         {eyebrow && (
           <p className="text-sm font-medium uppercase tracking-wide text-accent">{eyebrow}</p>
         )}
-        <h1 className="mt-2 text-3xl font-semibold tracking-tight text-primary sm:text-4xl">
+        <h1 className="mt-2 text-3xl font-semibold tracking-tight text-white sm:text-4xl">
           {title}
         </h1>
         {description && (
-          <p className="mt-4 max-w-2xl text-base text-ink-muted">{description}</p>
+          <p className="mt-4 max-w-2xl text-base text-white/75">{description}</p>
         )}
       </div>
     </div>
