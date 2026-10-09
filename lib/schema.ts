@@ -11,8 +11,6 @@ export function organizationSchema() {
     telephone: BUSINESS.phone,
     email: BUSINESS.email,
     url: SITE_URL,
-    logo: `${SITE_URL}/logo.svg`,
-    image: `${SITE_URL}/logo.svg`,
     address: {
       "@type": "PostalAddress",
       streetAddress: BUSINESS.streetAddress,

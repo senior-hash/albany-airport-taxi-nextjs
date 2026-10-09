@@ -41,18 +41,6 @@ function main() {
   siteLines.push("RewriteCond %{HTTPS} off");
   siteLines.push(`RewriteRule ^(.*)$ https://${NEW_DOMAIN}/$1 [R=301,L]`);
   siteLines.push("");
-  siteLines.push("# --- Next.js dynamic icon/OG routes export as extensionless files; ---");
-  siteLines.push("# --- force their real MIME type so browsers/social crawlers read them right ---");
-  siteLines.push('<Files "icon">');
-  siteLines.push("  ForceType image/png");
-  siteLines.push("</Files>");
-  siteLines.push('<Files "apple-icon">');
-  siteLines.push("  ForceType image/png");
-  siteLines.push("</Files>");
-  siteLines.push('<Files "opengraph-image">');
-  siteLines.push("  ForceType image/png");
-  siteLines.push("</Files>");
-  siteLines.push("");
   fs.writeFileSync(path.join(DEPLOY_DIR, ".htaccess"), siteLines.join("\n") + "\n");
 
   // --- deploy/old-domain.htaccess: goes in the OLD domain's docroot,

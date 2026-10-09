@@ -9,15 +9,3 @@ RewriteRule ^(.*)$ https://albanynyairporttaxi.com/$1 [R=301,L]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://albanynyairporttaxi.com/$1 [R=301,L]
 
-# --- Next.js dynamic icon/OG routes export as extensionless files; ---
-# --- force their real MIME type so browsers/social crawlers read them right ---
-<Files "icon">
-  ForceType image/png
-</Files>
-<Files "apple-icon">
-  ForceType image/png
-</Files>
-<Files "opengraph-image">
-  ForceType image/png
-</Files>
-
