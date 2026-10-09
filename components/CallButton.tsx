@@ -23,7 +23,7 @@ export function CallButton({
   return (
     <a
       href={href}
-      className={`inline-flex items-center justify-center gap-2 rounded-full bg-accent px-6 py-3 font-medium text-white transition-colors hover:bg-accent-hover ${className}`}
+      className={`inline-flex items-center justify-center gap-2 rounded-full bg-accent-bright px-6 py-3 font-medium text-primary transition-colors hover:bg-accent-bright-hover ${className}`}
     >
       Call {display}
     </a>

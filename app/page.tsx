@@ -33,7 +33,7 @@ export default function HomePage() {
     <>
       <section className="relative overflow-hidden bg-primary">
         <div className="hero-glow pointer-events-none absolute -left-24 top-0 h-[500px] w-[500px] sm:h-[600px] sm:w-[600px]" />
-        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-accent" />
+        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-accent-bright" />
         <Container className="relative grid gap-10 py-16 sm:py-24 lg:grid-cols-2 lg:items-center">
           <div>
             <p className="text-sm font-medium uppercase tracking-wide text-accent-bright">
@@ -59,7 +59,7 @@ export default function HomePage() {
             <dl className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
               {TRUST_POINTS.map(({ icon: Icon, label }) => (
                 <div key={label} className="flex items-center gap-2 text-sm text-white/80">
-                  <Icon className="h-5 w-5 shrink-0 text-accent" />
+                  <Icon className="h-5 w-5 shrink-0 text-accent-bright" />
                   <span>{label}</span>
                 </div>
               ))}
