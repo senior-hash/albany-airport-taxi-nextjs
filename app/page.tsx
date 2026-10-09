@@ -5,6 +5,8 @@ import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
 
 export const metadata: Metadata = {
+  description:
+    "24/7 taxi and airport transfer service to and from Albany International Airport, JFK, LaGuardia, Newark, Boston Logan, and NYC. Door-to-door, transparent pricing.",
   alternates: { canonical: "/" },
 };
 
@@ -23,9 +25,9 @@ export default function HomePage() {
               Albany Airport Taxi &amp; Limo Service
             </h1>
             <p className="mt-5 max-w-xl text-lg text-ink-muted">
-              Reliable, door-to-door taxi and car service to and from Albany
-              International, JFK, LaGuardia, Newark, Boston Logan, and New
-              York City.
+              Reliable, door-to-door taxi and airport transfer service to and
+              from Albany International, JFK, LaGuardia, Newark, Boston
+              Logan, and New York City.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <CallButton />
@@ -51,7 +53,7 @@ export default function HomePage() {
                 className="rounded-lg border border-border bg-surface p-6 transition-shadow hover:shadow-md"
               >
                 <p className="text-lg font-semibold text-primary">{airport.name}</p>
-                <p className="mt-2 text-sm text-ink-muted">Taxi &amp; car service to and from {airport.name}.</p>
+                <p className="mt-2 text-sm text-ink-muted">Taxi &amp; airport transfer to and from {airport.name}.</p>
               </Link>
             ))}
           </div>
@@ -61,10 +63,14 @@ export default function HomePage() {
       <section className="border-t border-border bg-surface">
         <Container className="py-16">
           <h2 className="text-2xl font-semibold tracking-tight text-primary">More Ways We Can Help</h2>
-          <div className="mt-8 grid gap-6 sm:grid-cols-3">
+          <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             <Link href="/long-distance" className="rounded-lg border border-border p-6 transition-shadow hover:shadow-md">
               <p className="font-semibold text-primary">Long Distance</p>
               <p className="mt-2 text-sm text-ink-muted">Trips beyond the Capital Region, including NYC.</p>
+            </Link>
+            <Link href="/hudson-valley" className="rounded-lg border border-border p-6 transition-shadow hover:shadow-md">
+              <p className="font-semibold text-primary">Hudson Valley</p>
+              <p className="mt-2 text-sm text-ink-muted">Car service across Columbia, Greene, Ulster &amp; Dutchess.</p>
             </Link>
             <Link href="/services/non-emergency-medical-transportation" className="rounded-lg border border-border p-6 transition-shadow hover:shadow-md">
               <p className="font-semibold text-primary">Medical Transportation</p>
