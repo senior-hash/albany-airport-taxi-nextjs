@@ -19,10 +19,13 @@ npm run build
 Output lands in `/out`. This is everything that needs to go on the server.
 
 If the contact form backend has been chosen (see "Still open" below), set
-its endpoint before building:
+its endpoint before building, along with a reCAPTCHA site key to keep the
+form from becoming a junk-mail source the way the legacy site's did:
 
 ```bash
-NEXT_PUBLIC_CONTACT_FORM_ENDPOINT="https://your-form-backend.example/f/xxxx" npm run build
+NEXT_PUBLIC_CONTACT_FORM_ENDPOINT="https://your-form-backend.example/f/xxxx" \
+NEXT_PUBLIC_RECAPTCHA_SITE_KEY="your-recaptcha-v2-site-key" \
+npm run build
 ```
 
 ## 2. Regenerate redirects (only needed if content/slugs changed)
@@ -80,6 +83,12 @@ cutover.
   endpoint kept on this same cPanel hosting, then set
   `NEXT_PUBLIC_CONTACT_FORM_ENDPOINT` (step 1 above). Until this is set, the
   contact page shows a "not yet configured" notice instead of a form.
+- **reCAPTCHA site key** — register the live domain at
+  google.com/recaptcha/admin (choose reCAPTCHA v2, "I'm not a robot"
+  checkbox) and set `NEXT_PUBLIC_RECAPTCHA_SITE_KEY` (step 1 above). The
+  form works without it (falls back to just the honeypot field), but the
+  legacy site's form had none and was a steady source of junk email —
+  worth setting before this form goes live.
 - ~~Call-tracking phone numbers~~ — done. Real static numbers for all 23
   counties are in `scripts/lib/county-tracking-phones.json`, rendered
   server-side on county pages and inherited by their cities.
