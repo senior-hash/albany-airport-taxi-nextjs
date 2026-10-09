@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { extractInsertRows, type SqlRow } from "./lib/mysql-dump-parser";
-import { sanitizeDetailHtml, containsPlaceholderText } from "./lib/sanitize";
+import { sanitizeDetailHtml, sanitizePlainText, containsPlaceholderText } from "./lib/sanitize";
 import { assignUniqueSlugs, baseSlug } from "./lib/slug";
 import clientAreas from "./lib/client-supplied-areas.json";
 import countyTrackingPhones from "./lib/county-tracking-phones.json";
@@ -37,6 +37,12 @@ function readDump(): string {
 function asString(v: SqlRow[string], fallback = ""): string {
   return v === null || v === undefined ? fallback : String(v);
 }
+// title/mtitle fields are meant to be plain text but weren't sanitized at
+// ingestion — a <script> injection from the original security incident
+// survived in one of them until this existed. Strip all markup.
+function asPlainText(v: SqlRow[string], fallback = ""): string {
+  return sanitizePlainText(asString(v, fallback));
+}
 function asNumber(v: SqlRow[string]): number {
   return Number(v);
 }
@@ -61,9 +67,9 @@ function main() {
   for (const row of contentRows) {
     const cid = asNumber(row.cid);
     const ctype = asString(row.ctype);
-    const title = asString(row.title);
+    const title = asPlainText(row.title);
     const detailHtml = sanitize(asString(row.detail), `kc_content#${cid}`);
-    const mtitle = asString(row.mtitle);
+    const mtitle = asPlainText(row.mtitle);
     const mdesc = asString(row.mdesc);
     const mkey = asString(row.mkey);
 
@@ -153,7 +159,7 @@ function main() {
     countyId: asNumber(row.county),
     stateId: asNumber(row.state),
     detailHtml: sanitize(asString(row.city_detail), `kc_city#${row.cityid}`),
-    mtitle: asString(row.mtitle),
+    mtitle: asPlainText(row.mtitle),
     mdesc: asString(row.mdesc),
     mkey: asString(row.mkey),
   }));
@@ -215,7 +221,7 @@ function main() {
   const carRows = extractInsertRows(sql, "kc_car");
   const cars = carRows.map((row) => ({
     id: asNumber(row.carid),
-    title: asString(row.title),
+    title: asPlainText(row.title),
     detailHtml: sanitize(asString(row.detail), `kc_car#${row.carid}`),
     image: asString(row.cfile),
     brand: row.brand === null ? null : asNumber(row.brand),
@@ -230,9 +236,9 @@ function main() {
   const blogRows = extractInsertRows(sql, "kc_blog");
   const legacyPosts = blogRows.map((row) => ({
     id: asNumber(row.bid),
-    title: asString(row.title),
+    title: asPlainText(row.title),
     detailHtml: sanitize(asString(row.detail), `kc_blog#${row.bid}`),
-    mtitle: asString(row.mtitle),
+    mtitle: asPlainText(row.mtitle),
     mdesc: asString(row.mdesc),
     mkey: asString(row.mkey),
     publishedAt: asString(row.entrydate) || null,

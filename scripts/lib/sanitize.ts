@@ -42,6 +42,17 @@ export function sanitizeDetailHtml(raw: string): string {
   }).trim();
 }
 
+/**
+ * Strips all markup from legacy `title`/`mtitle` fields, which should be
+ * plain text but were stored unsanitized — a `<script>` injection from the
+ * original security incident survived in the `nyc` airport's title field
+ * until this was added. `allowedTags: []` discards both the tag and its
+ * content for non-text-bearing elements like `<script>`/`<style>`.
+ */
+export function sanitizePlainText(raw: string): string {
+  return sanitizeHtml(raw, { allowedTags: [], allowedAttributes: {} }).trim();
+}
+
 const PLACEHOLDER_MARKERS = [
   "gauto",
   "themescare",
