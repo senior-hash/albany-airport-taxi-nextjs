@@ -32,10 +32,11 @@ export default function HomePage() {
   return (
     <>
       <section className="relative overflow-hidden bg-primary">
-        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-white" />
+        <div className="hero-glow pointer-events-none absolute -left-24 top-0 h-[500px] w-[500px] sm:h-[600px] sm:w-[600px]" />
+        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-accent" />
         <Container className="relative grid gap-10 py-16 sm:py-24 lg:grid-cols-2 lg:items-center">
           <div>
-            <p className="text-sm font-medium uppercase tracking-wide text-accent">
+            <p className="text-sm font-medium uppercase tracking-wide text-accent-bright">
               Available 24 hours a day, 7 days a week
             </p>
             <h1 className="mt-3 text-4xl font-semibold tracking-tight text-white sm:text-5xl">
@@ -47,7 +48,7 @@ export default function HomePage() {
               Logan, and New York City.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
-              <CallButton />
+              <CallButton className="cta-glow" />
               <Link
                 href="/long-distance/albany-to-nyc"
                 className="inline-flex items-center justify-center rounded-full border border-white/40 px-6 py-3 font-medium text-white transition-colors hover:bg-white hover:text-primary"
