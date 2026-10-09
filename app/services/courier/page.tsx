@@ -7,8 +7,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Courier & Messenger Service",
-  description: "Same-day courier and messenger service in the Albany, NY area.",
+  title: "Courier Service & Same-Day Messenger Delivery",
+  description:
+    "Same-day courier service and messenger delivery in the Albany, NY area. Documents and packages, door to door.",
   alternates: { canonical: "/services/courier" },
 };
 
