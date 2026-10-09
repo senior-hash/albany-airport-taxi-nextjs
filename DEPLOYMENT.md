@@ -5,24 +5,10 @@ This site builds to plain static HTML/CSS/JS (`output: 'export'` in
 
 ## Domain
 
-The site now lives on **`albanynyairporttaxi.com`** (a `.com` the business
-already owned, unused, no history) instead of the legacy `albanyairport.taxi`.
-Rationale: the legacy domain ranked for only ~10 keywords with ~6 monthly
-organic visitors per the competitive analysis, so there was negligible domain
-equity to preserve, and `.com` avoids the trust/recognition friction of a
-novel TLD. Both domains live on the same cPanel account:
-
-- **`albanynyairporttaxi.com`** — the real site. Gets the contents of `/out`
-  (this repo's static export) plus `deploy/.htaccess` (canonical-host rules
-  only).
-- **`albanyairport.taxi`** — kept registered, but its `public_html` gets
-  **only** `deploy/old-domain.htaccess` (renamed to `.htaccess` on upload).
-  It contains a 301 for every URL in the old PHP site's sitemap straight to
-  the equivalent page on the new domain, plus a catch-all redirect to the new
-  home page for anything not in that map. Nothing else needs to be uploaded
-  there — the legacy PHP files should be removed once this redirect-only
-  `.htaccess` is confirmed working, so nothing on that domain still executes
-  PHP.
+The site replaces the legacy PHP site **in place** on **`albanyairport.taxi`**
+— the domain the business has used for years. `albanynyairporttaxi.com` is a
+separate `.com` the business owns but is reserved for a future project; it is
+not part of this deployment and nothing should be uploaded there.
 
 ## 1. Build
 
@@ -47,23 +33,20 @@ npm run generate-redirects  # maps every legacy URL to its new slug -> deploy/re
 npm run generate-htaccess   # renders deploy/redirects.json -> deploy/.htaccess
 ```
 
-This produces two files:
-- `deploy/.htaccess` — canonical host enforcement for the **new** domain
-  (forces `https://albanynyairporttaxi.com`, no `www`). Goes with the export.
-- `deploy/old-domain.htaccess` — a 301 for every URL in the **old** site's
-  sitemap.xml (1,156 mapped; the one skipped entry was a literal `tel:`
-  string mistakenly inserted into the old sitemap) to the matching new-domain
-  URL, plus a catch-all. Goes on the **old** domain only, renamed to
-  `.htaccess` there.
+`deploy/.htaccess` includes:
+- Canonical host enforcement (forces `https://albanyairport.taxi`, no `www`)
+- A 301 redirect for every URL in the **old** site's sitemap.xml (1,156
+  mapped; the one skipped entry was a literal `tel:` string that had been
+  mistakenly inserted into the old sitemap and was never a real page)
+- A `ForceType` rule for the Next.js dynamic icon/OG-image routes (see
+  "Still open" below — they export as extensionless files, which plain
+  Apache serves with the wrong MIME type unless forced)
 
 ## 3. Combine build output + redirects
 
 ```bash
 cp deploy/.htaccess out/.htaccess
 ```
-
-`deploy/old-domain.htaccess` is uploaded separately to the old domain's
-docroot (see "Domain" section above) — it does not go in `/out`.
 
 ## 4. Test on a staging subdomain first
 
