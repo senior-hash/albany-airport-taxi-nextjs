@@ -19,6 +19,7 @@ export function Footer() {
           <ul className="mt-3 space-y-2 text-ink-muted">
             <li><Link href="/airport-taxi" className="hover:text-ink">Airport Taxi</Link></li>
             <li><Link href="/long-distance" className="hover:text-ink">Long Distance</Link></li>
+            <li><Link href="/hudson-valley" className="hover:text-ink">Hudson Valley Service</Link></li>
             <li><Link href="/services/non-emergency-medical-transportation" className="hover:text-ink">Non-Emergency Medical Transportation</Link></li>
             <li><Link href="/services/courier" className="hover:text-ink">Courier &amp; Messenger</Link></li>
             <li><Link href="/services/wedding" className="hover:text-ink">Wedding Transportation</Link></li>

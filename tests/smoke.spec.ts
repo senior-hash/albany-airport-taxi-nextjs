@@ -10,6 +10,8 @@ const PAGES = [
   { path: "/blog", name: "blog list" },
   { path: "/long-distance/albany-to-nyc", name: "flagship long-distance" },
   { path: "/long-distance/boston", name: "long-distance destination" },
+  { path: "/hudson-valley", name: "hudson valley" },
+  { path: "/airport-taxi/alb/ulster-county", name: "hudson valley county (via [placeSlug])" },
   { path: "/services/non-emergency-medical-transportation", name: "NEMT" },
   { path: "/services/courier", name: "courier" },
   { path: "/services/wedding", name: "wedding" },

@@ -5,6 +5,7 @@ import {
   getAirportBySlug,
   getCounties,
   getCountyBySlug,
+  getCountyById,
   getCities,
   getCityBySlug,
   getCitiesByCounty,
@@ -50,10 +51,14 @@ export async function generateMetadata({
   const city = getCityBySlug(placeSlug);
   if (city) {
     const state = getStateById(city.stateId);
-    const meta = resolveCityMeta(airport.name, city.name, state?.name ?? "", {
-      mtitle: city.mtitle,
-      mdesc: city.mdesc,
-    });
+    const cityCounty = getCountyById(city.countyId);
+    const meta = resolveCityMeta(
+      airport.name,
+      city.name,
+      state?.name ?? "",
+      { mtitle: city.mtitle, mdesc: city.mdesc },
+      cityCounty?.name
+    );
     return {
       title: meta.title,
       description: meta.description,
@@ -84,12 +89,20 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
   if (city) {
     const county = getCounties().find((c) => c.id === city.countyId);
     const state = getStateById(city.stateId);
-    const meta = resolveCityMeta(airport.name, city.name, state?.name ?? "", {
-      mtitle: city.mtitle,
-      mdesc: city.mdesc,
-    });
+    const meta = resolveCityMeta(
+      airport.name,
+      city.name,
+      state?.name ?? "",
+      { mtitle: city.mtitle, mdesc: city.mdesc },
+      county?.name
+    );
     const siblingCities = county ? getCitiesByCounty(county.id) : [];
-    const fallbackBody = `<p>${airport.name} taxi and car service to and from ${city.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
+    const isHudsonValley = county
+      ? ["Columbia County", "Greene County", "Ulster County", "Dutchess County"].includes(county.name)
+      : false;
+    const fallbackBody = isHudsonValley
+      ? `<p>${airport.name} taxi and car service to and from ${city.name}, ${state?.name ?? ""}, serving the Hudson Valley. Reliable, 24/7 door-to-door transportation.</p>`
+      : `<p>${airport.name} taxi and car service to and from ${city.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
 
     return (
       <>
@@ -141,7 +154,17 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     const state = getStateById(county.stateId);
     const meta = generateCountyMeta(airport.name, county.name, state?.name ?? "");
     const citiesInCounty = getCitiesByCounty(county.id);
-    const fallbackBody = `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
+    const isHudsonValley = ["Columbia County", "Greene County", "Ulster County", "Dutchess County"].includes(
+      county.name
+    );
+    const fallbackBody = isHudsonValley
+      ? `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""}, serving the Hudson Valley. Reliable, 24/7 door-to-door transportation. See our <a href="/hudson-valley">Hudson Valley service area</a> for the full region.</p>`
+      : `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
+    // The legacy DB's county "detail" fields are often just a bare placeholder
+    // like "Columbia county" — too short to be real content but still
+    // truthy, so a plain `||` check would wrongly prefer it over the
+    // generated fallback above.
+    const hasRealDetail = (county.detailHtml ?? "").trim().length > 60;
 
     return (
       <>
@@ -164,7 +187,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
         />
         <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
           <div>
-            <ProseContent html={county.detailHtml || fallbackBody} />
+            <ProseContent html={hasRealDetail ? county.detailHtml : fallbackBody} />
             {citiesInCounty.length > 0 && (
               <NearbyCities cities={citiesInCounty} currentSlug="" airportSlug={airport.slug} />
             )}
