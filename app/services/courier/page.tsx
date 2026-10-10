@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -36,7 +37,10 @@ export default function CourierPage() {
             Need something delivered quickly and securely? We provide same-day
             courier and messenger service throughout the Albany area —
             documents, packages, and time-sensitive deliveries handled
-            directly, door to door.
+            directly, door to door. Need ongoing deliveries for your
+            business? See our{" "}
+            <Link href="/services/corporate">corporate transportation</Link>{" "}
+            page to set up a recurring account.
           </p>
           <h2>How to book</h2>
           <p>

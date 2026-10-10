@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -50,8 +51,9 @@ export default function AlbanyToNycPage() {
           <p>
             Traveling between Albany and New York City? We provide comfortable,
             reliable car service the whole way — whether you&rsquo;re headed
-            into Manhattan for business, catching a flight out of a NYC-area
-            airport, or just need a dependable ride home.
+            into Manhattan for business, catching a flight out of a{" "}
+            <Link href="/airport-taxi">NYC-area airport</Link>, or just need a
+            dependable ride home.
           </p>
           <h2>Round trips are the norm, not the exception</h2>
           <p>
@@ -63,9 +65,10 @@ export default function AlbanyToNycPage() {
           </p>
           <h2>Door-to-door, 24/7</h2>
           <p>
-            We pick up and drop off at your exact address — home, office, or
-            hotel — any time of day or night. No need to coordinate train or
-            bus schedules; your ride is ready when you are.
+            We pick up and drop off at your exact address — home, office, or{" "}
+            <Link href="/venues">hotel</Link> — any time of day or night. No
+            need to coordinate train or bus schedules; your ride is ready
+            when you are.
           </p>
         </div>
         <aside>

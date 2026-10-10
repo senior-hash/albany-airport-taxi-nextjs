@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -60,11 +61,11 @@ export default function TaxiVsRideshare() {
           <div className="prose prose-neutral max-w-none prose-headings:text-primary">
             <p>
               Uber and Lyft work well in dense cities where drivers are
-              constantly nearby. Our service area is different — it's the
-              Albany airport itself, plus 23 counties across New York,
-              Vermont, and Massachusetts, much of it rural. We've built our
-              business around being the reliable option specifically for
-              that gap.
+              constantly nearby. Our service area is different — it's the{" "}
+              <Link href="/airport-taxi">Albany airport</Link> itself, plus
+              23 counties across New York, Vermont, and Massachusetts, much
+              of it rural. We've built our business around being the
+              reliable option specifically for that gap.
             </p>
           </div>
           <dl className="mt-10 grid gap-6 sm:grid-cols-2">
@@ -83,9 +84,10 @@ export default function TaxiVsRideshare() {
               Uber or Lyft will probably get to you quickly — we won't
               pretend otherwise. Where we're the better call is anywhere
               outside that dense core: airport runs, early-morning and
-              late-night pickups, long-distance trips, and anywhere in our
-              rural counties where rideshare driver coverage is thin or
-              nonexistent.
+              late-night pickups, <Link href="/long-distance">long-distance
+              trips</Link>, and anywhere in our{" "}
+              <Link href="/venues">rural counties</Link> where rideshare
+              driver coverage is thin or nonexistent.
             </p>
           </div>
         </div>

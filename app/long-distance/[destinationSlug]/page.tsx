@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import type { Metadata } from "next";
 import { getDestinations, getDestinationBySlug } from "@/lib/long-distance-destinations";
 import { PageHeading } from "@/components/PageHeading";
@@ -59,7 +60,9 @@ export default async function DestinationPage({
           <p>{destination.description}</p>
           <p>
             Booking a round trip? Let us know when you call — most
-            long-distance customers book both legs at once.
+            long-distance customers book both legs at once. Traveling as a
+            group? See our <Link href="/cars">fleet</Link> for larger vehicle
+            options.
           </p>
         </div>
         <aside>
