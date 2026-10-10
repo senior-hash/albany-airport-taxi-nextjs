@@ -58,6 +58,16 @@ const PLACEHOLDER_MARKERS = [
   "themescare",
   "lorem ipsum",
   "example@mail.com",
+  // Two spun city-level content templates discovered Oct 2026 — 525 of 563
+  // cities shared one of these word-for-word with only the name swapped
+  // in. Confirmed via scripts/lib/meta.ts's hasRealCityDetail(), which
+  // guards rendering today; listed here too so a future parse-dump re-run
+  // flags them instead of silently reintroducing the duplicate-content bug.
+  "best known car service in",
+  "professional taxi cab company in",
+  // Matching mtitle/mdesc override template — see meta.ts's
+  // isPlaceholderCityMeta() for the render-time guard.
+  "taxi service is only a phone call away",
 ];
 
 /** Flags content that still contains known legacy-template placeholder text. */
