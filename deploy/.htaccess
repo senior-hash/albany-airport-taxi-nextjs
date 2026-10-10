@@ -2316,15 +2316,3 @@ RewriteCond %{QUERY_STRING} ^id=334&coid=485$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/van-hornesville? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=486$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/west-winfield? [R=301,L]
-
-# --- Next.js dynamic icon/OG routes export as extensionless files; ---
-# --- force their real MIME type so browsers/social crawlers read them right ---
-<Files "icon">
-  ForceType image/png
-</Files>
-<Files "apple-icon">
-  ForceType image/png
-</Files>
-<Files "opengraph-image">
-  ForceType image/png
-</Files>
