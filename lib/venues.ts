@@ -111,6 +111,264 @@ export const VENUES: Venue[] = [
     description:
       "Door-to-door car service to Ledge Rock Hill Winery in Corinth, in the Adirondack foothills between Saratoga Springs and Lake George.",
   },
+  // More real farms, orchards, and wineries — Warren, Dutchess, Ulster,
+  // Rensselaer, and Washington counties. Picked from well-documented,
+  // currently-operating listings, not an exhaustive directory.
+  {
+    slug: "up-yonda-farm",
+    name: "Up Yonda Farm",
+    category: "Farm",
+    locality: "Bolton Landing, NY",
+    description:
+      "Car service to Up Yonda Farm, a 73-acre nature preserve and environmental education center overlooking Lake George in Warren County.",
+  },
+  {
+    slug: "nettle-meadow-farm",
+    name: "Nettle Meadow Farm",
+    category: "Farm",
+    locality: "Warrensburg, NY",
+    description:
+      "Door-to-door car service to Nettle Meadow, a goat sanctuary farm and cheese company in Warren County — a popular day-trip stop near Lake George.",
+  },
+  {
+    slug: "millbrook-vineyards-winery",
+    name: "Millbrook Vineyards & Winery",
+    category: "Winery",
+    locality: "Millbrook, NY",
+    description:
+      "Skip the drive after a tasting — car service to Millbrook Vineyards & Winery, the flagship stop on the Dutchess County Wine Trail, with daily tastings and vineyard walking trails.",
+  },
+  {
+    slug: "fishkill-farms",
+    name: "Fishkill Farms",
+    category: "Farm & Cidery",
+    locality: "Hopewell Junction, NY",
+    description:
+      "Car service to Fishkill Farms in Dutchess County, home to Treasury Cider and expansive orchards — great for apple-picking trips and tasting-room groups alike.",
+  },
+  {
+    slug: "benmarl-winery",
+    name: "Benmarl Winery",
+    category: "Winery",
+    locality: "Marlboro, NY",
+    description:
+      "Reliable car service to Benmarl Winery in Marlboro, a 37-acre Hudson Valley estate on the site of America's oldest vineyard. Ideal for tasting groups who'd rather not drive.",
+  },
+  {
+    slug: "dubois-farms",
+    name: "DuBois Farms",
+    category: "Orchard",
+    locality: "Highland, NY",
+    description:
+      "Door-to-door car service to DuBois Farms in Ulster County, a pick-your-own orchard and farm market — a popular fall apple-picking destination.",
+  },
+  {
+    slug: "windy-hill-orchard",
+    name: "Windy Hill Orchard & Cider Mill",
+    category: "Farm & Cidery",
+    locality: "Castleton, NY",
+    description:
+      "Car service to Windy Hill Orchard in Rensselaer County, a working cidery with a hard cider tasting room — a good fit for group outings that don't want a designated driver.",
+  },
+  {
+    slug: "s-and-s-farm-brewery",
+    name: "S & S Farm Brewery",
+    category: "Farm Brewery",
+    locality: "Nassau, NY",
+    description:
+      "Reliable car service to S & S Farm Brewery in Rensselaer County, a small rural farm brewery — book a ride for your group and skip the drive home.",
+  },
+  {
+    slug: "bordens-apple-orchard",
+    name: "Borden's Apple Orchard",
+    category: "Orchard",
+    locality: "Schaghticoke, NY",
+    description:
+      "Car service to Borden's Apple Orchard in Washington County, a multi-generation family orchard carrying more than 25 apple varieties year-round.",
+  },
+  {
+    slug: "victory-view-vineyard",
+    name: "Victory View Vineyard",
+    category: "Winery",
+    locality: "Schaghticoke, NY",
+    description:
+      "Door-to-door car service to Victory View Vineyard in Washington County, a family-owned farm winery growing its own grapes with a small tasting room.",
+  },
+  // Albany, Greene, Schenectady, Otsego counties, and Berkshire County, MA —
+  // same real, verified, non-exhaustive approach as above.
+  {
+    slug: "indian-ladder-farms",
+    name: "Indian Ladder Farms",
+    category: "Farm & Cidery",
+    locality: "Altamont, NY",
+    description:
+      "Car service to Indian Ladder Farms in Albany County, a year-round cidery and brewery with apple and pumpkin picking, a bakery, and a farm market.",
+  },
+  {
+    slug: "nine-pin-cider",
+    name: "Nine Pin Cider",
+    category: "Cidery",
+    locality: "Albany, NY",
+    description:
+      "Door-to-door car service to Nine Pin Cider in Albany's Warehouse District, New York's first farm cidery — a great pick for group tastings that don't need a designated driver.",
+  },
+  {
+    slug: "west-kill-brewery",
+    name: "West Kill Brewery",
+    category: "Farm Brewery",
+    locality: "West Kill, NY",
+    description:
+      "Car service to West Kill Brewery, a farm brewery on a former dairy farm in the Catskills of Greene County.",
+  },
+  {
+    slug: "brewery-lahoff",
+    name: "Brewery LaHoff",
+    category: "Brewery",
+    locality: "Catskill, NY",
+    description:
+      "Reliable car service to Brewery LaHoff in Greene County, housed in a historic former fruit-packing barn along the Catskills Beverage Trail.",
+  },
+  {
+    slug: "great-flats-brewing",
+    name: "Great Flats Brewing Company",
+    category: "Brewery",
+    locality: "Schenectady, NY",
+    description:
+      "Door-to-door car service to Great Flats Brewing Company, a farm-to-table craft brewery in downtown Schenectady.",
+  },
+  {
+    slug: "brewery-ommegang",
+    name: "Brewery Ommegang",
+    category: "Farm Brewery",
+    locality: "Cooperstown, NY",
+    description:
+      "Car service to Brewery Ommegang in Otsego County, a well-known brewery on a 136-acre farmstead with daily tours — a popular group destination near Cooperstown.",
+  },
+  {
+    slug: "fly-creek-cider-mill",
+    name: "Fly Creek Cider Mill & Orchard",
+    category: "Cidery & Orchard",
+    locality: "Fly Creek, NY",
+    description:
+      "Reliable car service to Fly Creek Cider Mill & Orchard near Cooperstown, known for its hard cider and family-friendly orchard visits.",
+  },
+  {
+    slug: "hilltop-orchards-furnace-brook-winery",
+    name: "Hilltop Orchards & Furnace Brook Winery",
+    category: "Orchard & Winery",
+    locality: "Richmond, MA",
+    description:
+      "Car service to Hilltop Orchards & Furnace Brook Winery in the Berkshires, a 200-acre pick-your-own apple orchard and winery with wine tastings and hiking trails.",
+  },
+  {
+    slug: "les-trois-emme-vineyard",
+    name: "Les Trois Emme Vineyard & Winery",
+    category: "Winery",
+    locality: "New Marlborough, MA",
+    description:
+      "Door-to-door car service to Les Trois Emme Vineyard & Winery in Berkshire County, with indoor and outdoor tastings overlooking the vineyard.",
+  },
+  // Delaware, Schoharie, Montgomery, Herkimer, Fulton, Essex, Hamilton,
+  // Bennington (VT), and Rutland (VT) counties — rounding out coverage with
+  // real, verified venues. Clinton and Franklin counties didn't turn up a
+  // confident, well-documented pick (they're still covered via their real
+  // colleges above), so nothing was added there rather than guessing.
+  {
+    slug: "union-grove-distillery",
+    name: "Union Grove Distillery",
+    category: "Distillery",
+    locality: "Arkville, NY",
+    description:
+      "Car service to Union Grove Distillery in Delaware County, part of the local craft beverage trail in the western Catskills.",
+  },
+  {
+    slug: "terrace-mountain-orchard",
+    name: "Terrace Mountain Orchard",
+    category: "Orchard",
+    locality: "Schoharie, NY",
+    description:
+      "Door-to-door car service to Terrace Mountain Orchard in Schoharie County, a popular apple-picking and fall-foliage stop overlooking the Schoharie valley.",
+  },
+  {
+    slug: "schoharie-valley-farms",
+    name: "Schoharie Valley Farms",
+    category: "Farm",
+    locality: "Schoharie, NY",
+    description:
+      "Reliable car service to Schoharie Valley Farms, a working farm with a farm market and greenhouses in Schoharie County.",
+  },
+  {
+    slug: "bellingers-apple-orchard",
+    name: "Bellinger's Apple Orchard",
+    category: "Orchard",
+    locality: "Fultonville, NY",
+    description:
+      "Car service to Bellinger's Apple Orchard in Montgomery County, a pick-your-own stop for apples and pumpkins.",
+  },
+  {
+    slug: "clear-view-farm",
+    name: "Clear View Farm",
+    category: "Farm",
+    locality: "Fonda, NY",
+    description:
+      "Door-to-door car service to Clear View Farm in Montgomery County, known for its alpacas and a popular family day-trip stop.",
+  },
+  {
+    slug: "parkers-cider-mill",
+    name: "Parker's Cider Mill",
+    category: "Cidery",
+    locality: "Ilion, NY",
+    description:
+      "Car service to Parker's Cider Mill in Herkimer County, a local cider mill along the Mohawk Valley.",
+  },
+  {
+    slug: "rogers-family-orchards",
+    name: "Rogers Family Orchards",
+    category: "Orchard",
+    locality: "Johnstown, NY",
+    description:
+      "Reliable car service to Rogers Family Orchards in Fulton County, a pick-your-own orchard offering apples, pumpkins, cider, and wagon rides.",
+  },
+  {
+    slug: "john-brown-farm",
+    name: "John Brown Farm State Historic Site",
+    category: "Historic Farm",
+    locality: "North Elba, NY",
+    description:
+      "Car service to the John Brown Farm State Historic Site near Lake Placid in Essex County, a National Historic Landmark.",
+  },
+  {
+    slug: "ausable-chasm",
+    name: "Ausable Chasm",
+    category: "Natural Attraction",
+    locality: "Ausable Chasm, NY",
+    description:
+      "Door-to-door car service to Ausable Chasm in Essex County, one of the oldest natural tourist attractions in the United States.",
+  },
+  {
+    slug: "adirondack-experience-museum",
+    name: "Adirondack Experience, The Museum on Blue Mountain Lake",
+    category: "Museum",
+    locality: "Blue Mountain Lake, NY",
+    description:
+      "Reliable car service to the Adirondack Experience museum in Hamilton County, covering the history and culture of the Adirondacks.",
+  },
+  {
+    slug: "apple-barn-country-bake-shop",
+    name: "The Apple Barn & Country Bake Shop",
+    category: "Orchard",
+    locality: "Bennington, VT",
+    description:
+      "Car service to The Apple Barn & Country Bake Shop in Bennington County, Vermont, a farm stand known for its apples and baked goods.",
+  },
+  {
+    slug: "neshobe-river-winery",
+    name: "Neshobe River Winery",
+    category: "Winery",
+    locality: "Brandon, VT",
+    description:
+      "Door-to-door car service to Neshobe River Winery in Rutland County, Vermont, known for its wood-fired pizza and wine tastings.",
+  },
   // Colleges & universities — students flying home for breaks, parents'
   // weekend visits, and move-in/move-out are a steady, recurring source of
   // airport trips across the whole service area. Real, verified campuses
