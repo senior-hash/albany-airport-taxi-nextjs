@@ -4,7 +4,7 @@ import { getDestinations, getDestinationBySlug } from "@/lib/long-distance-desti
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -62,9 +62,8 @@ export default async function DestinationPage({
             long-distance customers book both legs at once.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Book your trip</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard heading="Book your trip" />
         </aside>
       </Container>
     </>

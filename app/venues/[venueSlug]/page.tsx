@@ -4,7 +4,7 @@ import { getVenues, getVenueBySlug } from "@/lib/venues";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -58,9 +58,8 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
             know the area well. Book ahead or call for same-day service.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Book your ride</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard />
         </aside>
       </Container>
     </>

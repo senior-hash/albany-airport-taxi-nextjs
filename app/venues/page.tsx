@@ -4,6 +4,7 @@ import { getVenues } from "@/lib/venues";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
+import { MapPinIcon } from "@/components/icons";
 
 export const metadata: Metadata = {
   title: "Venues We Serve",
@@ -22,9 +23,10 @@ export default function VenuesPage() {
           <Link
             key={venue.slug}
             href={`/venues/${venue.slug}`}
-            className="rounded-lg border border-border bg-surface p-6 transition-shadow hover:shadow-md"
+            className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
           >
-            <p className="text-xs font-medium uppercase tracking-wide text-accent">{venue.category}</p>
+            <MapPinIcon className="h-6 w-6 text-accent" />
+            <p className="mt-4 text-xs font-medium uppercase tracking-wide text-accent">{venue.category}</p>
             <p className="mt-1 text-lg font-semibold text-primary">{venue.name}</p>
             <p className="mt-2 text-sm text-ink-muted">{venue.locality}</p>
           </Link>

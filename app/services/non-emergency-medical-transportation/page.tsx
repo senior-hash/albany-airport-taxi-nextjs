@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -61,10 +61,8 @@ export default function NemtPage() {
             vehicle is available.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Schedule a ride</p>
-          <p className="mt-2 text-sm text-ink-muted">Self-pay only. Call to book and confirm pricing.</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard heading="Schedule a ride" note="Self-pay only. Call to book and confirm pricing." />
         </aside>
       </Container>
     </>

@@ -6,7 +6,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -65,11 +65,7 @@ export default async function AirportPage({
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <ProseContent html={airport.detailHtml} />
         <aside className="space-y-6">
-          <div className="rounded-lg border border-border bg-surface p-6">
-            <p className="font-medium text-primary">Book your ride</p>
-            <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
-            <CallButton className="mt-4 w-full" />
-          </div>
+          <BookingCard />
           <div>
             <p className="font-medium text-primary">Browse by county</p>
             <ul className="mt-3 space-y-1 text-sm">

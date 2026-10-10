@@ -16,7 +16,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { NearbyCities } from "@/components/NearbyCities";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
@@ -134,15 +134,10 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             )}
           </div>
           <aside>
-            <div className="rounded-lg border border-border bg-surface p-6">
-              <p className="font-medium text-primary">Book your ride</p>
-              <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
-              <CallButton
-                className="mt-4 w-full"
-                phone={county?.trackingPhone ?? undefined}
-                phoneDisplay={county?.trackingPhone ?? undefined}
-              />
-            </div>
+            <BookingCard
+              phone={county?.trackingPhone ?? undefined}
+              phoneDisplay={county?.trackingPhone ?? undefined}
+            />
           </aside>
         </Container>
       </>
@@ -193,15 +188,10 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             )}
           </div>
           <aside>
-            <div className="rounded-lg border border-border bg-surface p-6">
-              <p className="font-medium text-primary">Book your ride</p>
-              <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
-              <CallButton
-                className="mt-4 w-full"
-                phone={county.trackingPhone ?? undefined}
-                phoneDisplay={county.trackingPhone ?? undefined}
-              />
-            </div>
+            <BookingCard
+              phone={county.trackingPhone ?? undefined}
+              phoneDisplay={county.trackingPhone ?? undefined}
+            />
           </aside>
         </Container>
       </>

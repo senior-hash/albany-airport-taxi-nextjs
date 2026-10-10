@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -68,10 +68,8 @@ export default function AlbanyToNycPage() {
             bus schedules; your ride is ready when you are.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Book your trip</p>
-          <p className="mt-2 text-sm text-ink-muted">Round-trip and one-way options available.</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard heading="Book your trip" note="Round-trip and one-way options available." />
         </aside>
       </Container>
     </>

@@ -4,7 +4,7 @@ import { getCountyBySlug, getCitiesByCounty } from "@/lib/content";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -86,10 +86,8 @@ export default function HudsonValleyPage() {
             is scheduled door-to-door — no shared shuttles, no fixed stops.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Book your ride</p>
-          <p className="mt-2 text-sm text-ink-muted">Available 24 hours a day, 7 days a week.</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard />
         </aside>
       </Container>
     </>

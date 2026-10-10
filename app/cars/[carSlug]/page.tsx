@@ -5,7 +5,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 
 export function generateStaticParams() {
   return getCars().map((c) => ({ carSlug: c.slug }));
@@ -43,9 +43,8 @@ export default async function CarPage({ params }: { params: Promise<{ carSlug: s
       />
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <ProseContent html={car.detailHtml} />
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Book this vehicle</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard heading="Book this vehicle" />
         </aside>
       </Container>
     </>

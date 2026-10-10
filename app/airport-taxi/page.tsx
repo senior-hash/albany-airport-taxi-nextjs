@@ -4,6 +4,7 @@ import { getAirports } from "@/lib/content";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
+import { PlaneIcon } from "@/components/icons";
 
 export const metadata: Metadata = {
   title: "Airport Taxi Service",
@@ -28,9 +29,10 @@ export default function AirportsPage() {
             <Link
               key={airport.id}
               href={`/airport-taxi/${airport.slug}`}
-              className="rounded-lg border border-border bg-surface p-6 transition-shadow hover:shadow-md"
+              className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
             >
-              <p className="text-lg font-semibold text-primary">{airport.name}</p>
+              <PlaneIcon className="h-6 w-6 text-accent" />
+              <p className="mt-4 text-lg font-semibold text-primary">{airport.name}</p>
               <p className="mt-2 text-sm text-ink-muted">
                 Taxi &amp; car service to and from {airport.name}.
               </p>

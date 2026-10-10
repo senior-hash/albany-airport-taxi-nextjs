@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
-import { CallButton } from "@/components/CallButton";
+import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
@@ -44,9 +44,8 @@ export default function CorporatePage() {
             and simplify billing.
           </p>
         </div>
-        <aside className="rounded-lg border border-border bg-surface p-6">
-          <p className="font-medium text-primary">Set up corporate service</p>
-          <CallButton className="mt-4 w-full" />
+        <aside>
+          <BookingCard heading="Set up corporate service" />
         </aside>
       </Container>
     </>

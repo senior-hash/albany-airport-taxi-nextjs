@@ -4,6 +4,7 @@ import { getDestinations } from "@/lib/long-distance-destinations";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
+import { RouteIcon } from "@/components/icons";
 
 export const metadata: Metadata = {
   title: "Long Distance Car Service",
@@ -26,18 +27,20 @@ export default function LongDistanceHubPage() {
           <li>
             <Link
               href="/long-distance/albany-to-nyc"
-              className="block rounded-lg border border-border bg-surface p-6 font-medium text-primary transition-shadow hover:shadow-md"
+              className="group block rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
             >
-              Albany to NYC / New York City
+              <RouteIcon className="h-6 w-6 text-accent" />
+              <p className="mt-4 font-medium text-primary">Albany to NYC / New York City</p>
             </Link>
           </li>
           {destinations.map((destination) => (
             <li key={destination.slug}>
               <Link
                 href={`/long-distance/${destination.slug}`}
-                className="block rounded-lg border border-border bg-surface p-6 font-medium text-primary transition-shadow hover:shadow-md"
+                className="group block rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
               >
-                Albany to {destination.name}
+                <RouteIcon className="h-6 w-6 text-accent" />
+                <p className="mt-4 font-medium text-primary">Albany to {destination.name}</p>
               </Link>
             </li>
           ))}
