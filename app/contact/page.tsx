@@ -32,7 +32,10 @@ export default function ContactPage() {
           </div>
           <div>
             <p className="font-medium text-primary">Service area</p>
-            <p className="text-ink-muted">{BUSINESS.addressLocality}, {BUSINESS.addressRegion} and surrounding counties</p>
+            <p className="text-ink-muted">
+              23 counties across New York, Vermont, and Massachusetts — the
+              Capital Region, Hudson Valley, Adirondacks, and Berkshires.
+            </p>
           </div>
         </aside>
       </Container>
