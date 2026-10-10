@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import type { Metadata } from "next";
 import { getVenues, getVenueBySlug } from "@/lib/venues";
 import { getCounties } from "@/lib/content";
@@ -59,6 +60,16 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
           <p>
             We provide door-to-door pickup and drop-off, with drivers who
             know the area well. Book ahead or call for same-day service.
+            {county && (
+              <>
+                {" "}
+                See our full{" "}
+                <Link href={`/airport-taxi/alb/${county.slug}`}>
+                  {county.name} taxi service
+                </Link>{" "}
+                for the wider area.
+              </>
+            )}
           </p>
         </div>
         <aside>
