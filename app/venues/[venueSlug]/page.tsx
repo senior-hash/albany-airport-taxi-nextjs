@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getVenues, getVenueBySlug } from "@/lib/venues";
+import { getCounties } from "@/lib/content";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -32,6 +33,8 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
   const venue = getVenueBySlug(venueSlug);
   if (!venue) notFound();
 
+  const county = getCounties().find((c) => c.name === venue.county);
+
   return (
     <>
       <JsonLd
@@ -59,7 +62,10 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
           </p>
         </div>
         <aside>
-          <BookingCard />
+          <BookingCard
+            phone={county?.trackingPhone ?? undefined}
+            phoneDisplay={county?.trackingPhone ?? undefined}
+          />
         </aside>
       </Container>
     </>
