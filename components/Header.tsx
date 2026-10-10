@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { CallButton } from "@/components/CallButton";
 import { Container } from "@/components/Container";
+import { MobileMenu } from "@/components/MobileMenu";
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
@@ -15,7 +16,7 @@ const NAV_LINKS = [
 export function Header() {
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-surface/95 backdrop-blur">
-      <Container className="flex h-20 items-center justify-between gap-6">
+      <Container className="relative flex h-20 items-center justify-between gap-6">
         <Link href="/" className="text-lg font-semibold tracking-tight text-primary">
           Albany Airport Taxi <span className="text-ink-muted font-normal">&amp; Limo</span>
         </Link>
@@ -26,7 +27,10 @@ export function Header() {
             </Link>
           ))}
         </nav>
-        <CallButton className="shrink-0 text-sm" />
+        <div className="flex items-center gap-3">
+          <CallButton className="shrink-0 text-sm" />
+          <MobileMenu links={NAV_LINKS} />
+        </div>
       </Container>
     </header>
   );
