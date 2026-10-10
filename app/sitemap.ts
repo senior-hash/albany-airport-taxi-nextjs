@@ -31,6 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/courier` },
     { url: `${SITE_URL}/services/wedding` },
     { url: `${SITE_URL}/services/corporate` },
+    { url: `${SITE_URL}/services/airbnb-transportation` },
     { url: `${SITE_URL}/taxi-vs-uber-lyft` },
   ];
 
