@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -55,8 +56,10 @@ export default function RecoveryTransportationPage() {
           <p>
             <strong>Direct transport to the program</strong> — when the
             program itself is the destination, we'll drive there directly,
-            including long-distance trips well outside the Capital Region.
-            One vehicle, one driver, the whole way.
+            including{" "}
+            <Link href="/long-distance">long-distance trips</Link> well
+            outside the Capital Region. One vehicle, one driver, the whole
+            way.
           </p>
           <h2>Privacy</h2>
           <p>
