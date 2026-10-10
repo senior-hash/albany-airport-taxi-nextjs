@@ -12,6 +12,10 @@ import {
   PackageIcon,
   ClockIcon,
   CarIcon,
+  BuildingIcon,
+  HomeIcon,
+  UsersIcon,
+  BriefcaseIcon,
 } from "@/components/icons";
 
 export const metadata: Metadata = {
@@ -24,6 +28,57 @@ const TRUST_POINTS = [
   { icon: ClockIcon, label: "Available 24/7" },
   { icon: CarIcon, label: "Door-to-door, no shared stops" },
   { icon: PlaneIcon, label: "Flight tracking included" },
+];
+
+const MORE_WAYS = [
+  {
+    href: "/long-distance",
+    icon: RouteIcon,
+    title: "Long Distance",
+    description: "Trips beyond the Capital Region, including NYC.",
+  },
+  {
+    href: "/hudson-valley",
+    icon: MapPinIcon,
+    title: "Hudson Valley",
+    description: "Car service across Columbia, Greene, Ulster & Dutchess.",
+  },
+  {
+    href: "/venues",
+    icon: BuildingIcon,
+    title: "Venues We Serve",
+    description: "Hotels, colleges, wineries, museums, and more across the region.",
+  },
+  {
+    href: "/services/non-emergency-medical-transportation",
+    icon: HeartPulseIcon,
+    title: "Medical Transportation",
+    description: "Self-pay rides to and from appointments.",
+  },
+  {
+    href: "/services/courier",
+    icon: PackageIcon,
+    title: "Courier & Messenger",
+    description: "Same-day delivery for documents and packages.",
+  },
+  {
+    href: "/services/airbnb-transportation",
+    icon: HomeIcon,
+    title: "Airbnb & Vacation Rentals",
+    description: "Door-to-door rides for guests staying off the beaten path.",
+  },
+  {
+    href: "/services/wedding",
+    icon: UsersIcon,
+    title: "Wedding Guest Shuttle",
+    description: "Hotel and rental pickups to and from the venue.",
+  },
+  {
+    href: "/services/corporate",
+    icon: BriefcaseIcon,
+    title: "Corporate Transportation",
+    description: "Dependable rides for business travel and clients.",
+  },
 ];
 
 export default function HomePage() {
@@ -91,38 +146,17 @@ export default function HomePage() {
         <Container className="py-16">
           <h2 className="text-2xl font-semibold tracking-tight text-primary">More Ways We Can Help</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-            <Link
-              href="/long-distance"
-              className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-            >
-              <RouteIcon className="h-6 w-6 text-accent" />
-              <p className="mt-4 font-semibold text-primary">Long Distance</p>
-              <p className="mt-2 text-sm text-ink-muted">Trips beyond the Capital Region, including NYC.</p>
-            </Link>
-            <Link
-              href="/hudson-valley"
-              className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-            >
-              <MapPinIcon className="h-6 w-6 text-accent" />
-              <p className="mt-4 font-semibold text-primary">Hudson Valley</p>
-              <p className="mt-2 text-sm text-ink-muted">Car service across Columbia, Greene, Ulster &amp; Dutchess.</p>
-            </Link>
-            <Link
-              href="/services/non-emergency-medical-transportation"
-              className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-            >
-              <HeartPulseIcon className="h-6 w-6 text-accent" />
-              <p className="mt-4 font-semibold text-primary">Medical Transportation</p>
-              <p className="mt-2 text-sm text-ink-muted">Self-pay rides to and from appointments.</p>
-            </Link>
-            <Link
-              href="/services/courier"
-              className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-            >
-              <PackageIcon className="h-6 w-6 text-accent" />
-              <p className="mt-4 font-semibold text-primary">Courier &amp; Messenger</p>
-              <p className="mt-2 text-sm text-ink-muted">Same-day delivery for documents and packages.</p>
-            </Link>
+            {MORE_WAYS.map(({ href, icon: Icon, title, description }) => (
+              <Link
+                key={href}
+                href={href}
+                className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+              >
+                <Icon className="h-6 w-6 text-accent" />
+                <p className="mt-4 font-semibold text-primary">{title}</p>
+                <p className="mt-2 text-sm text-ink-muted">{description}</p>
+              </Link>
+            ))}
           </div>
         </Container>
       </section>
