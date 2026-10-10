@@ -27,6 +27,7 @@ export function Footer() {
             <li><Link href="/services/corporate" className="hover:text-ink">Corporate Transportation</Link></li>
             <li><Link href="/venues" className="hover:text-ink">Venues We Serve</Link></li>
             <li><Link href="/cars" className="hover:text-ink">Our Fleet</Link></li>
+            <li><Link href="/taxi-vs-uber-lyft" className="hover:text-ink">Taxi vs. Uber &amp; Lyft</Link></li>
           </ul>
         </div>
         <div className="text-sm">
