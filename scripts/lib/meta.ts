@@ -11,19 +11,27 @@ const HUDSON_VALLEY_COUNTIES = new Set([
   "Dutchess County",
 ]);
 
-// The legacy "mtitle" override is spun, keyword-stuffed junk for 524 of
-// 525 cities that have one at all — confirmed empirically: "Taxi service
-// {city}, NY JFK LGA EWR Albany Airport Car Limo" (or the Berkshires
-// variant, "...MA Bradley Albany Airport Car Limo"), paired with an
-// equally templated mdesc starting "Call 518-327-0700 Getting an Airport
-// or taxi Service is only a phone call away!..." on all of them. Using it
-// as an "override" means 93% of city pages were shipping duplicate,
-// over-stuffed <title> tags instead of the clean generated one below —
-// exactly the problem the SEO rebuild exists to fix. Detected by the
-// reliable literal prefix rather than discarded wholesale, so a genuinely
-// different override (one city has one) still gets used.
-function isPlaceholderCityTitle(mtitle: string): boolean {
-  return /^Taxi service /i.test(mtitle.trim());
+// The legacy mtitle/mdesc override is spun, keyword-stuffed junk for every
+// one of the 525 cities that has one — confirmed empirically. The mtitle
+// varies slightly ("Taxi service {city}, NY JFK LGA EWR Albany Airport Car
+// Limo" for most, a differently-worded variant for a handful like West
+// Stockbridge), but the mdesc is the exact same template on all 525 with
+// zero exceptions: "Call {phone}. Getting an Airport Taxi or taxi Service
+// is only a phone call away!..." — a far more reliable single signature
+// than the title variants, so detection keys off that. Using this
+// "override" as authoritative means 93% of city pages were shipping
+// duplicate, stuffed <title>/<meta description> tags instead of the clean
+// generated ones below — exactly the problem the SEO rebuild exists to
+// fix. Checked against both fields (belt and suspenders) rather than
+// discarded wholesale, so a genuinely different override would still get
+// used if one ever shows up.
+const CITY_META_PLACEHOLDER_MARKERS = [
+  /^Taxi service /i,
+  /Getting an Airport.*taxi Service is only a phone call away/i,
+];
+
+function isPlaceholderCityMeta(mtitle: string, mdesc: string): boolean {
+  return CITY_META_PLACEHOLDER_MARKERS.some((re) => re.test(mtitle) || re.test(mdesc));
 }
 
 /** City page meta: use the DB's mtitle/mdesc override when present (and not
@@ -35,7 +43,7 @@ export function resolveCityMeta(
   override: { mtitle: string; mdesc: string },
   countyName?: string
 ): { title: string; description: string } {
-  if (override.mtitle.trim() && override.mdesc.trim() && !isPlaceholderCityTitle(override.mtitle)) {
+  if (override.mtitle.trim() && override.mdesc.trim() && !isPlaceholderCityMeta(override.mtitle, override.mdesc)) {
     return { title: override.mtitle.trim(), description: override.mdesc.trim() };
   }
   // No brand suffix here — the root layout's title template
