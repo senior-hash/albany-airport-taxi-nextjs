@@ -1075,3 +1075,53 @@ export function getVenues(): Venue[] {
 export function getVenueBySlug(slug: string): Venue | undefined {
   return VENUES.find((v) => v.slug === slug);
 }
+
+// Broad display groups for the venues index — the 25 raw `category` values
+// (Winery, Farm & Cidery, Orchard & Winery, ...) are too granular to browse
+// by directly once there are 100+ venues, so this collapses them into a
+// handful of sections for the index page only. `category` itself stays the
+// specific, real label shown on each venue's own page.
+const GROUPS: { label: string; categories: string[] }[] = [
+  {
+    label: "Hotels & Lodging",
+    categories: ["Hotel", "Inn", "Resort", "Lodge", "Motel"],
+  },
+  {
+    label: "Colleges & Universities",
+    categories: ["College"],
+  },
+  {
+    label: "Farms, Wineries & Breweries",
+    categories: [
+      "Winery",
+      "Orchard",
+      "Farm",
+      "Farm Brewery",
+      "Farm & Cidery",
+      "Farm & Winery",
+      "Cidery",
+      "Brewery",
+      "Cidery & Orchard",
+      "Orchard & Winery",
+      "Distillery",
+      "Historic Farm",
+    ],
+  },
+  {
+    label: "Museums & Attractions",
+    categories: ["Museum", "Natural Attraction"],
+  },
+  {
+    label: "Local Landmarks & Transit",
+    categories: ["Hospital", "Shopping", "Government / Events", "Arena / Events", "Transit"],
+  },
+];
+
+export function getVenueGroups(): { label: string; slug: string; venues: Venue[] }[] {
+  const venues = getVenues();
+  return GROUPS.map(({ label, categories }) => ({
+    label,
+    slug: label.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, ""),
+    venues: venues.filter((v) => categories.includes(v.category)),
+  })).filter((group) => group.venues.length > 0);
+}

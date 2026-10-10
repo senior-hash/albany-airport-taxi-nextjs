@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getVenues } from "@/lib/venues";
+import { getVenueGroups } from "@/lib/venues";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 };
 
 export default function VenuesPage() {
-  const venues = getVenues();
+  const groups = getVenueGroups();
   return (
     <>
       <PageHeading
@@ -23,18 +23,36 @@ export default function VenuesPage() {
         description="Hospitals, malls, arenas, transit hubs, colleges, hotels, museums, and wineries and farms across the whole service area — book a ride to and from the places you actually go."
       />
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Venues", path: "/venues" }]} />
-      <Container className="grid gap-6 py-12 sm:grid-cols-2 lg:grid-cols-3">
-        {venues.map((venue) => (
-          <Link
-            key={venue.slug}
-            href={`/venues/${venue.slug}`}
-            className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-          >
-            <MapPinIcon className="h-6 w-6 text-accent" />
-            <p className="mt-4 text-xs font-medium uppercase tracking-wide text-accent">{venue.category}</p>
-            <p className="mt-1 text-lg font-semibold text-primary">{venue.name}</p>
-            <p className="mt-2 text-sm text-ink-muted">{venue.locality}</p>
-          </Link>
+      <Container className="py-12">
+        <nav aria-label="Venue categories" className="flex flex-wrap gap-2 border-b border-border pb-8">
+          {groups.map((group) => (
+            <a
+              key={group.slug}
+              href={`#${group.slug}`}
+              className="rounded-full border border-border px-4 py-1.5 text-sm text-ink-muted transition-colors hover:border-accent/50 hover:text-ink"
+            >
+              {group.label} <span className="text-ink-muted/70">({group.venues.length})</span>
+            </a>
+          ))}
+        </nav>
+        {groups.map((group) => (
+          <section key={group.slug} id={group.slug} className="scroll-mt-24 border-b border-border py-10 last:border-0">
+            <h2 className="text-xl font-semibold tracking-tight text-primary">{group.label}</h2>
+            <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              {group.venues.map((venue) => (
+                <Link
+                  key={venue.slug}
+                  href={`/venues/${venue.slug}`}
+                  className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                >
+                  <MapPinIcon className="h-6 w-6 text-accent" />
+                  <p className="mt-4 text-xs font-medium uppercase tracking-wide text-accent">{venue.category}</p>
+                  <p className="mt-1 text-lg font-semibold text-primary">{venue.name}</p>
+                  <p className="mt-2 text-sm text-ink-muted">{venue.locality}</p>
+                </Link>
+              ))}
+            </div>
+          </section>
         ))}
       </Container>
     </>
