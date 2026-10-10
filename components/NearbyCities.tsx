@@ -10,7 +10,10 @@ export function NearbyCities({
   currentSlug: string;
   airportSlug: string;
 }) {
-  const others = cities.filter((c) => c.slug !== currentSlug).slice(0, 24);
+  // No cap — every city needs at least one real on-site link to it, or it's
+  // reachable only via the sitemap. This is a plain wrapping text-link list,
+  // so it scales fine even for a 50+ city county.
+  const others = cities.filter((c) => c.slug !== currentSlug);
   if (others.length === 0) return null;
   return (
     <div className="mt-12">
