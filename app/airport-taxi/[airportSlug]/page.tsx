@@ -7,8 +7,10 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
 import { BookingCard } from "@/components/BookingCard";
+import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
+import { getAirportDistance } from "@/lib/airport-distances";
 
 export function generateStaticParams() {
   return getAirports().map((a) => ({ airportSlug: a.slug }));
@@ -43,6 +45,7 @@ export default async function AirportPage({
   if (!airport) notFound();
 
   const counties = getCounties();
+  const distance = getAirportDistance(airport.slug);
 
   return (
     <>
@@ -63,9 +66,18 @@ export default async function AirportPage({
         ]}
       />
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
-        <ProseContent html={airport.detailHtml} />
+        <div>
+          {distance && (
+            <p className="mb-4 text-sm text-ink-muted">
+              {distance.distanceMiles} from Albany &middot; typically{" "}
+              {distance.driveTime} by car, depending on traffic.
+            </p>
+          )}
+          <ProseContent html={airport.detailHtml} />
+        </div>
         <aside className="space-y-6">
           <BookingCard />
+          <FlightStatusChecker />
           <div>
             <p className="font-medium text-primary">Browse by county</p>
             <ul className="mt-3 space-y-1 text-sm">

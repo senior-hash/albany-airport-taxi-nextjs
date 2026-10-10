@@ -4,6 +4,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
+import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 import { PhoneIcon, MapPinIcon, ClockIcon, CarIcon } from "@/components/icons";
@@ -91,8 +92,9 @@ export default function TaxiVsRideshare() {
             </p>
           </div>
         </div>
-        <aside>
+        <aside className="space-y-6">
           <BookingCard heading="Book a ride you can count on" />
+          <FlightStatusChecker />
         </aside>
       </Container>
     </>

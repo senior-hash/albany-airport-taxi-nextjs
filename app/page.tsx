@@ -4,6 +4,8 @@ import { getAirports } from "@/lib/content";
 import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
 import { RouteLine } from "@/components/RouteLine";
+import { FlightStatusChecker } from "@/components/FlightStatusChecker";
+import { getAirportDistance } from "@/lib/airport-distances";
 import {
   PlaneIcon,
   RouteIcon,
@@ -127,17 +129,42 @@ export default function HomePage() {
         <Container className="py-16">
           <h2 className="text-2xl font-semibold tracking-tight text-primary">Airports We Serve</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {airports.map((airport) => (
-              <Link
-                key={airport.id}
-                href={`/airport-taxi/${airport.slug}`}
-                className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
-              >
-                <PlaneIcon className="h-6 w-6 text-accent" />
-                <p className="mt-4 text-lg font-semibold text-primary">{airport.name}</p>
-                <p className="mt-2 text-sm text-ink-muted">Taxi &amp; airport transfer to and from {airport.name}.</p>
-              </Link>
-            ))}
+            {airports.map((airport) => {
+              const distance = getAirportDistance(airport.slug);
+              return (
+                <Link
+                  key={airport.id}
+                  href={`/airport-taxi/${airport.slug}`}
+                  className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                >
+                  <PlaneIcon className="h-6 w-6 text-accent" />
+                  <p className="mt-4 text-lg font-semibold text-primary">{airport.name}</p>
+                  <p className="mt-2 text-sm text-ink-muted">Taxi &amp; airport transfer to and from {airport.name}.</p>
+                  {distance && (
+                    <p className="mt-2 text-xs text-ink-muted">
+                      {distance.distanceMiles} &middot; {distance.driveTime}
+                    </p>
+                  )}
+                </Link>
+              );
+            })}
+          </div>
+        </Container>
+      </section>
+
+      <section className="border-t border-border">
+        <Container className="py-16">
+          <div className="grid gap-10 lg:grid-cols-2 lg:items-start">
+            <div>
+              <h2 className="text-2xl font-semibold tracking-tight text-primary">Flying soon?</h2>
+              <p className="mt-3 max-w-md text-ink-muted">
+                We automatically track your flight once you book, so delays
+                and early arrivals are already accounted for before you
+                land. You can also look up any flight&rsquo;s status
+                yourself, anytime.
+              </p>
+            </div>
+            <FlightStatusChecker />
           </div>
         </Container>
       </section>
