@@ -1,27 +1,42 @@
-# Albany Airport Taxi and Limo Service
+# Albany Airport Taxi and Limo Service (operating as US Limo and Taxi)
 
 > 24/7 taxi, car, and limo service to and from Albany International Airport
-> (ALB), JFK, LaGuardia (LGA), Newark (EWR), Boston Logan, and New York City,
-> serving the Capital Region of New York plus parts of Vermont and
-> Massachusetts.
+> (ALB), JFK, LaGuardia (LGA), Newark (EWR), Boston Logan, and New York City.
+> Also provides long-distance trips, courier delivery, non-emergency medical
+> transportation, wedding guest shuttles, corporate transportation, Airbnb
+> and vacation rental transportation, and transportation to recovery and
+> treatment programs — across the Capital Region, Hudson Valley,
+> Adirondacks, and Berkshires.
 
 - Phone: (518) 327-0700
 - Email: info@albanyairport.taxi
+- Address: 1410 Curry Road, Rotterdam, NY 12306
 - Hours: 24 hours a day, 7 days a week
-- Service area: Albany, NY and surrounding counties (Albany, Rensselaer,
-  Saratoga, Schenectady, Columbia, Greene, Dutchess, Ulster, Delaware,
-  Otsego, Schoharie, Montgomery, Washington, Warren, Hamilton, Essex,
-  Franklin, Clinton, Herkimer, Fulton counties in NY; Bennington and
-  Rutland counties in VT; Berkshire county in MA)
+- Service area: 23 counties across New York, Vermont, and Massachusetts —
+  Albany, Rensselaer, Saratoga, Schenectady, Columbia, Greene, Dutchess,
+  Ulster, Delaware, Otsego, Schoharie, Montgomery, Washington, Warren,
+  Hamilton, Essex, Franklin, Clinton, Herkimer, and Fulton counties in NY;
+  Bennington and Rutland counties in VT; Berkshire county in MA
 - Fleet: taxi, sedan, SUV, and limo vehicles
+- Differentiators: flat pricing with no surge charges, flight tracking
+  included on airport trips, and real phone dispatch that works in rural
+  areas where rideshare driver coverage is thin or nonexistent
 
 ## Key pages
 
 - [Home](/)
 - [Airport Taxi Service](/airport-taxi)
 - [Long Distance: Albany to NYC](/long-distance/albany-to-nyc)
+- [Hudson Valley Car Service](/hudson-valley)
 - [Non-Emergency Medical Transportation (self-pay)](/services/non-emergency-medical-transportation)
 - [Courier & Messenger Service](/services/courier)
+- [Wedding Guest Shuttle Service](/services/wedding)
+- [Corporate Transportation](/services/corporate)
+- [Airbnb & Vacation Rental Transportation](/services/airbnb-transportation)
+- [Transportation to Recovery & Treatment Programs](/services/recovery-transportation)
+- [Taxi vs. Uber & Lyft](/taxi-vs-uber-lyft)
+- [Venues We Serve](/venues) — hotels, colleges, wineries, farms, museums,
+  hospitals, and transit hubs across the service area
 - [Our Fleet](/cars)
 - [About Us](/about)
 - [Contact](/contact)
