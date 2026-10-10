@@ -8,7 +8,8 @@ import { ProseContent } from "@/components/ProseContent";
 
 export const metadata: Metadata = {
   title: "About Us",
-  description: "Learn about Albany Airport Taxi and Limo Service, serving the Capital Region 24/7.",
+  description:
+    "Learn about Albany Airport Taxi and Limo Service (US Limo and Taxi) — 24/7 taxi, car, and limo service across the Capital Region, Hudson Valley, Adirondacks, and Berkshires.",
   alternates: { canonical: "/about" },
 };
 
