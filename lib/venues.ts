@@ -744,6 +744,45 @@ export const VENUES: Venue[] = [
     description:
       "Reliable car service to the Hampton Inn & Suites in Lenox, Massachusetts, minutes from Tanglewood in Berkshire County.",
   },
+  // Delaware, Herkimer, Clinton, and Franklin counties — the four that
+  // didn't turn up a confident pick in earlier passes. Found on a second,
+  // more targeted search.
+  {
+    slug: "meadowood-inn",
+    name: "Meadowood Inn",
+    category: "Inn",
+    locality: "Arkville, NY",
+    county: "Delaware County",
+    description:
+      "Car service to and from the Meadowood Inn in Arkville, a highly-rated Delaware County bed and breakfast in the western Catskills.",
+  },
+  {
+    slug: "red-roof-inn-suites-herkimer",
+    name: "Red Roof Inn & Suites Herkimer",
+    category: "Hotel",
+    locality: "Herkimer, NY",
+    county: "Herkimer County",
+    description:
+      "Reliable car service to the Red Roof Inn & Suites in Herkimer, along the Mohawk Valley.",
+  },
+  {
+    slug: "elfs-farm-winery-ciderhouse",
+    name: "Elfs Farm Winery & Ciderhouse",
+    category: "Farm & Winery",
+    locality: "Plattsburgh, NY",
+    county: "Clinton County",
+    description:
+      "Car service to Elfs Farm Winery & Ciderhouse in Plattsburgh, home to Adirondack Cider Company, with cold-climate wines and self-guided vineyard tours on Lake Champlain's Adirondack Coast Wine Trail.",
+  },
+  {
+    slug: "mark-twain-mapleworks",
+    name: "Mark Twain Mapleworks",
+    category: "Farm",
+    locality: "Saranac Lake, NY",
+    county: "Franklin County",
+    description:
+      "Door-to-door car service to Mark Twain Mapleworks in Saranac Lake, a certified New York Grown maple producer in Franklin County.",
+  },
   // Museums — real, well-known institutions across the service area.
   {
     slug: "national-baseball-hall-of-fame",
