@@ -2316,3 +2316,8 @@ RewriteCond %{QUERY_STRING} ^id=334&coid=485$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/van-hornesville? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=486$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/west-winfield? [R=301,L]
+
+# --- apple-icon exports as an extensionless file; force its real MIME type ---
+<Files "apple-icon">
+  ForceType image/png
+</Files>
