@@ -11,7 +11,23 @@ const HUDSON_VALLEY_COUNTIES = new Set([
   "Dutchess County",
 ]);
 
-/** City page meta: use the DB's mtitle/mdesc override when present, else generate. */
+// The legacy "mtitle" override is spun, keyword-stuffed junk for 524 of
+// 525 cities that have one at all — confirmed empirically: "Taxi service
+// {city}, NY JFK LGA EWR Albany Airport Car Limo" (or the Berkshires
+// variant, "...MA Bradley Albany Airport Car Limo"), paired with an
+// equally templated mdesc starting "Call 518-327-0700 Getting an Airport
+// or taxi Service is only a phone call away!..." on all of them. Using it
+// as an "override" means 93% of city pages were shipping duplicate,
+// over-stuffed <title> tags instead of the clean generated one below —
+// exactly the problem the SEO rebuild exists to fix. Detected by the
+// reliable literal prefix rather than discarded wholesale, so a genuinely
+// different override (one city has one) still gets used.
+function isPlaceholderCityTitle(mtitle: string): boolean {
+  return /^Taxi service /i.test(mtitle.trim());
+}
+
+/** City page meta: use the DB's mtitle/mdesc override when present (and not
+ * known legacy spun-title junk), else generate. */
 export function resolveCityMeta(
   airportName: string,
   cityName: string,
@@ -19,7 +35,7 @@ export function resolveCityMeta(
   override: { mtitle: string; mdesc: string },
   countyName?: string
 ): { title: string; description: string } {
-  if (override.mtitle.trim() && override.mdesc.trim()) {
+  if (override.mtitle.trim() && override.mdesc.trim() && !isPlaceholderCityTitle(override.mtitle)) {
     return { title: override.mtitle.trim(), description: override.mdesc.trim() };
   }
   // No brand suffix here — the root layout's title template
@@ -34,6 +50,27 @@ export function resolveCityMeta(
       ? `Reliable ${airportName.toLowerCase()} taxi and car service to and from ${cityName}, ${stateName}, serving the Hudson Valley. Available 24/7. Call ${PHONE} to book.`
       : `Reliable ${airportName.toLowerCase()} taxi and car service to and from ${cityName}, ${stateName}. Available 24/7. Call ${PHONE} to book.`,
   };
+}
+
+// Legacy per-city "detail" content turned out to be exactly two spun
+// templates (confirmed empirically: 525 of 563 cities share one of these
+// two ~5,800-character bodies word-for-word, with only the city name
+// swapped in — "Coeymans, NY is a great city... attracts thousands of
+// visitors" for a town of a few hundred people). Rendering that as unique
+// page content is the duplicate-content problem the whole SEO rebuild
+// exists to fix, so it's treated as placeholder here, the same way the
+// county branch already guards against the legacy "Columbia county"
+// one-liner — just detected by known template phrase instead of length,
+// since this junk is long enough to pass a length check.
+const CITY_DETAIL_PLACEHOLDER_MARKERS = [
+  "best known car service in",
+  "professional taxi Cab Company in",
+];
+
+export function hasRealCityDetail(html: string | undefined | null): boolean {
+  const text = (html ?? "").trim();
+  if (text.length === 0) return false;
+  return !CITY_DETAIL_PLACEHOLDER_MARKERS.some((marker) => text.includes(marker));
 }
 
 /** County pages have no DB-level override column — always generated. */

@@ -11,7 +11,7 @@ import {
   getCitiesByCounty,
   getStateById,
 } from "@/lib/content";
-import { resolveCityMeta, generateCountyMeta } from "@/scripts/lib/meta";
+import { resolveCityMeta, generateCountyMeta, hasRealCityDetail } from "@/scripts/lib/meta";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -103,6 +103,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     const fallbackBody = isHudsonValley
       ? `<p>${airport.name} taxi and car service to and from ${city.name}, ${state?.name ?? ""}, serving the Hudson Valley. Reliable, 24/7 door-to-door transportation.</p>`
       : `<p>${airport.name} taxi and car service to and from ${city.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
+    const hasRealDetail = hasRealCityDetail(city.detailHtml);
 
     return (
       <>
@@ -128,7 +129,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
         />
         <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
           <div>
-            <ProseContent html={city.detailHtml || fallbackBody} />
+            <ProseContent html={hasRealDetail ? city.detailHtml : fallbackBody} />
             {county && (
               <NearbyCities cities={siblingCities} currentSlug={city.slug} airportSlug={airport.slug} />
             )}
