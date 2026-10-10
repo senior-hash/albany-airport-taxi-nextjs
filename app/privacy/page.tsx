@@ -8,6 +8,8 @@ import { ProseContent } from "@/components/ProseContent";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
+  description:
+    "How Albany Airport Taxi and Limo Service collects, uses, and protects your information, including our contact form and reCAPTCHA spam protection.",
   alternates: { canonical: "/privacy" },
 };
 
