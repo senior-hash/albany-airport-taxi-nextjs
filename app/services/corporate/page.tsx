@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -35,7 +36,11 @@ export default function CorporatePage() {
             Make the right impression for business travel. We provide
             on-time, professional transportation for executives, employees,
             and visiting clients — airport transfers, meetings across town,
-            and everything in between.
+            and everything in between. For an extra level of polish, ask
+            about booking our{" "}
+            <Link href="/cars/lincoln-mkt">Lincoln MKT</Link>, or coordinate
+            pickups directly from a client&rsquo;s{" "}
+            <Link href="/venues">hotel</Link>.
           </p>
           <h2>Recurring accounts</h2>
           <p>
