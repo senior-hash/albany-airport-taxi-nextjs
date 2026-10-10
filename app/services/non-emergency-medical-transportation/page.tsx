@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -52,7 +53,10 @@ export default function NemtPage() {
             Patients and families who want a straightforward, reliable ride to
             appointments — doctor visits, physical therapy, dialysis,
             outpatient procedures — and would rather pay directly than
-            navigate insurance authorization for transportation.
+            navigate insurance authorization for transportation. This
+            includes regular trips to and from{" "}
+            <Link href="/venues/albany-med">Albany Medical Center</Link> and
+            other hospitals across the region.
           </p>
           <h2>How to book</h2>
           <p>
