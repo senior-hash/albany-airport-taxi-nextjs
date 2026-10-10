@@ -85,6 +85,17 @@ export default function HudsonValleyPage() {
             Newark for travelers connecting through New York City. Every ride
             is scheduled door-to-door — no shared shuttles, no fixed stops.
           </p>
+          <h2>Wineries, farms &amp; hotels in the Hudson Valley</h2>
+          <p>
+            The Hudson Valley is also where most of the wineries and farms we
+            serve are — a ride home from a tasting is one of the most common
+            reasons people call us out here. See{" "}
+            <Link href="/venues/hudson-chatham-winery">Hudson-Chatham Winery</Link>,{" "}
+            <Link href="/venues/millbrook-vineyards-winery">Millbrook Vineyards &amp; Winery</Link>,{" "}
+            and <Link href="/venues/mohonk-mountain-house">Mohonk Mountain House</Link>, or
+            browse the full list of{" "}
+            <Link href="/venues">venues we serve</Link>.
+          </p>
         </div>
         <aside>
           <BookingCard />

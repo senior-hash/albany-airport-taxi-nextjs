@@ -2,7 +2,7 @@
   {
     "id": 128,
     "title": "Chevrolet Suburban",
-    "detailHtml": "<p>Our Chevrolet Suburban is a full-size SUV that comfortably seats up to 7 passengers with room left over for luggage &mdash; a solid choice for larger groups, families traveling with bags, or a small corporate group heading to the airport together.</p>\n<p>Book it for airport transfers, long-distance trips, or any time you need more room than a standard sedan without splitting the group into two vehicles.</p>",
+    "detailHtml": "<p>Our Chevrolet Suburban is a full-size SUV that comfortably seats up to 7 passengers with room left over for luggage &mdash; a solid choice for larger groups, families traveling with bags, or a small <a href=\"/services/corporate\">corporate group</a> heading to the airport together.</p>\n<p>Book it for airport transfers, long-distance trips, or any time you need more room than a standard sedan without splitting the group into two vehicles.</p>",
     "image": "img_1638638195.jpg",
     "brand": 1,
     "slug": "chevrolet-suburban"
@@ -18,7 +18,7 @@
   {
     "id": 130,
     "title": "Lincoln MKT",
-    "detailHtml": "<p>Our Lincoln MKT is a professional livery vehicle, seating up to 5 passengers with ample trunk space for luggage &mdash; a comfortable, polished choice for corporate travel, VIP transport, or anyone who wants a more upscale ride to the airport.</p>\n<p>Book it for airport transfers, business travel, or special occasions.</p>",
+    "detailHtml": "<p>Our Lincoln MKT is a professional livery vehicle, seating up to 5 passengers with ample trunk space for luggage &mdash; a comfortable, polished choice for <a href=\"/services/corporate\">corporate travel</a>, VIP transport, or anyone who wants a more upscale ride to the airport.</p>\n<p>Book it for airport transfers, business travel, or <a href=\"/services/wedding\">wedding guest shuttles</a>.</p>",
     "image": "img_1638638533.jpg",
     "brand": 3,
     "slug": "lincoln-mkt"
