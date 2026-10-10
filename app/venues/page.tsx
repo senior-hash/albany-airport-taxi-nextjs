@@ -9,7 +9,7 @@ import { MapPinIcon } from "@/components/icons";
 export const metadata: Metadata = {
   title: "Venues We Serve",
   description:
-    "Taxi and car service to hospitals, malls, arenas, colleges, wineries, farms, and transit hubs across the Capital Region, Hudson Valley, and beyond.",
+    "Taxi and car service to hospitals, malls, arenas, colleges, hotels, museums, wineries, and farms across the Capital Region, Hudson Valley, Adirondacks, and Berkshires.",
   alternates: { canonical: "/venues" },
 };
 
@@ -20,7 +20,7 @@ export default function VenuesPage() {
       <PageHeading
         eyebrow="Destinations"
         title="Venues We Serve"
-        description="Hospitals, malls, arenas, transit hubs, colleges, and Hudson Valley wineries and farms — book a ride to and from the places you actually go."
+        description="Hospitals, malls, arenas, transit hubs, colleges, hotels, museums, and wineries and farms across the whole service area — book a ride to and from the places you actually go."
       />
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Venues", path: "/venues" }]} />
       <Container className="grid gap-6 py-12 sm:grid-cols-2 lg:grid-cols-3">

@@ -369,6 +369,236 @@ export const VENUES: Venue[] = [
     description:
       "Door-to-door car service to Neshobe River Winery in Rutland County, Vermont, known for its wood-fired pizza and wine tastings.",
   },
+  // Hotels, motels & resorts — real, named, verified properties covering
+  // most of the service area. Picked for being well-documented and
+  // currently operating, not an exhaustive directory. Delaware and
+  // Herkimer counties didn't turn up a confident pick, so nothing was
+  // added there.
+  {
+    slug: "hilton-garden-inn-albany-airport",
+    name: "Hilton Garden Inn Albany Airport",
+    category: "Hotel",
+    locality: "Albany, NY",
+    description:
+      "Car service to and from the Hilton Garden Inn Albany Airport, a short ride from ALB — handy for early flights or when the hotel shuttle isn't running.",
+  },
+  {
+    slug: "the-hotel-saratoga",
+    name: "The Hotel Saratoga",
+    category: "Hotel",
+    locality: "Saratoga Springs, NY",
+    description:
+      "Door-to-door car service to The Hotel Saratoga in downtown Saratoga Springs, convenient to the track, Broadway, and Saratoga Winery.",
+  },
+  {
+    slug: "fort-william-henry-hotel",
+    name: "Fort William Henry Hotel and Conference Center",
+    category: "Hotel",
+    locality: "Lake George, NY",
+    description:
+      "Reliable car service to the Fort William Henry Hotel in Lake George, steps from the lake and the historic fort.",
+  },
+  {
+    slug: "hampton-inn-suites-poughkeepsie",
+    name: "Hampton Inn & Suites Poughkeepsie",
+    category: "Hotel",
+    locality: "Poughkeepsie, NY",
+    description:
+      "Car service to and from the Hampton Inn & Suites Poughkeepsie, convenient to Vassar and Marist University in Dutchess County.",
+  },
+  {
+    slug: "mohonk-mountain-house",
+    name: "Mohonk Mountain House",
+    category: "Resort",
+    locality: "New Paltz, NY",
+    description:
+      "Door-to-door car service to Mohonk Mountain House, the historic National Historic Landmark resort in the Shawangunk Mountains of Ulster County.",
+  },
+  {
+    slug: "the-wick-hudson",
+    name: "The Wick, Hudson",
+    category: "Hotel",
+    locality: "Hudson, NY",
+    description:
+      "Car service to and from The Wick in downtown Hudson, a short ride from Hudson-Chatham Winery and the rest of Columbia County's wine trail.",
+  },
+  {
+    slug: "eastwind-hotel",
+    name: "Eastwind Hotel & Bar",
+    category: "Hotel",
+    locality: "Windham, NY",
+    description:
+      "Reliable car service to the Eastwind Hotel in Windham, close to the Hunter Mountain ski area in Greene County.",
+  },
+  {
+    slug: "hilton-garden-inn-troy",
+    name: "Hilton Garden Inn Troy",
+    category: "Hotel",
+    locality: "Troy, NY",
+    description:
+      "Car service to and from the Hilton Garden Inn Troy, about a third of a mile from RPI in Rensselaer County.",
+  },
+  {
+    slug: "doubletree-schenectady-downtown",
+    name: "DoubleTree by Hilton Schenectady Downtown",
+    category: "Hotel",
+    locality: "Schenectady, NY",
+    description:
+      "Door-to-door car service to the DoubleTree by Hilton in downtown Schenectady, near Union College and the Stockade district.",
+  },
+  {
+    slug: "the-otesaga-resort-hotel",
+    name: "The Otesaga Resort Hotel",
+    category: "Resort",
+    locality: "Cooperstown, NY",
+    description:
+      "Car service to and from The Otesaga, the landmark resort hotel on Otsego Lake in Cooperstown — a frequent stop for Hall of Fame weekends and golf trips.",
+  },
+  {
+    slug: "sara-glen-motel",
+    name: "Sara Glen Motel",
+    category: "Motel",
+    locality: "Fort Edward, NY",
+    description:
+      "Reliable car service to the Sara Glen Motel in Fort Edward, Washington County, centrally located between Saratoga, Lake George, and Glens Falls.",
+  },
+  {
+    slug: "point-au-roche-lodge",
+    name: "Point au Roche Lodge",
+    category: "Lodge",
+    locality: "Plattsburgh, NY",
+    description:
+      "Car service to and from Point au Roche Lodge on Lake Champlain in Clinton County, near SUNY Plattsburgh.",
+  },
+  {
+    slug: "the-whiteface-lodge",
+    name: "The Whiteface Lodge",
+    category: "Lodge",
+    locality: "Lake Placid, NY",
+    description:
+      "Door-to-door car service to The Whiteface Lodge in Lake Placid, Essex County, a full-service resort near Whiteface Mountain.",
+  },
+  {
+    slug: "holiday-inn-johnstown-gloversville",
+    name: "Holiday Inn Johnstown-Gloversville",
+    category: "Hotel",
+    locality: "Johnstown, NY",
+    description:
+      "Car service to and from the Holiday Inn Johnstown-Gloversville, Fulton County's only full-service hotel.",
+  },
+  {
+    slug: "amsterdam-castle",
+    name: "Amsterdam Castle",
+    category: "Hotel",
+    locality: "Amsterdam, NY",
+    description:
+      "Reliable car service to Amsterdam Castle in Montgomery County, a distinctive, highly-rated local hotel.",
+  },
+  {
+    slug: "american-hotel-sharon-springs",
+    name: "American Hotel",
+    category: "Hotel",
+    locality: "Sharon Springs, NY",
+    description:
+      "Car service to the American Hotel in Sharon Springs, a historic Schoharie County spa village, near Howe Caverns.",
+  },
+  {
+    slug: "hampton-inn-bennington",
+    name: "Hampton Inn Bennington",
+    category: "Hotel",
+    locality: "Bennington, VT",
+    description:
+      "Door-to-door car service to the Hampton Inn in Bennington, Vermont, close to Bennington College and downtown.",
+  },
+  {
+    slug: "hampton-inn-rutland",
+    name: "Hampton Inn Rutland",
+    category: "Hotel",
+    locality: "Rutland, VT",
+    description:
+      "Car service to and from the Hampton Inn Rutland in Vermont, convenient to Castleton University and the Vermont Marble Museum.",
+  },
+  {
+    slug: "hampton-inn-suites-berkshires-lenox",
+    name: "Hampton Inn & Suites Berkshires-Lenox",
+    category: "Hotel",
+    locality: "Lenox, MA",
+    description:
+      "Reliable car service to the Hampton Inn & Suites in Lenox, Massachusetts, minutes from Tanglewood in Berkshire County.",
+  },
+  // Museums — real, well-known institutions across the service area.
+  {
+    slug: "national-baseball-hall-of-fame",
+    name: "National Baseball Hall of Fame and Museum",
+    category: "Museum",
+    locality: "Cooperstown, NY",
+    description:
+      "Car service to the National Baseball Hall of Fame and Museum in Cooperstown — a major draw for induction weekend and family trips alike.",
+  },
+  {
+    slug: "fenimore-art-museum",
+    name: "Fenimore Art Museum",
+    category: "Museum",
+    locality: "Cooperstown, NY",
+    description:
+      "Door-to-door car service to the Fenimore Art Museum in Cooperstown, just across from The Farmers' Museum in Otsego County.",
+  },
+  {
+    slug: "new-york-state-museum",
+    name: "New York State Museum",
+    category: "Museum",
+    locality: "Albany, NY",
+    description:
+      "Car service to the New York State Museum at the Empire State Plaza in Albany, one of the largest natural history museums in the country.",
+  },
+  {
+    slug: "mass-moca",
+    name: "MASS MoCA",
+    category: "Museum",
+    locality: "North Adams, MA",
+    description:
+      "Reliable car service to MASS MoCA in North Adams, one of the largest contemporary art museums in the United States, in Berkshire County.",
+  },
+  {
+    slug: "norman-rockwell-museum",
+    name: "Norman Rockwell Museum",
+    category: "Museum",
+    locality: "Stockbridge, MA",
+    description:
+      "Car service to the Norman Rockwell Museum in Stockbridge, Berkshire County, home to the world's largest collection of Rockwell's work.",
+  },
+  {
+    slug: "bennington-museum",
+    name: "Bennington Museum",
+    category: "Museum",
+    locality: "Bennington, VT",
+    description:
+      "Door-to-door car service to the Bennington Museum in Vermont, covering state history with a notable Grandma Moses collection.",
+  },
+  {
+    slug: "vermont-marble-museum",
+    name: "Vermont Marble Museum",
+    category: "Museum",
+    locality: "Proctor, VT",
+    description:
+      "Car service to the Vermont Marble Museum in Proctor, near Rutland, covering the state's marble industry.",
+  },
+  {
+    slug: "new-england-maple-museum",
+    name: "New England Maple Museum",
+    category: "Museum",
+    locality: "Pittsford, VT",
+    description:
+      "Reliable car service to the New England Maple Museum near Rutland, Vermont, with tours and samples of real maple sugaring.",
+  },
+  {
+    slug: "adirondack-history-center-museum",
+    name: "Adirondack History Center Museum",
+    category: "Museum",
+    locality: "Elizabethtown, NY",
+    description:
+      "Car service to the Adirondack History Center Museum in Elizabethtown, Essex County.",
+  },
   // Colleges & universities — students flying home for breaks, parents'
   // weekend visits, and move-in/move-out are a steady, recurring source of
   // airport trips across the whole service area. Real, verified campuses
