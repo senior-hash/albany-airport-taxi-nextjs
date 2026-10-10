@@ -14,14 +14,29 @@ const geistSans = Geist({
 
 const GA_MEASUREMENT_ID = "G-6102LQSZD2";
 
+const SITE_NAME = "Albany Airport Taxi and Limo Service";
+const SITE_DESCRIPTION =
+  "24/7 taxi, car, and limo service to and from Albany International Airport, JFK, LaGuardia, Newark, Boston Logan, and NYC.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Albany Airport Taxi and Limo Service",
+    default: SITE_NAME,
     template: "%s | Albany Airport Taxi and Limo Service",
   },
-  description:
-    "24/7 taxi, car, and limo service to and from Albany International Airport, JFK, LaGuardia, Newark, Boston Logan, and NYC.",
+  description: SITE_DESCRIPTION,
+  openGraph: {
+    siteName: SITE_NAME,
+    type: "website",
+    locale: "en_US",
+    title: { default: SITE_NAME, template: "%s | Albany Airport Taxi and Limo Service" },
+    description: SITE_DESCRIPTION,
+  },
+  twitter: {
+    card: "summary",
+    title: { default: SITE_NAME, template: "%s | Albany Airport Taxi and Limo Service" },
+    description: SITE_DESCRIPTION,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
