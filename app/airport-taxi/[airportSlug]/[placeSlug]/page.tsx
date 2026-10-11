@@ -20,8 +20,10 @@ import { BookingCard } from "@/components/BookingCard";
 import { NearbyCities } from "@/components/NearbyCities";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
+import { AboutArea } from "@/components/AboutArea";
 import { serviceSchema, faqSchema } from "@/lib/schema";
 import { getLocalFAQ } from "@/lib/faq";
+import { getCountyArea } from "@/lib/county-area";
 
 export function generateStaticParams() {
   const airports = getAirports();
@@ -163,6 +165,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     // truthy, so a plain `||` check would wrongly prefer it over the
     // generated fallback above.
     const hasRealDetail = (county.detailHtml ?? "").trim().length > 60;
+    const countyArea = getCountyArea(county.name);
     const localFAQ = getLocalFAQ({
       countyName: county.name,
       stateName: state?.name ?? "",
@@ -196,6 +199,9 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             <ProseContent html={hasRealDetail ? county.detailHtml : fallbackBody} />
             {citiesInCounty.length > 0 && (
               <NearbyCities cities={citiesInCounty} currentSlug="" airportSlug={airport.slug} />
+            )}
+            {countyArea && (
+              <AboutArea area={countyArea} countyName={county.name} stateName={state?.name ?? ""} />
             )}
             <div className="mt-12">
               <FAQ items={localFAQ} title={`${county.name} FAQ`} />
