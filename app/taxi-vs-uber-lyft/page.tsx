@@ -62,10 +62,10 @@ export default function TaxiVsRideshare() {
           <div className="prose prose-neutral max-w-none prose-headings:text-primary">
             <p>
               Uber and Lyft work well in dense cities where drivers are
-              constantly nearby. Our service area is different — it's the{" "}
+              constantly nearby. Our service area is different — it&rsquo;s the{" "}
               <Link href="/airport-taxi">Albany airport</Link> itself, plus
               23 counties across New York, Vermont, and Massachusetts, much
-              of it rural. We've built our business around being the
+              of it rural. We&rsquo;ve built our business around being the
               reliable option specifically for that gap.
             </p>
           </div>
@@ -81,9 +81,9 @@ export default function TaxiVsRideshare() {
           <div className="prose prose-neutral max-w-none prose-headings:text-primary mt-10">
             <h2>When rideshare makes more sense</h2>
             <p>
-              If you're already downtown in Albany on a weekday afternoon,
-              Uber or Lyft will probably get to you quickly — we won't
-              pretend otherwise. Where we're the better call is anywhere
+              If you&rsquo;re already downtown in Albany on a weekday afternoon,
+              Uber or Lyft will probably get to you quickly — we won&rsquo;t
+              pretend otherwise. Where we&rsquo;re the better call is anywhere
               outside that dense core: airport runs, early-morning and
               late-night pickups, <Link href="/long-distance">long-distance
               trips</Link>, and anywhere in our{" "}

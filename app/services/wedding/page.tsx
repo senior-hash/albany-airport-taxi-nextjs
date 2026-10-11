@@ -35,7 +35,7 @@ export default function WeddingPage() {
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <div className="prose prose-neutral max-w-none prose-headings:text-primary">
           <p>
-            Most of the wedding work we do isn't a limo for the couple — it's
+            Most of the wedding work we do isn&rsquo;t a limo for the couple — it&rsquo;s
             getting guests back and forth safely. Out-of-town guests are
             usually spread across a few nearby{" "}
             <Link href="/venues">hotels</Link> or{" "}

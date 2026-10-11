@@ -55,7 +55,7 @@ export default function RecoveryTransportationPage() {
           </p>
           <p>
             <strong>Direct transport to the program</strong> — when the
-            program itself is the destination, we'll drive there directly,
+            program itself is the destination, we&rsquo;ll drive there directly,
             including{" "}
             <Link href="/long-distance">long-distance trips</Link> well
             outside the Capital Region. One vehicle, one driver, the whole
@@ -65,12 +65,12 @@ export default function RecoveryTransportationPage() {
           <p>
             These trips are personal. We keep pickup and drop-off details
             private and coordinate quietly with family members arranging the
-            ride when that's what's needed.
+            ride when that&rsquo;s what&rsquo;s needed.
           </p>
           <h2>How to book</h2>
           <p>
-            Call us with the pickup location, the program's address, and
-            your timeline. We're available 24/7, including last-minute and
+            Call us with the pickup location, the program&rsquo;s address, and
+            your timeline. We&rsquo;re available 24/7, including last-minute and
             early-morning pickups.
           </p>
         </div>

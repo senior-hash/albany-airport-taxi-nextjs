@@ -10,7 +10,7 @@ function loadJson<T>(filename: string): T {
   return JSON.parse(fs.readFileSync(file, "utf8")) as T;
 }
 
-let cache: {
+const cache: {
   airports?: Airport[];
   counties?: County[];
   states?: State[];

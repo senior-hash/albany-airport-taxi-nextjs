@@ -13,6 +13,15 @@ const eslintConfig = defineConfig([
     "build/**",
     "next-env.d.ts",
   ]),
+  {
+    // Plain CommonJS Node script (uses __dirname), run directly via
+    // `node scripts/static-server.js` — not part of the Next app bundle,
+    // so the TS-oriented ESM-import rule doesn't apply here.
+    files: ["scripts/static-server.js"],
+    rules: {
+      "@typescript-eslint/no-require-imports": "off",
+    },
+  },
 ]);
 
 export default eslintConfig;

@@ -40,7 +40,7 @@ export default function AirbnbTransportationPage() {
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <div className="prose prose-neutral max-w-none prose-headings:text-primary">
           <p>
-            Staying at an Airbnb, VRBO, or other vacation rental? There's no
+            Staying at an Airbnb, VRBO, or other vacation rental? There&rsquo;s no
             front desk to call a cab for you and often no hotel shuttle —
             just an address, sometimes a long way outside town. We provide
             door-to-door car service straight to and from your rental, timed
@@ -55,16 +55,16 @@ export default function AirbnbTransportationPage() {
             featured on this site. See our{" "}
             <Link href="/taxi-vs-uber-lyft">comparison with Uber and Lyft</Link>{" "}
             for why that matters — rideshare driver coverage thins out fast
-            once you're off the main roads, which is exactly where a lot of
+            once you&rsquo;re off the main roads, which is exactly where a lot of
             rentals sit.
           </p>
           <h2>Groups, luggage, and odd hours</h2>
           <p>
             Vacation stays usually mean more luggage and bigger groups than a
             typical business trip. Let us know your group size when you call
-            and we'll make sure the right vehicle shows up — including larger
+            and we&rsquo;ll make sure the right vehicle shows up — including larger
             vehicles for families or groups splitting a rental. Early-morning
-            checkouts and late-night arrivals are no problem; we're
+            checkouts and late-night arrivals are no problem; we&rsquo;re
             available 24/7.
           </p>
           <h2>Hosts: add us to your welcome guide</h2>
