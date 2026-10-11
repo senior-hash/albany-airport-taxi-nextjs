@@ -28,6 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/hudson-valley` },
     { url: `${SITE_URL}/long-distance` },
     { url: `${SITE_URL}/long-distance/albany-to-nyc` },
+    { url: `${SITE_URL}/long-distance/albany-to-nyc/vs-train-and-bus` },
     { url: `${SITE_URL}/services/non-emergency-medical-transportation` },
     { url: `${SITE_URL}/services/courier` },
     { url: `${SITE_URL}/services/wedding` },

@@ -70,6 +70,13 @@ export default function AlbanyToNycPage() {
             need to coordinate train or bus schedules; your ride is ready
             when you are.
           </p>
+          <p>
+            Weighing this against Amtrak or the Trailways bus? See our{" "}
+            <Link href="/long-distance/albany-to-nyc/vs-train-and-bus">
+              full comparison of car service, train, and bus
+            </Link>
+            .
+          </p>
         </div>
         <aside>
           <BookingCard heading="Book your trip" note="Round-trip and one-way options available." />

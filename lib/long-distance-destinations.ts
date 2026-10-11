@@ -34,6 +34,24 @@ export const DESTINATIONS: Destination[] = [
       "Comfortable long-distance service from Albany to Niagara Falls, door to door — ideal for a day trip, weekend getaway, or one-way travel.",
   },
   {
+    slug: "syracuse",
+    name: "Syracuse, NY",
+    description:
+      "Door-to-door car service between Albany and Syracuse. A dependable option when you'd rather not drive yourself — and a real backup when an Amtrak Empire Service train along this corridor is delayed or cancelled and you need another way to get there.",
+  },
+  {
+    slug: "utica",
+    name: "Utica, NY",
+    description:
+      "Car service between Albany and Utica, door to door — including as a backup option when Amtrak service along the Empire Corridor is disrupted and you need a reliable way to finish your trip.",
+  },
+  {
+    slug: "buffalo",
+    name: "Buffalo, NY",
+    description:
+      "Long-distance car service from Albany to Buffalo, door to door — for business travel, events, or getting home, including when train service along the way isn't running.",
+  },
+  {
     slug: "burlington-vt",
     name: "Burlington, VT",
     description:
