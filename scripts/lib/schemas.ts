@@ -44,12 +44,18 @@ export const CitySchema = z.object({
 });
 export type City = z.infer<typeof CitySchema>;
 
+export const CarImageSchema = z.object({
+  src: z.string(),
+  alt: z.string(),
+});
+export type CarImage = z.infer<typeof CarImageSchema>;
+
 export const CarSchema = z.object({
   id: z.number(),
   slug: z.string(),
   title: z.string(),
   detailHtml: z.string(),
-  image: z.string(),
+  images: z.array(CarImageSchema),
   brand: z.number().nullable(),
 });
 export type Car = z.infer<typeof CarSchema>;

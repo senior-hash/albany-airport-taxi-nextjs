@@ -6,7 +6,7 @@ const PAGES = [
   { path: "/airport-taxi/jfk/troy-albany-county", name: "city (via [placeSlug])" },
   { path: "/airport-taxi/alb/albany-county", name: "county (via [placeSlug])" },
   { path: "/cars", name: "cars list" },
-  { path: "/cars/chevrolet-suburban", name: "car detail" },
+  { path: "/cars/toyota-highlander", name: "car detail" },
   { path: "/blog", name: "blog list" },
   { path: "/long-distance/albany-to-nyc", name: "flagship long-distance" },
   { path: "/long-distance/boston", name: "long-distance destination" },

@@ -1,26 +1,112 @@
 [
   {
     "id": 128,
-    "title": "Chevrolet Suburban",
-    "detailHtml": "<p>Our Chevrolet Suburban is a full-size SUV that comfortably seats up to 7 passengers with room left over for luggage &mdash; a solid choice for larger groups, families traveling with bags, or a small <a href=\"/services/corporate\">corporate group</a> heading to the airport together.</p>\n<p>Book it for airport transfers, long-distance trips, or any time you need more room than a standard sedan without splitting the group into two vehicles.</p>",
-    "image": "img_1638638195.jpg",
-    "brand": 1,
-    "slug": "chevrolet-suburban"
+    "title": "Toyota Highlander",
+    "detailHtml": "<p>Our Toyota Highlander is a 3-row SUV that comfortably seats up to 7 passengers with room left over for luggage &mdash; a solid choice for larger groups, families traveling with bags, or a small <a href=\"/services/corporate\">corporate group</a> heading to the airport together.</p>\n<p>Book it for airport transfers, long-distance trips, or any time you need more room than a standard sedan without splitting the group into two vehicles.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/toyota-highlander-1.jpg",
+        "alt": "Gray Toyota Highlander SUV, part of the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "toyota-highlander"
   },
   {
     "id": 129,
-    "title": "Honda Passport",
-    "detailHtml": "<p>Our Honda Passport is a mid-size SUV that seats up to 5 passengers with a roomy cargo area for luggage &mdash; a comfortable option for couples, small families, or business travelers who want more space than a sedan.</p>\n<p>Book it for airport transfers, local trips, or long-distance travel.</p>",
-    "image": "img_1638638397.png",
-    "brand": 2,
-    "slug": "honda-passport"
+    "title": "Honda CR-V",
+    "detailHtml": "<p>Our Honda CR-V is a compact SUV that seats up to 5 passengers with a roomy cargo area for luggage &mdash; a comfortable option for couples, small families, or business travelers who want more space than a sedan.</p>\n<p>Book it for airport transfers, local trips, or long-distance travel.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/honda-crv-2023-1.jpg",
+        "alt": "Black Honda CR-V SUV, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/honda-crv-2020-1.jpg",
+        "alt": "Black Honda CR-V SUV, an earlier model year in the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "honda-crv"
   },
   {
     "id": 130,
-    "title": "Lincoln MKT",
-    "detailHtml": "<p>Our Lincoln MKT is a professional livery vehicle, seating up to 5 passengers with ample trunk space for luggage &mdash; a comfortable, polished choice for <a href=\"/services/corporate\">corporate travel</a>, VIP transport, or anyone who wants a more upscale ride to the airport.</p>\n<p>Book it for airport transfers, business travel, or <a href=\"/services/wedding\">wedding guest shuttles</a>.</p>",
-    "image": "img_1638638533.jpg",
-    "brand": 3,
-    "slug": "lincoln-mkt"
+    "title": "Chrysler Pacifica",
+    "detailHtml": "<p>Our Chrysler Pacifica Hybrid is a minivan that seats up to 7 passengers with sliding doors and plenty of luggage room &mdash; a comfortable, easy-access choice for families, groups, or <a href=\"/services/wedding\">wedding guest shuttles</a>.</p>\n<p>Book it for airport transfers, group outings, or any trip where easy in-and-out access matters.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/chrysler-pacifica-1.jpg",
+        "alt": "Silver Chrysler Pacifica Hybrid minivan, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/chrysler-pacifica-2.jpg",
+        "alt": "Silver Chrysler Pacifica Hybrid minivan, part of the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "chrysler-pacifica"
+  },
+  {
+    "id": 131,
+    "title": "Toyota Sienna",
+    "detailHtml": "<p>Our Toyota Sienna is a minivan that seats up to 7 passengers with easy sliding-door access and plenty of room for luggage &mdash; a dependable choice for families, groups, or <a href=\"/services/wedding\">wedding guest shuttles</a>.</p>\n<p>Book it for airport transfers, group outings, or any trip where you'd rather not split up.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/toyota-sienna-black-1.jpg",
+        "alt": "Black Toyota Sienna minivan, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/toyota-sienna-silver-1.jpg",
+        "alt": "Silver Toyota Sienna minivan, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/toyota-sienna-black-2.jpg",
+        "alt": "Black Toyota Sienna minivan, part of the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "toyota-sienna"
+  },
+  {
+    "id": 132,
+    "title": "Kia EV9",
+    "detailHtml": "<p>Our Kia EV9 is an all-electric 3-row SUV that seats up to 6 passengers &mdash; a quiet, zero-emission ride with room for a small group and their luggage.</p>\n<p>Book it for airport transfers, <a href=\"/services/corporate\">corporate travel</a>, or any trip where you'd like a newer, all-electric vehicle.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/kia-ev9-front-1.jpg",
+        "alt": "Black Kia EV9 electric SUV, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/kia-ev9-side-1.jpg",
+        "alt": "Black Kia EV9 electric SUV, side view, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/kia-ev9-rear-1.jpg",
+        "alt": "Black Kia EV9 electric SUV charging, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/kia-ev9-front-2.jpg",
+        "alt": "Black Kia EV9 electric SUV, part of the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "kia-ev9"
+  },
+  {
+    "id": 133,
+    "title": "Cadillac Escalade IQ",
+    "detailHtml": "<p>Our Cadillac Escalade IQ is a full-size, all-electric SUV that seats up to 7 passengers in a premium, quiet cabin &mdash; a polished choice for <a href=\"/services/corporate\">corporate travel</a>, VIP transport, or anyone who wants a more upscale, all-electric ride to the airport.</p>\n<p>Book it for airport transfers, business travel, or <a href=\"/services/wedding\">wedding guest shuttles</a>.</p>",
+    "images": [
+      {
+        "src": "/images/fleet/cadillac-escalade-iq-1.jpg",
+        "alt": "Black Cadillac Escalade IQ electric SUV, part of the US Limo and Taxi fleet"
+      },
+      {
+        "src": "/images/fleet/cadillac-escalade-iq-2.jpg",
+        "alt": "Black Cadillac Escalade IQ electric SUV, part of the US Limo and Taxi fleet"
+      }
+    ],
+    "brand": null,
+    "slug": "cadillac-escalade-iq"
   }
 ]
