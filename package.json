@@ -10,7 +10,8 @@
     "test": "playwright test",
     "parse-dump": "tsx scripts/parse-dump.ts",
     "generate-redirects": "tsx scripts/generate-redirects.ts",
-    "generate-htaccess": "tsx scripts/generate-htaccess.ts"
+    "generate-htaccess": "tsx scripts/generate-htaccess.ts",
+    "generate-service-area-map": "tsx scripts/generate-service-area-map.ts"
   },
   "dependencies": {
     "next": "16.3.5",
@@ -26,14 +27,20 @@
     "@playwright/test": "^1.63.0",
     "@tailwindcss/postcss": "^4",
     "@tailwindcss/typography": "^0.5.20",
+    "@types/d3-geo": "^3.1.1",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/sanitize-html": "^2.16.1",
+    "@types/topojson-client": "^3.1.5",
+    "d3-geo": "^3.1.1",
     "eslint": "^9",
     "eslint-config-next": "16.3.5",
     "tailwindcss": "^4",
+    "topojson-client": "^3.1.0",
     "tsx": "^4.23.13",
-    "typescript": "^5"
+    "typescript": "^5",
+    "us-atlas": "^3.0.1"
   }
 }
