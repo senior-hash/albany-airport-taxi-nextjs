@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { getAirports } from "@/lib/content";
 import { Container } from "@/components/Container";
@@ -152,6 +153,36 @@ export default function HomePage() {
                 </Link>
               );
             })}
+          </div>
+        </Container>
+      </section>
+
+      <section className="border-t border-border bg-surface">
+        <Container className="py-16">
+          <div className="grid gap-10 lg:grid-cols-2 lg:items-center">
+            <div>
+              <h2 className="text-2xl font-semibold tracking-tight text-primary">Our Fleet</h2>
+              <p className="mt-3 max-w-md text-ink-muted">
+                A real, modern fleet — from everyday SUVs to all-electric vehicles
+                like the Kia EV9 and Cadillac Escalade IQ. Whatever the trip,
+                there&rsquo;s a vehicle sized to fit it.
+              </p>
+              <Link
+                href="/cars"
+                className="mt-6 inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 font-medium text-white transition-colors hover:bg-primary/90"
+              >
+                See our vehicles
+              </Link>
+            </div>
+            <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-border">
+              <Image
+                src="/images/fleet/fleet-group-cadillac-pacifica.jpg"
+                alt="Cadillac Escalade IQ and Chrysler Pacifica, part of the US Limo and Taxi fleet"
+                fill
+                className="object-cover"
+                sizes="(min-width: 1024px) 50vw, 100vw"
+              />
+            </div>
           </div>
         </Container>
       </section>
