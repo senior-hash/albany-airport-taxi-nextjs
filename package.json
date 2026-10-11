@@ -14,7 +14,7 @@
     "generate-service-area-map": "tsx scripts/generate-service-area-map.ts"
   },
   "dependencies": {
-    "next": "16.3.5",
+    "next": "16.4.0",
     "node-sql-parser": "^5.4.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
@@ -22,6 +22,9 @@
     "server-only": "^0.0.1",
     "slugify": "^1.6.9",
     "zod": "^4.6.5"
+  },
+  "overrides": {
+    "postcss-selector-parser": "^7.1.6"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
@@ -36,7 +39,7 @@
     "@types/topojson-client": "^3.1.5",
     "d3-geo": "^3.1.1",
     "eslint": "^9",
-    "eslint-config-next": "16.3.5",
+    "eslint-config-next": "16.4.0",
     "tailwindcss": "^4",
     "topojson-client": "^3.1.0",
     "tsx": "^4.23.13",
