@@ -4,6 +4,7 @@ export const AirportSchema = z.object({
   id: z.number(),
   slug: z.string(),
   name: z.string(),
+  shortName: z.string(),
   code: z.string().nullable(),
   title: z.string(),
   detailHtml: z.string(),

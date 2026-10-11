@@ -58,6 +58,7 @@ export async function generateMetadata({
     const cityCounty = getCountyById(city.countyId);
     const meta = resolveCityMeta(
       airport.name,
+      airport.shortName,
       city.name,
       state?.name ?? "",
       { mtitle: city.mtitle, mdesc: city.mdesc },
@@ -73,7 +74,7 @@ export async function generateMetadata({
   const county = getCountyBySlug(placeSlug);
   if (county) {
     const state = getStateById(county.stateId);
-    const meta = generateCountyMeta(airport.name, county.name, state?.name ?? "");
+    const meta = generateCountyMeta(airport.name, airport.shortName, county.name, state?.name ?? "");
     return {
       title: meta.title,
       description: meta.description,
@@ -95,6 +96,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     const state = getStateById(city.stateId);
     const meta = resolveCityMeta(
       airport.name,
+      airport.shortName,
       city.name,
       state?.name ?? "",
       { mtitle: city.mtitle, mdesc: city.mdesc },
@@ -152,7 +154,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
   const county = getCountyBySlug(placeSlug);
   if (county) {
     const state = getStateById(county.stateId);
-    const meta = generateCountyMeta(airport.name, county.name, state?.name ?? "");
+    const meta = generateCountyMeta(airport.name, airport.shortName, county.name, state?.name ?? "");
     const citiesInCounty = getCitiesByCounty(county.id);
     const isHudsonValley = ["Columbia County", "Greene County", "Ulster County", "Dutchess County"].includes(
       county.name
@@ -185,7 +187,10 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           })}
         />
         <JsonLd data={faqSchema(localFAQ)} />
-        <PageHeading eyebrow={airport.name} title={meta.title.split(" | ")[0]} />
+        <PageHeading
+          eyebrow={airport.name}
+          title={`${airport.name} Taxi Service in ${county.name}, ${state?.name ?? ""}`}
+        />
         <Breadcrumbs
           items={[
             { name: "Home", path: "/" },

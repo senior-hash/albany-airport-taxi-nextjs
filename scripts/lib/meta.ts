@@ -35,9 +35,17 @@ function isPlaceholderCityMeta(mtitle: string, mdesc: string): boolean {
 }
 
 /** City page meta: use the DB's mtitle/mdesc override when present (and not
- * known legacy spun-title junk), else generate. */
+ * known legacy spun-title junk), else generate.
+ *
+ * The <title> tag uses the short airport label (e.g. "JFK Airport", not
+ * "John F. Kennedy International Airport (JFK)") — the full legal name
+ * pushed titles past 100 characters, well beyond Google's ~60-char display
+ * budget, truncating mid-location-name on every templated page. The
+ * meta description keeps the full name since it has a bigger budget and
+ * benefits from the extra clarity. */
 export function resolveCityMeta(
   airportName: string,
+  airportShortName: string,
   cityName: string,
   stateName: string,
   override: { mtitle: string; mdesc: string },
@@ -52,8 +60,8 @@ export function resolveCityMeta(
   const hudsonValley = countyName ? HUDSON_VALLEY_COUNTIES.has(countyName) : false;
   return {
     title: hudsonValley
-      ? `${airportName} Taxi to ${cityName}, ${stateName} | Hudson Valley Car Service`
-      : `${airportName} Taxi to ${cityName}, ${stateName}`,
+      ? `${airportShortName} Taxi to ${cityName}, ${stateName} | Hudson Valley Car Service`
+      : `${airportShortName} Taxi to ${cityName}, ${stateName}`,
     description: hudsonValley
       ? `Reliable ${airportName.toLowerCase()} taxi and car service to and from ${cityName}, ${stateName}, serving the Hudson Valley. Available 24/7. Call ${PHONE} to book.`
       : `Reliable ${airportName.toLowerCase()} taxi and car service to and from ${cityName}, ${stateName}. Available 24/7. Call ${PHONE} to book.`,
@@ -81,17 +89,20 @@ export function hasRealCityDetail(html: string | undefined | null): boolean {
   return !CITY_DETAIL_PLACEHOLDER_MARKERS.some((marker) => text.includes(marker));
 }
 
-/** County pages have no DB-level override column — always generated. */
+/** County pages have no DB-level override column — always generated.
+ *
+ * Same short-title / full-description split as resolveCityMeta above. */
 export function generateCountyMeta(
   airportName: string,
+  airportShortName: string,
   countyName: string,
   stateName: string
 ): { title: string; description: string } {
   const hudsonValley = HUDSON_VALLEY_COUNTIES.has(countyName);
   return {
     title: hudsonValley
-      ? `${airportName} Taxi Service in ${countyName}, ${stateName} | Hudson Valley Car Service`
-      : `${airportName} Taxi Service in ${countyName}, ${stateName}`,
+      ? `${airportShortName} Taxi Service in ${countyName}, ${stateName} | Hudson Valley Car Service`
+      : `${airportShortName} Taxi Service in ${countyName}, ${stateName}`,
     description: hudsonValley
       ? `Airport taxi and car service throughout ${countyName}, ${stateName}, serving the Hudson Valley, to and from ${airportName}. Available 24/7. Call ${PHONE} to book.`
       : `Airport taxi and car service throughout ${countyName}, ${stateName} to and from ${airportName}. Available 24/7. Call ${PHONE} to book.`,
