@@ -19,7 +19,9 @@ import { ProseContent } from "@/components/ProseContent";
 import { BookingCard } from "@/components/BookingCard";
 import { NearbyCities } from "@/components/NearbyCities";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getLocalFAQ } from "@/lib/faq";
 
 export function generateStaticParams() {
   const airports = getAirports();
@@ -161,6 +163,13 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     // truthy, so a plain `||` check would wrongly prefer it over the
     // generated fallback above.
     const hasRealDetail = (county.detailHtml ?? "").trim().length > 60;
+    const localFAQ = getLocalFAQ({
+      countyName: county.name,
+      stateName: state?.name ?? "",
+      cityCount: citiesInCounty.length,
+      trackingPhone: county.trackingPhone,
+      airportName: airport.name,
+    });
 
     return (
       <>
@@ -172,6 +181,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             url: `/airport-taxi/${airport.slug}/${county.slug}`,
           })}
         />
+        <JsonLd data={faqSchema(localFAQ)} />
         <PageHeading eyebrow={airport.name} title={meta.title.split(" | ")[0]} />
         <Breadcrumbs
           items={[
@@ -187,6 +197,9 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             {citiesInCounty.length > 0 && (
               <NearbyCities cities={citiesInCounty} currentSlug="" airportSlug={airport.slug} />
             )}
+            <div className="mt-12">
+              <FAQ items={localFAQ} title={`${county.name} FAQ`} />
+            </div>
           </div>
           <aside>
             <BookingCard

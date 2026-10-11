@@ -5,7 +5,11 @@ import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
 import { RouteLine } from "@/components/RouteLine";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
+import { FAQ } from "@/components/FAQ";
+import { JsonLd } from "@/components/JsonLd";
 import { getAirportDistance } from "@/lib/airport-distances";
+import { GENERAL_FAQ } from "@/lib/faq";
+import { faqSchema } from "@/lib/schema";
 import {
   PlaneIcon,
   RouteIcon,
@@ -185,6 +189,13 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </Container>
+      </section>
+
+      <section className="border-t border-border">
+        <Container className="py-16">
+          <JsonLd data={faqSchema(GENERAL_FAQ)} />
+          <FAQ items={GENERAL_FAQ} />
         </Container>
       </section>
     </>
