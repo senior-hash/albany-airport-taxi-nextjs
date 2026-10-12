@@ -57,7 +57,7 @@ export function Footer() {
             </li>
             <li>
               <a
-                href="https://www.facebook.com/profile.php?id=100073627144127"
+                href="https://www.facebook.com/AlbanyAirportTaxiNY"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-ink"

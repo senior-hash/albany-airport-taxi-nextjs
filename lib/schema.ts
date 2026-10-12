@@ -42,7 +42,7 @@ export function organizationSchema() {
     // Real social/review profile URLs (see plan: Trust Signals). Add
     // Instagram here too once that URL is provided.
     sameAs: [
-      "https://www.facebook.com/profile.php?id=100073627144127",
+      "https://www.facebook.com/AlbanyAirportTaxiNY",
       "https://www.tripadvisor.com/Attraction_Review-g29786-d27933560-Reviews-Albany_Airport_Taxi_Limo_Service_Airport_Transfer-Albany_New_York.html",
       "https://www.yelp.com/biz/albany-airport-taxi-service-albany-2",
     ] as string[],
