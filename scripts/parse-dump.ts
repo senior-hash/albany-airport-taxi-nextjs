@@ -152,17 +152,28 @@ function main() {
   );
 
   // ---- kc_city ----
+  // stateId is derived from the city's own county rather than trusted from the
+  // row's `state` column directly: every Greene County row in the legacy DB
+  // has state=2 (Massachusetts) instead of the county's actual state=1 (New
+  // York) — a data-entry bug confirmed across all 36 Greene County cities,
+  // none of which are actually in Massachusetts. A city can't legitimately be
+  // in a different state than its own county, so the county's state wins.
+  const countyById = new Map(counties.map((c) => [c.id, c]));
   const cityRows = extractInsertRows(sql, "kc_city");
-  const cities = cityRows.map((row) => ({
-    id: asNumber(row.cityid),
-    name: asString(row.city),
-    countyId: asNumber(row.county),
-    stateId: asNumber(row.state),
-    detailHtml: sanitize(asString(row.city_detail), `kc_city#${row.cityid}`),
-    mtitle: asPlainText(row.mtitle),
-    mdesc: asString(row.mdesc),
-    mkey: asString(row.mkey),
-  }));
+  const cities = cityRows.map((row) => {
+    const countyId = asNumber(row.county);
+    const county = countyById.get(countyId);
+    return {
+      id: asNumber(row.cityid),
+      name: asString(row.city),
+      countyId,
+      stateId: county ? county.stateId : asNumber(row.state),
+      detailHtml: sanitize(asString(row.city_detail), `kc_city#${row.cityid}`),
+      mtitle: asPlainText(row.mtitle),
+      mdesc: asString(row.mdesc),
+      mkey: asString(row.mkey),
+    };
+  });
 
   // Cross-check: which client-supplied towns per NY/MA county are missing from
   // the DB-derived city list? (Report only — this is a data-quality signal for
