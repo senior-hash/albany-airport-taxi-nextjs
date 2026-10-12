@@ -77,17 +77,22 @@ export function getLegacyBlogPosts(): BlogPost[] {
     .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")) as BlogPost);
   return (cache.blogPosts = posts);
 }
+function loadBlogDir(dirName: string): BlogPost[] {
+  const dir = path.join(CONTENT_DIR, "blog", dirName);
+  if (!fs.existsSync(dir)) return [];
+  return fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")) as BlogPost);
+}
+
 export function getAllBlogPosts(): BlogPost[] {
   // Soro-published posts will land in content/blog/soro/*.json following the
   // same shape; merge them in here once that directory has content.
-  const soroDir = path.join(CONTENT_DIR, "blog", "soro");
-  const soroPosts = fs.existsSync(soroDir)
-    ? fs
-        .readdirSync(soroDir)
-        .filter((f) => f.endsWith(".json"))
-        .map((f) => JSON.parse(fs.readFileSync(path.join(soroDir, f), "utf8")) as BlogPost)
-    : [];
-  return [...getLegacyBlogPosts(), ...soroPosts];
+  // content/blog/original/*.json holds hand-authored original-research
+  // pieces (source: "original") — real, independently sourced/analyzed
+  // content meant to be citable, not scraped legacy copy or AI-generated.
+  return [...getLegacyBlogPosts(), ...loadBlogDir("soro"), ...loadBlogDir("original")];
 }
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
   return getAllBlogPosts().find((p) => p.slug === slug);

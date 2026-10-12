@@ -74,6 +74,15 @@ export default async function AirportPage({
             </p>
           )}
           <ProseContent html={airport.detailHtml} />
+          {airport.slug === "alb" && (
+            <p className="mt-6 text-sm text-ink-muted">
+              Curious how often ALB flights actually run on time? See our{" "}
+              <Link href="/blog/alb-flight-delays-parking-data" className="text-accent hover:underline">
+                look at the real delay and passenger-volume data
+              </Link>
+              .
+            </p>
+          )}
         </div>
         <aside className="space-y-6">
           <BookingCard />

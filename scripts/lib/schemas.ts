@@ -80,6 +80,6 @@ export const BlogPostSchema = z.object({
   mdesc: z.string(),
   mkey: z.string(),
   publishedAt: z.string().nullable(),
-  source: z.enum(["legacy", "soro"]),
+  source: z.enum(["legacy", "soro", "original"]),
 });
 export type BlogPost = z.infer<typeof BlogPostSchema>;
