@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
 import { getAirports, getCounties } from "@/lib/content";
+import { SOCIAL } from "@/lib/business";
 import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
 import { RouteLine } from "@/components/RouteLine";
@@ -29,8 +30,6 @@ import {
 // Real company founding year (see About page: founded late 2002) — computed
 // rather than hardcoded so this never needs an annual update.
 const FOUNDED_YEAR = 2002;
-const TRIPADVISOR_URL =
-  "https://www.tripadvisor.com/Attraction_Review-g29786-d27933560-Reviews-Albany_Airport_Taxi_Limo_Service_Airport_Transfer-Albany_New_York.html";
 
 export const metadata: Metadata = {
   description:
@@ -106,12 +105,12 @@ export default function HomePage() {
       value: (
         <span className="inline-flex items-center gap-1.5">
           <StarIcon className="h-6 w-6 text-accent-bright" />
-          4.7
+          {SOCIAL.tripadvisorRating}
         </span>
       ),
       label: (
-        <a href={TRIPADVISOR_URL} target="_blank" rel="noopener noreferrer" className="hover:underline">
-          12 reviews on TripAdvisor
+        <a href={SOCIAL.tripadvisor} target="_blank" rel="noopener noreferrer" className="hover:underline">
+          {SOCIAL.tripadvisorReviewCount} reviews on TripAdvisor
         </a>
       ),
     },

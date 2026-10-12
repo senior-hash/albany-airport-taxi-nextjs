@@ -1,7 +1,8 @@
 import Link from "next/link";
 import { BUSINESS } from "@/lib/content";
+import { SOCIAL } from "@/lib/business";
 import { Container } from "@/components/Container";
-import { PhoneIcon, ClockIcon } from "@/components/icons";
+import { PhoneIcon, ClockIcon, FacebookIcon, TripAdvisorIcon } from "@/components/icons";
 
 export function Footer() {
   const year = new Date().getFullYear();
@@ -55,17 +56,30 @@ export function Footer() {
               <ClockIcon className="h-4 w-4 shrink-0 text-accent" />
               Available 24/7
             </li>
-            <li>
-              <a
-                href="https://www.facebook.com/AlbanyAirportTaxiNY"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-ink"
-              >
-                Facebook
-              </a>
-            </li>
           </ul>
+          <div className="mt-4 flex items-center gap-4">
+            <a
+              href={SOCIAL.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Follow us on Facebook"
+              className="text-ink-muted transition-colors hover:text-accent"
+            >
+              <FacebookIcon className="h-5 w-5" />
+            </a>
+            <a
+              href={SOCIAL.tripadvisor}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`${SOCIAL.tripadvisorRating} stars, ${SOCIAL.tripadvisorReviewCount} reviews on TripAdvisor`}
+              className="flex items-center gap-1.5 text-ink-muted transition-colors hover:text-accent"
+            >
+              <TripAdvisorIcon className="h-5 w-5" />
+              <span className="text-xs">
+                {SOCIAL.tripadvisorRating} ({SOCIAL.tripadvisorReviewCount})
+              </span>
+            </a>
+          </div>
         </div>
       </Container>
       <div className="border-t border-border py-6 text-center text-xs text-ink-muted">
