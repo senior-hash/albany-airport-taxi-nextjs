@@ -9,7 +9,7 @@ export function Footer() {
     <footer className="mt-24 border-t border-border bg-surface">
       <Container className="grid gap-10 py-16 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <p className="text-lg font-semibold text-primary">{BUSINESS.name}</p>
+          <p className="font-logo text-lg font-bold text-primary">{BUSINESS.name}</p>
           <p className="mt-3 text-sm text-ink-muted">
             Serving the Albany, NY area and surrounding counties in New York,
             Massachusetts, and Vermont, 24 hours a day.

@@ -6,8 +6,8 @@ export const contentType = "image/png";
 
 // Apple's own mask rounds the corners of whatever square we give it, so
 // (unlike icon.svg's circle-on-transparent) this needs a full-bleed square
-// background or the corners show through as transparent/white. Same car
-// glyph as icon.svg for visual consistency.
+// background or the corners show through as transparent/white. Same "A"
+// monogram as icon.svg for visual consistency with the wordmark logo.
 export default function AppleIcon() {
   return new ImageResponse(
     (
@@ -21,24 +21,7 @@ export default function AppleIcon() {
           background: "#0f2d57",
         }}
       >
-        <svg width="128" height="128" viewBox="0 0 24 24" fill="none">
-          <path
-            d="M4 16V11l2-5h12l2 5v5"
-            stroke="#ffc72c"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M2 16h20v3a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-1H6v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-3Z"
-            stroke="#ffc72c"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <circle cx="7" cy="16" r="1.6" fill="#ffc72c" />
-          <circle cx="17" cy="16" r="1.6" fill="#ffc72c" />
-        </svg>
+        <span style={{ fontSize: 100, fontWeight: 700, color: "#ffc72c" }}>A</span>
       </div>
     ),
     { ...size }

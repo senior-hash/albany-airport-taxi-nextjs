@@ -34,6 +34,8 @@
   --color-accent-bright-hover: var(--color-accent-bright-hover);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  /* Brand wordmark only (Header/Footer logo) — not a sitewide heading font. */
+  --font-logo: var(--font-space-grotesk);
 }
 
 body {

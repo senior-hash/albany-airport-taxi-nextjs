@@ -33,8 +33,9 @@ export function Header() {
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-surface/95 backdrop-blur">
       <Container className="relative flex h-20 items-center justify-between gap-6">
-        <Link href="/" className="text-lg font-semibold tracking-tight text-primary">
-          Albany Airport Taxi <span className="text-ink-muted font-normal">&amp; Limo</span>
+        <Link href="/" className="flex flex-col leading-none">
+          <span className="font-logo text-lg font-bold tracking-tight text-primary">Albany Airport Taxi</span>
+          <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent">&amp; Limo</span>
         </Link>
         <nav className="hidden items-center gap-6 text-sm text-ink-muted lg:flex">
           {NAV_LINKS.slice(1).map((link) => (
