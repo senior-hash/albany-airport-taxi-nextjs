@@ -1,4 +1,4 @@
-import { BUSINESS } from "@/lib/content";
+import { BUSINESS } from "@/lib/business";
 import { phoneToTelHref } from "@/lib/phone";
 
 /**

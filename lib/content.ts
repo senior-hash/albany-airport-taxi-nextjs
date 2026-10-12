@@ -98,13 +98,4 @@ export function getBlogPostBySlug(slug: string): BlogPost | undefined {
   return getAllBlogPosts().find((p) => p.slug === slug);
 }
 
-export const BUSINESS = {
-  name: "Albany Airport Taxi and Limo Service",
-  phone: "+1-518-327-0700",
-  phoneDisplay: "(518) 327-0700",
-  email: "info@albanyairport.taxi",
-  streetAddress: "1410 Curry Road",
-  addressLocality: "Rotterdam",
-  addressRegion: "NY",
-  postalCode: "12306",
-} as const;
+export { BUSINESS } from "./business";

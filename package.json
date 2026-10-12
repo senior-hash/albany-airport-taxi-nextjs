@@ -12,6 +12,7 @@
     "generate-redirects": "tsx scripts/generate-redirects.ts",
     "generate-htaccess": "tsx scripts/generate-htaccess.ts",
     "generate-service-area-map": "tsx scripts/generate-service-area-map.ts",
+    "generate-local-phones": "tsx scripts/generate-local-phones.ts",
     "fetch-soro-posts": "tsx scripts/fetch-soro-posts.ts"
   },
   "dependencies": {

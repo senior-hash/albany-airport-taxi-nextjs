@@ -1,7 +1,11 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { CallButton } from "@/components/CallButton";
 import { Container } from "@/components/Container";
 import { MobileMenu } from "@/components/MobileMenu";
+import { LOCAL_PHONE_BY_SLUG } from "@/lib/local-phones";
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
@@ -13,7 +17,19 @@ const NAV_LINKS = [
   { href: "/contact", label: "Contact" },
 ];
 
+/** On a /airport-taxi/[airport]/[place] page, swap the header's call button to
+ * that county's real local number client-side — the server-rendered markup
+ * (what crawlers and JS-disabled visitors see) keeps the one canonical
+ * number for NAP consistency with the Organization JSON-LD, since the
+ * header is identical sitewide chrome rather than page-specific content. */
+function useLocalPhone(): string | undefined {
+  const pathname = usePathname();
+  const placeSlug = pathname.match(/^\/airport-taxi\/[^/]+\/([^/]+)\/?$/)?.[1];
+  return placeSlug ? LOCAL_PHONE_BY_SLUG[placeSlug] : undefined;
+}
+
 export function Header() {
+  const localPhone = useLocalPhone();
   return (
     <header className="sticky top-0 z-10 border-b border-border bg-surface/95 backdrop-blur">
       <Container className="relative flex h-20 items-center justify-between gap-6">
@@ -28,7 +44,7 @@ export function Header() {
           ))}
         </nav>
         <div className="flex items-center gap-3">
-          <CallButton className="shrink-0 text-sm" />
+          <CallButton className="shrink-0 text-sm" phone={localPhone} phoneDisplay={localPhone} />
           <MobileMenu links={NAV_LINKS} />
         </div>
       </Container>
