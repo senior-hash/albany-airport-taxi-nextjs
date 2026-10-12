@@ -4,6 +4,15 @@
 // node:fs-based content loader into the browser bundle.
 export const BUSINESS = {
   name: "Albany Airport Taxi and Limo Service",
+  // Per NY Dept. of State Certificate of Assumed Name (filed 5/15/2023,
+  // assumed name ID 6833719): the real legal entity is Albany Airport Taxi
+  // LLC — "US Limo and Taxi" is the assumed name (DBA) filed on top of it,
+  // not the other way around. The site's consumer-facing brand already
+  // matches the real legal name, so no rebrand is needed — this is only
+  // used where a legal/registered name is actually called for (schema.org
+  // legalName, footer fine print, etc.), not in everyday marketing copy.
+  legalName: "Albany Airport Taxi LLC",
+  dba: "US Limo and Taxi",
   phone: "+1-518-327-0700",
   phoneDisplay: "(518) 327-0700",
   email: "info@albanyairport.taxi",

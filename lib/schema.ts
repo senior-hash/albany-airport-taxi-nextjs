@@ -5,9 +5,11 @@ const SITE_URL = "https://albanyairport.taxi";
 export function organizationSchema() {
   return {
     "@context": "https://schema.org",
-    "@type": "TaxiService",
+    "@type": ["TaxiService", "Organization"],
     "@id": `${SITE_URL}/#organization`,
     name: BUSINESS.name,
+    legalName: BUSINESS.legalName,
+    alternateName: BUSINESS.dba,
     telephone: BUSINESS.phone,
     email: BUSINESS.email,
     url: SITE_URL,
