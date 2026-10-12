@@ -3,13 +3,15 @@
 import { useRef, useState } from "react";
 import Script from "next/script";
 
-// Static export can't run server code, so this form posts to an external
-// form-backend service (see plan: "the contact form endpoint"). Point
-// NEXT_PUBLIC_CONTACT_FORM_ENDPOINT at whichever service is chosen
-// (Formspree, Web3Forms, or a small PHP endpoint kept on the existing
-// cPanel hosting) — this is a client-facing decision noted as pending in
-// the plan, not something to pick unilaterally here.
-const ENDPOINT = process.env.NEXT_PUBLIC_CONTACT_FORM_ENDPOINT ?? "";
+// Static export can't run server code, so this form posts to Web3Forms
+// (api.web3forms.com/submit — a fixed endpoint, same for every account; the
+// per-site secret is the access_key field below, not the URL). Chosen over
+// Formspree/a custom PHP endpoint: no account/password to manage, and no new
+// server-side code added to the cPanel account that was previously
+// compromised. Get a key at web3forms.com (just an email address, no
+// account) and set NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY.
+const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
+const ACCESS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? "";
 
 // The legacy site's contact form had zero spam protection and was
 // generating a steady stream of junk email. reCAPTCHA v2 (checkbox) is
@@ -33,6 +35,7 @@ declare global {
 
 export function ContactForm() {
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error" | "captcha-required">("idle");
+  const [errorMessage, setErrorMessage] = useState("");
   const [captchaToken, setCaptchaToken] = useState("");
   const captchaRef = useRef<HTMLDivElement>(null);
   const widgetId = useRef<number | null>(null);
@@ -48,7 +51,7 @@ export function ContactForm() {
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
-    if (!ENDPOINT) {
+    if (!ACCESS_KEY) {
       setStatus("error");
       return;
     }
@@ -61,28 +64,31 @@ export function ContactForm() {
     const formData = new FormData(form);
     if (captchaToken) formData.set("g-recaptcha-response", captchaToken);
     try {
-      const res = await fetch(ENDPOINT, {
+      const res = await fetch(WEB3FORMS_ENDPOINT, {
         method: "POST",
-        headers: { Accept: "application/json" },
-        body: formData,
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(Object.fromEntries(formData)),
       });
-      setStatus(res.ok ? "sent" : "error");
-      if (res.ok) {
+      const json = await res.json().catch(() => null);
+      setStatus(res.status === 200 ? "sent" : "error");
+      if (res.status === 200) {
         form.reset();
         setCaptchaToken("");
         if (window.grecaptcha && widgetId.current !== null) window.grecaptcha.reset(widgetId.current);
+      } else {
+        setErrorMessage(json?.message ?? "");
       }
     } catch {
       setStatus("error");
     }
   }
 
-  if (!ENDPOINT) {
+  if (!ACCESS_KEY) {
     return (
       <p className="rounded-lg border border-border bg-surface p-6 text-sm text-ink-muted">
         Contact form backend not yet configured — set{" "}
-        <code className="rounded bg-background px-1">NEXT_PUBLIC_CONTACT_FORM_ENDPOINT</code>{" "}
-        once a form-backend service is chosen. Call or email us directly in the meantime.
+        <code className="rounded bg-background px-1">NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY</code>{" "}
+        (get a free key at web3forms.com). Call or email us directly in the meantime.
       </p>
     );
   }
@@ -112,8 +118,11 @@ export function ContactForm() {
         <label htmlFor="message" className="block text-sm font-medium text-ink">Message</label>
         <textarea id="message" name="message" rows={4} required className="mt-1 w-full rounded-md border border-border px-3 py-2" />
       </div>
-      {/* honeypot field — invisible to real users, bots fill it in */}
-      <input type="text" name="_gotcha" className="hidden" tabIndex={-1} autoComplete="off" />
+      <input type="hidden" name="access_key" value={ACCESS_KEY} />
+      <input type="hidden" name="subject" value="New contact form submission — Albany Airport Taxi" />
+      <input type="hidden" name="from_name" value="Albany Airport Taxi Website" />
+      {/* honeypot field (Web3Forms' own convention) — invisible to real users, bots fill it in */}
+      <input type="checkbox" name="botcheck" className="hidden" tabIndex={-1} autoComplete="off" />
       {RECAPTCHA_SITE_KEY && <div ref={captchaRef} />}
       <button
         type="submit"
@@ -123,7 +132,11 @@ export function ContactForm() {
         {status === "sending" ? "Sending…" : "Send Message"}
       </button>
       {status === "sent" && <p className="text-sm text-green-700">Thanks — we&rsquo;ll be in touch shortly.</p>}
-      {status === "error" && <p className="text-sm text-red-700">Something went wrong. Please call us instead.</p>}
+      {status === "error" && (
+        <p className="text-sm text-red-700">
+          {errorMessage || "Something went wrong."} Please call us instead.
+        </p>
+      )}
       {status === "captcha-required" && (
         <p className="text-sm text-red-700">Please check the &ldquo;I&rsquo;m not a robot&rdquo; box before sending.</p>
       )}

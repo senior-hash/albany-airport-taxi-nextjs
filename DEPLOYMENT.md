@@ -18,12 +18,12 @@ npm run build
 
 Output lands in `/out`. This is everything that needs to go on the server.
 
-If the contact form backend has been chosen (see "Still open" below), set
-its endpoint before building, along with a reCAPTCHA site key to keep the
-form from becoming a junk-mail source the way the legacy site's did:
+The contact form posts to Web3Forms (see "Still open" below for setup) —
+set its access key before building, along with a reCAPTCHA site key to keep
+the form from becoming a junk-mail source the way the legacy site's did:
 
 ```bash
-NEXT_PUBLIC_CONTACT_FORM_ENDPOINT="https://your-form-backend.example/f/xxxx" \
+NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY="your-web3forms-access-key" \
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY="your-recaptcha-v2-site-key" \
 npm run build
 ```
@@ -96,10 +96,16 @@ cutover.
 
 ## Still open before a full production launch
 
-- **Contact form backend** — pick Formspree, Web3Forms, or a small PHP
-  endpoint kept on this same cPanel hosting, then set
-  `NEXT_PUBLIC_CONTACT_FORM_ENDPOINT` (step 1 above). Until this is set, the
-  contact page shows a "not yet configured" notice instead of a form.
+- **Contact form backend** — decided: [Web3Forms](https://web3forms.com).
+  Chosen over Formspree (full account + lower free-tier limit) and a custom
+  PHP endpoint (would add new server-side code to the cPanel account that
+  was previously compromised). To finish setup:
+  1. Go to web3forms.com and submit the email that should receive
+     submissions — no account/password needed, you get an access key by
+     email instantly. Free tier: 250 submissions/month.
+  2. Set `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` to that key before building
+     (step 1 above). Until this is set, the contact page shows a "not yet
+     configured" notice instead of a form.
 - **reCAPTCHA site key** — register the live domain at
   google.com/recaptcha/admin (choose reCAPTCHA v2, "I'm not a robot"
   checkbox) and set `NEXT_PUBLIC_RECAPTCHA_SITE_KEY` (step 1 above). The
