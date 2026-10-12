@@ -160,20 +160,26 @@ function main() {
   // in a different state than its own county, so the county's state wins.
   const countyById = new Map(counties.map((c) => [c.id, c]));
   const cityRows = extractInsertRows(sql, "kc_city");
-  const cities = cityRows.map((row) => {
-    const countyId = asNumber(row.county);
-    const county = countyById.get(countyId);
-    return {
-      id: asNumber(row.cityid),
-      name: asString(row.city),
-      countyId,
-      stateId: county ? county.stateId : asNumber(row.state),
-      detailHtml: sanitize(asString(row.city_detail), `kc_city#${row.cityid}`),
-      mtitle: asPlainText(row.mtitle),
-      mdesc: asString(row.mdesc),
-      mkey: asString(row.mkey),
-    };
-  });
+  const cities = cityRows
+    // cityid 25 is a duplicate "Troy" wrongly filed under Albany County in
+    // the legacy DB — Troy, NY is entirely within Rensselaer County (cityid
+    // 308 is the real, correctly-filed entry). Drop the bad duplicate rather
+    // than ship a second Troy page claiming the wrong county.
+    .filter((row) => asNumber(row.cityid) !== 25)
+    .map((row) => {
+      const countyId = asNumber(row.county);
+      const county = countyById.get(countyId);
+      return {
+        id: asNumber(row.cityid),
+        name: asString(row.city),
+        countyId,
+        stateId: county ? county.stateId : asNumber(row.state),
+        detailHtml: sanitize(asString(row.city_detail), `kc_city#${row.cityid}`),
+        mtitle: asPlainText(row.mtitle),
+        mdesc: asString(row.mdesc),
+        mkey: asString(row.mkey),
+      };
+    });
 
   // Cross-check: which client-supplied towns per NY/MA county are missing from
   // the DB-derived city list? (Report only — this is a data-quality signal for

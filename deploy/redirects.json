@@ -565,15 +565,15 @@
   },
   {
     "from": "/car-detail.php?id=128",
-    "to": "/cars/chevrolet-suburban"
+    "to": "/cars/toyota-highlander"
   },
   {
     "from": "/car-detail.php?id=129",
-    "to": "/cars/honda-passport"
+    "to": "/cars/honda-crv"
   },
   {
     "from": "/car-detail.php?id=130",
-    "to": "/cars/lincoln-mkt"
+    "to": "/cars/chrysler-pacifica"
   },
   {
     "from": "/car-detail.php?id=156",
@@ -677,7 +677,7 @@
   },
   {
     "from": "/service-city-detail.php?id=335&coid=25",
-    "to": "/airport-taxi/logan/troy-albany-county"
+    "to": "/airport-taxi/logan/troy-rensselaer-county"
   },
   {
     "from": "/service-city-detail.php?id=335&coid=26",
@@ -2777,7 +2777,7 @@
   },
   {
     "from": "/service-city-detail.php?id=334&coid=25",
-    "to": "/airport-taxi/nyc/troy-albany-county"
+    "to": "/airport-taxi/nyc/troy-rensselaer-county"
   },
   {
     "from": "/service-city-detail.php?id=334&coid=26",

@@ -7,6 +7,13 @@ const OUT_DIR = path.join(__dirname, "..", "deploy");
 
 type Redirect = { from: string; to: string };
 
+// Legacy kc_city ids whose record was removed from content/cities.json as bad
+// data — map their old URLs to the correct replacement city instead of
+// letting them fall through to "no mapping found". cityid 25 was a duplicate
+// "Troy" wrongly filed under Albany County (Troy, NY is entirely within
+// Rensselaer County, cityid 308, the real entry).
+const LEGACY_CITY_ID_ALIASES: Record<number, number> = { 25: 308 };
+
 function loadJson<T>(filename: string): T {
   return JSON.parse(fs.readFileSync(path.join(CONTENT_DIR, filename), "utf8")) as T;
 }
@@ -80,7 +87,8 @@ function main() {
       to = airport && county ? `/airport-taxi/${airport.slug}/${county.slug}` : null;
     } else if (pathname === "service-city-detail.php") {
       const airport = airportById.get(Number(params.get("id")));
-      const city = cityById.get(Number(params.get("coid")));
+      const coid = Number(params.get("coid"));
+      const city = cityById.get(LEGACY_CITY_ID_ALIASES[coid] ?? coid);
       to = airport && city ? `/airport-taxi/${airport.slug}/${city.slug}` : null;
     } else if (pathname === "car-detail.php") {
       const car = carById.get(Number(params.get("id")));

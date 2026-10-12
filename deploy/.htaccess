@@ -287,11 +287,11 @@ RewriteCond %{QUERY_STRING} ^id=335$
 RewriteRule ^blog-detail\.php$ /blog/airport-limo-services-are-often-seen-by-most? [R=301,L]
 RewriteRule ^index\.php$ /? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=128$
-RewriteRule ^car-detail\.php$ /cars/chevrolet-suburban? [R=301,L]
+RewriteRule ^car-detail\.php$ /cars/toyota-highlander? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=129$
-RewriteRule ^car-detail\.php$ /cars/honda-passport? [R=301,L]
+RewriteRule ^car-detail\.php$ /cars/honda-crv? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=130$
-RewriteRule ^car-detail\.php$ /cars/lincoln-mkt? [R=301,L]
+RewriteRule ^car-detail\.php$ /cars/chrysler-pacifica? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=156$
 RewriteRule ^car-detail\.php$ /cars? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=335&coid=1$
@@ -343,7 +343,7 @@ RewriteRule ^service-city-detail\.php$ /airport-taxi/logan/slingerlands? [R=301,
 RewriteCond %{QUERY_STRING} ^id=335&coid=24$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/logan/south-bethlehem? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=335&coid=25$
-RewriteRule ^service-city-detail\.php$ /airport-taxi/logan/troy-albany-county? [R=301,L]
+RewriteRule ^service-city-detail\.php$ /airport-taxi/logan/troy-rensselaer-county? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=335&coid=26$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/logan/voorheesville? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=335&coid=27$
@@ -1393,7 +1393,7 @@ RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/slingerlands? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=24$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/south-bethlehem? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=25$
-RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/troy-albany-county? [R=301,L]
+RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/troy-rensselaer-county? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=26$
 RewriteRule ^service-city-detail\.php$ /airport-taxi/nyc/voorheesville? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=334&coid=27$

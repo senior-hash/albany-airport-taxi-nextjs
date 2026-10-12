@@ -3,7 +3,7 @@ import { test, expect } from "@playwright/test";
 const PAGES = [
   { path: "/", name: "home" },
   { path: "/airport-taxi/jfk", name: "airport detail" },
-  { path: "/airport-taxi/jfk/troy-albany-county", name: "city (via [placeSlug])" },
+  { path: "/airport-taxi/jfk/troy-rensselaer-county", name: "city (via [placeSlug])" },
   { path: "/airport-taxi/alb/albany-county", name: "county (via [placeSlug])" },
   { path: "/cars", name: "cars list" },
   { path: "/cars/toyota-highlander", name: "car detail" },
