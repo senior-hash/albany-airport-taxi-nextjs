@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { getAirports } from "@/lib/content";
+import { getAirports, getCounties } from "@/lib/content";
 import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
 import { RouteLine } from "@/components/RouteLine";
@@ -23,7 +23,14 @@ import {
   HomeIcon,
   UsersIcon,
   BriefcaseIcon,
+  StarIcon,
 } from "@/components/icons";
+
+// Real company founding year (see About page: founded late 2002) — computed
+// rather than hardcoded so this never needs an annual update.
+const FOUNDED_YEAR = 2002;
+const TRIPADVISOR_URL =
+  "https://www.tripadvisor.com/Attraction_Review-g29786-d27933560-Reviews-Albany_Airport_Taxi_Limo_Service_Airport_Transfer-Albany_New_York.html";
 
 export const metadata: Metadata = {
   description:
@@ -90,6 +97,27 @@ const MORE_WAYS = [
 
 export default function HomePage() {
   const airports = getAirports();
+  const countyCount = getCounties().length;
+  const yearsInBusiness = new Date().getFullYear() - FOUNDED_YEAR;
+
+  const TRUST_STATS = [
+    { value: `${yearsInBusiness} Years`, label: `In business since ${FOUNDED_YEAR}` },
+    {
+      value: (
+        <span className="inline-flex items-center gap-1.5">
+          <StarIcon className="h-6 w-6 text-accent-bright" />
+          4.7
+        </span>
+      ),
+      label: (
+        <a href={TRIPADVISOR_URL} target="_blank" rel="noopener noreferrer" className="hover:underline">
+          12 reviews on TripAdvisor
+        </a>
+      ),
+    },
+    { value: `${countyCount} Counties`, label: "Across NY, VT & MA" },
+    { value: "24/7", label: "Always available" },
+  ];
 
   return (
     <>
@@ -127,6 +155,19 @@ export default function HomePage() {
               ))}
             </dl>
           </div>
+        </Container>
+      </section>
+
+      <section className="border-b border-border bg-surface">
+        <Container className="py-10">
+          <dl className="grid grid-cols-2 gap-8 sm:grid-cols-4">
+            {TRUST_STATS.map(({ value, label }, i) => (
+              <div key={i} className="text-center sm:text-left">
+                <dt className="text-2xl font-semibold tracking-tight text-primary sm:text-3xl">{value}</dt>
+                <dd className="mt-1 text-sm text-ink-muted">{label}</dd>
+              </div>
+            ))}
+          </dl>
         </Container>
       </section>
 
