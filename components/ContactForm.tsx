@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Script from "next/script";
 
 // Static export can't run server code, so this form posts to Web3Forms
@@ -30,6 +30,11 @@ declare global {
       ) => number;
       reset: (widgetId?: number) => void;
     };
+    // Named in the script URL's `onload=` param below. Google's recaptcha
+    // API calls this itself once `grecaptcha.render` is actually ready —
+    // the script tag's own DOM "load" event fires too early (grecaptcha
+    // isn't fully initialized yet), which is a well-documented gotcha.
+    onRecaptchaApiLoad?: () => void;
   }
 }
 
@@ -48,6 +53,13 @@ export function ContactForm() {
       "expired-callback": () => setCaptchaToken(""),
     });
   }
+
+  useEffect(() => {
+    window.onRecaptchaApiLoad = renderCaptcha;
+    return () => {
+      delete window.onRecaptchaApiLoad;
+    };
+  }, []);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -97,9 +109,8 @@ export function ContactForm() {
     <form onSubmit={handleSubmit} className="space-y-4">
       {RECAPTCHA_SITE_KEY && (
         <Script
-          src="https://www.google.com/recaptcha/api.js?render=explicit"
+          src="https://www.google.com/recaptcha/api.js?render=explicit&onload=onRecaptchaApiLoad"
           strategy="afterInteractive"
-          onLoad={renderCaptcha}
         />
       )}
       <div>
