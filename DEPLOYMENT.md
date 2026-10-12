@@ -28,6 +28,23 @@ NEXT_PUBLIC_RECAPTCHA_SITE_KEY="your-recaptcha-v2-site-key" \
 npm run build
 ```
 
+## 1b. Pull new Soro blog posts (only needed if Soro has published since the last build)
+
+Soro has no native Next.js/headless connector — only WordPress and Shopify
+integrations. The bridge is a headless WordPress instance (not customer-
+facing) that the Soro WordPress plugin publishes into; this script pulls
+its published posts via the WP REST API and converts them into this
+project's blog post format:
+
+```bash
+SORO_WORDPRESS_URL="https://content.albanyairport.taxi" npm run fetch-soro-posts
+```
+
+This fully replaces `content/blog/soro/` each run (WordPress is the source
+of truth — unpublishing a post there removes it here on the next run). Run
+this before `npm run build` so new posts are included in the static export.
+See "Still open" below for the current status of the WordPress side.
+
 ## 2. Regenerate redirects (only needed if content/slugs changed)
 
 ```bash
@@ -92,13 +109,22 @@ cutover.
 - ~~Call-tracking phone numbers~~ — done. Real static numbers for all 23
   counties are in `scripts/lib/county-tracking-phones.json`, rendered
   server-side on county pages and inherited by their cities.
+- ~~Real fleet photography~~ — done. Real photos of the current fleet
+  (Toyota Highlander, Honda CR-V, Chrysler Pacifica, Toyota Sienna, Kia EV9,
+  Cadillac Escalade IQ) are live under `/cars` and on the homepage. A real
+  logo is still outstanding.
 - **TripAdvisor / Facebook / Instagram links** — add to
   `lib/schema.ts`'s `sameAs` array once you have the real URLs, and wire up
   the footer/header social icons (currently omitted rather than linking
   nowhere, unlike the legacy site's dead `href="#"` links).
-- **Real fleet/location photography** and **a real logo** — the site
-  currently has no images at all (deliberately, rather than reusing the
-  legacy site's stock Themescare photos).
+- **Soro → WordPress connection** — `npm run fetch-soro-posts` (see step 1b
+  above) is built and tested, but there's no headless WordPress instance
+  for it to pull from yet. Needs: a WordPress install (subdomain on this
+  same cPanel account, hardened — strong unique password, auto-updates,
+  minimal plugins, given this account's prior compromise), the Soro
+  WordPress plugin installed and connected with a Soro API key, then the
+  site URL passed to `fetch-soro-posts`. Until then, new blog content has
+  to be added by hand to `content/blog/original/` or `content/blog/legacy/`.
 - **"Colonie" is missing** from both the legacy database and the
   client-supplied town list, despite being a major town adjacent to Albany
   International Airport — worth adding real content for it.
