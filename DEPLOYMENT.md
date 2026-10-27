@@ -18,13 +18,16 @@ npm run build
 
 Output lands in `/out`. This is everything that needs to go on the server.
 
-The contact form posts to Web3Forms (see "Still open" below for setup) —
-set its access key before building, along with a reCAPTCHA site key to keep
-the form from becoming a junk-mail source the way the legacy site's did:
+The contact form posts to Web3Forms, and reCAPTCHA keeps it from becoming
+a junk-mail source the way the legacy site's did — both are live and
+already configured in this machine's local `.env.local` (gitignored, never
+committed). **The real build command for a production deploy must set the
+same two values**, or the live site will ship with the contact form showing
+its "not yet configured" notice and no spam protection:
 
 ```bash
-NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY="your-web3forms-access-key" \
-NEXT_PUBLIC_RECAPTCHA_SITE_KEY="your-recaptcha-v2-site-key" \
+NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY="<the real access key>" \
+NEXT_PUBLIC_RECAPTCHA_SITE_KEY="<the real site key>" \
 npm run build
 ```
 
@@ -94,43 +97,39 @@ domain that's still actively receiving whatever traffic it gets today, and
 should happen after the staging check above, with you driving the actual
 cutover.
 
-## Still open before a full production launch
+## Status (updated after the Google Ads landing-page/call-tracking build)
 
-- **Contact form backend** — decided: [Web3Forms](https://web3forms.com).
-  Chosen over Formspree (full account + lower free-tier limit) and a custom
-  PHP endpoint (would add new server-side code to the cPanel account that
-  was previously compromised). To finish setup:
-  1. Go to web3forms.com and submit the email that should receive
-     submissions — no account/password needed, you get an access key by
-     email instantly. Free tier: 250 submissions/month.
-  2. Set `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` to that key before building
-     (step 1 above). Until this is set, the contact page shows a "not yet
-     configured" notice instead of a form.
-- **reCAPTCHA site key** — register the live domain at
-  google.com/recaptcha/admin (choose reCAPTCHA v2, "I'm not a robot"
-  checkbox) and set `NEXT_PUBLIC_RECAPTCHA_SITE_KEY` (step 1 above). The
-  form works without it (falls back to just the honeypot field), but the
-  legacy site's form had none and was a steady source of junk email —
-  worth setting before this form goes live.
-- ~~Call-tracking phone numbers~~ — done. Real static numbers for all 23
-  counties are in `scripts/lib/county-tracking-phones.json`, rendered
-  server-side on county pages and inherited by their cities.
-- ~~Real fleet photography~~ — done. Real photos of the current fleet
-  (Toyota Highlander, Honda CR-V, Chrysler Pacifica, Toyota Sienna, Kia EV9,
-  Cadillac Escalade IQ) are live under `/cars` and on the homepage. A real
-  logo is still outstanding.
-- **TripAdvisor / Facebook / Instagram links** — add to
-  `lib/schema.ts`'s `sameAs` array once you have the real URLs, and wire up
-  the footer/header social icons (currently omitted rather than linking
-  nowhere, unlike the legacy site's dead `href="#"` links).
-- **Soro → WordPress connection** — `npm run fetch-soro-posts` (see step 1b
-  above) is built and tested, but there's no headless WordPress instance
-  for it to pull from yet. Needs: a WordPress install (subdomain on this
-  same cPanel account, hardened — strong unique password, auto-updates,
-  minimal plugins, given this account's prior compromise), the Soro
-  WordPress plugin installed and connected with a Soro API key, then the
-  site URL passed to `fetch-soro-posts`. Until then, new blog content has
-  to be added by hand to `content/blog/original/` or `content/blog/legacy/`.
-- **"Colonie" is missing** from both the legacy database and the
-  client-supplied town list, despite being a major town adjacent to Albany
-  International Airport — worth adding real content for it.
+### Done — ready for launch
+- ~~Contact form backend~~ — Web3Forms, live, tested end-to-end.
+- ~~reCAPTCHA~~ — live, verified rendering and gating correctly.
+- ~~Call-tracking phone numbers~~ — real static numbers for all 23 counties,
+  server-rendered on county pages and inherited by their cities.
+- ~~Google Ads call-tracking (`?n=`)~~ — swaps the displayed number sitewide
+  for ad visitors, 30-day persistence, canonical number unaffected for
+  organic/GBP visitors. See `components/AdPhoneProvider.tsx`.
+- ~~Google Ads landing pages~~ — `/college-rides` (+ `/williams`,
+  `/cornell-ithaca`), `/medical-rides`, `/local-rides`, `/airport-rides`.
+- ~~Real fleet photography~~ — live under `/cars` and the homepage.
+- ~~Real logo~~ — wordmark + favicon, live.
+- ~~TripAdvisor / Facebook links~~ — real URLs in `lib/schema.ts`'s
+  `sameAs` and the footer icon row.
+- ~~Legal name / DBA~~ — verified against the real NY Dept. of State
+  filing; `legalName`/`alternateName` in the Organization schema.
+- ~~"No shuttle" wording~~ — removed sitewide per the Ads brief.
+
+### Not done, doesn't block launch — fix after
+- **Instagram link** — waiting on the URL once it's set up.
+- **Google Ads conversion tag (gtag.js)** — waiting on the tag ID +
+  conversion label from the Ads account.
+- **Soro → WordPress connection** — the `content.albanyairport.taxi`
+  subdomain is created; WordPress install/hardening + the Soro plugin
+  connection is still pending. `npm run fetch-soro-posts` (step 1b above)
+  is built and tested against a real external WP site, just has nothing of
+  ours to pull from yet. The blog works fine at launch without it — new
+  posts just have to be added by hand to `content/blog/original/` until
+  it's connected.
+- **"Colonie"** is still missing from the city/county data despite being a
+  major town adjacent to ALB — real content for it, blog SEO polish, and
+  anything else from here is all fair game post-launch.
+- **TripAdvisor's listed address/hours** don't match the real business
+  details yet (on hold per your call).
