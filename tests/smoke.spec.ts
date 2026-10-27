@@ -20,6 +20,12 @@ const PAGES = [
   { path: "/venues/albany-med", name: "venue detail" },
   { path: "/about", name: "about" },
   { path: "/contact", name: "contact" },
+  { path: "/college-rides", name: "college rides" },
+  { path: "/college-rides/williams", name: "williams college rides" },
+  { path: "/college-rides/cornell-ithaca", name: "cornell/ithaca college rides" },
+  { path: "/medical-rides", name: "medical rides" },
+  { path: "/local-rides", name: "local rides" },
+  { path: "/airport-rides", name: "airport rides" },
 ];
 
 for (const page of PAGES) {
@@ -57,4 +63,39 @@ test("contact page renders a form or a clear not-yet-configured notice", async (
   const form = page.locator("form");
   const notice = page.getByText(/not yet configured/i);
   expect((await form.count()) > 0 || (await notice.count()) > 0).toBeTruthy();
+});
+
+test("title tag shows the DBA consistently (Google Ads business-name match)", async ({ page }) => {
+  await page.goto("/college-rides");
+  await expect(page).toHaveTitle(/US Limo and Taxi/);
+});
+
+test("ad tracking: visitor without ?n= sees the canonical number everywhere", async ({ page }) => {
+  await page.goto("/college-rides");
+  await expect(page.locator('a[href="tel:+15183270700"]').first()).toBeVisible();
+  expect(await page.locator('a[href="tel:+14132695004"]').count()).toBe(0);
+});
+
+test("ad tracking: ?n= swaps every phone number on the landing page it points to", async ({ page }) => {
+  await page.goto("/college-rides?n=4132695004");
+  const trackedLinks = page.locator('a[href="tel:+14132695004"]');
+  // This is a client-side swap (static HTML ships with the canonical number,
+  // React swaps it in after hydration) — toBeVisible() auto-waits for that,
+  // unlike a bare .count() check, which would race hydration and often catch
+  // the pre-swap DOM.
+  await expect(trackedLinks.first()).toBeVisible();
+  // Header CTA, hero CTA, and sidebar BookingCard CallButton all render the
+  // same tracked number — expect more than one to confirm it's sitewide
+  // within the page, not just one lucky spot.
+  expect(await trackedLinks.count()).toBeGreaterThan(1);
+  await expect(page.getByText("(413) 269-5004").first()).toBeVisible();
+  // the canonical number must not appear anywhere while tracking is active
+  await expect(page.locator('a[href="tel:+15183270700"]')).toHaveCount(0);
+});
+
+test("ad tracking: the override persists via localStorage across navigation without ?n=", async ({ page }) => {
+  await page.goto("/college-rides?n=4132695004");
+  await expect(page.locator('a[href="tel:+14132695004"]').first()).toBeVisible();
+  await page.goto("/"); // no ?n= this time — should still show the tracked number
+  await expect(page.locator('a[href="tel:+14132695004"]').first()).toBeVisible();
 });

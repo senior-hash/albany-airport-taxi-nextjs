@@ -36,6 +36,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/airbnb-transportation` },
     { url: `${SITE_URL}/services/recovery-transportation` },
     { url: `${SITE_URL}/taxi-vs-uber-lyft` },
+    { url: `${SITE_URL}/college-rides` },
+    { url: `${SITE_URL}/college-rides/williams` },
+    { url: `${SITE_URL}/college-rides/cornell-ithaca` },
+    { url: `${SITE_URL}/medical-rides` },
+    { url: `${SITE_URL}/local-rides` },
+    { url: `${SITE_URL}/airport-rides` },
   ];
 
   const airportUrls: MetadataRoute.Sitemap = airports.map((a) => ({

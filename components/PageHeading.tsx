@@ -1,13 +1,19 @@
+import type { ReactNode } from "react";
 import { RouteLine } from "@/components/RouteLine";
 
 export function PageHeading({
   eyebrow,
   title,
   description,
+  cta,
 }: {
   eyebrow?: string;
   title: string;
   description?: string;
+  /** Optional above-the-fold call-to-action (e.g. a large CallButton) —
+   * renders directly in the hero, so it's visible without scrolling even on
+   * mobile. Used by the Google Ads landing pages. */
+  cta?: ReactNode;
 }) {
   return (
     <div className="relative overflow-hidden bg-primary py-12 sm:py-16">
@@ -22,6 +28,7 @@ export function PageHeading({
         {description && (
           <p className="mt-4 max-w-2xl text-base text-white/75">{description}</p>
         )}
+        {cta && <div className="mt-6">{cta}</div>}
       </div>
     </div>
   );
