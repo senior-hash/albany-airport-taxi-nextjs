@@ -4,13 +4,11 @@ import { ClockIcon } from "@/components/icons";
 export function BookingCard({
   heading = "Book your ride",
   note = "Available 24 hours a day, 7 days a week.",
-  phone,
   phoneDisplay,
   className = "",
 }: {
   heading?: string;
   note?: string | null;
-  phone?: string;
   phoneDisplay?: string;
   className?: string;
 }) {
@@ -23,7 +21,7 @@ export function BookingCard({
           <span>{note}</span>
         </p>
       )}
-      <CallButton className="mt-4 w-full" phone={phone} phoneDisplay={phoneDisplay} />
+      <CallButton className="mt-4 w-full" phoneDisplay={phoneDisplay} />
     </div>
   );
 }

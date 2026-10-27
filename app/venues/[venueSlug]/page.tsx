@@ -73,10 +73,7 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
           </p>
         </div>
         <aside>
-          <BookingCard
-            phone={county?.trackingPhone ?? undefined}
-            phoneDisplay={county?.trackingPhone ?? undefined}
-          />
+          <BookingCard phoneDisplay={county?.trackingPhone ?? undefined} />
         </aside>
       </Container>
     </>

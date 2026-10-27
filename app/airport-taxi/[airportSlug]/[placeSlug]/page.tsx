@@ -141,10 +141,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             )}
           </div>
           <aside>
-            <BookingCard
-              phone={county?.trackingPhone ?? undefined}
-              phoneDisplay={county?.trackingPhone ?? undefined}
-            />
+            <BookingCard phoneDisplay={county?.trackingPhone ?? undefined} />
           </aside>
         </Container>
       </>
@@ -213,10 +210,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             </div>
           </div>
           <aside>
-            <BookingCard
-              phone={county.trackingPhone ?? undefined}
-              phoneDisplay={county.trackingPhone ?? undefined}
-            />
+            <BookingCard phoneDisplay={county.trackingPhone ?? undefined} />
           </aside>
         </Container>
       </>
