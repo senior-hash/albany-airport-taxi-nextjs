@@ -4,6 +4,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
 import { CallButton } from "@/components/CallButton";
 import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
@@ -75,8 +76,9 @@ export default function CollegeRidesPage() {
             rate.
           </p>
         </div>
-        <aside>
+        <aside className="space-y-6">
           <BookingCard heading="Book a college ride" />
+          <QuoteForm />
         </aside>
       </Container>
     </>
