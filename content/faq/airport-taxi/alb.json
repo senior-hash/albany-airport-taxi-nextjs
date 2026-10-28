@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How much does a taxi from Albany Airport cost?",
+    "answer": "Every trip is individually quoted — call (518) 327-0700 or use our online form for an exact price. The price you're quoted is the price you pay."
+  },
+  {
+    "question": "Is Albany Airport taxi service available 24/7?",
+    "answer": "Yes, we're available 24 hours a day, every day."
+  },
+  {
+    "question": "Do you track my flight for Albany Airport pickups?",
+    "answer": "Yes — we track your flight automatically, so pickup adjusts for early arrivals or delays."
+  },
+  {
+    "question": "Is this a shared shuttle or a private car?",
+    "answer": "A private, door-to-door car — not a shared shuttle. You won't make stops for other passengers."
+  },
+  {
+    "question": "How far in advance should I book?",
+    "answer": "Advance reservations are recommended, especially for early-morning flights."
+  }
+]

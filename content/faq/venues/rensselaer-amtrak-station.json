@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Does booking in advance make it cheaper?",
+    "answer": "No — the rate depends on the trip itself, not how far ahead you book. The price you're quoted is the price you pay."
+  },
+  {
+    "question": "Is this a shared shuttle or a private car to the Amtrak station?",
+    "answer": "Private and door-to-door — no shared shuttle."
+  },
+  {
+    "question": "Can you pick me up from the Amtrak station, or just drop off?",
+    "answer": "Both — we provide pickups from Albany-Rensselaer Station and drop-offs timed around your train."
+  },
+  {
+    "question": "Is service to the Amtrak station available 24/7?",
+    "answer": "Yes, we're available 24 hours a day, every day."
+  },
+  {
+    "question": "How far in advance should I book?",
+    "answer": "Advance reservations are recommended, especially for early trains or peak travel times."
+  }
+]

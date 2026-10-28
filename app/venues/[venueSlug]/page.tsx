@@ -8,7 +8,9 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
 
 export function generateStaticParams() {
   return getVenues().map((v) => ({ venueSlug: v.slug }));
@@ -35,6 +37,7 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
   if (!venue) notFound();
 
   const county = getCounties().find((c) => c.name === venue.county);
+  const pageFAQ = getPageFAQ(`venues/${venue.slug}`);
 
   return (
     <>
@@ -46,6 +49,7 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
           url: `/venues/${venue.slug}`,
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading eyebrow={venue.category} title={`Taxi & Car Service to ${venue.name}`} description={venue.locality} />
       <Breadcrumbs
         items={[
@@ -71,6 +75,11 @@ export default async function VenuePage({ params }: { params: Promise<{ venueSlu
               </>
             )}
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title={`${venue.name} FAQ`} />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard phoneDisplay={county?.trackingPhone ?? undefined} />

@@ -6,8 +6,12 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
 import { HUDSON_VALLEY_AIRPORT_TIMES } from "@/lib/hudson-valley-airport-times";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("hudson-valley");
 
 const COMPARED_AIRPORT_SLUGS = ["alb", "jfk", "lga", "ewr"] as const;
 
@@ -51,6 +55,7 @@ export default function HudsonValleyPage() {
           url: "/hudson-valley",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Service Area"
         title="Hudson Valley Car Service & Airport Transfers"
@@ -149,6 +154,11 @@ export default function HudsonValleyPage() {
               <Link href="/venues">venues we serve</Link>.
             </p>
           </div>
+          {pageFAQ.length > 0 && (
+            <div className="mt-10">
+              <FAQ items={pageFAQ} title="Hudson Valley & Catskills FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard />

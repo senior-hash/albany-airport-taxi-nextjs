@@ -102,7 +102,7 @@ export function getLocalFAQ(opts: {
   return [
     {
       question: `Do you provide taxi service throughout ${opts.countyName}?`,
-      answer: `Yes — we provide door-to-door ${opts.airportName} taxi and car service across all ${opts.cityCount} towns and cities we serve in ${opts.countyName}, ${opts.stateName}.`,
+      answer: `Yes — we provide door-to-door taxi and car service to and from ${opts.airportName}, across all ${opts.cityCount} towns and cities we serve in ${opts.countyName}, ${opts.stateName}.`,
     },
     {
       question: `What's the local number for ${opts.countyName}?`,

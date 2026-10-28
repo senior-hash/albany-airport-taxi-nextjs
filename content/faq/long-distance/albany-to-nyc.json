@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How much does a car service from Albany to NYC cost?",
+    "answer": "Every trip is quoted individually — call or use our quote form. The price you're quoted is the price you pay."
+  },
+  {
+    "question": "Do you offer round-trip service from Albany to NYC?",
+    "answer": "Yes, you can book both directions at the same time."
+  },
+  {
+    "question": "Is this a private car or a shared shuttle?",
+    "answer": "Private, door-to-door — no shared stops."
+  },
+  {
+    "question": "Will you pick me up from my exact address?",
+    "answer": "Yes — home, office, or hotel, not just a central pickup point."
+  },
+  {
+    "question": "Do you provide rides within New York City itself?",
+    "answer": "We run trips between upstate and NYC and its airports, but we don't provide local rides within the city itself."
+  }
+]
