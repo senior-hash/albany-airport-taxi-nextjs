@@ -4,6 +4,7 @@ import { BUSINESS } from "@/lib/business";
 import { phoneToTelHref } from "@/lib/phone";
 import { useAdPhone } from "@/components/AdPhoneProvider";
 import { PhoneIcon } from "@/components/icons";
+import { fireCallClickConversion } from "@/lib/google-ads-conversion";
 
 /**
  * Phone CTA. Defaults to the canonical business number (used site-wide, and
@@ -44,6 +45,7 @@ export function CallButton({
   return (
     <a
       href={phoneToTelHref(display)}
+      onClick={fireCallClickConversion}
       aria-label={compactOnMobile ? `Call ${display}` : undefined}
       className={`inline-flex h-14 items-center justify-center gap-2 rounded-full bg-accent-bright font-bold text-primary transition-colors hover:bg-accent-bright-hover ${compactOnMobile ? "w-14 px-0 sm:w-auto sm:px-6" : "px-6"} ${className}`}
     >

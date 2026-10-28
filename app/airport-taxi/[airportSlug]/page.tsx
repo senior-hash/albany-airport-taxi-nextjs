@@ -9,8 +9,10 @@ import { ProseContent } from "@/components/ProseContent";
 import { BookingCard } from "@/components/BookingCard";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
 import { getAirportDistance } from "@/lib/airport-distances";
+import { getPageFAQ } from "@/lib/faq";
 
 export function generateStaticParams() {
   return getAirports().map((a) => ({ airportSlug: a.slug }));
@@ -46,6 +48,7 @@ export default async function AirportPage({
 
   const counties = getCounties();
   const distance = getAirportDistance(airport.slug);
+  const pageFAQ = getPageFAQ(`airport-taxi/${airport.slug}`);
 
   return (
     <>
@@ -57,6 +60,7 @@ export default async function AirportPage({
           url: `/airport-taxi/${airport.slug}`,
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading eyebrow="Airport Taxi" title={airport.title} />
       <Breadcrumbs
         items={[
@@ -82,6 +86,11 @@ export default async function AirportPage({
               </Link>
               .
             </p>
+          )}
+          {pageFAQ.length > 0 && (
+            <div className="mt-12">
+              <FAQ items={pageFAQ} title={`${airport.name} Taxi FAQ`} />
+            </div>
           )}
         </div>
         <aside className="space-y-6">

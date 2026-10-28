@@ -6,7 +6,11 @@ import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { CallButton } from "@/components/CallButton";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("college-rides/williams");
 
 export const metadata: Metadata = {
   title: "Williams College Airport & Long-Distance Rides",
@@ -27,6 +31,7 @@ export default function WilliamsCollegeRidesPage() {
           url: "/college-rides/williams",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="College rides"
         title="Williams College Airport & Long-Distance Rides"
@@ -63,6 +68,11 @@ export default function WilliamsCollegeRidesPage() {
             move-in, finals, and breaks, when demand is highest. Rates vary
             by route and day &mdash; call for today&rsquo;s rate.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Williams College Rides FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Book a Williams College ride" />

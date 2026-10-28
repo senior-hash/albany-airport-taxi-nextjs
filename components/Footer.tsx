@@ -85,6 +85,20 @@ export function Footer() {
               </span>
             </a>
           </div>
+          {/* Yelp is deliberately not linked here — thin, currently negative
+           * sample (1.0, 2 reviews), see lib/business.ts. Add a Google
+           * review link here once the Business Profile is reinstated
+           * (currently suspended). */}
+          <p className="mt-3 text-xs">
+            <a
+              href={SOCIAL.tripadvisor}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white/70 underline transition-colors hover:text-accent"
+            >
+              Read our reviews
+            </a>
+          </p>
         </div>
       </Container>
       <div className="border-t border-white/10 py-6 text-center text-xs text-white/60">

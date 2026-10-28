@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("services/non-emergency-medical-transportation");
 
 export const metadata: Metadata = {
   title: "Non-Emergency Medical Transportation (Self-Pay)",
@@ -25,6 +29,7 @@ export default function NemtPage() {
           url: "/services/non-emergency-medical-transportation",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
         title="Non-Emergency Medical Transportation"
@@ -64,6 +69,11 @@ export default function NemtPage() {
             destination, and any mobility needs so we can make sure the right
             vehicle is available.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Non-Emergency Medical Transportation FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Schedule a ride" note="Self-pay only. Call to book and confirm pricing." />

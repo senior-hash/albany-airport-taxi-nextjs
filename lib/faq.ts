@@ -1,4 +1,20 @@
+import "server-only";
+import fs from "node:fs";
+import path from "node:path";
+
 export type FAQItem = { question: string; answer: string };
+
+const FAQ_DIR = path.join(process.cwd(), "content", "faq");
+
+// Per-page FAQ data, one JSON file per page keyed by a path-like slug (e.g.
+// "airport-taxi/jfk", "services/wedding") — real questions researched from
+// actual searches, not generic filler. Returns [] for any page without a
+// file yet, which FAQ/faqSchema both treat as "render nothing".
+export function getPageFAQ(key: string): FAQItem[] {
+  const file = path.join(FAQ_DIR, `${key}.json`);
+  if (!fs.existsSync(file)) return [];
+  return JSON.parse(fs.readFileSync(file, "utf8")) as FAQItem[];
+}
 
 // Real, grounded questions — researched from a direct local competitor's
 // own FAQ page (taxialbanyny.com) to confirm these are genuinely asked in

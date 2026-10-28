@@ -4,6 +4,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ContactForm } from "@/components/ContactForm";
 import { CallButton } from "@/components/CallButton";
+import { SOCIAL } from "@/lib/business";
 
 export const metadata: Metadata = {
   title: "Contact Us",
@@ -28,6 +29,22 @@ export default function ContactPage() {
             <p className="text-ink-muted">
               23 counties across New York, Vermont, and Massachusetts — the
               Capital Region, Hudson Valley, Adirondacks, and Berkshires.
+            </p>
+          </div>
+          {/* Yelp intentionally not linked — see lib/business.ts. Add a
+           * Google review link here once the Business Profile is
+           * reinstated (currently suspended). */}
+          <div>
+            <p className="font-medium text-primary">Reviews</p>
+            <p className="mt-2 space-x-3 text-ink-muted">
+              <a href={SOCIAL.tripadvisor} target="_blank" rel="noopener noreferrer" className="text-accent underline hover:text-accent-hover">
+                Read our reviews on TripAdvisor
+              </a>
+            </p>
+            <p className="mt-1 space-x-3 text-ink-muted">
+              <a href={SOCIAL.facebook} target="_blank" rel="noopener noreferrer" className="text-accent underline hover:text-accent-hover">
+                Follow us on Facebook
+              </a>
             </p>
           </div>
         </aside>

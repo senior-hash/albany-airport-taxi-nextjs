@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("long-distance/albany-to-nyc");
 
 // Flagship page — the single highest-value keyword opportunity found in the
 // SEO research (1,900 searches/mo, difficulty 2). Covers both "Albany to NYC"
@@ -34,6 +38,7 @@ export default function AlbanyToNycPage() {
           url: "/long-distance/albany-to-nyc",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Long Distance"
         title="Albany to NYC & New York City Car Service"
@@ -77,6 +82,11 @@ export default function AlbanyToNycPage() {
             </Link>
             .
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Albany to NYC Car Service FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Book your trip" note="Round-trip and one-way options available." />

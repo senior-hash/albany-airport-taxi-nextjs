@@ -7,7 +7,9 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
 
 export function generateStaticParams() {
   return getDestinations().map((d) => ({ destinationSlug: d.slug }));
@@ -36,6 +38,7 @@ export default async function DestinationPage({
   const { destinationSlug } = await params;
   const destination = getDestinationBySlug(destinationSlug);
   if (!destination) notFound();
+  const pageFAQ = getPageFAQ(`long-distance/${destination.slug}`);
 
   return (
     <>
@@ -47,6 +50,7 @@ export default async function DestinationPage({
           url: `/long-distance/${destination.slug}`,
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading eyebrow="Long Distance" title={`Albany to ${destination.name} Car Service`} />
       <Breadcrumbs
         items={[
@@ -64,6 +68,11 @@ export default async function DestinationPage({
             group? See our <Link href="/cars">fleet</Link> for larger vehicle
             options.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title={`Albany to ${destination.name} FAQ`} />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Book your trip" />

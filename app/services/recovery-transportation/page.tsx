@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("services/recovery-transportation");
 
 export const metadata: Metadata = {
   title: "Transportation to Recovery & Treatment Programs",
@@ -26,6 +30,7 @@ export default function RecoveryTransportationPage() {
           url: "/services/recovery-transportation",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
         title="Transportation to Recovery & Treatment Programs"
@@ -73,6 +78,11 @@ export default function RecoveryTransportationPage() {
             your timeline. We&rsquo;re available 24/7, including last-minute and
             early-morning pickups.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Recovery & Treatment Transportation FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Arrange a ride" />

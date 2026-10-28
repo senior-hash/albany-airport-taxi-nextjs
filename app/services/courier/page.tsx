@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("services/courier");
 
 export const metadata: Metadata = {
   title: "Courier Service & Same-Day Messenger Delivery",
@@ -25,6 +29,7 @@ export default function CourierPage() {
           url: "/services/courier",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
         title="Courier & Messenger Service"
@@ -47,6 +52,11 @@ export default function CourierPage() {
             Call us with your pickup and drop-off details. We&rsquo;ll confirm
             timing and pricing before we head out.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Courier & Messenger Service FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Schedule a delivery" />

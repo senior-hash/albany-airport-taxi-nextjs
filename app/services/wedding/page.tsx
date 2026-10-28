@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("services/wedding");
 
 export const metadata: Metadata = {
   title: "Wedding Guest Shuttle Service",
@@ -26,6 +30,7 @@ export default function WeddingPage() {
           url: "/services/wedding",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
         title="Wedding Guest Shuttle Service"
@@ -59,6 +64,11 @@ export default function WeddingPage() {
             We recommend booking as early as possible — wedding dates fill up
             fast, especially during peak season.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Wedding Guest Shuttle FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Check availability" />

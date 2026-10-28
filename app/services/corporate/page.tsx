@@ -5,7 +5,11 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { JsonLd } from "@/components/JsonLd";
-import { serviceSchema } from "@/lib/schema";
+import { FAQ } from "@/components/FAQ";
+import { serviceSchema, faqSchema } from "@/lib/schema";
+import { getPageFAQ } from "@/lib/faq";
+
+const pageFAQ = getPageFAQ("services/corporate");
 
 export const metadata: Metadata = {
   title: "Corporate Transportation",
@@ -24,6 +28,7 @@ export default function CorporatePage() {
           url: "/services/corporate",
         })}
       />
+      {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
         title="Corporate Transportation"
@@ -38,7 +43,7 @@ export default function CorporatePage() {
             and visiting clients — airport transfers, meetings across town,
             and everything in between. For an extra level of polish, ask
             about booking our{" "}
-            <Link href="/cars/lincoln-mkt">Lincoln MKT</Link>, or coordinate
+            <Link href="/cars/cadillac-escalade-iq">Cadillac Escalade IQ</Link>, or coordinate
             pickups directly from a client&rsquo;s{" "}
             <Link href="/venues">hotel</Link>.
           </p>
@@ -48,6 +53,11 @@ export default function CorporatePage() {
             us to set up an account — we can coordinate recurring pickups
             and simplify billing.
           </p>
+          {pageFAQ.length > 0 && (
+            <div className="not-prose mt-12">
+              <FAQ items={pageFAQ} title="Corporate Transportation FAQ" />
+            </div>
+          )}
         </div>
         <aside>
           <BookingCard heading="Set up corporate service" />
