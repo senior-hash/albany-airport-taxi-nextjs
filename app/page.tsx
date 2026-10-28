@@ -224,8 +224,8 @@ export default function HomePage() {
             </div>
             <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-white/10">
               <Image
-                src="/images/fleet/fleet-group-cadillac-pacifica.jpg"
-                alt="Cadillac Escalade IQ and Chrysler Pacifica, part of the US Limo and Taxi fleet"
+                src="/images/fleet/fleet-group-three-vehicles-1.jpg"
+                alt="Cadillac Escalade IQ, Chrysler Pacifica, and Kia EV9, part of the US Limo and Taxi fleet"
                 fill
                 className="object-cover"
                 sizes="(min-width: 1024px) 50vw, 100vw"
