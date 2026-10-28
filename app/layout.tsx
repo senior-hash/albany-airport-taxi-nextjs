@@ -50,11 +50,20 @@ export const metadata: Metadata = {
     locale: "en_US",
     title: { default: SITE_NAME, template: TITLE_TEMPLATE },
     description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: "/images/fleet/fleet-group-three-vehicles-1.jpg",
+        width: 1600,
+        height: 1200,
+        alt: "US Limo and Taxi fleet vehicles",
+      },
+    ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: { default: SITE_NAME, template: TITLE_TEMPLATE },
     description: SITE_DESCRIPTION,
+    images: ["/images/fleet/fleet-group-three-vehicles-1.jpg"],
   },
 };
 
