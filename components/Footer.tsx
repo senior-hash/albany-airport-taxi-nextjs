@@ -3,6 +3,7 @@ import { BUSINESS } from "@/lib/content";
 import { SOCIAL } from "@/lib/business";
 import { Container } from "@/components/Container";
 import { Phone } from "@/components/Phone";
+import { LogoMark } from "@/components/LogoMark";
 import { PhoneIcon, ClockIcon, FacebookIcon, TripAdvisorIcon } from "@/components/icons";
 
 export function Footer() {
@@ -11,7 +12,8 @@ export function Footer() {
     <footer className="mt-24 border-t border-white/10 bg-primary">
       <Container className="grid gap-10 py-16 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <p className="font-logo text-lg font-extrabold text-white">
+          <p className="flex items-center gap-2.5 font-logo text-lg font-extrabold text-white">
+            <LogoMark className="h-8 w-8 shrink-0 text-white" />
             {BUSINESS.dba} &ndash; Albany Airport Taxi &amp; Limo
           </p>
           <p className="mt-3 text-sm text-white/70">

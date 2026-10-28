@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { CallButton } from "@/components/CallButton";
 import { Container } from "@/components/Container";
 import { MobileMenu } from "@/components/MobileMenu";
+import { LogoMark } from "@/components/LogoMark";
 import { LOCAL_PHONE_BY_SLUG } from "@/lib/local-phones";
 
 const NAV_LINKS = [
@@ -33,9 +34,12 @@ export function Header() {
   return (
     <header className="sticky top-0 z-10 border-b border-white/10 bg-primary backdrop-blur">
       <Container className="relative flex h-20 items-center justify-between gap-6">
-        <Link href="/" className="flex flex-col leading-none">
-          <span className="font-logo text-lg font-extrabold tracking-tight text-white">Albany Airport Taxi</span>
-          <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent-bright">&amp; Limo</span>
+        <Link href="/" className="flex items-center gap-2.5">
+          <LogoMark className="h-9 w-9 shrink-0 text-white" />
+          <span className="flex flex-col leading-none">
+            <span className="font-logo text-lg font-extrabold tracking-tight text-white">Albany Airport Taxi</span>
+            <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent-bright">&amp; Limo</span>
+          </span>
         </Link>
         <nav className="hidden items-center gap-6 text-sm text-white/70 lg:flex">
           {NAV_LINKS.slice(1).map((link) => (
