@@ -82,11 +82,16 @@ export function QuoteForm() {
     }
     setStatus("sending");
     const form = e.currentTarget;
-    // See ContactForm.tsx: the token is intentionally NOT forwarded to
-    // Web3Forms — their free tier rejects any submission containing
-    // g-recaptcha-response with a "Pro feature" error. The checkbox above
-    // still gates submission client-side.
     const formData = new FormData(form);
+    // The recaptcha widget auto-injects its own hidden
+    // <textarea name="g-recaptcha-response"> into the DOM when it renders
+    // (standard behavior, for no-JS form compatibility) — since it sits
+    // inside this <form>, FormData(form) picks it up automatically even
+    // though nothing here ever calls formData.set for it. Web3Forms' free
+    // tier rejects any submission containing that field with a "Pro
+    // feature" error, so it must be explicitly stripped here. The checkbox
+    // still gates submission client-side above.
+    formData.delete("g-recaptcha-response");
     try {
       const res = await fetch(WEB3FORMS_ENDPOINT, {
         method: "POST",
