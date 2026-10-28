@@ -5,6 +5,7 @@ import { getAirports, getCounties } from "@/lib/content";
 import { SOCIAL } from "@/lib/business";
 import { Container } from "@/components/Container";
 import { CallButton } from "@/components/CallButton";
+import { QuoteForm } from "@/components/QuoteForm";
 import { RouteLine } from "@/components/RouteLine";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { FAQ } from "@/components/FAQ";
@@ -104,7 +105,7 @@ export default function HomePage() {
     {
       value: (
         <span className="inline-flex items-center gap-1.5">
-          <StarIcon className="h-6 w-6 text-accent-bright" />
+          <StarIcon className="h-6 w-6 text-primary" />
           {SOCIAL.tripadvisorRating}
         </span>
       ),
@@ -154,16 +155,19 @@ export default function HomePage() {
               ))}
             </dl>
           </div>
+          <div className="lg:justify-self-end lg:self-start">
+            <QuoteForm />
+          </div>
         </Container>
       </section>
 
-      <section className="border-b border-border bg-background">
+      <section className="bg-accent-bright">
         <Container className="py-10">
           <dl className="grid grid-cols-2 gap-8 sm:grid-cols-4">
             {TRUST_STATS.map(({ value, label }, i) => (
               <div key={i} className="text-center sm:text-left">
                 <dt className="font-display text-2xl font-extrabold tracking-tight text-primary sm:text-3xl">{value}</dt>
-                <dd className="mt-1 text-sm text-ink-muted">{label}</dd>
+                <dd className="mt-1 text-sm text-primary/70">{label}</dd>
               </div>
             ))}
           </dl>
@@ -183,7 +187,7 @@ export default function HomePage() {
                   className="group rounded-[20px] border border-border bg-surface p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
                 >
                   {airport.code ? (
-                    <p className="font-display text-3xl font-extrabold tracking-tight text-primary">{airport.code}</p>
+                    <p className="font-display text-5xl font-extrabold tracking-tight text-primary">{airport.code}</p>
                   ) : (
                     <PlaneIcon className="h-6 w-6 text-accent" />
                   )}
@@ -201,24 +205,24 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="border-t border-border bg-surface">
+      <section className="bg-primary">
         <Container className="py-16">
           <div className="grid gap-10 lg:grid-cols-2 lg:items-center">
             <div>
-              <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">Our Fleet</h2>
-              <p className="mt-3 max-w-md text-ink-muted">
+              <h2 className="font-display text-2xl font-extrabold tracking-tight text-white">Our Fleet</h2>
+              <p className="mt-3 max-w-md text-white/70">
                 A real, modern fleet — from everyday SUVs to all-electric vehicles
                 like the Kia EV9 and Cadillac Escalade IQ. Whatever the trip,
                 there&rsquo;s a vehicle sized to fit it.
               </p>
               <Link
                 href="/cars"
-                className="mt-6 inline-flex items-center justify-center rounded-full border border-primary px-6 py-3 font-medium text-primary transition-colors hover:bg-primary hover:text-white"
+                className="mt-6 inline-flex items-center justify-center rounded-full border border-white px-6 py-3 font-medium text-white transition-colors hover:bg-white hover:text-primary"
               >
                 See our vehicles
               </Link>
             </div>
-            <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-border">
+            <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-white/10">
               <Image
                 src="/images/fleet/fleet-group-cadillac-pacifica.jpg"
                 alt="Cadillac Escalade IQ and Chrysler Pacifica, part of the US Limo and Taxi fleet"
@@ -248,19 +252,19 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="border-t border-border bg-surface">
+      <section className="bg-primary">
         <Container className="py-16">
-          <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">More Ways We Can Help</h2>
+          <h2 className="font-display text-2xl font-extrabold tracking-tight text-white">More Ways We Can Help</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {MORE_WAYS.map(({ href, icon: Icon, title, description }) => (
               <Link
                 key={href}
                 href={href}
-                className="group rounded-[20px] border border-border bg-background p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
+                className="group rounded-[20px] border border-white/10 bg-surface-raised p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
               >
                 <Icon className="h-6 w-6 text-accent" />
-                <p className="mt-4 font-semibold text-primary">{title}</p>
-                <p className="mt-2 text-sm text-ink-muted">{description}</p>
+                <p className="mt-4 font-semibold text-white">{title}</p>
+                <p className="mt-2 text-sm text-white/70">{description}</p>
               </Link>
             ))}
           </div>
