@@ -122,14 +122,14 @@ export default function HomePage() {
     <>
       <section className="relative overflow-hidden bg-primary">
         <div className="hero-glow pointer-events-none absolute -left-24 top-0 h-[500px] w-[500px] sm:h-[600px] sm:w-[600px]" />
-        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-accent-bright" />
+        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-sky" />
         <Container className="relative grid gap-10 py-16 sm:py-24 lg:grid-cols-2 lg:items-center">
           <div>
             <p className="text-sm font-medium uppercase tracking-wide text-accent-bright">
               Available 24 hours a day, 7 days a week
             </p>
-            <h1 className="mt-3 text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-              Albany Airport Taxi &amp; Limo Service
+            <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
+              <span className="text-accent-bright">Albany</span> Airport Taxi &amp; Limo Service
             </h1>
             <p className="mt-5 max-w-xl text-lg text-white/75">
               Reliable, door-to-door taxi and airport transfer service to and
@@ -148,7 +148,7 @@ export default function HomePage() {
             <dl className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
               {TRUST_POINTS.map(({ icon: Icon, label }) => (
                 <div key={label} className="flex items-center gap-2 text-sm text-white/80">
-                  <Icon className="h-5 w-5 shrink-0 text-accent-bright" />
+                  <Icon className="h-5 w-5 shrink-0 text-accent" />
                   <span>{label}</span>
                 </div>
               ))}
@@ -157,12 +157,12 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="border-b border-border bg-surface">
+      <section className="border-b border-border bg-background">
         <Container className="py-10">
           <dl className="grid grid-cols-2 gap-8 sm:grid-cols-4">
             {TRUST_STATS.map(({ value, label }, i) => (
               <div key={i} className="text-center sm:text-left">
-                <dt className="text-2xl font-semibold tracking-tight text-primary sm:text-3xl">{value}</dt>
+                <dt className="font-display text-2xl font-extrabold tracking-tight text-primary sm:text-3xl">{value}</dt>
                 <dd className="mt-1 text-sm text-ink-muted">{label}</dd>
               </div>
             ))}
@@ -172,7 +172,7 @@ export default function HomePage() {
 
       <section>
         <Container className="py-16">
-          <h2 className="text-2xl font-semibold tracking-tight text-primary">Airports We Serve</h2>
+          <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">Airports We Serve</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {airports.map((airport) => {
               const distance = getAirportDistance(airport.slug);
@@ -180,13 +180,17 @@ export default function HomePage() {
                 <Link
                   key={airport.id}
                   href={`/airport-taxi/${airport.slug}`}
-                  className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                  className="group rounded-[20px] border border-border bg-surface p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
                 >
-                  <PlaneIcon className="h-6 w-6 text-accent" />
+                  {airport.code ? (
+                    <p className="font-display text-3xl font-extrabold tracking-tight text-primary">{airport.code}</p>
+                  ) : (
+                    <PlaneIcon className="h-6 w-6 text-accent" />
+                  )}
                   <p className="mt-4 text-lg font-semibold text-primary">{airport.name}</p>
                   <p className="mt-2 text-sm text-ink-muted">Taxi &amp; airport transfer to and from {airport.name}.</p>
                   {distance && (
-                    <p className="mt-2 text-xs text-ink-muted">
+                    <p className="mt-2 inline-block rounded-full bg-accent/10 px-2.5 py-1 text-xs font-medium text-accent">
                       {distance.distanceMiles} &middot; {distance.driveTime}
                     </p>
                   )}
@@ -201,7 +205,7 @@ export default function HomePage() {
         <Container className="py-16">
           <div className="grid gap-10 lg:grid-cols-2 lg:items-center">
             <div>
-              <h2 className="text-2xl font-semibold tracking-tight text-primary">Our Fleet</h2>
+              <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">Our Fleet</h2>
               <p className="mt-3 max-w-md text-ink-muted">
                 A real, modern fleet — from everyday SUVs to all-electric vehicles
                 like the Kia EV9 and Cadillac Escalade IQ. Whatever the trip,
@@ -209,7 +213,7 @@ export default function HomePage() {
               </p>
               <Link
                 href="/cars"
-                className="mt-6 inline-flex items-center justify-center rounded-full bg-primary px-6 py-3 font-medium text-white transition-colors hover:bg-primary/90"
+                className="mt-6 inline-flex items-center justify-center rounded-full border border-primary px-6 py-3 font-medium text-primary transition-colors hover:bg-primary hover:text-white"
               >
                 See our vehicles
               </Link>
@@ -231,7 +235,7 @@ export default function HomePage() {
         <Container className="py-16">
           <div className="grid gap-10 lg:grid-cols-2 lg:items-start">
             <div>
-              <h2 className="text-2xl font-semibold tracking-tight text-primary">Flying soon?</h2>
+              <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">Flying soon?</h2>
               <p className="mt-3 max-w-md text-ink-muted">
                 We automatically track your flight once you book, so delays
                 and early arrivals are already accounted for before you
@@ -246,13 +250,13 @@ export default function HomePage() {
 
       <section className="border-t border-border bg-surface">
         <Container className="py-16">
-          <h2 className="text-2xl font-semibold tracking-tight text-primary">More Ways We Can Help</h2>
+          <h2 className="font-display text-2xl font-extrabold tracking-tight text-primary">More Ways We Can Help</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
             {MORE_WAYS.map(({ href, icon: Icon, title, description }) => (
               <Link
                 key={href}
                 href={href}
-                className="group rounded-xl border border-border bg-background p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                className="group rounded-[20px] border border-border bg-background p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
               >
                 <Icon className="h-6 w-6 text-accent" />
                 <p className="mt-4 font-semibold text-primary">{title}</p>

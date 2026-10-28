@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { BUSINESS } from "@/lib/content";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
@@ -23,12 +22,6 @@ export default function ContactPage() {
           <div>
             <p className="font-medium text-primary">Call</p>
             <CallButton className="mt-2" />
-          </div>
-          <div>
-            <p className="font-medium text-primary">Email</p>
-            <a href={`mailto:${BUSINESS.email}`} className="text-accent hover:underline">
-              {BUSINESS.email}
-            </a>
           </div>
           <div>
             <p className="font-medium text-primary">Service area</p>

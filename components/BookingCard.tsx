@@ -13,7 +13,7 @@ export function BookingCard({
   className?: string;
 }) {
   return (
-    <div className={`rounded-lg border border-border bg-surface p-6 ${className}`}>
+    <div className={`rounded-[20px] bg-surface p-6 shadow-[0_12px_32px_rgba(11,15,26,0.10)] ${className}`}>
       <p className="font-medium text-primary">{heading}</p>
       {note && (
         <p className="mt-2 flex items-start gap-2 text-sm text-ink-muted">

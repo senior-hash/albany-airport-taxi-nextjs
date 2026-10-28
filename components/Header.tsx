@@ -31,15 +31,15 @@ function useLocalPhone(): string | undefined {
 export function Header() {
   const localPhone = useLocalPhone();
   return (
-    <header className="sticky top-0 z-10 border-b border-border bg-surface/95 backdrop-blur">
+    <header className="sticky top-0 z-10 border-b border-white/10 bg-primary backdrop-blur">
       <Container className="relative flex h-20 items-center justify-between gap-6">
         <Link href="/" className="flex flex-col leading-none">
-          <span className="font-logo text-lg font-bold tracking-tight text-primary">Albany Airport Taxi</span>
-          <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent">&amp; Limo</span>
+          <span className="font-logo text-lg font-extrabold tracking-tight text-white">Albany Airport Taxi</span>
+          <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent-bright">&amp; Limo</span>
         </Link>
-        <nav className="hidden items-center gap-6 text-sm text-ink-muted lg:flex">
+        <nav className="hidden items-center gap-6 text-sm text-white/70 lg:flex">
           {NAV_LINKS.slice(1).map((link) => (
-            <Link key={link.href} href={link.href} className="transition-colors hover:text-ink">
+            <Link key={link.href} href={link.href} className="transition-colors hover:text-white">
               {link.label}
             </Link>
           ))}

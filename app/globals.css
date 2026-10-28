@@ -2,22 +2,29 @@
 @plugin "@tailwindcss/typography";
 
 :root {
-  --color-ink: #14171f;
-  --color-ink-muted: #4b5262;
-  --color-background: #fafaf8;
+  /* "Night Run" palette — see design-system.md */
+  --color-ink: #0b0f1a;
+  --color-ink-muted: #5a6072;
+  --color-background: #fff8e7;
   --color-surface: #ffffff;
-  --color-border: #e6e4de;
-  --color-primary: #0f2d57;
-  --color-primary-hover: #163e73;
-  /* Deep, legible gold — used for text/links/icons on light backgrounds. */
-  --color-accent: #b8860b;
-  --color-accent-hover: #966e09;
-  /* Vivid taxi yellow — backgrounds only (buttons, dark-surface decoration).
-     Pure saturated yellow fails contrast as small text on white, so it's
-     never used as a foreground text color — same logic real taxi liveries
-     use: yellow body, dark text on top, never yellow text on white. */
-  --color-accent-bright: #ffc72c;
-  --color-accent-bright-hover: #e6b000;
+  /* Dark card surface, for cards sitting on a midnight band. */
+  --color-surface-raised: #151b2b;
+  --color-border: #eadfc8;
+  /* Midnight — hero/dark-band backgrounds, and (as "primary" text) the dark
+     text that sits on the signal-yellow CTA pill. */
+  --color-primary: #0b0f1a;
+  --color-primary-hover: #1a2033;
+  /* Hot coral — secondary accent: badges, tags, hover states, small icons. */
+  --color-accent: #ff5a36;
+  --color-accent-hover: #e6492a;
+  /* Signal yellow — the primary CTA color. Backgrounds only (buttons,
+     highlighted words, dark-surface decoration), never foreground text on a
+     light background — same logic real taxi liveries use: yellow body, dark
+     text on top, never yellow text on white. */
+  --color-accent-bright: #ffd60a;
+  --color-accent-bright-hover: #e6c000;
+  /* Sky route blue — route lines, map pins, links on dark. */
+  --color-sky: #4cc9f0;
 }
 
 @theme inline {
@@ -25,6 +32,7 @@
   --color-ink-muted: var(--color-ink-muted);
   --color-background: var(--color-background);
   --color-surface: var(--color-surface);
+  --color-surface-raised: var(--color-surface-raised);
   --color-border: var(--color-border);
   --color-primary: var(--color-primary);
   --color-primary-hover: var(--color-primary-hover);
@@ -32,10 +40,13 @@
   --color-accent-hover: var(--color-accent-hover);
   --color-accent-bright: var(--color-accent-bright);
   --color-accent-bright-hover: var(--color-accent-bright-hover);
-  --font-sans: var(--font-geist-sans);
+  --color-sky: var(--color-sky);
+  --font-sans: var(--font-inter);
   --font-mono: var(--font-geist-mono);
-  /* Brand wordmark only (Header/Footer logo) — not a sitewide heading font. */
-  --font-logo: var(--font-space-grotesk);
+  --font-display: var(--font-bricolage);
+  /* Brand wordmark (Header/Footer logo) — now the display font per the
+     "Night Run" spec, not a separate logo-only font. */
+  --font-logo: var(--font-bricolage);
 }
 
 body {
@@ -68,10 +79,26 @@ body {
 }
 
 .hero-glow {
-  background: radial-gradient(
-    circle,
-    color-mix(in srgb, var(--color-accent-bright) 45%, transparent) 0%,
-    transparent 70%
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--color-accent) 35%, transparent) 0%,
+    color-mix(in srgb, var(--color-accent-bright) 35%, transparent) 100%
   );
   filter: blur(50px);
+}
+
+@keyframes route-dash {
+  to {
+    stroke-dashoffset: -40;
+  }
+}
+
+.route-dash {
+  animation: route-dash 3s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .route-dash {
+    animation: none;
+  }
 }

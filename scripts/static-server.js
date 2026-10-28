@@ -33,17 +33,28 @@ http
 
     fs.readFile(filePath, (err, data) => {
       if (err) {
-        // try appending .html (Next static export uses /route.html for /route)
-        fs.readFile(filePath + ".html", (err2, data2) => {
-          if (err2) {
-            fs.readFile(path.join(ROOT, "404.html"), (err3, data3) => {
-              res.writeHead(404, { "Content-Type": "text/html; charset=utf-8" });
-              res.end(err3 ? "Not found" : data3);
-            });
+        // next.config.ts sets trailingSlash: true, so Next exports /route as
+        // route/index.html, not route.html — try that first (matches what
+        // Apache's Options -Indexes + a 301 to the trailing-slash URL
+        // resolves to in production), then fall back to route.html for any
+        // legacy flat exports.
+        fs.readFile(path.join(filePath, "index.html"), (errIndex, dataIndex) => {
+          if (!errIndex) {
+            res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
+            res.end(dataIndex);
             return;
           }
-          res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
-          res.end(data2);
+          fs.readFile(filePath + ".html", (err2, data2) => {
+            if (err2) {
+              fs.readFile(path.join(ROOT, "404.html"), (err3, data3) => {
+                res.writeHead(404, { "Content-Type": "text/html; charset=utf-8" });
+                res.end(err3 ? "Not found" : data3);
+              });
+              return;
+            }
+            res.writeHead(200, { "Content-Type": "text/html; charset=utf-8" });
+            res.end(data2);
+          });
         });
         return;
       }

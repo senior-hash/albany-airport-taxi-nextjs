@@ -9,8 +9,11 @@ RewriteRule ^(.*)$ https://albanyairport.taxi/$1 [R=301,L]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://albanyairport.taxi/$1 [R=301,L]
 
+# --- Disable directory listings (defense in depth; every route folder ---
+# --- now has a real index.html via next.config.ts's trailingSlash) ---
+Options -Indexes
+
 # --- Legacy URL redirects (generated from the old PHP site's sitemap) ---
-RewriteRule ^$ /? [R=301,L]
 RewriteRule ^contact\.php$ /contact? [R=301,L]
 RewriteCond %{QUERY_STRING} ^id=336$
 RewriteRule ^content\.php$ /about? [R=301,L]

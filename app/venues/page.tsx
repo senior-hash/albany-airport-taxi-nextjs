@@ -29,21 +29,22 @@ export default function VenuesPage() {
             <a
               key={group.slug}
               href={`#${group.slug}`}
-              className="rounded-full border border-border px-4 py-1.5 text-sm text-ink-muted transition-colors hover:border-accent/50 hover:text-ink"
+              className="inline-flex items-center gap-2 rounded-full border border-border px-4 py-1.5 text-sm text-ink-muted transition-colors hover:border-accent/50 hover:text-ink"
             >
+              <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-accent" />
               {group.label} <span className="text-ink-muted/70">({group.venues.length})</span>
             </a>
           ))}
         </nav>
         {groups.map((group) => (
           <section key={group.slug} id={group.slug} className="scroll-mt-24 border-b border-border py-10 last:border-0">
-            <h2 className="text-xl font-semibold tracking-tight text-primary">{group.label}</h2>
+            <h2 className="font-display text-xl font-extrabold tracking-tight text-primary">{group.label}</h2>
             <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {group.venues.map((venue) => (
                 <Link
                   key={venue.slug}
                   href={`/venues/${venue.slug}`}
-                  className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                  className="group rounded-[20px] border border-border bg-surface p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
                 >
                   <MapPinIcon className="h-6 w-6 text-accent" />
                   <p className="mt-4 text-xs font-medium uppercase tracking-wide text-accent">{venue.category}</p>

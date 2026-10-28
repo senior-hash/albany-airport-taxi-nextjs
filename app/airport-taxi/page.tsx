@@ -32,15 +32,19 @@ export default function AirportsPage() {
               <Link
                 key={airport.id}
                 href={`/airport-taxi/${airport.slug}`}
-                className="group rounded-xl border border-border bg-surface p-6 transition-all hover:-translate-y-0.5 hover:border-accent/50 hover:shadow-md"
+                className="group rounded-[20px] border border-border bg-surface p-6 transition-all duration-200 hover:-translate-y-1 hover:border-accent/50 hover:shadow-md"
               >
-                <PlaneIcon className="h-6 w-6 text-accent" />
+                {airport.code ? (
+                  <p className="font-display text-3xl font-extrabold tracking-tight text-primary">{airport.code}</p>
+                ) : (
+                  <PlaneIcon className="h-6 w-6 text-accent" />
+                )}
                 <p className="mt-4 text-lg font-semibold text-primary">{airport.name}</p>
                 <p className="mt-2 text-sm text-ink-muted">
                   Taxi &amp; car service to and from {airport.name}.
                 </p>
                 {distance && (
-                  <p className="mt-2 text-xs text-ink-muted">
+                  <p className="mt-2 inline-block rounded-full bg-accent/10 px-2.5 py-1 text-xs font-medium text-accent">
                     {distance.distanceMiles} from Albany &middot; {distance.driveTime}
                   </p>
                 )}

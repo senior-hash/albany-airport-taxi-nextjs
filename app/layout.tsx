@@ -1,23 +1,25 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Geist, Space_Grotesk } from "next/font/google";
+import { Inter, Bricolage_Grotesque } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { MobileStickyBar } from "@/components/MobileStickyBar";
 import { JsonLd } from "@/components/JsonLd";
 import { AdPhoneProvider } from "@/components/AdPhoneProvider";
 import { organizationSchema, SITE_URL } from "@/lib/schema";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
 });
 
-// Brand wordmark only (Header/Footer logo) — see globals.css's --font-logo.
-const spaceGrotesk = Space_Grotesk({
-  variable: "--font-space-grotesk",
+// Display/heading font — also the brand wordmark (Header/Footer logo). See
+// globals.css's --font-display and --font-logo.
+const bricolageGrotesque = Bricolage_Grotesque({
+  variable: "--font-bricolage",
   subsets: ["latin"],
-  weight: ["500", "700"],
+  weight: ["800"],
 });
 
 const GA_MEASUREMENT_ID = "G-6102LQSZD2";
@@ -58,13 +60,16 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${spaceGrotesk.variable} h-full antialiased`}>
+    <html lang="en" className={`${inter.variable} ${bricolageGrotesque.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col font-sans">
         <AdPhoneProvider>
           <JsonLd data={organizationSchema()} />
           <Header />
           <main className="flex-1">{children}</main>
-          <Footer />
+          <div className="pb-20 lg:pb-0">
+            <Footer />
+          </div>
+          <MobileStickyBar />
         </AdPhoneProvider>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}

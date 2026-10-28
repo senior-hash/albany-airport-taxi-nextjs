@@ -26,9 +26,9 @@ export function ServiceAreaMap({ className = "" }: { className?: string }) {
         <path
           key={c.name}
           d={c.d}
-          fill="#0f2d57"
+          fill="#0B0F1A"
           fillOpacity={0.82}
-          stroke="#fafaf8"
+          stroke="#FFF8E7"
           strokeWidth={1.25}
           strokeLinejoin="round"
         />
@@ -37,8 +37,8 @@ export function ServiceAreaMap({ className = "" }: { className?: string }) {
         cx={SERVICE_AREA_MAP.albanyAirport.x}
         cy={SERVICE_AREA_MAP.albanyAirport.y}
         r={7}
-        fill="#ffc72c"
-        stroke="#0f2d57"
+        fill="#FFD60A"
+        stroke="#0B0F1A"
         strokeWidth={2}
       />
     </svg>

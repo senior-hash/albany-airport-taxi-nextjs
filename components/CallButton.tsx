@@ -3,6 +3,7 @@
 import { BUSINESS } from "@/lib/business";
 import { phoneToTelHref } from "@/lib/phone";
 import { useAdPhone } from "@/components/AdPhoneProvider";
+import { PhoneIcon } from "@/components/icons";
 
 /**
  * Phone CTA. Defaults to the canonical business number (used site-wide, and
@@ -31,8 +32,9 @@ export function CallButton({
   return (
     <a
       href={phoneToTelHref(display)}
-      className={`inline-flex items-center justify-center gap-2 rounded-full bg-accent-bright px-6 py-3 font-medium text-primary transition-colors hover:bg-accent-bright-hover ${className}`}
+      className={`inline-flex h-14 items-center justify-center gap-2 rounded-full bg-accent-bright px-6 font-bold text-primary transition-colors hover:bg-accent-bright-hover ${className}`}
     >
+      <PhoneIcon className="h-5 w-5 shrink-0" />
       Call {display}
     </a>
   );

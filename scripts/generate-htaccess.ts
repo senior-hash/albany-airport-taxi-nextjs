@@ -42,9 +42,18 @@ function main() {
   lines.push("RewriteCond %{HTTPS} off");
   lines.push(`RewriteRule ^(.*)$ https://${PRIMARY_DOMAIN}/$1 [R=301,L]`);
   lines.push("");
+  lines.push("# --- Disable directory listings (defense in depth; every route folder ---");
+  lines.push("# --- now has a real index.html via next.config.ts's trailingSlash) ---");
+  lines.push("Options -Indexes");
+  lines.push("");
   lines.push("# --- Legacy URL redirects (generated from the old PHP site's sitemap) ---");
 
   for (const redirect of redirects) {
+    // Skip identity redirects (e.g. "/" -> "/") — the legacy sitemap parser
+    // can emit these for URLs that already resolve correctly, but turning
+    // one into an R=301 rule makes Apache redirect the path to itself,
+    // looping forever.
+    if (redirect.from === redirect.to) continue;
     const { script, query } = parseLegacyUrl(redirect.from);
     if (!query) {
       lines.push(`RewriteRule ^${escapeRegex(script)}$ ${redirect.to}? [R=301,L]`);
