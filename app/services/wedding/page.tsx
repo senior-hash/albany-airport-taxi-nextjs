@@ -12,9 +12,9 @@ import { getPageFAQ } from "@/lib/faq";
 const pageFAQ = getPageFAQ("services/wedding");
 
 export const metadata: Metadata = {
-  title: "Wedding Guest Shuttle Service",
+  title: "Wedding Guest Transportation",
   description:
-    "Private wedding guest shuttle service in the Albany, NY area — scheduled pickups from nearby hotels and vacation rentals, runs to and from the venue, and a safe ride home at the end of the night.",
+    "Private wedding guest transportation in the Albany, NY area — scheduled pickups from nearby hotels and vacation rentals, runs to and from the venue, and a safe ride home at the end of the night.",
   alternates: { canonical: "/services/wedding" },
 };
 
@@ -23,9 +23,9 @@ export default function WeddingPage() {
     <>
       <JsonLd
         data={serviceSchema({
-          name: "Wedding Guest Shuttle Service",
+          name: "Wedding Guest Transportation",
           description:
-            "Scheduled wedding guest shuttle service between nearby hotels or vacation rentals and the venue, including a return run at the end of the night.",
+            "Scheduled wedding guest transportation between nearby hotels or vacation rentals and the venue, including a return run at the end of the night.",
           areaServedName: "Albany, NY and the Capital Region",
           url: "/services/wedding",
         })}
@@ -33,10 +33,10 @@ export default function WeddingPage() {
       {pageFAQ.length > 0 && <JsonLd data={faqSchema(pageFAQ)} />}
       <PageHeading
         eyebrow="Services"
-        title="Wedding Guest Shuttle Service"
+        title="Wedding Guest Transportation"
         description="Scheduled pickups from nearby hotels and rentals, so your guests get to the venue and home again without anyone driving."
       />
-      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Wedding Guest Shuttle", path: "/services/wedding" }]} />
+      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Wedding Guest Transportation", path: "/services/wedding" }]} />
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <div className="prose prose-neutral max-w-none prose-headings:text-primary">
           <p>
@@ -66,7 +66,7 @@ export default function WeddingPage() {
           </p>
           {pageFAQ.length > 0 && (
             <div className="not-prose mt-12">
-              <FAQ items={pageFAQ} title="Wedding Guest Shuttle FAQ" />
+              <FAQ items={pageFAQ} title="Wedding Guest Transportation FAQ" />
             </div>
           )}
         </div>

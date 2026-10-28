@@ -31,7 +31,7 @@ export function Footer() {
             <li><Link href="/services/courier" className="hover:text-white">Courier &amp; Messenger</Link></li>
             <li><Link href="/services/airbnb-transportation" className="hover:text-white">Airbnb &amp; Vacation Rentals</Link></li>
             <li><Link href="/services/recovery-transportation" className="hover:text-white">Recovery &amp; Treatment Transportation</Link></li>
-            <li><Link href="/services/wedding" className="hover:text-white">Wedding Guest Shuttle</Link></li>
+            <li><Link href="/services/wedding" className="hover:text-white">Wedding Guest Transportation</Link></li>
             <li><Link href="/services/corporate" className="hover:text-white">Corporate Transportation</Link></li>
             <li><Link href="/venues" className="hover:text-white">Venues We Serve</Link></li>
             <li><Link href="/service-area" className="hover:text-white">Service Area</Link></li>

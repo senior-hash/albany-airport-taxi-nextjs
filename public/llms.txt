@@ -3,7 +3,7 @@
 > 24/7 taxi, car, and limo service to and from Albany International Airport
 > (ALB), JFK, LaGuardia (LGA), Newark (EWR), Boston Logan, and New York City.
 > Also provides long-distance trips, courier delivery, non-emergency medical
-> transportation, wedding guest shuttles, corporate transportation, Airbnb
+> transportation, wedding guest transportation, corporate transportation, Airbnb
 > and vacation rental transportation, and transportation to recovery and
 > treatment programs — across the Capital Region, Hudson Valley,
 > Adirondacks, and Berkshires.
@@ -30,7 +30,7 @@
 - [Hudson Valley Car Service](/hudson-valley)
 - [Non-Emergency Medical Transportation (self-pay)](/services/non-emergency-medical-transportation)
 - [Courier & Messenger Service](/services/courier)
-- [Wedding Guest Shuttle Service](/services/wedding)
+- [Wedding Guest Transportation](/services/wedding)
 - [Corporate Transportation](/services/corporate)
 - [Airbnb & Vacation Rental Transportation](/services/airbnb-transportation)
 - [Transportation to Recovery & Treatment Programs](/services/recovery-transportation)
