@@ -4,8 +4,10 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
+import { PickupAreas } from "@/components/PickupAreas";
 import { serviceSchema, faqSchema } from "@/lib/schema";
 import { getPageFAQ } from "@/lib/faq";
 
@@ -22,7 +24,7 @@ const pageFAQ = getPageFAQ("long-distance/albany-to-nyc");
 export const metadata: Metadata = {
   title: "Albany to NYC Car Service | Albany to New York City",
   description:
-    "Reliable car service from Albany to NYC and New York City, with round-trip options. Door-to-door, 24/7. Call (518) 327-0700 to book.",
+    "Reliable car service to NYC and New York City from the Capital Region, Saratoga, Hudson Valley, Berkshires, and beyond, with round-trip options. Door-to-door, 24/7. Call (518) 327-0700 to book.",
   alternates: { canonical: "/long-distance/albany-to-nyc" },
 };
 
@@ -62,11 +64,10 @@ export default function AlbanyToNycPage() {
           </p>
           <h2>Round trips are the norm, not the exception</h2>
           <p>
-            Most of our Albany-to-NYC customers book both legs of the trip at
-            once. Rideshare and local taxi availability on the New York City
-            end can be unpredictable — booking your return with us up front
-            means you&rsquo;re not left waiting when you land or wrap up your
-            trip. Ask about round-trip pricing when you call.
+            You can book both directions at the same time. Rideshare and
+            local taxi availability on the New York City end can be
+            unpredictable — booking your return with us up front means
+            you&rsquo;re not left waiting when you land or wrap up your trip.
           </p>
           <h2>Door-to-door, 24/7</h2>
           <p>
@@ -82,14 +83,18 @@ export default function AlbanyToNycPage() {
             </Link>
             .
           </p>
+          <div className="not-prose mt-10">
+            <PickupAreas destinationSlug="albany-to-nyc" />
+          </div>
           {pageFAQ.length > 0 && (
             <div className="not-prose mt-12">
               <FAQ items={pageFAQ} title="Albany to NYC Car Service FAQ" />
             </div>
           )}
         </div>
-        <aside>
+        <aside className="space-y-6">
           <BookingCard heading="Book your trip" note="Round-trip and one-way options available." />
+          <QuoteForm />
         </aside>
       </Container>
     </>

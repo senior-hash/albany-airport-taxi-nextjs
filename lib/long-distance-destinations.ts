@@ -1,8 +1,33 @@
+import "server-only";
+import fs from "node:fs";
+import path from "node:path";
+
 export type Destination = {
   slug: string;
   name: string;
   description: string;
 };
+
+export type PickupArea = {
+  name: string;
+  example: string;
+  /** Key into content/long-distance-pickup-distances.json, for the 3 areas
+   * (of the 6 below) that have a real computed drive time. The other 3
+   * areas still appear in the list — just without a distance figure. */
+  distanceKey?: "saratoga" | "kingston" | "williamstown";
+};
+
+// We run long-distance trips from our whole service area, not just the
+// city of Albany itself — this list surfaces that on every route page.
+// Example towns are real places within each named area, not made up.
+export const PICKUP_AREAS: PickupArea[] = [
+  { name: "Capital Region", example: "Albany, Schenectady, Troy" },
+  { name: "Saratoga", example: "Saratoga Springs", distanceKey: "saratoga" },
+  { name: "Hudson Valley", example: "Hudson, Kingston", distanceKey: "kingston" },
+  { name: "Catskills", example: "Hunter, Tannersville, Windham" },
+  { name: "Berkshires", example: "Williamstown, Pittsfield", distanceKey: "williamstown" },
+  { name: "Southern Vermont", example: "Bennington" },
+];
 
 // Additional long-distance routes beyond the NYC flagship (which has its
 // own dedicated page given its outsized keyword volume — see the plan's
@@ -64,4 +89,24 @@ export function getDestinations(): Destination[] {
 }
 export function getDestinationBySlug(slug: string): Destination | undefined {
   return DESTINATIONS.find((d) => d.slug === slug);
+}
+
+export type PickupAreaDistance = { label: string; distanceMiles: string; driveTime: string };
+type PickupDistances = Record<string, Record<string, PickupAreaDistance>>;
+
+let pickupDistancesCache: PickupDistances | undefined;
+function loadPickupDistances(): PickupDistances {
+  return (pickupDistancesCache ??= JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), "content", "long-distance-pickup-distances.json"), "utf8")
+  ) as PickupDistances);
+}
+// Real, routed driving distances (OSRM, Oct 2026 — see the county-level
+// equivalent in lib/content.ts for methodology) from one real town in each
+// of 3 pickup areas to each destination. Keyed by destination slug, then
+// by PickupArea.distanceKey.
+export function getPickupAreaDistance(
+  destinationSlug: string,
+  distanceKey: string
+): PickupAreaDistance | undefined {
+  return loadPickupDistances()[destinationSlug]?.[distanceKey];
 }

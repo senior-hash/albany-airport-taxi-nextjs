@@ -5,10 +5,12 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { RouteIcon } from "@/components/icons";
+import { PickupAreas } from "@/components/PickupAreas";
 
 export const metadata: Metadata = {
   title: "Long Distance Car Service",
-  description: "Long-distance car service to and from Albany, NY, including NYC and beyond.",
+  description:
+    "Long-distance car service to and from the Capital Region, Saratoga, Hudson Valley, Catskills, Berkshires, and southern Vermont — including NYC and beyond.",
   alternates: { canonical: "/long-distance" },
 };
 
@@ -45,6 +47,9 @@ export default function LongDistanceHubPage() {
             </li>
           ))}
         </ul>
+        <div className="mt-12">
+          <PickupAreas />
+        </div>
       </Container>
     </>
   );

@@ -6,8 +6,10 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
+import { PickupAreas } from "@/components/PickupAreas";
 import { serviceSchema, faqSchema } from "@/lib/schema";
 import { getPageFAQ } from "@/lib/faq";
 
@@ -25,7 +27,7 @@ export async function generateMetadata({
   if (!destination) return {};
   return {
     title: `Albany to ${destination.name} Car Service`,
-    description: destination.description,
+    description: `${destination.description} We also pick up from Saratoga, the Hudson Valley, the Catskills, the Berkshires, and southern Vermont.`,
     alternates: { canonical: `/long-distance/${destination.slug}` },
   };
 }
@@ -63,19 +65,22 @@ export default async function DestinationPage({
         <div className="prose prose-neutral max-w-none prose-headings:text-primary">
           <p>{destination.description}</p>
           <p>
-            Booking a round trip? Let us know when you call — most
-            long-distance customers book both legs at once. Traveling as a
-            group? See our <Link href="/cars">fleet</Link> for larger vehicle
-            options.
+            Booking a round trip? You can book both directions at the same
+            time. Traveling as a group? See our <Link href="/cars">fleet</Link> for
+            larger vehicle options.
           </p>
+          <div className="not-prose mt-10">
+            <PickupAreas destinationSlug={destination.slug} />
+          </div>
           {pageFAQ.length > 0 && (
             <div className="not-prose mt-12">
               <FAQ items={pageFAQ} title={`Albany to ${destination.name} FAQ`} />
             </div>
           )}
         </div>
-        <aside>
+        <aside className="space-y-6">
           <BookingCard heading="Book your trip" />
+          <QuoteForm />
         </aside>
       </Container>
     </>
