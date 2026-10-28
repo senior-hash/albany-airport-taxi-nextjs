@@ -10,6 +10,7 @@ import {
   getCityBySlug,
   getCitiesByCounty,
   getStateById,
+  getCountyAirportDistance,
 } from "@/lib/content";
 import { resolveCityMeta, generateCountyMeta, hasRealCityDetail } from "@/scripts/lib/meta";
 import { PageHeading } from "@/components/PageHeading";
@@ -156,9 +157,19 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
     const isHudsonValley = ["Columbia County", "Greene County", "Ulster County", "Dutchess County"].includes(
       county.name
     );
-    const fallbackBody = isHudsonValley
-      ? `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""}, serving the Hudson Valley. Reliable, 24/7 door-to-door transportation. See our <a href="/hudson-valley">Hudson Valley service area</a> for the full region.</p>`
-      : `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""}. Reliable, 24/7 door-to-door transportation.</p>`;
+    const hudsonValleyLink = isHudsonValley
+      ? ` See our <a href="/hudson-valley">Hudson Valley service area</a> for the full region.`
+      : "";
+    // Real, routed driving distance from this airport to a verified
+    // landmark in the county (see lib/content.ts's getCountyAirportDistance
+    // doc) — not available for the "nyc" comparison-hub entry, since it
+    // isn't one physical point.
+    const distance = getCountyAirportDistance(county.slug, airport.slug);
+    const commonTrips =
+      "airport transfers, long-distance trips, courier deliveries, and wedding guest transportation";
+    const fallbackBody = distance
+      ? `<p>${county.name} is ${distance.distanceMiles} from ${airport.shortName} &mdash; ${distance.driveTime} by car, depending on traffic. We run ${commonTrips} throughout the county, and the price you're quoted is the price you pay.${hudsonValleyLink}</p>`
+      : `<p>${airport.name} taxi and car service throughout ${county.name}, ${state?.name ?? ""} &mdash; we run ${commonTrips} throughout the county. See our dedicated <a href="/airport-taxi/jfk/${county.slug}">JFK</a>, <a href="/airport-taxi/lga/${county.slug}">LaGuardia</a>, or <a href="/airport-taxi/ewr/${county.slug}">Newark</a> pages for typical drive times to each.${hudsonValleyLink}</p>`;
     // The legacy DB's county "detail" fields are often just a bare placeholder
     // like "Columbia county" — too short to be real content but still
     // truthy, so a plain `||` check would wrongly prefer it over the

@@ -3,6 +3,8 @@ import fs from "node:fs";
 import path from "node:path";
 import type { Airport, County, State, City, Car, Page, BlogPost } from "@/scripts/lib/schemas";
 
+export type CountyAirportDistance = { distanceMiles: string; driveTime: string };
+
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
 function loadJson<T>(filename: string): T {
@@ -18,6 +20,7 @@ const cache: {
   cars?: Car[];
   pages?: Page[];
   blogPosts?: BlogPost[];
+  countyAirportDistances?: Record<string, Record<string, CountyAirportDistance>>;
 } = {};
 
 export function getAirports(): Airport[] {
@@ -44,6 +47,26 @@ export function getCountyBySlug(slug: string): County | undefined {
 }
 export function getCountyById(id: number): County | undefined {
   return getCounties().find((c) => c.id === id);
+}
+
+// Real driving distance/time from each of the 5 physical airports we serve
+// (not the "nyc" comparison-hub entry — see getAirportDistance's own doc)
+// to a real, verified landmark in each county (same landmark as
+// lib/county-area.ts's AboutArea section) — computed via OSRM's public
+// routing API against the landmark's geocoded coordinates, Oct 2026. Not an
+// estimate or guess: a real routed driving distance, rounded to avoid false
+// precision.
+type CountyAirportDistances = Record<string, Record<string, CountyAirportDistance>>;
+function loadCountyAirportDistances(): CountyAirportDistances {
+  return (cache.countyAirportDistances ??= loadJson<CountyAirportDistances>(
+    "county-airport-distances.json"
+  ));
+}
+export function getCountyAirportDistance(
+  countySlug: string,
+  airportSlug: string
+): CountyAirportDistance | undefined {
+  return loadCountyAirportDistances()[countySlug]?.[airportSlug];
 }
 
 export function getCities(): City[] {
