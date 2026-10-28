@@ -65,10 +65,17 @@ export async function generateMetadata({
       { mtitle: city.mtitle, mdesc: city.mdesc },
       cityCounty?.name
     );
+    // Pages with no real local content (empty or spun-template detailHtml —
+    // ~3,204 of 3,372 city pages, per the duplication audit) are noindexed
+    // rather than competing with each other and the county page for the
+    // same thin, near-identical content. Still crawlable/linkable so the
+    // NearbyCities graph and per-county call tracking keep working.
+    const hasRealDetail = hasRealCityDetail(city.detailHtml);
     return {
       title: meta.title,
       description: meta.description,
       alternates: { canonical: `/airport-taxi/${airport.slug}/${city.slug}` },
+      robots: hasRealDetail ? undefined : { index: false, follow: true },
     };
   }
 

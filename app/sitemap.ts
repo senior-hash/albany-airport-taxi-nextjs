@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAirports, getCounties, getCities, getCars, getAllBlogPosts } from "@/lib/content";
 import { getVenues } from "@/lib/venues";
 import { getDestinations } from "@/lib/long-distance-destinations";
+import { hasRealCityDetail } from "@/scripts/lib/meta";
 import { SITE_URL } from "@/lib/schema";
 
 export const dynamic = "force-static";
@@ -48,12 +49,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${SITE_URL}/airport-taxi/${a.slug}`,
   }));
 
+  // Thin city pages (no real local content — see hasRealCityDetail) are
+  // noindexed on the page itself; keeping them out of the sitemap too
+  // avoids asking Google to crawl ~3,204 pages we've told it not to index.
+  const realDetailCities = cities.filter((c) => hasRealCityDetail(c.detailHtml));
+
   const placeUrls: MetadataRoute.Sitemap = [];
   for (const airport of airports) {
     for (const county of counties) {
       placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${county.slug}` });
     }
-    for (const city of cities) {
+    for (const city of realDetailCities) {
       placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${city.slug}` });
     }
   }
