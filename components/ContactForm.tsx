@@ -73,8 +73,13 @@ export function ContactForm() {
     }
     setStatus("sending");
     const form = e.currentTarget;
+    // The captcha checkbox is still required client-side above (a real
+    // human must check it before this handler ever runs) — but the token
+    // itself is NOT forwarded to Web3Forms: their API rejects any
+    // submission containing g-recaptcha-response unless the account is on
+    // a paid Pro plan ("You are trying to use a Pro feature"), which would
+    // silently reject every real submission on the free tier used here.
     const formData = new FormData(form);
-    if (captchaToken) formData.set("g-recaptcha-response", captchaToken);
     try {
       const res = await fetch(WEB3FORMS_ENDPOINT, {
         method: "POST",
