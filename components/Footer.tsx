@@ -4,10 +4,10 @@ import { SOCIAL } from "@/lib/business";
 import { Container } from "@/components/Container";
 import { Phone } from "@/components/Phone";
 import { LogoMark } from "@/components/LogoMark";
+import { CopyrightYear } from "@/components/CopyrightYear";
 import { PhoneIcon, ClockIcon, FacebookIcon, TripAdvisorIcon } from "@/components/icons";
 
 export function Footer() {
-  const year = new Date().getFullYear();
   return (
     <footer className="mt-24 border-t border-white/10 bg-primary">
       <Container className="grid gap-10 py-16 sm:grid-cols-2 lg:grid-cols-4">
@@ -102,7 +102,7 @@ export function Footer() {
         </div>
       </Container>
       <div className="border-t border-white/10 py-6 text-center text-xs text-white/60">
-        &copy; {year} {BUSINESS.name}. All rights reserved.
+        &copy; <CopyrightYear /> {BUSINESS.name}. All rights reserved.
       </div>
     </footer>
   );
