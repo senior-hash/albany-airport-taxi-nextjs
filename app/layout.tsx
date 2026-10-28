@@ -23,6 +23,11 @@ const bricolageGrotesque = Bricolage_Grotesque({
 });
 
 const GA_MEASUREMENT_ID = "G-6102LQSZD2";
+// Google Ads account tag — shares the GA4 gtag.js loader below (Google's
+// recommended setup when both tags are on the same page: one script load,
+// one global gtag(), a config call per product). See lib/google-ads-conversion.ts
+// for the conversion event itself.
+const GOOGLE_ADS_ID = "AW-18537237217";
 
 // Google Ads is sold under "US Limo and Taxi" (the real DBA — see
 // lib/business.ts), so every page needs to show that name somewhere a Google
@@ -90,6 +95,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', '${GA_MEASUREMENT_ID}');
+            gtag('config', '${GOOGLE_ADS_ID}');
           `}
         </Script>
       </body>

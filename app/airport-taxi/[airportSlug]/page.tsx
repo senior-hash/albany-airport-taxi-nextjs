@@ -7,6 +7,8 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
+import { Phone } from "@/components/Phone";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
@@ -77,6 +79,9 @@ export default async function AirportPage({
               {distance.driveTime} by car, depending on traffic.
             </p>
           )}
+          <p className="mb-4 text-sm text-ink-muted">
+            Call our dispatcher anytime at <Phone className="text-accent hover:underline" /> to book your {airport.shortName} transfer.
+          </p>
           <ProseContent html={airport.detailHtml} />
           {airport.slug === "alb" && (
             <p className="mt-6 text-sm text-ink-muted">
@@ -95,6 +100,7 @@ export default async function AirportPage({
         </div>
         <aside className="space-y-6">
           <BookingCard />
+          <QuoteForm />
           <FlightStatusChecker />
           <div>
             <p className="font-medium text-primary">Browse by county</p>
