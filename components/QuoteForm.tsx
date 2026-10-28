@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Script from "next/script";
 import { fireQuoteFormConversion } from "@/lib/google-ads-conversion";
+import { AddressAutocomplete } from "@/components/AddressAutocomplete";
 
 // Same Web3Forms pipeline as ContactForm (see that file for why: no new
 // server-side code on the cPanel account, no account/password to manage).
@@ -178,10 +179,7 @@ export function QuoteForm() {
             </select>
           </div>
         ) : (
-          <div>
-            <label htmlFor="pickup" className="block text-xs font-medium text-ink">{pickupLabel}</label>
-            <input id="pickup" name="pickup" required className="mt-1 w-full rounded-md border border-border px-3 py-2 text-sm" />
-          </div>
+          <AddressAutocomplete id="pickup" name="pickup" label={pickupLabel} required />
         )}
 
         {tripType === "to-airport" ? (
@@ -194,10 +192,7 @@ export function QuoteForm() {
             </select>
           </div>
         ) : (
-          <div>
-            <label htmlFor="dropoff" className="block text-xs font-medium text-ink">{dropoffLabel}</label>
-            <input id="dropoff" name="dropoff" className="mt-1 w-full rounded-md border border-border px-3 py-2 text-sm" />
-          </div>
+          <AddressAutocomplete id="dropoff" name="dropoff" label={dropoffLabel} />
         )}
 
         <div className="grid grid-cols-3 gap-3">
