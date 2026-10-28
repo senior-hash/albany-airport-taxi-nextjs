@@ -34,11 +34,11 @@ export function Header() {
   return (
     <header className="sticky top-0 z-10 border-b border-white/10 bg-primary backdrop-blur">
       <Container className="relative flex h-20 items-center justify-between gap-6">
-        <Link href="/" className="flex items-center gap-2.5">
+        <Link href="/" className="flex min-w-0 items-center gap-2.5">
           <LogoMark className="h-9 w-9 shrink-0 text-white" />
-          <span className="flex flex-col leading-none">
-            <span className="font-logo text-lg font-extrabold tracking-tight text-white">Albany Airport Taxi</span>
-            <span className="font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent-bright">&amp; Limo</span>
+          <span className="flex min-w-0 flex-col leading-none">
+            <span className="truncate font-logo text-base font-extrabold tracking-tight text-white sm:text-lg">Albany Airport Taxi</span>
+            <span className="hidden font-logo text-[11px] font-medium uppercase tracking-[0.18em] text-accent-bright sm:block">&amp; Limo</span>
           </span>
         </Link>
         <nav className="hidden items-center gap-6 text-sm text-white/70 lg:flex">
@@ -49,7 +49,7 @@ export function Header() {
           ))}
         </nav>
         <div className="flex items-center gap-3">
-          <CallButton className="shrink-0 text-sm" phoneDisplay={localPhone} />
+          <CallButton className="shrink-0 text-sm" phoneDisplay={localPhone} compactOnMobile />
           <MobileMenu links={NAV_LINKS} />
         </div>
       </Container>

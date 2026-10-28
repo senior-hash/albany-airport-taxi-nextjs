@@ -123,7 +123,7 @@ export default function HomePage() {
     <>
       <section className="relative overflow-hidden bg-primary">
         <div className="hero-glow pointer-events-none absolute -left-24 top-0 h-[500px] w-[500px] sm:h-[600px] sm:w-[600px]" />
-        <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-sky" />
+        <RouteLine className="pointer-events-none absolute inset-0 hidden h-full w-full text-sky sm:block" />
         <Container className="relative grid gap-10 py-16 sm:py-24 lg:grid-cols-2 lg:items-center">
           <div>
             <p className="text-sm font-medium uppercase tracking-wide text-accent-bright">

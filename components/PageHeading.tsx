@@ -17,7 +17,7 @@ export function PageHeading({
 }) {
   return (
     <div className="relative overflow-hidden bg-primary py-12 sm:py-16">
-      <RouteLine className="pointer-events-none absolute inset-0 h-full w-full text-sky" />
+      <RouteLine className="pointer-events-none absolute inset-0 hidden h-full w-full text-sky sm:block" />
       <div className="relative mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8">
         {eyebrow && (
           <p className="text-sm font-medium uppercase tracking-wide text-accent-bright">{eyebrow}</p>

@@ -23,19 +23,26 @@ import { PhoneIcon } from "@/components/icons";
 export function CallButton({
   className = "",
   phoneDisplay,
+  compactOnMobile = false,
 }: {
   className?: string;
   phoneDisplay?: string;
+  /** Below the sm breakpoint, shrink to an icon-only circle (no visible
+   * text) — used in the Header, where the full-width pill plus the
+   * hamburger menu doesn't fit on narrow screens. The text stays in the
+   * accessible name via aria-label. */
+  compactOnMobile?: boolean;
 }) {
   const adPhone = useAdPhone();
   const display = adPhone ?? phoneDisplay ?? BUSINESS.phoneDisplay;
   return (
     <a
       href={phoneToTelHref(display)}
-      className={`inline-flex h-14 items-center justify-center gap-2 rounded-full bg-accent-bright px-6 font-bold text-primary transition-colors hover:bg-accent-bright-hover ${className}`}
+      aria-label={compactOnMobile ? `Call ${display}` : undefined}
+      className={`inline-flex h-14 items-center justify-center gap-2 rounded-full bg-accent-bright font-bold text-primary transition-colors hover:bg-accent-bright-hover ${compactOnMobile ? "w-14 px-0 sm:w-auto sm:px-6" : "px-6"} ${className}`}
     >
       <PhoneIcon className="h-5 w-5 shrink-0" />
-      Call {display}
+      <span className={compactOnMobile ? "hidden sm:inline" : undefined}>Call {display}</span>
     </a>
   );
 }
