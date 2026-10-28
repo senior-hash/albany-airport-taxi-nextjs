@@ -35,7 +35,9 @@ export function getStateById(id: number): State | undefined {
 }
 
 export function getCounties(): County[] {
-  return (cache.counties ??= loadJson<County[]>("counties.json"));
+  return (cache.counties ??= loadJson<County[]>("counties.json").sort((a, b) =>
+    a.name.localeCompare(b.name)
+  ));
 }
 export function getCountyBySlug(slug: string): County | undefined {
   return getCounties().find((c) => c.slug === slug);

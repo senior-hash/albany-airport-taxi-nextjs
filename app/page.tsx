@@ -84,7 +84,7 @@ const MORE_WAYS = [
   {
     href: "/services/wedding",
     icon: UsersIcon,
-    title: "Wedding Guest Transportation",
+    title: "Wedding Guest Shuttle",
     description: "Hotel and rental pickups to and from the venue.",
   },
   {

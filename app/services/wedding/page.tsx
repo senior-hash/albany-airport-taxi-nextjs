@@ -8,9 +8,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { serviceSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Wedding Guest Transportation",
+  title: "Wedding Guest Shuttle Service",
   description:
-    "Private car service for wedding guests in the Albany, NY area — scheduled pickups from nearby hotels and vacation rentals, runs to and from the venue, and a safe ride home at the end of the night.",
+    "Private wedding guest shuttle service in the Albany, NY area — scheduled pickups from nearby hotels and vacation rentals, runs to and from the venue, and a safe ride home at the end of the night.",
   alternates: { canonical: "/services/wedding" },
 };
 
@@ -19,19 +19,19 @@ export default function WeddingPage() {
     <>
       <JsonLd
         data={serviceSchema({
-          name: "Wedding Guest Transportation",
+          name: "Wedding Guest Shuttle Service",
           description:
-            "Scheduled private car service for wedding guests between nearby hotels or vacation rentals and the venue, including a return run at the end of the night.",
+            "Scheduled wedding guest shuttle service between nearby hotels or vacation rentals and the venue, including a return run at the end of the night.",
           areaServedName: "Albany, NY and the Capital Region",
           url: "/services/wedding",
         })}
       />
       <PageHeading
         eyebrow="Services"
-        title="Wedding Guest Transportation"
+        title="Wedding Guest Shuttle Service"
         description="Scheduled pickups from nearby hotels and rentals, so your guests get to the venue and home again without anyone driving."
       />
-      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Wedding Guest Transportation", path: "/services/wedding" }]} />
+      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Wedding Guest Shuttle", path: "/services/wedding" }]} />
       <Container className="grid gap-12 py-12 lg:grid-cols-[2fr_1fr]">
         <div className="prose prose-neutral max-w-none prose-headings:text-primary">
           <p>
