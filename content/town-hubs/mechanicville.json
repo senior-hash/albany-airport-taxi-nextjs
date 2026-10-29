@@ -1,0 +1,156 @@
+{
+  "slug": "mechanicville",
+  "name": "Mechanicville",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 42.903888888,
+  "lon": -73.690555555,
+  "wikidataQid": "Q1378444",
+  "population": 5163,
+  "airportDistances": {
+    "alb": {
+      "miles": "~15 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Mechanicville",
+    "miles": "~1 mile",
+    "driveTime": "about 5 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The End Zone Sports Pub & Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Faldoni's Delicatessen & Catering",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bubbles Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ugly Rooster Cafe",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Costanzo's Lounge & Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hildreth's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hank Hudson Brewing Company",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Old Mill Restaurant",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Tallmadge Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Paul Luther Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Turning Point Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Village Cannon Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Blockhouse Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Major Dickinson Playground",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Abele Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Halfmoon Lighthouse Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Mechanicsville Municipal Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saratoga Hospital Medical Group Primary Care – Mechanicville",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mechanicville Family Health",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Stillwater Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Halfmoon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schaghticoke Family Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Upstate Dermatology",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Albany ENT and Allergy Services",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:25.769Z"
+}

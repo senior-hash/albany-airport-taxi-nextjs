@@ -1,0 +1,3176 @@
+{
+  "albany": {
+    "qid": "Q24861",
+    "lat": 42.65,
+    "lon": -73.766666666,
+    "population": 99224
+  },
+  "alcove": {
+    "qid": "Q4713369",
+    "lat": 42.468611111,
+    "lon": -73.925277777,
+    "population": null
+  },
+  "altamont": {
+    "qid": "Q3164563",
+    "lat": 42.705277777,
+    "lon": -74.033611111,
+    "population": 1675
+  },
+  "berne": {
+    "qid": "Q2898999",
+    "lat": 42.625277777,
+    "lon": -74.133333333,
+    "population": 2689
+  },
+  "coeymans": {
+    "qid": "Q3023930",
+    "lat": 42.4739,
+    "lon": -73.7922,
+    "population": 835
+  },
+  "coeymans-hollow": {
+    "qid": "Q38249773",
+    "lat": 42.47166667,
+    "lon": -73.89444444,
+    "population": null
+  },
+  "cohoes": {
+    "qid": "Q1380598",
+    "lat": 42.773333333,
+    "lon": -73.703055555,
+    "population": 18147
+  },
+  "delmar": {
+    "qid": "Q5254248",
+    "lat": 42.618055555,
+    "lon": -73.836666666,
+    "population": null
+  },
+  "east-berne": {
+    "qid": "Q122561122",
+    "lat": 42.6164662,
+    "lon": -74.0745747,
+    "population": null
+  },
+  "glenmont": {
+    "qid": "Q5568614",
+    "lat": 42.604722222,
+    "lon": -73.769444444,
+    "population": null
+  },
+  "guilderland": {
+    "qid": "Q3045956",
+    "lat": 42.701388888,
+    "lon": -73.925277777,
+    "population": 36848
+  },
+  "knox": {
+    "qid": "Q3708287",
+    "lat": 42.671111111,
+    "lon": -74.115555555,
+    "population": 2635
+  },
+  "latham": {
+    "qid": "Q14706769",
+    "lat": 42.7469,
+    "lon": -73.7589,
+    "population": 13680
+  },
+  "medusa": {
+    "qid": "Q6807348",
+    "lat": 42.4367,
+    "lon": -74.13,
+    "population": 376
+  },
+  "newtonville": {
+    "qid": "Q14707095",
+    "lat": 42.7242,
+    "lon": -73.7583,
+    "population": null
+  },
+  "preston-hollow": {
+    "qid": "Q135911519",
+    "lat": 42.4445237,
+    "lon": -74.207917,
+    "population": null
+  },
+  "ravena": {
+    "qid": "Q3458156",
+    "lat": 42.476388888,
+    "lon": -73.814166666,
+    "population": 3271
+  },
+  "rensselaerville": {
+    "qid": "Q3709139",
+    "lat": 42.479444444,
+    "lon": -74.171944444,
+    "population": 1826
+  },
+  "selkirk": {
+    "qid": "Q3478164",
+    "lat": 42.533611111,
+    "lon": -73.806111111,
+    "population": null
+  },
+  "slingerlands": {
+    "qid": "Q7540686",
+    "lat": 42.629166666,
+    "lon": -73.864444444,
+    "population": null
+  },
+  "south-bethlehem": {
+    "qid": "Q7566325",
+    "lat": 42.5319,
+    "lon": -73.8472,
+    "population": null
+  },
+  "voorheesville": {
+    "qid": "Q3458098",
+    "lat": 42.649722222,
+    "lon": -73.929166666,
+    "population": 2841
+  },
+  "acra": {
+    "qid": "Q38249792",
+    "lat": 42.31083333,
+    "lon": -74.05527778,
+    "population": null
+  },
+  "ashland": {
+    "qid": "Q3710270",
+    "lat": 42.303611111,
+    "lon": -74.333611111,
+    "population": 682
+  },
+  "athens": {
+    "qid": "Q3709146",
+    "lat": 42.268611111,
+    "lon": -73.805555555,
+    "population": 3916
+  },
+  "cairo": {
+    "qid": "Q3461772",
+    "lat": 42.3025,
+    "lon": -74.0039,
+    "population": 1368
+  },
+  "catskill": {
+    "qid": "Q2943009",
+    "lat": 42.2167,
+    "lon": -73.8667,
+    "population": 3745
+  },
+  "climax": {
+    "qid": "Q14706229",
+    "lat": 42.3658,
+    "lon": -73.8508,
+    "population": null
+  },
+  "cornwallville": {
+    "qid": "Q5172046",
+    "lat": 42.3681,
+    "lon": -74.1581,
+    "population": null
+  },
+  "coxsackie": {
+    "qid": "Q5179975",
+    "lat": 42.35092,
+    "lon": -73.8029,
+    "population": 8382
+  },
+  "durham": {
+    "qid": "Q3708751",
+    "lat": 42.383333333,
+    "lon": -74.15,
+    "population": 2627
+  },
+  "earlton": {
+    "qid": "Q38249776",
+    "lat": 42.35555556,
+    "lon": -73.90055556,
+    "population": null
+  },
+  "east-durham": {
+    "qid": "Q5328262",
+    "lat": 42.3725,
+    "lon": -74.0956,
+    "population": 466
+  },
+  "east-jewett": {
+    "qid": "Q38249797",
+    "lat": 42.235,
+    "lon": -74.14555556,
+    "population": null
+  },
+  "elka-park": {
+    "qid": "Q39050528",
+    "lat": 42.15916667,
+    "lon": -74.1575,
+    "population": null
+  },
+  "freehold": {
+    "qid": "Q5500903",
+    "lat": 42.3592,
+    "lon": -74.0489,
+    "population": 1463
+  },
+  "greenville": {
+    "qid": "Q5604657",
+    "lat": 42.4153,
+    "lon": -74.0219,
+    "population": 688
+  },
+  "hannacroix": {
+    "qid": "Q38249778",
+    "lat": 42.42888889,
+    "lon": -73.80916667,
+    "population": null
+  },
+  "hensonville": {
+    "qid": "Q14706351",
+    "lat": 42.2897,
+    "lon": -74.2167,
+    "population": null
+  },
+  "hunter": {
+    "qid": "Q9005436",
+    "lat": 42.2137,
+    "lon": -74.21875,
+    "population": 3035
+  },
+  "jewett": {
+    "qid": "Q3708961",
+    "lat": 42.270277777,
+    "lon": -74.303055555,
+    "population": 879
+  },
+  "lanesville": {
+    "qid": "Q135911504",
+    "lat": 42.1278673,
+    "lon": -74.2629234,
+    "population": null
+  },
+  "leeds": {
+    "qid": "Q3461415",
+    "lat": 42.2533,
+    "lon": -73.8967,
+    "population": 429
+  },
+  "lexington": {
+    "qid": "Q992543",
+    "lat": 42.240277777,
+    "lon": -74.365555555,
+    "population": 770
+  },
+  "maplecrest": {
+    "qid": "Q39050557",
+    "lat": 42.27583333,
+    "lon": -74.18694444,
+    "population": null
+  },
+  "new-baltimore": {
+    "qid": "Q3708922",
+    "lat": 42.446111111,
+    "lon": -73.788333333,
+    "population": 3226
+  },
+  "oak-hill": {
+    "qid": "Q7073544",
+    "lat": 42.4097,
+    "lon": -74.1522,
+    "population": 277
+  },
+  "palenville": {
+    "qid": "Q3461940",
+    "lat": 42.169722222,
+    "lon": -74.019166666,
+    "population": 1002
+  },
+  "prattsville": {
+    "qid": "Q28104191",
+    "lat": 42.31472222,
+    "lon": -74.43277778,
+    "population": 384
+  },
+  "purling": {
+    "qid": "Q39050574",
+    "lat": 42.2842532,
+    "lon": -74.0054108,
+    "population": null
+  },
+  "round-top": {
+    "qid": "Q39050575",
+    "lat": 42.26888889,
+    "lon": -74.02722222,
+    "population": 920
+  },
+  "south-cairo": {
+    "qid": "Q39050581",
+    "lat": 42.27694444,
+    "lon": -73.95666667,
+    "population": 590
+  },
+  "surprise": {
+    "qid": "Q18386564",
+    "lat": 42.3925,
+    "lon": -73.9497,
+    "population": null
+  },
+  "tannersville": {
+    "qid": "Q3459786",
+    "lat": 42.1936,
+    "lon": -74.1389,
+    "population": 568
+  },
+  "west-coxsackie": {
+    "qid": "Q123206325",
+    "lat": 42.3606399,
+    "lon": -73.8167921,
+    "population": null
+  },
+  "west-kill": {
+    "qid": "Q7985625",
+    "lat": 42.2083,
+    "lon": -74.3867,
+    "population": 121
+  },
+  "windham": {
+    "qid": "Q3460035",
+    "lat": 42.307222222,
+    "lon": -74.252222222,
+    "population": 371
+  },
+  "ancram": {
+    "qid": "Q3708239",
+    "lat": 42.050555555,
+    "lon": -73.636111111,
+    "population": 1440
+  },
+  "ancramdale": {
+    "qid": "Q43080308",
+    "lat": 42.0181473,
+    "lon": -73.5912358,
+    "population": null
+  },
+  "austerlitz": {
+    "qid": "Q3708672",
+    "lat": 42.311666666,
+    "lon": -73.473055555,
+    "population": 1625
+  },
+  "canaan": {
+    "qid": "Q2483284",
+    "lat": 42.411944444,
+    "lon": -73.446944444,
+    "population": 1570
+  },
+  "chatham": {
+    "qid": "Q3723184",
+    "lat": 42.4181,
+    "lon": -73.5764,
+    "population": 4104
+  },
+  "claverack": {
+    "qid": "Q1022781",
+    "lat": 42.225,
+    "lon": -73.734444444,
+    "population": 6058
+  },
+  "columbiaville": {
+    "qid": "Q38249774",
+    "lat": 42.31833333,
+    "lon": -73.75305556,
+    "population": null
+  },
+  "copake": {
+    "qid": "Q19866132",
+    "lat": 42.1031,
+    "lon": -73.5497,
+    "population": 318
+  },
+  "copake-falls": {
+    "qid": "Q19866126",
+    "lat": 42.1194,
+    "lon": -73.525,
+    "population": 181
+  },
+  "craryville": {
+    "qid": "Q5182307",
+    "lat": 42.174722222,
+    "lon": -73.582777777,
+    "population": null
+  },
+  "east-chatham": {
+    "qid": "Q5328071",
+    "lat": 42.4106,
+    "lon": -73.5244,
+    "population": null
+  },
+  "elizaville": {
+    "qid": "Q16890945",
+    "lat": 42.0508,
+    "lon": -73.7936,
+    "population": null
+  },
+  "germantown": {
+    "qid": "Q3460417",
+    "lat": 42.1358,
+    "lon": -73.8878,
+    "population": 1121
+  },
+  "ghent": {
+    "qid": "Q3461892",
+    "lat": 42.3292,
+    "lon": -73.6167,
+    "population": 623
+  },
+  "hillsdale": {
+    "qid": "Q3708235",
+    "lat": 42.226944444,
+    "lon": -73.536944444,
+    "population": 1831
+  },
+  "hollowville": {
+    "qid": "Q43080402",
+    "lat": 42.205366,
+    "lon": -73.6912341,
+    "population": null
+  },
+  "hudson": {
+    "qid": "Q1023499",
+    "lat": 42.25,
+    "lon": -73.789722222,
+    "population": 5894
+  },
+  "kinderhook": {
+    "qid": "Q3478629",
+    "lat": 42.3936,
+    "lon": -73.705,
+    "population": 1170
+  },
+  "livingston": {
+    "qid": "Q2918081",
+    "lat": 42.141944444,
+    "lon": -73.777777777,
+    "population": 3628
+  },
+  "malden-bridge": {
+    "qid": "Q122543278",
+    "lat": 42.4706378,
+    "lon": -73.5828928,
+    "population": null
+  },
+  "mellenville": {
+    "qid": "Q43080404",
+    "lat": 42.2531431,
+    "lon": -73.667621,
+    "population": null
+  },
+  "new-lebanon": {
+    "qid": "Q3708218",
+    "lat": 42.463888888,
+    "lon": -73.396388888,
+    "population": 2514
+  },
+  "niverville": {
+    "qid": "Q615442",
+    "lat": 42.4461,
+    "lon": -73.6544,
+    "population": 1508
+  },
+  "north-chatham": {
+    "qid": "Q38249787",
+    "lat": 42.47194444,
+    "lon": -73.63166667,
+    "population": null
+  },
+  "old-chatham": {
+    "qid": "Q7083644",
+    "lat": 42.443611111,
+    "lon": -73.559166666,
+    "population": null
+  },
+  "philmont": {
+    "qid": "Q3461467",
+    "lat": 42.2489,
+    "lon": -73.6489,
+    "population": 1377
+  },
+  "spencertown": {
+    "qid": "Q14707319",
+    "lat": 42.3233,
+    "lon": -73.5458,
+    "population": null
+  },
+  "stottville": {
+    "qid": "Q962979",
+    "lat": 42.2853,
+    "lon": -73.7481,
+    "population": 1665
+  },
+  "stuyvesant": {
+    "qid": "Q3708883",
+    "lat": 42.390277777,
+    "lon": -73.781388888,
+    "population": 1931
+  },
+  "stuyvesant-falls": {
+    "qid": "Q7629260",
+    "lat": 42.3553,
+    "lon": -73.7308,
+    "population": null
+  },
+  "valatie": {
+    "qid": "Q3458039",
+    "lat": 42.4139,
+    "lon": -73.6775,
+    "population": 1785
+  },
+  "west-lebanon": {
+    "qid": "Q38249791",
+    "lat": 42.48611111,
+    "lon": -73.46611111,
+    "population": null
+  },
+  "amenia": {
+    "qid": "Q3248544",
+    "lat": 41.849166666,
+    "lon": -73.556666666,
+    "population": 725
+  },
+  "bangall": {
+    "qid": "Q43080312",
+    "lat": 41.87555556,
+    "lon": -73.69111111,
+    "population": null
+  },
+  "barrytown": {
+    "qid": "Q4864950",
+    "lat": 41.998718,
+    "lon": -73.92441,
+    "population": 100
+  },
+  "beacon": {
+    "qid": "Q812892",
+    "lat": 41.504166666,
+    "lon": -73.965555555,
+    "population": 13769
+  },
+  "billings": {
+    "qid": "Q135911605",
+    "lat": 41.6712049,
+    "lon": -73.7631865,
+    "population": null
+  },
+  "castle-point": {
+    "qid": "Q43080398",
+    "lat": 41.54611111,
+    "lon": -73.95944444,
+    "population": null
+  },
+  "chelsea": {
+    "qid": "Q5090022",
+    "lat": 41.553888888,
+    "lon": -73.968611111,
+    "population": null
+  },
+  "clinton-corners": {
+    "qid": "Q122571524",
+    "lat": 41.8300933,
+    "lon": -73.7623524,
+    "population": null
+  },
+  "dover-plains": {
+    "qid": "Q2880028",
+    "lat": 41.7408,
+    "lon": -73.5764,
+    "population": 1322
+  },
+  "fishkill": {
+    "qid": "Q2533908",
+    "lat": 41.535555555,
+    "lon": -73.898888888,
+    "population": 2166
+  },
+  "glenham": {
+    "qid": "Q43080400",
+    "lat": 41.52166667,
+    "lon": -73.92638889,
+    "population": null
+  },
+  "holmes": {
+    "qid": "Q115857710",
+    "lat": 41.5234269,
+    "lon": -73.646795,
+    "population": null
+  },
+  "hopewell-junction": {
+    "qid": "Q3460358",
+    "lat": 41.5842,
+    "lon": -73.7997,
+    "population": 1330
+  },
+  "hughsonville": {
+    "qid": "Q122539358",
+    "lat": 41.5809269,
+    "lon": -73.9270817,
+    "population": null
+  },
+  "hyde-park": {
+    "qid": "Q22074900",
+    "lat": 41.784722222,
+    "lon": -73.933055555,
+    "population": 1925
+  },
+  "lagrangeville": {
+    "qid": "Q122594215",
+    "lat": 41.650927,
+    "lon": -73.7629088,
+    "population": null
+  },
+  "millbrook": {
+    "qid": "Q3178628",
+    "lat": 41.7847,
+    "lon": -73.6878,
+    "population": 1455
+  },
+  "millerton": {
+    "qid": "Q3242173",
+    "lat": 41.9539,
+    "lon": -73.5078,
+    "population": 903
+  },
+  "pawling": {
+    "qid": "Q11698432",
+    "lat": 41.5667,
+    "lon": -73.6,
+    "population": 8012
+  },
+  "pine-plains": {
+    "qid": "Q3462011",
+    "lat": 41.9789,
+    "lon": -73.6614,
+    "population": 1142
+  },
+  "pleasant-valley": {
+    "qid": "Q3461831",
+    "lat": 41.7453,
+    "lon": -73.8233,
+    "population": 1603
+  },
+  "poughkeepsie": {
+    "qid": "Q178093",
+    "lat": 41.705277777,
+    "lon": -73.930555555,
+    "population": 31577
+  },
+  "poughquag": {
+    "qid": "Q122539043",
+    "lat": 41.6089826,
+    "lon": -73.6817957,
+    "population": null
+  },
+  "red-hook": {
+    "qid": "Q1020238",
+    "lat": 41.9944,
+    "lon": -73.8775,
+    "population": 1975
+  },
+  "rhinebeck": {
+    "qid": "Q3241019",
+    "lat": 41.92676,
+    "lon": -73.91264,
+    "population": 2697
+  },
+  "rhinecliff": {
+    "qid": "Q7320562",
+    "lat": 41.9194,
+    "lon": -73.9511,
+    "population": 380
+  },
+  "salt-point": {
+    "qid": "Q7405915",
+    "lat": 41.806111111,
+    "lon": -73.794722222,
+    "population": 202
+  },
+  "staatsburg": {
+    "qid": "Q7595691",
+    "lat": 41.8528,
+    "lon": -73.9222,
+    "population": 703
+  },
+  "stanfordville": {
+    "qid": "Q123206766",
+    "lat": 41.8676109,
+    "lon": -73.7133885,
+    "population": null
+  },
+  "stormville": {
+    "qid": "Q135911636",
+    "lat": 41.5703919,
+    "lon": -73.7454796,
+    "population": null
+  },
+  "verbank": {
+    "qid": "Q7920952",
+    "lat": 41.7281,
+    "lon": -73.7153,
+    "population": null
+  },
+  "wappingers-falls": {
+    "qid": "Q1030215",
+    "lat": 41.599166666,
+    "lon": -73.918055555,
+    "population": 6103
+  },
+  "wassaic": {
+    "qid": "Q3477103",
+    "lat": 41.8,
+    "lon": -73.5667,
+    "population": 210
+  },
+  "accord": {
+    "qid": "Q2489840",
+    "lat": 41.791111111,
+    "lon": -74.228888888,
+    "population": 573
+  },
+  "bearsville": {
+    "qid": "Q4876785",
+    "lat": 42.068333333,
+    "lon": -74.264166666,
+    "population": 700
+  },
+  "big-indian": {
+    "qid": "Q4905868",
+    "lat": 42.173611111,
+    "lon": -74.743611111,
+    "population": null
+  },
+  "bloomington": {
+    "qid": "Q38249793",
+    "lat": 41.87888889,
+    "lon": -74.04416667,
+    "population": null
+  },
+  "boiceville": {
+    "qid": "Q4938298",
+    "lat": 42.005,
+    "lon": -74.266,
+    "population": null
+  },
+  "chichester": {
+    "qid": "Q5095981",
+    "lat": 42.101666666,
+    "lon": -74.309444444,
+    "population": null
+  },
+  "connelly": {
+    "qid": "Q38249794",
+    "lat": 41.91,
+    "lon": -73.99111111,
+    "population": null
+  },
+  "cottekill": {
+    "qid": "Q5175571",
+    "lat": 41.851388888,
+    "lon": -74.102222222,
+    "population": 451
+  },
+  "cragsmoor": {
+    "qid": "Q3461123",
+    "lat": 41.668333333,
+    "lon": -74.388055555,
+    "population": 433
+  },
+  "ellenville": {
+    "qid": "Q3453189",
+    "lat": 41.716944444,
+    "lon": -74.393333333,
+    "population": 4167
+  },
+  "esopus": {
+    "qid": "Q3709827",
+    "lat": 41.827777777,
+    "lon": -73.965,
+    "population": 9548
+  },
+  "gardiner": {
+    "qid": "Q3461664",
+    "lat": 41.68,
+    "lon": -74.1511,
+    "population": 952
+  },
+  "glasco": {
+    "qid": "Q3461847",
+    "lat": 42.0475,
+    "lon": -73.9528,
+    "population": 2013
+  },
+  "glenford": {
+    "qid": "Q39050531",
+    "lat": 42.0025,
+    "lon": -74.12638889,
+    "population": null
+  },
+  "greenfield-park": {
+    "qid": "Q39050548",
+    "lat": 41.72583333,
+    "lon": -74.48583333,
+    "population": null
+  },
+  "high-falls": {
+    "qid": "Q3460901",
+    "lat": 41.8269,
+    "lon": -74.1222,
+    "population": 700
+  },
+  "highland": {
+    "qid": "Q3460450",
+    "lat": 41.718333333,
+    "lon": -73.963611111,
+    "population": 6385
+  },
+  "highmount": {
+    "qid": "Q135911495",
+    "lat": 42.1442557,
+    "lon": -74.4898745,
+    "population": null
+  },
+  "hurley": {
+    "qid": "Q961730",
+    "lat": 41.9208,
+    "lon": -74.0544,
+    "population": 3346
+  },
+  "kingston": {
+    "qid": "Q868660",
+    "lat": 41.925,
+    "lon": -74,
+    "population": 24069
+  },
+  "lake-hill": {
+    "qid": "Q39050552",
+    "lat": 42.06722222,
+    "lon": -74.18722222,
+    "population": null
+  },
+  "lake-katrine": {
+    "qid": "Q3462091",
+    "lat": 41.9839,
+    "lon": -73.9972,
+    "population": 2522
+  },
+  "marlboro": {
+    "qid": "Q3470827",
+    "lat": 41.6047,
+    "lon": -73.9747,
+    "population": 3699
+  },
+  "milton": {
+    "qid": "Q772594",
+    "lat": 41.658715,
+    "lon": -73.9664553,
+    "population": 1650
+  },
+  "mount-marion": {
+    "qid": "Q39050558",
+    "lat": 42.03861111,
+    "lon": -73.98638889,
+    "population": null
+  },
+  "mount-tremper": {
+    "qid": "Q6924190",
+    "lat": 42.044722222,
+    "lon": -74.275555555,
+    "population": null
+  },
+  "napanoch": {
+    "qid": "Q3461425",
+    "lat": 41.748333333,
+    "lon": -74.372777777,
+    "population": 1131
+  },
+  "new-paltz": {
+    "qid": "Q3138833",
+    "lat": 41.74759,
+    "lon": -74.08681,
+    "population": 7324
+  },
+  "olivebridge": {
+    "qid": "Q7087241",
+    "lat": 41.927872222,
+    "lon": -74.215422222,
+    "population": null
+  },
+  "phoenicia": {
+    "qid": "Q7186711",
+    "lat": 42.0814,
+    "lon": -74.3131,
+    "population": 268
+  },
+  "pine-hill": {
+    "qid": "Q488307",
+    "lat": 42.1377365,
+    "lon": -74.4809398,
+    "population": 275
+  },
+  "plattekill": {
+    "qid": "Q3460175",
+    "lat": 41.6117,
+    "lon": -74.0722,
+    "population": 1296
+  },
+  "port-ewen": {
+    "qid": "Q3461421",
+    "lat": 41.9069,
+    "lon": -73.9786,
+    "population": 3678
+  },
+  "rifton": {
+    "qid": "Q3460136",
+    "lat": 41.8375,
+    "lon": -74.037777777,
+    "population": 481
+  },
+  "rosendale": {
+    "qid": "Q3708460",
+    "lat": 41.843888888,
+    "lon": -74.082222222,
+    "population": 5782
+  },
+  "ruby": {
+    "qid": "Q39050578",
+    "lat": 42.01805556,
+    "lon": -74.01472222,
+    "population": 918
+  },
+  "saugerties": {
+    "qid": "Q3461248",
+    "lat": 42.0764,
+    "lon": -73.9503,
+    "population": 3899
+  },
+  "shandaken": {
+    "qid": "Q3708519",
+    "lat": 42.12,
+    "lon": -74.395555555,
+    "population": 2866
+  },
+  "shokan": {
+    "qid": "Q2771880",
+    "lat": 41.9728,
+    "lon": -74.2156,
+    "population": 1075
+  },
+  "spring-glen": {
+    "qid": "Q7580522",
+    "lat": 41.665833333,
+    "lon": -74.43,
+    "population": null
+  },
+  "stone-ridge": {
+    "qid": "Q3459999",
+    "lat": 41.845833333,
+    "lon": -74.156388888,
+    "population": 1234
+  },
+  "tillson": {
+    "qid": "Q3461615",
+    "lat": 41.8311,
+    "lon": -74.0719,
+    "population": 1516
+  },
+  "ulster-park": {
+    "qid": "Q29903626",
+    "lat": 41.85583333,
+    "lon": -73.97694444,
+    "population": null
+  },
+  "walker-valley": {
+    "qid": "Q3461728",
+    "lat": 41.6422,
+    "lon": -74.3725,
+    "population": 1269
+  },
+  "wallkill": {
+    "qid": "Q3292692",
+    "lat": 41.605555555,
+    "lon": -74.183888888,
+    "population": 2166
+  },
+  "wawarsing": {
+    "qid": "Q942193",
+    "lat": 41.758888888,
+    "lon": -74.3575,
+    "population": 12771
+  },
+  "west-camp": {
+    "qid": "Q39050594",
+    "lat": 42.12305556,
+    "lon": -73.93472222,
+    "population": null
+  },
+  "west-hurley": {
+    "qid": "Q3462068",
+    "lat": 42.0044,
+    "lon": -74.1094,
+    "population": 1917
+  },
+  "west-park": {
+    "qid": "Q7986162",
+    "lat": 41.794444444,
+    "lon": -73.959444444,
+    "population": null
+  },
+  "west-shokan": {
+    "qid": "Q39050591",
+    "lat": 41.96722222,
+    "lon": -74.28722222,
+    "population": null
+  },
+  "willow": {
+    "qid": "Q39050595",
+    "lat": 42.07638889,
+    "lon": -74.22805556,
+    "population": null
+  },
+  "woodstock": {
+    "qid": "Q3460234",
+    "lat": 42.0403,
+    "lon": -74.1172,
+    "population": 2521
+  },
+  "andes": {
+    "qid": "Q3472275",
+    "lat": 42.1886,
+    "lon": -74.7858,
+    "population": 189
+  },
+  "arkville": {
+    "qid": "Q4792060",
+    "lat": 42.1478,
+    "lon": -74.6197,
+    "population": null
+  },
+  "bloomville": {
+    "qid": "Q5730349",
+    "lat": 42.333333333,
+    "lon": -74.807777777,
+    "population": 173
+  },
+  "bovina-center": {
+    "qid": "Q122554344",
+    "lat": 42.2620297,
+    "lon": -74.7846024,
+    "population": null
+  },
+  "davenport": {
+    "qid": "Q3708254",
+    "lat": 42.471666666,
+    "lon": -74.844722222,
+    "population": 2955
+  },
+  "davenport-center": {
+    "qid": "Q5799754",
+    "lat": 42.4392,
+    "lon": -74.9069,
+    "population": 344
+  },
+  "delancey": {
+    "qid": "Q48740452",
+    "lat": 42.2056413,
+    "lon": -74.9707187,
+    "population": null
+  },
+  "delhi": {
+    "qid": "Q3021594",
+    "lat": 42.2789,
+    "lon": -74.9164,
+    "population": 2721
+  },
+  "denver": {
+    "qid": "Q38249795",
+    "lat": 42.2125,
+    "lon": -74.56944444,
+    "population": null
+  },
+  "east-branch": {
+    "qid": "Q48740483",
+    "lat": 41.98833333,
+    "lon": -75.13388889,
+    "population": null
+  },
+  "east-meredith": {
+    "qid": "Q48740489",
+    "lat": 42.4214691,
+    "lon": -74.886825,
+    "population": null
+  },
+  "fishs-eddy": {
+    "qid": "Q20185432",
+    "lat": 41.9636984,
+    "lon": -75.1748916,
+    "population": null
+  },
+  "fleischmanns": {
+    "qid": "Q3473246",
+    "lat": 42.1522,
+    "lon": -74.5217,
+    "population": 210
+  },
+  "franklin": {
+    "qid": "Q3453224",
+    "lat": 42.3406,
+    "lon": -75.1658,
+    "population": 258
+  },
+  "grand-gorge": {
+    "qid": "Q5594588",
+    "lat": 42.36222222,
+    "lon": -74.49416667,
+    "population": null
+  },
+  "halcottsville": {
+    "qid": "Q5641172",
+    "lat": 42.2083,
+    "lon": -74.6011,
+    "population": null
+  },
+  "hamden": {
+    "qid": "Q3708662",
+    "lat": 42.192827777,
+    "lon": -74.9926,
+    "population": 1137
+  },
+  "hancock-delaware-county": {
+    "qid": "Q3460760",
+    "lat": 41.953888888,
+    "lon": -75.280555555,
+    "population": 908
+  },
+  "harpersfield": {
+    "qid": "Q3708802",
+    "lat": 42.438333333,
+    "lon": -74.6875,
+    "population": 1442
+  },
+  "hobart": {
+    "qid": "Q3453086",
+    "lat": 42.3714,
+    "lon": -74.6686,
+    "population": 351
+  },
+  "margaretville": {
+    "qid": "Q1004016",
+    "lat": 42.1475,
+    "lon": -74.6511,
+    "population": 514
+  },
+  "masonville": {
+    "qid": "Q3708316",
+    "lat": 42.241944444,
+    "lon": -75.3775,
+    "population": 1239
+  },
+  "meridale": {
+    "qid": "Q48740506",
+    "lat": 42.3670263,
+    "lon": -74.9537721,
+    "population": null
+  },
+  "new-kingston": {
+    "qid": "Q39050562",
+    "lat": 42.21361111,
+    "lon": -74.68222222,
+    "population": null
+  },
+  "roxbury": {
+    "qid": "Q3708265",
+    "lat": 42.300555555,
+    "lon": -74.553055555,
+    "population": 2247
+  },
+  "sidney": {
+    "qid": "Q4352427",
+    "lat": 42.3072786,
+    "lon": -75.2772413,
+    "population": 5536
+  },
+  "sidney-center": {
+    "qid": "Q48740513",
+    "lat": 42.2906379,
+    "lon": -75.2557286,
+    "population": null
+  },
+  "south-kortright": {
+    "qid": "Q21551693",
+    "lat": 42.3423047,
+    "lon": -74.7170994,
+    "population": null
+  },
+  "stamford-delaware-county": {
+    "qid": "Q2836455",
+    "lat": 42.4167,
+    "lon": -74.6167,
+    "population": 1040
+  },
+  "treadwell": {
+    "qid": "Q7836582",
+    "lat": 42.3422,
+    "lon": -75.0514,
+    "population": null
+  },
+  "trout-creek": {
+    "qid": "Q48740521",
+    "lat": 42.2036948,
+    "lon": -75.2793406,
+    "population": null
+  },
+  "walton": {
+    "qid": "Q3453029",
+    "lat": 42.1695296,
+    "lon": -75.1293351,
+    "population": 2885
+  },
+  "west-davenport": {
+    "qid": "Q48740526",
+    "lat": 42.4459131,
+    "lon": -74.9632157,
+    "population": null
+  },
+  "cherry-valley": {
+    "qid": "Q2885420",
+    "lat": 42.796944444,
+    "lon": -74.754166666,
+    "population": 467
+  },
+  "colliersville": {
+    "qid": "Q122573343",
+    "lat": 42.4909119,
+    "lon": -74.9821045,
+    "population": null
+  },
+  "cooperstown": {
+    "qid": "Q1025016",
+    "lat": 42.697222222,
+    "lon": -74.926944444,
+    "population": 1794
+  },
+  "east-springfield": {
+    "qid": "Q5329413",
+    "lat": 42.8308,
+    "lon": -74.8153,
+    "population": null
+  },
+  "edmeston": {
+    "qid": "Q5338808",
+    "lat": 42.6978,
+    "lon": -75.2439,
+    "population": 592
+  },
+  "gilbertsville": {
+    "qid": "Q3452429",
+    "lat": 42.4694,
+    "lon": -75.3211,
+    "population": 308
+  },
+  "hartwick": {
+    "qid": "Q14706330",
+    "lat": 42.659722222,
+    "lon": -75.048888888,
+    "population": 547
+  },
+  "laurens": {
+    "qid": "Q6500961",
+    "lat": 42.531388888,
+    "lon": -75.088055555,
+    "population": 2311
+  },
+  "maryland": {
+    "qid": "Q3708363",
+    "lat": 42.536388888,
+    "lon": -74.886666666,
+    "population": 1760
+  },
+  "milford": {
+    "qid": "Q6851697",
+    "lat": 42.59,
+    "lon": -74.9469,
+    "population": 2827
+  },
+  "morris": {
+    "qid": "Q3709301",
+    "lat": 42.548055555,
+    "lon": -75.245,
+    "population": 1735
+  },
+  "mount-vision": {
+    "qid": "Q48740508",
+    "lat": 42.57833333,
+    "lon": -75.05805556,
+    "population": 171
+  },
+  "new-lisbon": {
+    "qid": "Q3709186",
+    "lat": 42.6,
+    "lon": -75.166666666,
+    "population": 1084
+  },
+  "oneonta": {
+    "qid": "Q7093717",
+    "lat": 42.4722,
+    "lon": -75.0744,
+    "population": 5065
+  },
+  "otego": {
+    "qid": "Q3452781",
+    "lat": 42.3917,
+    "lon": -75.1781,
+    "population": 875
+  },
+  "portlandville": {
+    "qid": "Q48740509",
+    "lat": 42.5303555,
+    "lon": -74.9671035,
+    "population": 177
+  },
+  "richfield-springs": {
+    "qid": "Q3452810",
+    "lat": 42.8531,
+    "lon": -74.9875,
+    "population": 1050
+  },
+  "roseboom": {
+    "qid": "Q3708408",
+    "lat": 42.741666666,
+    "lon": -74.776666666,
+    "population": 690
+  },
+  "schenevus": {
+    "qid": "Q6122376",
+    "lat": 42.548888888,
+    "lon": -74.820833333,
+    "population": 494
+  },
+  "springfield-center": {
+    "qid": "Q14707327",
+    "lat": 42.8289,
+    "lon": -74.8767,
+    "population": 336
+  },
+  "unadilla": {
+    "qid": "Q2596590",
+    "lat": 42.366111111,
+    "lon": -75.327777777,
+    "population": 4116
+  },
+  "wells-bridge": {
+    "qid": "Q48740524",
+    "lat": 42.3675804,
+    "lon": -75.2454493,
+    "population": 279
+  },
+  "west-burlington": {
+    "qid": "Q7984618",
+    "lat": 42.7075,
+    "lon": -75.1877,
+    "population": null
+  },
+  "west-oneonta": {
+    "qid": "Q48740528",
+    "lat": 42.4723007,
+    "lon": -75.1171096,
+    "population": null
+  },
+  "westford": {
+    "qid": "Q3708426",
+    "lat": 42.633333333,
+    "lon": -74.8,
+    "population": 804
+  },
+  "worcester": {
+    "qid": "Q8034141",
+    "lat": 42.5917,
+    "lon": -74.7503,
+    "population": 986
+  },
+  "carlisle": {
+    "qid": "Q3501753",
+    "lat": 42.763888888,
+    "lon": -74.434722222,
+    "population": 1768
+  },
+  "central-bridge": {
+    "qid": "Q12156499",
+    "lat": 42.7103,
+    "lon": -74.3389,
+    "population": 740
+  },
+  "charlotteville": {
+    "qid": "Q16890186",
+    "lat": 42.5453,
+    "lon": -74.6647,
+    "population": null
+  },
+  "cobleskill": {
+    "qid": "Q3462021",
+    "lat": 42.6792,
+    "lon": -74.4856,
+    "population": 4173
+  },
+  "fultonham": {
+    "qid": "Q5508479",
+    "lat": 42.568333333,
+    "lon": -74.395555555,
+    "population": null
+  },
+  "gallupville": {
+    "qid": "Q122554752",
+    "lat": 42.6625757,
+    "lon": -74.2326321,
+    "population": null
+  },
+  "gilboa": {
+    "qid": "Q3708388",
+    "lat": 42.397222222,
+    "lon": -74.446111111,
+    "population": 1111
+  },
+  "howes-cave": {
+    "qid": "Q38249779",
+    "lat": 42.69,
+    "lon": -74.38277778,
+    "population": null
+  },
+  "jefferson": {
+    "qid": "Q3708797",
+    "lat": 42.481111111,
+    "lon": -74.610555555,
+    "population": 1333
+  },
+  "middleburgh": {
+    "qid": "Q524354",
+    "lat": 42.5967,
+    "lon": -74.3308,
+    "population": 1131
+  },
+  "richmondville": {
+    "qid": "Q7331073",
+    "lat": 42.63424,
+    "lon": -74.56403,
+    "population": 2466
+  },
+  "schoharie": {
+    "qid": "Q920781",
+    "lat": 42.6669,
+    "lon": -74.3097,
+    "population": 916
+  },
+  "sharon-springs": {
+    "qid": "Q3452989",
+    "lat": 42.7947,
+    "lon": -74.6158,
+    "population": 483
+  },
+  "sloansville": {
+    "qid": "Q38249789",
+    "lat": 42.75694444,
+    "lon": -74.33027778,
+    "population": null
+  },
+  "summit": {
+    "qid": "Q3708988",
+    "lat": 42.579444444,
+    "lon": -74.588333333,
+    "population": 1072
+  },
+  "warnerville": {
+    "qid": "Q7969798",
+    "lat": 42.6617,
+    "lon": -74.5049,
+    "population": null
+  },
+  "west-fulton": {
+    "qid": "Q38249790",
+    "lat": 42.56444444,
+    "lon": -74.46388889,
+    "population": null
+  },
+  "amsterdam": {
+    "qid": "Q2038528",
+    "lat": 42.9558,
+    "lon": -74.1856,
+    "population": 5557
+  },
+  "canajoharie": {
+    "qid": "Q5030948",
+    "lat": 42.904611111,
+    "lon": -74.641138888,
+    "population": null
+  },
+  "fonda": {
+    "qid": "Q593663",
+    "lat": 42.9544,
+    "lon": -74.3756,
+    "population": 668
+  },
+  "fort-hunter": {
+    "qid": "Q5471377",
+    "lat": 42.942222222,
+    "lon": -74.285,
+    "population": null
+  },
+  "fort-johnson": {
+    "qid": "Q3452721",
+    "lat": 42.9583,
+    "lon": -74.2361,
+    "population": 401
+  },
+  "fort-plain": {
+    "qid": "Q3452871",
+    "lat": 42.9308,
+    "lon": -74.6247,
+    "population": 1930
+  },
+  "fultonville": {
+    "qid": "Q3453118",
+    "lat": 42.9467,
+    "lon": -74.3694,
+    "population": 742
+  },
+  "hagaman": {
+    "qid": "Q3453064",
+    "lat": 42.9775,
+    "lon": -74.1506,
+    "population": 1117
+  },
+  "nelliston": {
+    "qid": "Q3452883",
+    "lat": 42.9336,
+    "lon": -74.6136,
+    "population": 555
+  },
+  "palatine-bridge": {
+    "qid": "Q3452985",
+    "lat": 42.9108,
+    "lon": -74.5747,
+    "population": 796
+  },
+  "sprakers": {
+    "qid": "Q14707324",
+    "lat": 42.8914,
+    "lon": -74.5133,
+    "population": null
+  },
+  "tribes-hill": {
+    "qid": "Q9089773",
+    "lat": 42.9525,
+    "lon": -74.2906,
+    "population": 937
+  },
+  "averill-park": {
+    "qid": "Q3460564",
+    "lat": 42.636111111,
+    "lon": -73.554444444,
+    "population": 2098
+  },
+  "berlin": {
+    "qid": "Q821215",
+    "lat": 42.683333333,
+    "lon": -73.366666666,
+    "population": 1808
+  },
+  "brainard": {
+    "qid": "Q38249746",
+    "lat": 42.49583333,
+    "lon": -73.51194444,
+    "population": null
+  },
+  "cherry-plain": {
+    "qid": "Q5092443",
+    "lat": 42.629166666,
+    "lon": -73.358055555,
+    "population": null
+  },
+  "cropseyville": {
+    "qid": "Q5187993",
+    "lat": 42.748888888,
+    "lon": -73.557222222,
+    "population": null
+  },
+  "east-greenbush": {
+    "qid": "Q3460456",
+    "lat": 42.5925,
+    "lon": -73.7025,
+    "population": 6266
+  },
+  "east-nassau": {
+    "qid": "Q3458103",
+    "lat": 42.5289,
+    "lon": -73.5161,
+    "population": 559
+  },
+  "east-schodack": {
+    "qid": "Q5329330",
+    "lat": 42.561944444,
+    "lon": -73.633333333,
+    "population": null
+  },
+  "grafton": {
+    "qid": "Q2411279",
+    "lat": 42.768888888,
+    "lon": -73.450833333,
+    "population": 2051
+  },
+  "hoosick": {
+    "qid": "Q3708212",
+    "lat": 42.8625,
+    "lon": -73.328055555,
+    "population": 6711
+  },
+  "hoosick-falls": {
+    "qid": "Q1004012",
+    "lat": 42.9006,
+    "lon": -73.3525,
+    "population": 3216
+  },
+  "johnsonville": {
+    "qid": "Q6268557",
+    "lat": 42.913888888,
+    "lon": -73.514166666,
+    "population": null
+  },
+  "melrose": {
+    "qid": "Q16965393",
+    "lat": 42.84183333,
+    "lon": -73.62391667,
+    "population": null
+  },
+  "nassau": {
+    "qid": "Q11695104",
+    "lat": 42.55,
+    "lon": -73.55,
+    "population": 4545
+  },
+  "north-hoosick": {
+    "qid": "Q38249788",
+    "lat": 42.92805556,
+    "lon": -73.34277778,
+    "population": null
+  },
+  "petersburg": {
+    "qid": "Q130922297",
+    "lat": 42.7495232,
+    "lon": -73.3401106,
+    "population": null
+  },
+  "poestenkill": {
+    "qid": "Q3462089",
+    "lat": 42.6958,
+    "lon": -73.5639,
+    "population": 1020
+  },
+  "rensselaer": {
+    "qid": "Q1380769",
+    "lat": 42.646666666,
+    "lon": -73.733611111,
+    "population": 9210
+  },
+  "sand-lake": {
+    "qid": "Q3708689",
+    "lat": 42.637222222,
+    "lon": -73.540555555,
+    "population": 8348
+  },
+  "schaghticoke": {
+    "qid": "Q1011399",
+    "lat": 42.8994,
+    "lon": -73.5861,
+    "population": 527
+  },
+  "schodack-landing": {
+    "qid": "Q122548434",
+    "lat": 42.479526,
+    "lon": -73.7695669,
+    "population": null
+  },
+  "stephentown": {
+    "qid": "Q2888146",
+    "lat": 42.544444444,
+    "lon": -73.416111111,
+    "population": 2791
+  },
+  "troy-rensselaer-county": {
+    "qid": "Q600301",
+    "lat": 42.731666666,
+    "lon": -73.6925,
+    "population": 51401
+  },
+  "valley-falls": {
+    "qid": "Q1898631",
+    "lat": 42.9008,
+    "lon": -73.5625,
+    "population": 510
+  },
+  "west-sand-lake": {
+    "qid": "Q3460116",
+    "lat": 42.6444,
+    "lon": -73.6058,
+    "population": 2616
+  },
+  "wynantskill": {
+    "qid": "Q3460087",
+    "lat": 42.6922,
+    "lon": -73.6444,
+    "population": 4050
+  },
+  "ballston-lake": {
+    "qid": "Q135910787",
+    "lat": 42.908555,
+    "lon": -73.8746135,
+    "population": null
+  },
+  "ballston-spa": {
+    "qid": "Q2572315",
+    "lat": 43.0072,
+    "lon": -73.8511,
+    "population": 5111
+  },
+  "burnt-hills": {
+    "qid": "Q14706208",
+    "lat": 42.9097,
+    "lon": -73.895,
+    "population": null
+  },
+  "clifton-park": {
+    "qid": "Q3709610",
+    "lat": 42.866666666,
+    "lon": -73.816666666,
+    "population": 38029
+  },
+  "corinth": {
+    "qid": "Q953048",
+    "lat": 43.24452,
+    "lon": -73.83234,
+    "population": 2562
+  },
+  "galway": {
+    "qid": "Q5519467",
+    "lat": 43.0167,
+    "lon": -74.0339,
+    "population": 165
+  },
+  "gansevoort": {
+    "qid": "Q5521491",
+    "lat": 43.195277777,
+    "lon": -73.65,
+    "population": null
+  },
+  "greenfield-center": {
+    "qid": "Q48740159",
+    "lat": 43.12833333,
+    "lon": -73.84638889,
+    "population": null
+  },
+  "hadley": {
+    "qid": "Q107862595",
+    "lat": 43.316944444,
+    "lon": -73.848055555,
+    "population": 1124
+  },
+  "mechanicville": {
+    "qid": "Q1378444",
+    "lat": 42.903888888,
+    "lon": -73.690555555,
+    "population": 5163
+  },
+  "middle-grove": {
+    "qid": "Q48739502",
+    "lat": 43.08972222,
+    "lon": -73.91777778,
+    "population": null
+  },
+  "porter-corners": {
+    "qid": "Q7231606",
+    "lat": 43.1483,
+    "lon": -73.8864,
+    "population": null
+  },
+  "rexford": {
+    "qid": "Q7319375",
+    "lat": 42.853055555,
+    "lon": -73.888333333,
+    "population": null
+  },
+  "rock-city-falls": {
+    "qid": "Q7354328",
+    "lat": 43.061944444,
+    "lon": -73.916944444,
+    "population": null
+  },
+  "round-lake": {
+    "qid": "Q3452931",
+    "lat": 42.938611111,
+    "lon": -73.789722222,
+    "population": 828
+  },
+  "saratoga-springs": {
+    "qid": "Q1144357",
+    "lat": 43.075277777,
+    "lon": -73.7825,
+    "population": 28491
+  },
+  "schuylerville": {
+    "qid": "Q3458172",
+    "lat": 43.1008,
+    "lon": -73.5814,
+    "population": 1370
+  },
+  "south-glens-falls": {
+    "qid": "Q3452901",
+    "lat": 43.2964,
+    "lon": -73.6342,
+    "population": 3744
+  },
+  "stillwater": {
+    "qid": "Q3709125",
+    "lat": 42.93841,
+    "lon": -73.65317,
+    "population": 9022
+  },
+  "waterford": {
+    "qid": "Q3080833",
+    "lat": 42.791127,
+    "lon": -73.679758,
+    "population": 8208
+  },
+  "schenectady": {
+    "qid": "Q331380",
+    "lat": 42.804166666,
+    "lon": -73.929166666,
+    "population": 67047
+  },
+  "rotterdam": {
+    "qid": "Q3460132",
+    "lat": 42.7828,
+    "lon": -73.9572,
+    "population": 22968
+  },
+  "scotia": {
+    "qid": "Q1020602",
+    "lat": 42.8333,
+    "lon": -73.9667,
+    "population": 7272
+  },
+  "east-glenville": {
+    "qid": "Q3461779",
+    "lat": 42.8692,
+    "lon": -73.9161,
+    "population": 11896
+  },
+  "niskayuna": {
+    "qid": "Q3461743",
+    "lat": 42.8172,
+    "lon": -73.8975,
+    "population": 20787
+  },
+  "mariaville-lake": {
+    "qid": "Q3462033",
+    "lat": 42.8286,
+    "lon": -74.1233,
+    "population": 666
+  },
+  "duanesburg": {
+    "qid": "Q3461906",
+    "lat": 42.7619,
+    "lon": -74.1292,
+    "population": 379
+  },
+  "delanson": {
+    "qid": "Q3458165",
+    "lat": 42.7486,
+    "lon": -74.1853,
+    "population": 335
+  },
+  "duane-lake": {
+    "qid": "Q3461083",
+    "lat": 42.7522,
+    "lon": -74.1136,
+    "population": 329
+  },
+  "argyle": {
+    "qid": "Q3461130",
+    "lat": 43.2372,
+    "lon": -73.49,
+    "population": 289
+  },
+  "cambridge": {
+    "qid": "Q11151861",
+    "lat": 43.02813,
+    "lon": -73.38122,
+    "population": 1952
+  },
+  "clemons": {
+    "qid": "Q48740150",
+    "lat": 43.63638889,
+    "lon": -73.44527778,
+    "population": null
+  },
+  "comstock": {
+    "qid": "Q135912000",
+    "lat": 43.4572922,
+    "lon": -73.4415004,
+    "population": null
+  },
+  "cossayuna": {
+    "qid": "Q48740154",
+    "lat": 43.18361111,
+    "lon": -73.42666667,
+    "population": null
+  },
+  "fort-ann": {
+    "qid": "Q3461111",
+    "lat": 43.4142,
+    "lon": -73.4878,
+    "population": 460
+  },
+  "fort-edward": {
+    "qid": "Q919719",
+    "lat": 43.2724215,
+    "lon": -73.5623968,
+    "population": 5991
+  },
+  "granville": {
+    "qid": "Q3461930",
+    "lat": 43.4058,
+    "lon": -73.2647,
+    "population": 2404
+  },
+  "greenwich": {
+    "qid": "Q3452216",
+    "lat": 43.0914,
+    "lon": -73.4972,
+    "population": 1651
+  },
+  "hampton": {
+    "qid": "Q2365576",
+    "lat": 43.551666666,
+    "lon": -73.292222222,
+    "population": 857
+  },
+  "hartford": {
+    "qid": "Q1022761",
+    "lat": 43.3575,
+    "lon": -73.405,
+    "population": 2193
+  },
+  "hudson-falls": {
+    "qid": "Q3458074",
+    "lat": 43.302222222,
+    "lon": -73.580555555,
+    "population": 7427
+  },
+  "huletts-landing": {
+    "qid": "Q5935650",
+    "lat": 43.6392,
+    "lon": -73.5069,
+    "population": null
+  },
+  "middle-falls": {
+    "qid": "Q48740163",
+    "lat": 43.10055556,
+    "lon": -73.52472222,
+    "population": null
+  },
+  "middle-granville": {
+    "qid": "Q48740166",
+    "lat": 43.43333333,
+    "lon": -73.28333333,
+    "population": null
+  },
+  "north-granville": {
+    "qid": "Q122548777",
+    "lat": 43.4503482,
+    "lon": -73.3414988,
+    "population": null
+  },
+  "putnam-station": {
+    "qid": "Q48740169",
+    "lat": 43.73416667,
+    "lon": -73.37472222,
+    "population": null
+  },
+  "salem": {
+    "qid": "Q984132",
+    "lat": 43.1731,
+    "lon": -73.3283,
+    "population": 811
+  },
+  "shushan": {
+    "qid": "Q7505466",
+    "lat": 43.0903,
+    "lon": -73.3428,
+    "population": null
+  },
+  "whitehall": {
+    "qid": "Q3461864",
+    "lat": 43.55,
+    "lon": -73.4,
+    "population": 2465
+  },
+  "adirondack": {
+    "qid": "Q48740120",
+    "lat": 43.76388889,
+    "lon": -73.75833333,
+    "population": null
+  },
+  "athol": {
+    "qid": "Q130449006",
+    "lat": 43.4833,
+    "lon": -73.8333,
+    "population": null
+  },
+  "bakers-mills": {
+    "qid": "Q48739495",
+    "lat": 43.6147877,
+    "lon": -74.0248539,
+    "population": null
+  },
+  "chestertown": {
+    "qid": "Q3505993",
+    "lat": 43.6525,
+    "lon": -73.8008,
+    "population": 586
+  },
+  "cleverdale": {
+    "qid": "Q48740153",
+    "lat": 43.47722222,
+    "lon": -73.6425,
+    "population": null
+  },
+  "diamond-point": {
+    "qid": "Q48739662",
+    "lat": 43.47916667,
+    "lon": -73.68694444,
+    "population": null
+  },
+  "glens-falls": {
+    "qid": "Q1379621",
+    "lat": 43.312222222,
+    "lon": -73.648333333,
+    "population": 14830
+  },
+  "hague": {
+    "qid": "Q3501630",
+    "lat": 43.735555555,
+    "lon": -73.521111111,
+    "population": 633
+  },
+  "johnsburg": {
+    "qid": "Q3709023",
+    "lat": 43.643333333,
+    "lon": -74.004166666,
+    "population": 2143
+  },
+  "lake-george": {
+    "qid": "Q2980661",
+    "lat": 43.425833333,
+    "lon": -73.711944444,
+    "population": 1008
+  },
+  "lake-luzerne": {
+    "qid": "Q3708445",
+    "lat": 43.319166666,
+    "lon": -73.825,
+    "population": 3079
+  },
+  "north-creek": {
+    "qid": "Q3344111",
+    "lat": 43.697777777,
+    "lon": -73.986388888,
+    "population": 562
+  },
+  "north-river": {
+    "qid": "Q14707113",
+    "lat": 43.7386,
+    "lon": -74.0486,
+    "population": null
+  },
+  "pottersville": {
+    "qid": "Q22074938",
+    "lat": 43.731176,
+    "lon": -73.819296,
+    "population": 359
+  },
+  "queensbury": {
+    "qid": "Q3414040",
+    "lat": 43.359444444,
+    "lon": -73.656944444,
+    "population": 29169
+  },
+  "riparius": {
+    "qid": "Q7335566",
+    "lat": 43.6617,
+    "lon": -73.8969,
+    "population": null
+  },
+  "silver-bay": {
+    "qid": "Q7515831",
+    "lat": 43.6939,
+    "lon": -73.5058,
+    "population": 200
+  },
+  "stony-creek": {
+    "qid": "Q3708819",
+    "lat": 43.426666666,
+    "lon": -73.961666666,
+    "population": 758
+  },
+  "warrensburg": {
+    "qid": "Q3456910",
+    "lat": 43.5,
+    "lon": -73.7667,
+    "population": 3045
+  },
+  "wevertown": {
+    "qid": "Q7990216",
+    "lat": 43.6334,
+    "lon": -73.941,
+    "population": null
+  },
+  "blue-mountain-lake": {
+    "qid": "Q4929524",
+    "lat": 43.8548,
+    "lon": -74.4376,
+    "population": null
+  },
+  "hoffmeister": {
+    "qid": "Q48740291",
+    "lat": 43.39083333,
+    "lon": -74.71694444,
+    "population": null
+  },
+  "indian-lake": {
+    "qid": "Q3708610",
+    "lat": 43.7825,
+    "lon": -74.271944444,
+    "population": 1363
+  },
+  "inlet": {
+    "qid": "Q3708550",
+    "lat": 43.750833333,
+    "lon": -74.794166666,
+    "population": 355
+  },
+  "lake-pleasant": {
+    "qid": "Q3472425",
+    "lat": 43.4709016,
+    "lon": -74.4126461,
+    "population": 756
+  },
+  "long-lake": {
+    "qid": "Q48739665",
+    "lat": 43.97166667,
+    "lon": -74.42027778,
+    "population": 596
+  },
+  "piseco": {
+    "qid": "Q7198264",
+    "lat": 43.448333333,
+    "lon": -74.518611111,
+    "population": null
+  },
+  "raquette-lake": {
+    "qid": "Q3472789",
+    "lat": 43.813055555,
+    "lon": -74.6575,
+    "population": null
+  },
+  "sabael": {
+    "qid": "Q48740171",
+    "lat": 43.7283982,
+    "lon": -74.305705,
+    "population": null
+  },
+  "speculator": {
+    "qid": "Q951712",
+    "lat": 43.5269,
+    "lon": -74.3631,
+    "population": 406
+  },
+  "wells-hamilton-county": {
+    "qid": "Q48739667",
+    "lat": 43.3963453,
+    "lon": -74.298042,
+    "population": 531
+  },
+  "bloomingdale": {
+    "qid": "Q4928303",
+    "lat": 44.407777777,
+    "lon": -74.0875,
+    "population": null
+  },
+  "crown-point": {
+    "qid": "Q1013523",
+    "lat": 43.950277777,
+    "lon": -73.436944444,
+    "population": 2042
+  },
+  "elizabethtown": {
+    "qid": "Q3472829",
+    "lat": 44.2164,
+    "lon": -73.5906,
+    "population": 746
+  },
+  "essex": {
+    "qid": "Q3708355",
+    "lat": 44.31,
+    "lon": -73.3525,
+    "population": 621
+  },
+  "jay": {
+    "qid": "Q3708762",
+    "lat": 44.375,
+    "lon": -73.728333333,
+    "population": 2486
+  },
+  "keene": {
+    "qid": "Q3708856",
+    "lat": 44.256111111,
+    "lon": -73.792222222,
+    "population": 1144
+  },
+  "keene-valley": {
+    "qid": "Q135912250",
+    "lat": 44.1899781,
+    "lon": -73.7862601,
+    "population": null
+  },
+  "lake-placid": {
+    "qid": "Q192700",
+    "lat": 44.285555555,
+    "lon": -73.985277777,
+    "population": 2205
+  },
+  "lewis": {
+    "qid": "Q5638798",
+    "lat": 44.275,
+    "lon": -73.565555555,
+    "population": 1293
+  },
+  "minerva": {
+    "qid": "Q3708637",
+    "lat": 43.791388888,
+    "lon": -73.984166666,
+    "population": 773
+  },
+  "mineville": {
+    "qid": "Q6017029",
+    "lat": 44.092777777,
+    "lon": -73.518055555,
+    "population": 1327
+  },
+  "moriah": {
+    "qid": "Q3138434",
+    "lat": 44.046111111,
+    "lon": -73.505,
+    "population": 4716
+  },
+  "moriah-center": {
+    "qid": "Q48740193",
+    "lat": 44.06111111,
+    "lon": -73.50972222,
+    "population": null
+  },
+  "new-russia": {
+    "qid": "Q135912323",
+    "lat": 44.1633846,
+    "lon": -73.611521,
+    "population": null
+  },
+  "newcomb": {
+    "qid": "Q3708899",
+    "lat": 43.969444444,
+    "lon": -74.164722222,
+    "population": 418
+  },
+  "north-hudson": {
+    "qid": "Q3708415",
+    "lat": 43.9525,
+    "lon": -73.728333333,
+    "population": 250
+  },
+  "olmstedville": {
+    "qid": "Q9052172",
+    "lat": 43.771388888,
+    "lon": -73.931111111,
+    "population": null
+  },
+  "paradox": {
+    "qid": "Q111249110",
+    "lat": 43.89145,
+    "lon": -73.64568,
+    "population": null
+  },
+  "port-henry": {
+    "qid": "Q3123195",
+    "lat": 44.0453,
+    "lon": -73.4611,
+    "population": 1150
+  },
+  "port-kent": {
+    "qid": "Q7230740",
+    "lat": 44.5281,
+    "lon": -73.4069,
+    "population": null
+  },
+  "ray-brook": {
+    "qid": "Q7297238",
+    "lat": 44.2933,
+    "lon": -74.0931,
+    "population": null
+  },
+  "schroon-lake": {
+    "qid": "Q24204280",
+    "lat": 43.8388,
+    "lon": -73.762,
+    "population": 921
+  },
+  "severance": {
+    "qid": "Q123206942",
+    "lat": 43.8758937,
+    "lon": -73.7304075,
+    "population": null
+  },
+  "ticonderoga": {
+    "qid": "Q7800746",
+    "lat": 43.8486,
+    "lon": -73.4231,
+    "population": 3250
+  },
+  "upper-jay": {
+    "qid": "Q122567005",
+    "lat": 44.3364359,
+    "lon": -73.7756963,
+    "population": null
+  },
+  "westport": {
+    "qid": "Q23092164",
+    "lat": 44.18388889,
+    "lon": -73.43555556,
+    "population": 496
+  },
+  "willsboro": {
+    "qid": "Q23092168",
+    "lat": 44.35777778,
+    "lon": -73.39111111,
+    "population": 689
+  },
+  "wilmington": {
+    "qid": "Q23092169",
+    "lat": 44.38861111,
+    "lon": -73.81527778,
+    "population": 843
+  },
+  "witherbee": {
+    "qid": "Q9096193",
+    "lat": 44.0875,
+    "lon": -73.532777777,
+    "population": 385
+  },
+  "bombay": {
+    "qid": "Q3708546",
+    "lat": 44.938888888,
+    "lon": -74.567777777,
+    "population": 1254
+  },
+  "brainardsville": {
+    "qid": "Q48740174",
+    "lat": 44.85777778,
+    "lon": -74.03361111,
+    "population": null
+  },
+  "brushton": {
+    "qid": "Q3452941",
+    "lat": 44.8308,
+    "lon": -74.5144,
+    "population": 443
+  },
+  "burke": {
+    "qid": "Q3775687",
+    "lat": 44.9011,
+    "lon": -74.1706,
+    "population": 160
+  },
+  "chateaugay": {
+    "qid": "Q3460865",
+    "lat": 44.9258,
+    "lon": -74.0783,
+    "population": 735
+  },
+  "constable": {
+    "qid": "Q3708867",
+    "lat": 44.929166666,
+    "lon": -74.297222222,
+    "population": 1486
+  },
+  "dickinson-center": {
+    "qid": "Q48740179",
+    "lat": 44.7175,
+    "lon": -74.55277778,
+    "population": null
+  },
+  "fort-covington": {
+    "qid": "Q5860853",
+    "lat": 44.98833333,
+    "lon": -74.49638889,
+    "population": 1127
+  },
+  "gabriels": {
+    "qid": "Q5516113",
+    "lat": 44.431944444,
+    "lon": -74.181388888,
+    "population": null
+  },
+  "hogansburg": {
+    "qid": "Q5877101",
+    "lat": 44.973888888,
+    "lon": -74.663333333,
+    "population": null
+  },
+  "malone": {
+    "qid": "Q510021",
+    "lat": 44.8506,
+    "lon": -74.2892,
+    "population": 5483
+  },
+  "moira": {
+    "qid": "Q3708631",
+    "lat": 44.818055555,
+    "lon": -74.555833333,
+    "population": 2916
+  },
+  "north-bangor": {
+    "qid": "Q48740196",
+    "lat": 44.84194444,
+    "lon": -74.40111111,
+    "population": null
+  },
+  "owls-head": {
+    "qid": "Q48740197",
+    "lat": 44.73444444,
+    "lon": -74.16888889,
+    "population": null
+  },
+  "paul-smiths": {
+    "qid": "Q5657368",
+    "lat": 44.437222222,
+    "lon": -74.252777777,
+    "population": 411
+  },
+  "rainbow-lake": {
+    "qid": "Q48740200",
+    "lat": 44.46694444,
+    "lon": -74.17305556,
+    "population": null
+  },
+  "saranac-lake": {
+    "qid": "Q2663981",
+    "lat": 44.3261,
+    "lon": -74.1308,
+    "population": 4887
+  },
+  "tupper-lake": {
+    "qid": "Q1012099",
+    "lat": 44.22395,
+    "lon": -74.46406,
+    "population": 3282
+  },
+  "vermontville": {
+    "qid": "Q7921824",
+    "lat": 44.4517,
+    "lon": -74.0653,
+    "population": null
+  },
+  "whippleville": {
+    "qid": "Q48740204",
+    "lat": 44.80972222,
+    "lon": -74.26194444,
+    "population": null
+  },
+  "altona": {
+    "qid": "Q3460073",
+    "lat": 44.89,
+    "lon": -73.6528,
+    "population": 662
+  },
+  "au-sable-forks": {
+    "qid": "Q758383",
+    "lat": 44.4442,
+    "lon": -73.6761,
+    "population": 509
+  },
+  "cadyville": {
+    "qid": "Q48739493",
+    "lat": 44.69805556,
+    "lon": -73.63166667,
+    "population": 479
+  },
+  "champlain": {
+    "qid": "Q3460765",
+    "lat": 44.9867,
+    "lon": -73.4464,
+    "population": 1170
+  },
+  "chazy": {
+    "qid": "Q18694423",
+    "lat": 44.8894,
+    "lon": -73.4358,
+    "population": 548
+  },
+  "churubusco": {
+    "qid": "Q949805",
+    "lat": 44.953866666,
+    "lon": -73.931980555,
+    "population": null
+  },
+  "dannemora": {
+    "qid": "Q3461276",
+    "lat": 44.72143,
+    "lon": -73.72375,
+    "population": 3287
+  },
+  "ellenburg": {
+    "qid": "Q284893",
+    "lat": 44.893888888,
+    "lon": -73.836666666,
+    "population": 1842
+  },
+  "ellenburg-center": {
+    "qid": "Q48740181",
+    "lat": 44.86472222,
+    "lon": -73.89722222,
+    "population": null
+  },
+  "ellenburg-depot": {
+    "qid": "Q48740183",
+    "lat": 44.90583333,
+    "lon": -73.80111111,
+    "population": null
+  },
+  "keeseville": {
+    "qid": "Q3458122",
+    "lat": 44.5,
+    "lon": -73.4833,
+    "population": 2931
+  },
+  "lyon-mountain": {
+    "qid": "Q3460412",
+    "lat": 44.7289,
+    "lon": -73.9078,
+    "population": 421
+  },
+  "mooers": {
+    "qid": "Q2595447",
+    "lat": 44.96337,
+    "lon": -73.58736,
+    "population": 3467
+  },
+  "mooers-forks": {
+    "qid": "Q122591855",
+    "lat": 44.9580936,
+    "lon": -73.6406994,
+    "population": null
+  },
+  "morrisonville": {
+    "qid": "Q2885038",
+    "lat": 44.6908,
+    "lon": -73.5508,
+    "population": 1893
+  },
+  "peru-clinton-county": {
+    "qid": "Q3826278",
+    "lat": 44.5794,
+    "lon": -73.5306,
+    "population": 1843
+  },
+  "plattsburgh": {
+    "qid": "Q998669",
+    "lat": 44.695277777,
+    "lon": -73.458333333,
+    "population": 19841
+  },
+  "redford": {
+    "qid": "Q3459981",
+    "lat": 44.6067,
+    "lon": -73.8086,
+    "population": 387
+  },
+  "rouses-point": {
+    "qid": "Q3123210",
+    "lat": 44.9875,
+    "lon": -73.3675,
+    "population": 2195
+  },
+  "saranac": {
+    "qid": "Q3708778",
+    "lat": 44.651388888,
+    "lon": -73.743611111,
+    "population": 3852
+  },
+  "schuyler-falls": {
+    "qid": "Q2917727",
+    "lat": 44.628611111,
+    "lon": -73.557777777,
+    "population": 4843
+  },
+  "west-chazy": {
+    "qid": "Q6166888",
+    "lat": 44.8186,
+    "lon": -73.5102,
+    "population": 558
+  },
+  "cold-brook": {
+    "qid": "Q3459922",
+    "lat": 43.2408,
+    "lon": -75.0392,
+    "population": 250
+  },
+  "eagle-bay": {
+    "qid": "Q5325019",
+    "lat": 43.768611111,
+    "lon": -74.816944444,
+    "population": 54
+  },
+  "frankfort": {
+    "qid": "Q3461196",
+    "lat": 43.0372,
+    "lon": -75.0719,
+    "population": 2320
+  },
+  "herkimer": {
+    "qid": "Q3134036",
+    "lat": 43.0261,
+    "lon": -74.9903,
+    "population": 7234
+  },
+  "ilion": {
+    "qid": "Q2710605",
+    "lat": 43.0125,
+    "lon": -75.039,
+    "population": 7646
+  },
+  "jordanville": {
+    "qid": "Q3475495",
+    "lat": 42.914722222,
+    "lon": -74.951666666,
+    "population": null
+  },
+  "little-falls": {
+    "qid": "Q1428674",
+    "lat": 43.0172,
+    "lon": -74.8906,
+    "population": 1497
+  },
+  "middleville": {
+    "qid": "Q3458197",
+    "lat": 43.1383,
+    "lon": -74.9694,
+    "population": 407
+  },
+  "mohawk": {
+    "qid": "Q431810",
+    "lat": 43.0103,
+    "lon": -75.005,
+    "population": 2415
+  },
+  "newport": {
+    "qid": "Q3460658",
+    "lat": 43.1872,
+    "lon": -75.0169,
+    "population": 543
+  },
+  "old-forge": {
+    "qid": "Q7084012",
+    "lat": 43.7098,
+    "lon": -74.9746,
+    "population": 727
+  },
+  "poland": {
+    "qid": "Q7208887",
+    "lat": 43.2261,
+    "lon": -75.0614,
+    "population": 464
+  },
+  "salisbury-center": {
+    "qid": "Q48741962",
+    "lat": 43.14257,
+    "lon": -74.7865391,
+    "population": 323
+  },
+  "thendara": {
+    "qid": "Q7781363",
+    "lat": 43.700556,
+    "lon": -74.995,
+    "population": 195
+  },
+  "van-hornesville": {
+    "qid": "Q48739379",
+    "lat": 42.895,
+    "lon": -74.82777778,
+    "population": null
+  },
+  "west-winfield": {
+    "qid": "Q3458021",
+    "lat": 42.884444444,
+    "lon": -75.191944444,
+    "population": 733
+  },
+  "broadalbin": {
+    "qid": "Q3461257",
+    "lat": 43.0592,
+    "lon": -74.1981,
+    "population": 1384
+  },
+  "caroga-lake": {
+    "qid": "Q5753092",
+    "lat": 43.137777777,
+    "lon": -74.481388888,
+    "population": 548
+  },
+  "gloversville": {
+    "qid": "Q1380511",
+    "lat": 43.05,
+    "lon": -74.35,
+    "population": 15131
+  },
+  "johnstown": {
+    "qid": "Q6268769",
+    "lat": 43.0458,
+    "lon": -74.3864,
+    "population": 6867
+  },
+  "mayfield": {
+    "qid": "Q3461625",
+    "lat": 43.10452,
+    "lon": -74.26486,
+    "population": 780
+  },
+  "northville": {
+    "qid": "Q3459759",
+    "lat": 43.225,
+    "lon": -74.175,
+    "population": 993
+  },
+  "stratford": {
+    "qid": "Q3501769",
+    "lat": 43.179722222,
+    "lon": -74.696944444,
+    "population": 538
+  },
+  "adams": {
+    "qid": "Q4680289",
+    "lat": 42.6253,
+    "lon": -73.1183,
+    "population": 5466
+  },
+  "alford": {
+    "qid": "Q2431901",
+    "lat": 42.235555555,
+    "lon": -73.413888888,
+    "population": 486
+  },
+  "becket": {
+    "qid": "Q2431830",
+    "lat": 42.331944444,
+    "lon": -73.083333333,
+    "population": 1931
+  },
+  "cheshire": {
+    "qid": "Q612187",
+    "lat": 42.561944444,
+    "lon": -73.163333333,
+    "population": 3258
+  },
+  "clarksburg": {
+    "qid": "Q3679152",
+    "lat": 42.716944444,
+    "lon": -73.092777777,
+    "population": 1657
+  },
+  "dalton": {
+    "qid": "Q2318577",
+    "lat": 42.473611111,
+    "lon": -73.166666666,
+    "population": 6330
+  },
+  "egremont": {
+    "qid": "Q2431621",
+    "lat": 42.184722222,
+    "lon": -73.414444444,
+    "population": 1372
+  },
+  "florida": {
+    "qid": "Q123576016",
+    "lat": 42.6667462,
+    "lon": -73.01121,
+    "population": null
+  },
+  "great-barrington": {
+    "qid": "Q5598709",
+    "lat": 42.1953,
+    "lon": -73.3628,
+    "population": 2234
+  },
+  "hancock-berkshire-county": {
+    "qid": "Q2317792",
+    "lat": 42.543055555,
+    "lon": -73.324166666,
+    "population": 757
+  },
+  "hinsdale": {
+    "qid": "Q2318167",
+    "lat": 42.438611111,
+    "lon": -73.125833333,
+    "population": 1919
+  },
+  "lee": {
+    "qid": "Q6512899",
+    "lat": 42.3069,
+    "lon": -73.2472,
+    "population": 1880
+  },
+  "lenox": {
+    "qid": "Q6523150",
+    "lat": 42.3572,
+    "lon": -73.2842,
+    "population": 1639
+  },
+  "monterey": {
+    "qid": "Q2887479",
+    "lat": 42.179166666,
+    "lon": -73.2125,
+    "population": 1095
+  },
+  "mount-washington": {
+    "qid": "Q597961",
+    "lat": 42.093888888,
+    "lon": -73.466111111,
+    "population": 160
+  },
+  "new-ashford": {
+    "qid": "Q3875189",
+    "lat": 42.605,
+    "lon": -73.24,
+    "population": 250
+  },
+  "new-marlborough": {
+    "qid": "Q2536854",
+    "lat": 42.122777777,
+    "lon": -73.229166666,
+    "population": 1528
+  },
+  "north-adams": {
+    "qid": "Q49185",
+    "lat": 42.700833333,
+    "lon": -73.109166666,
+    "population": 12961
+  },
+  "otis": {
+    "qid": "Q2431273",
+    "lat": 42.193055555,
+    "lon": -73.092222222,
+    "population": 1634
+  },
+  "peru-berkshire-county": {
+    "qid": "Q614143",
+    "lat": 42.438055555,
+    "lon": -73.046388888,
+    "population": 814
+  },
+  "pittsfield-berkshire-county": {
+    "qid": "Q49184",
+    "lat": 42.45,
+    "lon": -73.25,
+    "population": 43927
+  },
+  "richmond": {
+    "qid": "Q386437",
+    "lat": 42.373055555,
+    "lon": -73.368055555,
+    "population": 1407
+  },
+  "sandisfield": {
+    "qid": "Q2431850",
+    "lat": 42.1125,
+    "lon": -73.143611111,
+    "population": 989
+  },
+  "savoy": {
+    "qid": "Q2431405",
+    "lat": 42.566666666,
+    "lon": -73.029166666,
+    "population": 645
+  },
+  "sheffield": {
+    "qid": "Q2306176",
+    "lat": 42.110277777,
+    "lon": -73.355555555,
+    "population": 3327
+  },
+  "stockbridge": {
+    "qid": "Q222705",
+    "lat": 42.2875,
+    "lon": -73.320833333,
+    "population": 2018
+  },
+  "tyringham": {
+    "qid": "Q2431755",
+    "lat": 42.245833333,
+    "lon": -73.204166666,
+    "population": 427
+  },
+  "washington": {
+    "qid": "Q2431532",
+    "lat": 42.365555555,
+    "lon": -73.155277777,
+    "population": 494
+  },
+  "west-stockbridge": {
+    "qid": "Q2431309",
+    "lat": 42.345833333,
+    "lon": -73.366666666,
+    "population": 1343
+  },
+  "williamstown": {
+    "qid": "Q8021292",
+    "lat": 42.7094,
+    "lon": -73.1975,
+    "population": 4308
+  },
+  "windsor": {
+    "qid": "Q4020379",
+    "lat": 42.511666666,
+    "lon": -73.058333333,
+    "population": 831
+  },
+  "arlington": {
+    "qid": "Q4792266",
+    "lat": 43.072778,
+    "lon": -73.156389,
+    "population": 1249
+  },
+  "bennington": {
+    "qid": "Q817921",
+    "lat": 42.8852043,
+    "lon": -73.2131916,
+    "population": 15333
+  },
+  "bondville": {
+    "qid": "Q30623014",
+    "lat": 43.14472222,
+    "lon": -72.87555556,
+    "population": null
+  },
+  "dorset": {
+    "qid": "Q1903749",
+    "lat": 43.2548,
+    "lon": -73.09872,
+    "population": 2133
+  },
+  "manchester": {
+    "qid": "Q1905654",
+    "lat": 43.1653655,
+    "lon": -73.0676568,
+    "population": 4484
+  },
+  "peru-bennington-county": {
+    "qid": "Q1939667",
+    "lat": 43.2551444,
+    "lon": -72.9206995,
+    "population": 531
+  },
+  "pownal": {
+    "qid": "Q1940266",
+    "lat": 42.7916479,
+    "lon": -73.2120689,
+    "population": 3258
+  },
+  "readsboro": {
+    "qid": "Q1940658",
+    "lat": 42.7988474,
+    "lon": -72.971838,
+    "population": 702
+  },
+  "rupert": {
+    "qid": "Q1941446",
+    "lat": 43.263619,
+    "lon": -73.1905112,
+    "population": 698
+  },
+  "shaftsbury": {
+    "qid": "Q945602",
+    "lat": 42.980601,
+    "lon": -73.2080843,
+    "population": 3598
+  },
+  "stamford-bennington-county": {
+    "qid": "Q1942888",
+    "lat": 42.7879822,
+    "lon": -73.078461,
+    "population": 861
+  },
+  "west-rupert": {
+    "qid": "Q122597806",
+    "lat": 43.2386873,
+    "lon": -73.2428857,
+    "population": null
+  },
+  "benson": {
+    "qid": "Q5726224",
+    "lat": 43.7067,
+    "lon": -73.3106,
+    "population": 269
+  },
+  "bomoseen": {
+    "qid": "Q30624330",
+    "lat": 43.643611111,
+    "lon": -73.198611111,
+    "population": null
+  },
+  "brandon": {
+    "qid": "Q14711902",
+    "lat": 43.7981,
+    "lon": -73.0864,
+    "population": 1727
+  },
+  "castleton": {
+    "qid": "Q5757843",
+    "lat": 43.6103,
+    "lon": -73.18,
+    "population": 1337
+  },
+  "center-rutland": {
+    "qid": "Q30624381",
+    "lat": 43.60444444,
+    "lon": -73.01138889,
+    "population": null
+  },
+  "chittenden": {
+    "qid": "Q2972399",
+    "lat": 43.732777777,
+    "lon": -72.9375,
+    "population": 1237
+  },
+  "cuttingsville": {
+    "qid": "Q30588368",
+    "lat": 43.48833333,
+    "lon": -72.88222222,
+    "population": null
+  },
+  "danby": {
+    "qid": "Q2972574",
+    "lat": 43.366666666,
+    "lon": -73.05,
+    "population": 1284
+  },
+  "east-wallingford": {
+    "qid": "Q135778231",
+    "lat": 43.4496827,
+    "lon": -72.8777441,
+    "population": null
+  },
+  "fair-haven": {
+    "qid": "Q5414043",
+    "lat": 43.5958,
+    "lon": -73.2706,
+    "population": 2225
+  },
+  "forest-dale": {
+    "qid": "Q30624477",
+    "lat": 43.82777778,
+    "lon": -73.05361111,
+    "population": null
+  },
+  "hydeville": {
+    "qid": "Q30624489",
+    "lat": 43.60555556,
+    "lon": -73.22805556,
+    "population": null
+  },
+  "killington": {
+    "qid": "Q3475658",
+    "lat": 43.664722222,
+    "lon": -72.793333333,
+    "population": 1407
+  },
+  "middletown-springs": {
+    "qid": "Q109285271",
+    "lat": 43.485277777,
+    "lon": -73.118055555,
+    "population": 194
+  },
+  "mount-holly": {
+    "qid": "Q3451033",
+    "lat": 43.439166666,
+    "lon": -72.810833333,
+    "population": 1385
+  },
+  "north-clarendon": {
+    "qid": "Q30624491",
+    "lat": 43.56666667,
+    "lon": -72.96527778,
+    "population": 395
+  },
+  "pawlet": {
+    "qid": "Q3447840",
+    "lat": 43.374444444,
+    "lon": -73.201944444,
+    "population": 1424
+  },
+  "pittsfield-rutland-county": {
+    "qid": "Q3448335",
+    "lat": 43.768611111,
+    "lon": -72.831388888,
+    "population": 504
+  },
+  "pittsford": {
+    "qid": "Q5557043",
+    "lat": 43.7064,
+    "lon": -73.0267,
+    "population": 805
+  },
+  "poultney": {
+    "qid": "Q428418",
+    "lat": 43.5169,
+    "lon": -73.2372,
+    "population": 3020
+  },
+  "rutland": {
+    "qid": "Q25893",
+    "lat": 43.6089,
+    "lon": -72.9797,
+    "population": 15807
+  },
+  "wallingford": {
+    "qid": "Q7963097",
+    "lat": 43.4725,
+    "lon": -72.9783,
+    "population": 818
+  },
+  "wells-rutland-county": {
+    "qid": "Q6166752",
+    "lat": 43.416944444,
+    "lon": -73.203333333,
+    "population": 386
+  },
+  "west-rutland": {
+    "qid": "Q9095788",
+    "lat": 43.5972,
+    "lon": -73.045,
+    "population": 1898
+  }
+}

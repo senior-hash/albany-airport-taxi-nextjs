@@ -1,0 +1,156 @@
+{
+  "slug": "highland",
+  "name": "Highland",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.718333333,
+  "lon": -73.963611111,
+  "wikidataQid": "Q3460450",
+  "population": 6385,
+  "airportDistances": {
+    "alb": {
+      "miles": "~80 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr"
+    },
+    "lga": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    },
+    "ewr": {
+      "miles": "~85 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hudson Ale Works",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pavese's Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "El Paso",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hapág Bistro",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Asian Garden",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Sandwhich Shop",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Coppala's La Fantasia",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Gateway Diner",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Bob Shepard Highland Landing Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Johnson-Iorio Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Berean Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lincoln Center Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wheaton Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dongan Place",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Eastman Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kaal Rock Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Town of Lloyd Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Auerbach Chiropractic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "FirstCare Walk-In Medical Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pine Street Medical Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Poughkeepsie City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vassar Brothers Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dr. Magdalena Goralczyk, endodontist",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Health Quest Home Care",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:17.607Z"
+}

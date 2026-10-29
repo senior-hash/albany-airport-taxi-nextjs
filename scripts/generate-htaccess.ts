@@ -9,6 +9,11 @@ const PRIMARY_DOMAIN = "albanyairport.taxi"; // apex, non-www
 
 type Redirect = { from: string; to: string };
 
+// New-site path renames (not from the legacy PHP site) that still need a
+// 301 — e.g. a page slug changed after the URL had already been linked
+// externally. Add entries here rather than hand-editing deploy/.htaccess.
+const EXTRA_REDIRECTS: Redirect[] = [{ from: "/cars/lincoln-mkt/", to: "/cars/" }];
+
 function parseLegacyUrl(from: string): { script: string; query: string } {
   const [script, query = ""] = from.replace(/^\//, "").split("?");
   return { script, query };
@@ -62,6 +67,13 @@ function main() {
     const escapedQuery = escapeRegex(query);
     lines.push(`RewriteCond %{QUERY_STRING} ^${escapedQuery}$`);
     lines.push(`RewriteRule ^${escapeRegex(script)}$ ${redirect.to}? [R=301,L]`);
+  }
+
+  lines.push("");
+  lines.push("# --- New-site path renames (see EXTRA_REDIRECTS in this script) ---");
+  for (const redirect of EXTRA_REDIRECTS) {
+    const fromPath = redirect.from.replace(/^\//, "").replace(/\/$/, "");
+    lines.push(`RewriteRule ^${escapeRegex(fromPath)}/?$ ${redirect.to} [R=301,L]`);
   }
 
   lines.push("");

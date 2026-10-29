@@ -1,0 +1,144 @@
+{
+  "slug": "mooers-forks",
+  "name": "Mooers Forks",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.9580936,
+  "lon": -73.6406994,
+  "wikidataQid": "Q122591855",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr"
+    },
+    "lga": {
+      "miles": "~335 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~340 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "logan": {
+      "miles": "~285 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~280 miles",
+      "driveTime": "about 5 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rouses Point station",
+    "miles": "~15 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Golden Dragon",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ristorante Casa Capitano",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Best Friends Family Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Apple Lodge Eatery",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Gathering",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Lake Alice State Game Management Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rouse Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Feinburg Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Duffy Memorial Sports Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veterans Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rouses Point Trailway",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Miner Lake State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "King Bay State Wetland Game Management Area",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Mooers Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Champlain Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Altona Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Champlain Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rouses Point Village Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chazy Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clinton Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:12.951Z"
+}

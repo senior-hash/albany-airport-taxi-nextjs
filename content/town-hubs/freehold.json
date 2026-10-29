@@ -1,0 +1,156 @@
+{
+  "slug": "freehold",
+  "name": "Freehold",
+  "county": "Greene County",
+  "state": "New York",
+  "lat": 42.3592,
+  "lon": -74.0489,
+  "wikidataQid": "Q5500903",
+  "population": 1463,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~125 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~130 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Saloon of East Durham",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Tasting Lab",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tiny Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Shamrock House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Five Furlongs Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "D & C Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lil’ Piece BBQ and Catering",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Green Hill Cafe & Pizzeria",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Irish Cultural Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Angelo Canna Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Joralemon Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Palmer House Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Catalpa House Bed & Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Mountain Club",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "K Lift",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cairo Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greene Medical Arts",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westerlo Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wellnow Urgent Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rensselaerville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Albany Med EmUrgentCare",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Athens Community Center",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:53.399Z"
+}

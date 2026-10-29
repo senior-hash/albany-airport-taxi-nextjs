@@ -1,0 +1,156 @@
+{
+  "slug": "stormville",
+  "name": "Stormville",
+  "county": "Dutchess County",
+  "state": "New York",
+  "lat": 41.5703919,
+  "lon": -73.7454796,
+  "wikidataQid": "Q135911636",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "lga": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~85 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Stormville Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Colins Ale House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Greenhaven Italian Bistro",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fortuna",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hopewell Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hopewell Deli & Juice Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tokoharu",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Golden Jade Chinese Food",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Stormville Airport Soccer Fields",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hopewell Recreation",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sylvan Lake Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Fishkill Veterans Memorial",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lime Kiln Recreation Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Route 52 Recreation Complex",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Wing Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Towne Center Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Kathleen Ennabi, MD",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "East Fishkill Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Beekman Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "PM Pediatrics - Specialized Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ogleh Nesheiwat, M.D. - Internal Medicine / Primary Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "GoHealth Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pulse-MD Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nuvance Health Primary Care",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:00.832Z"
+}

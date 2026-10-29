@@ -1,0 +1,156 @@
+{
+  "slug": "salisbury-center",
+  "name": "Salisbury Center",
+  "county": "Herkimer County",
+  "state": "New York",
+  "lat": 43.14257,
+  "lon": -74.7865391,
+  "wikidataQid": "Q48741962",
+  "population": 323,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Green Acres Drive In",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Southern Girl Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "China Garden",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Alamo Bar and Grill",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Empire Diner",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Asteroga Alehouse",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Yetty's Pizza",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Vinny's Pizzeria & Restaurant",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Dolgeville Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Spofford Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dolgeville Central School Recreation Fields",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Western Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Eastern Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clinton Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Benton's Landing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moreland Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "MVHS Medical Group - Little Falls Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little Falls City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little Falls Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village of Poland",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Town of Russia Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Herkimer Municipal Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bassett Healthcare Clinic",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Primary Urgent Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:30.068Z"
+}

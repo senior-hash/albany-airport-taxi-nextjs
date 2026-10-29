@@ -1,0 +1,156 @@
+{
+  "slug": "preston-hollow",
+  "name": "Preston Hollow",
+  "county": "Albany County",
+  "state": "New York",
+  "lat": 42.4445237,
+  "lon": -74.207917,
+  "wikidataQid": "Q135911519",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~120 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~30 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Five Furlongs Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shamrock House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mama Jeanne's Pizza Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saloon of East Durham",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Green Hill Cafe & Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Helderberg Brewery Taproom",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hop Barn Brewing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Tasting Lab",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Irish Cultural Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Palmer House Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Catalpa House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Long Path Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Max V. Shaul State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Mountain Club",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "K Lift",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Broome Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rensselaerville Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Conesville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cairo Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Medical Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:38.520Z"
+}

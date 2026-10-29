@@ -1,0 +1,156 @@
+{
+  "slug": "claverack",
+  "name": "Claverack",
+  "county": "Columbia County",
+  "state": "New York",
+  "lat": 42.225,
+  "lon": -73.734444444,
+  "wikidataQid": "Q1022781",
+  "population": 6058,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~130 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "lga": {
+      "miles": "~120 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~135 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "logan": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Coyote Flaco Restaurant & Lounge",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Scali's Pizza & Pasta",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Klocke Estate",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wasabi",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lil' Deb's Oasis",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Aguila Real",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Grazin' Spirits",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Food Sing",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Wortman Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "7th Street Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Livingston Parkway Circle",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Livingston Parkway Circle Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Washington Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Promenade Hill Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Henry Hudson Riverfront Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Harrier Hill Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Columbia Memorial Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Greenport Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stockport Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Claverack Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Livingston Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taghkanic Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ghent Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:15.011Z"
+}

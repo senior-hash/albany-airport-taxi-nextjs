@@ -1,0 +1,156 @@
+{
+  "slug": "alcove",
+  "name": "Alcove",
+  "county": "Albany County",
+  "state": "New York",
+  "lat": 42.468611111,
+  "lon": -73.925277777,
+  "wikidataQid": "Q4713369",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~30 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Albany–Rensselaer",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Silver Spoon Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lil’ Piece BBQ and Catering",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "D & C Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Tasting Lab",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tiny Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Yanni's Too",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vinceannas",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Track 32",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Joralemon Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lawson Lake County Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mosher Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charley Houghtaling Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "South Bethlehem Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "South Bethlehem Fishing Access Site",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hannacroix Ravine",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Coeymans Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westerlo Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Baltimore Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Scotland Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bethlehem Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Albany Med EmUrgentCare",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "First Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:26.513Z"
+}

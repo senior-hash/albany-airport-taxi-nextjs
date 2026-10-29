@@ -1,0 +1,144 @@
+{
+  "slug": "wells-hamilton-county",
+  "name": "Wells",
+  "county": "Hamilton County",
+  "state": "New York",
+  "lat": 43.3963453,
+  "lon": -74.298042,
+  "wikidataQid": "Q48739667",
+  "population": 531,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~230 miles",
+      "driveTime": "about 5 hr"
+    },
+    "lga": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Alpine Grille",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sunrise Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Logan's Bar & Grill",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Inn at Speculator",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Christiano's Pizza",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Melody Lodge",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Pines Bar & Grill",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Local Dining and Spirits",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Parker's Corner Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "shuffle board",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Waterfront Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Oak Mountain",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lapland Lake Nordic Lodge",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lapland Lake Nordic Vacation Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Poplar Point Day Use Area",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Town of Wells Municipal Office Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Infirmary",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Benson Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Northville Northampton Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Edinburg Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Day Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:22.164Z"
+}

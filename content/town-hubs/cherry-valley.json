@@ -1,0 +1,156 @@
+{
+  "slug": "cherry-valley",
+  "name": "Cherry Valley",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.796944444,
+  "lon": -74.754166666,
+  "wikidataQid": "Q2885420",
+  "population": 467,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Red Shed Brewery - Red Shed Ale House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "204 Main Bar & Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Shed Brewery - Cherry Valley Taproom and Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New York Pizzeria",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Papa Joe's Pizzaria",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Red Lantern House",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Erie Station",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Mediterranean Kitchen",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Haslett Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "NBT Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fort Plain Historical Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Arkell Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Library Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Betty and Wilbur Davis State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "River Front park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wiles Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Middlefield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richfield Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fort Plain Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Canajoharie Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westford Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Palatine Bridge Village Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bassett Medical Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Warren Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:13.079Z"
+}

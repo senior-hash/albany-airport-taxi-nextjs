@@ -1,0 +1,156 @@
+{
+  "slug": "ruby",
+  "name": "Ruby",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 42.01805556,
+  "lon": -74.01472222,
+  "wikidataQid": "Q39050578",
+  "population": 918,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "lga": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "logan": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Casa Vallarta",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Buffalo Wild Wings",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kingston Wok",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "A Slice of Italy",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Angel's Latin Restaurant II",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Michael's Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crazy Bowelz",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Barclay Heights Smythe House Bed and Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saugerties Public Beach Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Glasco Mini-Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Esopus Bend Nature Preserve",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tina Chorvas Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "High Woods Multiple Use Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Potter Brothers Ski and Snowboard",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Donlon Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Kingston Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Advanced Dermatology",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Optum Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ulster Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "VA Kingston Outpatient Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nuvance Health - GoHealth Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saugerties Village Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saugerties Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:32.183Z"
+}

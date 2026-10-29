@@ -1,0 +1,156 @@
+{
+  "slug": "lake-luzerne",
+  "name": "Lake Luzerne",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.319166666,
+  "lon": -73.825,
+  "wikidataQid": "Q3708445",
+  "population": 3079,
+  "airportDistances": {
+    "alb": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~20 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Long Horn Restaurant & Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Amore Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Silo",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ambrosia Diner",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Friendly's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Log Jam Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Johnny Rockets",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Luzerne Beach Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lamplight Inn Bed & Breakfast",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Benjamin C. Butler Pavilion Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mill Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wayside Beach Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hadley-Sam Smead Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sam Spread Town Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dean Mountain Whitewhater Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hadley Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lake Luzerne Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Corinth Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Mountain Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Headwaters Health Network Administrative Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Mountain Specialty Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Queensbury Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Headwaters Pediatric and Adolescent Health",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:07.464Z"
+}

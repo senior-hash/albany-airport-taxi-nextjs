@@ -1,0 +1,156 @@
+{
+  "slug": "porter-corners",
+  "name": "Porter Corners",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 43.1483,
+  "lon": -73.8864,
+  "wikidataQid": "Q7231606",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~35 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Saratoga Springs station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Shirley's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Wishing Well",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pope's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taste of China",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Ave Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nove",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Local Pub & Teahouse",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Forno Bistro",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Porter Corners Town Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Brookhaven Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lester Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Daniels Road Soccer Fields",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Flat Rock Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Side Recreation Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Henry Garden",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "High Rock Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Greenfield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Corinth Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood - Saratoga Springs Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saratoga Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Passport Health Saratoga Springs Travel Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saratoga Springs City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wesley Health Care Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saratoga Hospital Medical Group Primary Care – Milton",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:28.163Z"
+}

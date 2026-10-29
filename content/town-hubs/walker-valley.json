@@ -1,0 +1,156 @@
+{
+  "slug": "walker-valley",
+  "name": "Walker Valley",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.6422,
+  "lon": -74.3725,
+  "wikidataQid": "Q3461728",
+  "population": 1269,
+  "airportDistances": {
+    "alb": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "lga": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "ewr": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    },
+    "logan": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~30 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Cup & Saucer Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Aroma Thyme Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hoot Owl",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Il Paradiso Pizza and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "China House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Villa Gaudio - Pizzeria & Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mountain View",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dragon City",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Verkeerderkill Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pine Bush House Bed and Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Patrick E Matazara Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mill Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Liberty Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mildred & Louis Resnick Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crawford Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berme Road Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Crawford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Wawarsing Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenville Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenville Regional Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bloomingburg Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Walden Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Montgomery Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Shawangunk Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:39.214Z"
+}

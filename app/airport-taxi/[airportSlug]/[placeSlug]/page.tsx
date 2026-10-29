@@ -13,11 +13,13 @@ import {
   getCountyAirportDistance,
 } from "@/lib/content";
 import { resolveCityMeta, generateCountyMeta, hasRealCityDetail } from "@/scripts/lib/meta";
+import { getTownHub } from "@/lib/town-hubs";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { ProseContent } from "@/components/ProseContent";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
 import { NearbyCities } from "@/components/NearbyCities";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
@@ -71,10 +73,20 @@ export async function generateMetadata({
     // same thin, near-identical content. Still crawlable/linkable so the
     // NearbyCities graph and per-county call tracking keep working.
     const hasRealDetail = hasRealCityDetail(city.detailHtml);
+    // Every town now has a dedicated hub page (/towns/{slug}), but only
+    // repoint canonical at it once that hub has actually passed the
+    // quality gate (real airport drive times + 2+ place groups) and is
+    // itself indexed — an indexed page must never canonical to a noindexed
+    // one. Hubs that exist but haven't qualified yet (or towns with no hub
+    // data at all) leave these pages' canonical as-is.
+    const hub = getTownHub(city.slug);
+    const hasQualifiedHub = hub?.qualifies === true;
     return {
       title: meta.title,
       description: meta.description,
-      alternates: { canonical: `/airport-taxi/${airport.slug}/${city.slug}` },
+      alternates: {
+        canonical: hasQualifiedHub ? `/towns/${city.slug}` : `/airport-taxi/${airport.slug}/${city.slug}`,
+      },
       robots: hasRealDetail ? undefined : { index: false, follow: true },
     };
   }
@@ -227,8 +239,9 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
               <FAQ items={localFAQ} title={`${county.name} FAQ`} />
             </div>
           </div>
-          <aside>
+          <aside className="space-y-6">
             <BookingCard phoneDisplay={county.trackingPhone ?? undefined} />
+            <QuoteForm />
           </aside>
         </Container>
       </>

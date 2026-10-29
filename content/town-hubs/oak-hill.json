@@ -1,0 +1,156 @@
+{
+  "slug": "oak-hill",
+  "name": "Oak Hill",
+  "county": "Greene County",
+  "state": "New York",
+  "lat": 42.4097,
+  "lon": -74.1522,
+  "wikidataQid": "Q7073544",
+  "population": 277,
+  "airportDistances": {
+    "alb": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Five Furlongs Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shamrock House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Green Hill Cafe & Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mama Jeanne's Pizza Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saloon of East Durham",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hop Barn Brewing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Tasting Lab",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tiny Diner",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Irish Cultural Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Angelo Canna Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Palmer House Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Catalpa House Bed & Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Mountain Club",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "K Lift",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "East Peak Express Quad",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Rensselaerville Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Broome Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cairo Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Conesville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Medical Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:02.753Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "poultney",
+  "name": "Poultney",
+  "county": "Rutland County",
+  "state": "Vermont",
+  "lat": 43.5169,
+  "lon": -73.2372,
+  "wikidataQid": "Q428418",
+  "population": 3020,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "lga": {
+      "miles": "~230 miles",
+      "driveTime": "about 5 hr"
+    },
+    "ewr": {
+      "miles": "~230 miles",
+      "driveTime": "about 5 hr"
+    },
+    "logan": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fair Haven",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Rail Trail Eatery diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tasteful Station",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Poultney Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fair Haven Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Scotch Hill Brewing Co.",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sunrise Family Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Iron Lantern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paul's Family Pizza",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Slate Quarry Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Boczek Marsh Wildlife Management Area",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Village Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wells Lakeside Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peace Garden",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Sheldon Mansion Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Granville Little League",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Poultney Town Office",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hampton Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fair Haven Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Castleton Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Castleton Family Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Granville Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wells Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Middletown Springs Town Office",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:30.241Z"
+}

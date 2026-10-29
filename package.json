@@ -13,7 +13,11 @@
     "generate-htaccess": "tsx scripts/generate-htaccess.ts",
     "generate-service-area-map": "tsx scripts/generate-service-area-map.ts",
     "generate-local-phones": "tsx scripts/generate-local-phones.ts",
-    "fetch-soro-posts": "tsx scripts/fetch-soro-posts.ts"
+    "fetch-soro-posts": "tsx scripts/fetch-soro-posts.ts",
+    "refresh-town-hub-counties": "node scripts/town-hubs/fetch-county-qids.mjs",
+    "refresh-town-hub-wikidata": "node scripts/town-hubs/fetch-town-wikidata.mjs",
+    "refresh-town-hub-amtrak": "node scripts/town-hubs/fetch-amtrak-stations.mjs",
+    "refresh-town-hubs": "node scripts/town-hubs/refresh-town-hubs.mjs"
   },
   "dependencies": {
     "he": "^2.0.0",

@@ -1,0 +1,156 @@
+{
+  "slug": "ray-brook",
+  "name": "Ray Brook",
+  "county": "Essex County",
+  "state": "New York",
+  "lat": 44.2933,
+  "lon": -74.0931,
+  "wikidataQid": "Q7297238",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "lga": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr"
+    },
+    "logan": {
+      "miles": "~270 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Westport station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Ray Brook Brewhouse",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tail O' the Pup",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "A-1 Buffet and Sushi",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Blue Line Brewery",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Casa del Sol",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Boathouse",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little Italy",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Owl's Nest Pizza Parlor",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "The Spruce Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Baldwin Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Ashley",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Prescott Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverfront Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "World War I Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverside Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vest Pocket Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Harrietstown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "With Woman Wellness",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mountain Medical Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake Placid Health and Medical Fitness Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Adirondack Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Elba Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saint Armand Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Saint Armand",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:39.239Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "gloversville",
+  "name": "Gloversville",
+  "county": "Fulton County",
+  "state": "New York",
+  "lat": 43.05,
+  "lon": -74.35,
+  "wikidataQid": "Q1380511",
+  "population": 15131,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Caboose",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Upper Deck",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dave's Sports Bar",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Harold's Restaurant and Lounge",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Brass Monkey",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "New York Lunch",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rocky's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chayla's Cuchifrito",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Trail Station Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bleecker Street Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Spring Street Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Littauer Plaza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Castiglione Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Estee Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "St Thomas Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wandel Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Gloversville City Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nathan Littauer Pediatrics",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Flemming Physical Therapy Consultants",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "St. Mary's Urgent Care - Gloversville",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nathan Littauer Primary Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dialysis Clinic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nathan Littauer Hospital",
+          "driveTime": "about 5 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:34.868Z"
+}

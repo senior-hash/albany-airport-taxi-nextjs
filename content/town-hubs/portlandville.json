@@ -1,0 +1,156 @@
+{
+  "slug": "portlandville",
+  "name": "Portlandville",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.5303555,
+  "lon": -74.9671035,
+  "wikidataQid": "Q48740509",
+  "population": 177,
+  "airportDistances": {
+    "alb": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~250 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~50 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Cooperstown Brewing Company",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Brooks' House of Bar-B-Q",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "No. 1 Chinese Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taqueria Guadalajara",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Denny's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nina's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Depot",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Autumn Café",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Goodyear Lake Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fortin Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Curtis Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Miller Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wilbur Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Huntington Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Neahwa Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Davenport Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Milford Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "A. O. Fox Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oneonta Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hoffman Family Medicine",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Perrella Wellness Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oneonta Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bassett Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Davenport Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:25.166Z"
+}

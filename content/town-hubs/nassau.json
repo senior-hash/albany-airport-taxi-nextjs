@@ -1,0 +1,156 @@
+{
+  "slug": "nassau",
+  "name": "Nassau",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.55,
+  "lon": -73.55,
+  "wikidataQid": "Q11695104",
+  "population": 4545,
+  "airportDistances": {
+    "alb": {
+      "miles": "~25 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Albany–Rensselaer",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Jimmy's Lakeside Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Zia's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nassau Grill and Deli",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tacos Diablos",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jack Kelly's Tavern by the Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Old Daley Inn on Crooked Lake",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stable Gate Winery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kay's Famous Pizza",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Wachoosik Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village Commons Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schodack Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butler Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Greenbush Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Schoolhouse Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "North Greenbush Town Beach",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Eckman Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Schodack Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sand Lake Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schodack Podiatry",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Upstate Dermatology",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dialysis Clinic, Inc.",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stephentown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saint Peter's Medical Imaging",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Kenneth F. March Podiatric Medicine & Surgery",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:08.936Z"
+}

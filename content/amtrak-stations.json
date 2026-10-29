@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Buffalo–Depew station",
+    "lat": 42.9071,
+    "lon": -78.7266
+  },
+  {
+    "name": "Anderson Regional Transportation Center",
+    "lat": 42.5174,
+    "lon": -71.144
+  },
+  {
+    "name": "Buffalo Central Terminal",
+    "lat": 42.8896,
+    "lon": -78.8305
+  },
+  {
+    "name": "Amherst station",
+    "lat": 42.3751973,
+    "lon": -72.5116853
+  },
+  {
+    "name": "Whitehall station",
+    "lat": 43.5558,
+    "lon": -73.4033
+  },
+  {
+    "name": "Back Bay station",
+    "lat": 42.3476,
+    "lon": -71.0753
+  },
+  {
+    "name": "Yonkers station",
+    "lat": 40.9356,
+    "lon": -73.9023
+  },
+  {
+    "name": "Croton–Harmon station",
+    "lat": 41.1898,
+    "lon": -73.8827
+  },
+  {
+    "name": "Union Station",
+    "lat": 43.104167,
+    "lon": -75.223333
+  },
+  {
+    "name": "Buffalo–Exchange Street",
+    "lat": 42.8783,
+    "lon": -78.8738
+  },
+  {
+    "name": "Albany–Rensselaer",
+    "lat": 42.641389,
+    "lon": -73.741111
+  },
+  {
+    "name": "Poughkeepsie station",
+    "lat": 41.7071,
+    "lon": -73.9382
+  },
+  {
+    "name": "Fort Edward station",
+    "lat": 43.269722,
+    "lon": -73.580417
+  },
+  {
+    "name": "Plattsburgh station",
+    "lat": 44.6967,
+    "lon": -73.44647
+  },
+  {
+    "name": "Rouses Point station",
+    "lat": 44.9948,
+    "lon": -73.3712
+  },
+  {
+    "name": "Louise M. Slaughter Rochester Station",
+    "lat": 43.1635,
+    "lon": -77.6082
+  },
+  {
+    "name": "Hudson",
+    "lat": 42.2541,
+    "lon": -73.7977
+  },
+  {
+    "name": "Rome station",
+    "lat": 43.1995,
+    "lon": -75.4499
+  },
+  {
+    "name": "Port Henry station",
+    "lat": 44.0425,
+    "lon": -73.458611
+  },
+  {
+    "name": "Port Kent station",
+    "lat": 44.524,
+    "lon": -73.4035
+  },
+  {
+    "name": "Fair Haven",
+    "lat": 43.5904,
+    "lon": -73.2614
+  },
+  {
+    "name": "Rhinecliff station",
+    "lat": 41.921111111,
+    "lon": -73.951944444
+  },
+  {
+    "name": "Westport station",
+    "lat": 44.1871,
+    "lon": -73.4519
+  },
+  {
+    "name": "William F. Walsh Regional Transportation Center",
+    "lat": 43.0767,
+    "lon": -76.1691
+  },
+  {
+    "name": "Saratoga Springs station",
+    "lat": 43.0829,
+    "lon": -73.8102
+  },
+  {
+    "name": "Schenectady",
+    "lat": 42.8146,
+    "lon": -73.9428
+  },
+  {
+    "name": "Ticonderoga station",
+    "lat": 43.8538,
+    "lon": -73.3897
+  },
+  {
+    "name": "Buzzards Bay station",
+    "lat": 41.745,
+    "lon": -70.615833
+  },
+  {
+    "name": "Attleboro station",
+    "lat": 41.9413,
+    "lon": -71.2849
+  },
+  {
+    "name": "Amsterdam station",
+    "lat": 42.953611,
+    "lon": -74.219444
+  },
+  {
+    "name": "Rutland station",
+    "lat": 43.6058,
+    "lon": -72.9817
+  },
+  {
+    "name": "Rye station",
+    "lat": 40.987803,
+    "lon": -73.679123
+  },
+  {
+    "name": "Sandwich station",
+    "lat": 41.76,
+    "lon": -70.492222
+  },
+  {
+    "name": "Springfield Union Station",
+    "lat": 42.106,
+    "lon": -72.5929
+  },
+  {
+    "name": "Union Station",
+    "lat": 42.8506282,
+    "lon": -72.5563288
+  },
+  {
+    "name": "Bellows Falls station",
+    "lat": 43.136407,
+    "lon": -72.444657
+  },
+  {
+    "name": "St. Albans station",
+    "lat": 44.8123,
+    "lon": -73.0861
+  },
+  {
+    "name": "Castleton",
+    "lat": 43.613333,
+    "lon": -73.171389
+  },
+  {
+    "name": "Framingham station",
+    "lat": 42.27624,
+    "lon": -71.41962
+  },
+  {
+    "name": "Burlington Union Station",
+    "lat": 44.475694444,
+    "lon": -73.2195
+  },
+  {
+    "name": "Union Station",
+    "lat": 42.2612,
+    "lon": -71.7949
+  },
+  {
+    "name": "Waterbury",
+    "lat": 44.335,
+    "lon": -72.752222
+  },
+  {
+    "name": "Niagara Falls Station and Customhouse Interpretive Center",
+    "lat": 43.109722,
+    "lon": -79.055833
+  },
+  {
+    "name": "West Barnstable station",
+    "lat": 41.7069,
+    "lon": -70.3742
+  },
+  {
+    "name": "Essex Junction station",
+    "lat": 44.4926,
+    "lon": -73.1102
+  },
+  {
+    "name": "White River Junction",
+    "lat": 43.648333,
+    "lon": -72.317778
+  },
+  {
+    "name": "John W. Olver Transit Center",
+    "lat": 42.5858,
+    "lon": -72.6006
+  },
+  {
+    "name": "Haverhill station",
+    "lat": 42.7735,
+    "lon": -71.0864
+  },
+  {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "lat": 42.4515,
+    "lon": -73.254
+  },
+  {
+    "name": "Windsor station",
+    "lat": 43.4801,
+    "lon": -72.3849
+  },
+  {
+    "name": "Taunton",
+    "lat": 41.9011,
+    "lon": -71.101
+  },
+  {
+    "name": "New York State Fair",
+    "lat": 43.071722222,
+    "lon": -76.229527777
+  },
+  {
+    "name": "Wareham Village station",
+    "lat": 41.7583,
+    "lon": -70.7147
+  },
+  {
+    "name": "Hyannis Transportation Center",
+    "lat": 41.6561,
+    "lon": -70.28
+  },
+  {
+    "name": "Holyoke",
+    "lat": 42.20405,
+    "lon": -72.60236
+  },
+  {
+    "name": "Middlebury station",
+    "lat": 44.0177,
+    "lon": -73.1698
+  },
+  {
+    "name": "South Station",
+    "lat": 42.351944,
+    "lon": -71.055278
+  },
+  {
+    "name": "Ferrisburgh–Vergennes",
+    "lat": 44.1809,
+    "lon": -73.2489
+  },
+  {
+    "name": "Pennsylvania Station",
+    "lat": 40.750638,
+    "lon": -73.993899
+  },
+  {
+    "name": "Grand Central Terminal",
+    "lat": 40.752778,
+    "lon": -73.977222
+  },
+  {
+    "name": "North Station",
+    "lat": 42.3663,
+    "lon": -71.06222
+  },
+  {
+    "name": "Montpelier",
+    "lat": 44.25568,
+    "lon": -72.6064
+  },
+  {
+    "name": "New Rochelle station",
+    "lat": 40.912317,
+    "lon": -73.784936
+  },
+  {
+    "name": "Union Station",
+    "lat": 42.3193,
+    "lon": -72.6271
+  },
+  {
+    "name": "Route 128 station",
+    "lat": 42.2102,
+    "lon": -71.1472
+  },
+  {
+    "name": "Randolph station",
+    "lat": 43.922778,
+    "lon": -72.665833
+  },
+  {
+    "name": "Colonie",
+    "lat": 42.72889,
+    "lon": -73.8654
+  },
+  {
+    "name": "Mechanicville",
+    "lat": 42.9047,
+    "lon": -73.6902
+  },
+  {
+    "name": "Watervliet",
+    "lat": 42.7143,
+    "lon": -73.7186
+  },
+  {
+    "name": "Willsboro station",
+    "lat": 44.3733,
+    "lon": -73.4071
+  },
+  {
+    "name": "Batavia New York Central station",
+    "lat": 42.9835,
+    "lon": -78.1787
+  }
+]

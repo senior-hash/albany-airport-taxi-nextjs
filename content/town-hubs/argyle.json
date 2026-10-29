@@ -1,0 +1,156 @@
+{
+  "slug": "argyle",
+  "name": "Argyle",
+  "county": "Washington County",
+  "state": "New York",
+  "lat": 43.2372,
+  "lon": -73.49,
+  "wikidataQid": "Q3461130",
+  "population": 289,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Auction Barn Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Cue and Brew",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kerrie's on Broadway",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Anvil Inn Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Slickfin Brewing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McCrea Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pizza Hut",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dog Shack",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Underwood Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bradley Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mullen Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Five Combines",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Falls Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Juckett Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paris Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Derby Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Argyle Municipal Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fort Edward Town and Village Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Glens Falls Hospital - Greenwich Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Falls Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moreau Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kingsbury Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moreau Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Northumberland Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:43.278Z"
+}

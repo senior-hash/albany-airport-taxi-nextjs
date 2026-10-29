@@ -1,0 +1,156 @@
+{
+  "slug": "melrose",
+  "name": "Melrose",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.84183333,
+  "lon": -73.62391667,
+  "wikidataQid": "Q16965393",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~15 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Mechanicville",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Outpost 40",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rustic Barn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chrissys Cravings",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sammy Cohen's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lewis' Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schag A Val",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Twisted Kitchen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Testos",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Corliss Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "123rd Street Boat Launch Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "120th Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Button Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Battery Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lock 2 Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Park at the Point",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Schaghticoke Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schaghticoke Family Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pittstown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Waterford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Waterford Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Brunswick Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mechanicsville Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cohoes Physicians P.C.",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:07.687Z"
+}

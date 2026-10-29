@@ -1,0 +1,156 @@
+{
+  "slug": "elka-park",
+  "name": "Elka Park",
+  "county": "Greene County",
+  "state": "New York",
+  "lat": 42.15916667,
+  "lon": -74.1575,
+  "wikidataQid": "Q39050528",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~125 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "logan": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~110 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Nat's Mountain House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tanners Boathouse",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fortune Garden",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pancho's Villa",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tabla",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Last Chance Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Last Chance Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pantry On Main",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Rip Van Winkle Lake Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trail View Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Fairlawn Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Harris's Happy Hunter Hideaway",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hunter Mountain",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mountain Top Arboretum",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Deer Mountain Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Simpson Mini-Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hunter Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Windham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Medical Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Town of Lexington Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Saugerties Wellness Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "West Kill - Lexington Community Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Shandaken Town Hall",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Saugerties Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:53.066Z"
+}

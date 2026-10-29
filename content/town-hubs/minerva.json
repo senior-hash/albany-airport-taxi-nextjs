@@ -1,0 +1,148 @@
+{
+  "slug": "minerva",
+  "name": "Minerva",
+  "county": "Essex County",
+  "state": "New York",
+  "lat": 43.791388888,
+  "lon": -73.984166666,
+  "wikidataQid": "Q3708637",
+  "population": 773,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~250 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "lga": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr"
+    },
+    "ewr": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr"
+    },
+    "logan": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Ticonderoga station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Sporty's Saloon",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ski Bowl Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "becks TAVERN",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cafe Adirondack",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Basil & Wick's Restaurant and Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Black Bear",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Inn on Gore Mountain",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Hub",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Courtney Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Alpine Homestead",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Duck Pond Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village Chair",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Chair",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sunway",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Topridge Quad",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Adirondack Express",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Minerva Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Johnsburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Creek Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Newcomb Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Newcomb Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Schroon Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:31.558Z"
+}

@@ -3,7 +3,10 @@ import { test, expect } from "@playwright/test";
 const PAGES = [
   { path: "/", name: "home" },
   { path: "/airport-taxi/jfk", name: "airport detail" },
-  { path: "/airport-taxi/jfk/troy-rensselaer-county", name: "city (via [placeSlug])" },
+  // Troy's town hub has passed the quality gate, so this city page's
+  // canonical intentionally points there instead of to itself — see
+  // getTownHub() in [airportSlug]/[placeSlug]/page.tsx.
+  { path: "/airport-taxi/jfk/troy-rensselaer-county", name: "city (via [placeSlug])", expectCanonical: "/towns/troy-rensselaer-county" },
   { path: "/airport-taxi/alb/albany-county", name: "county (via [placeSlug])" },
   { path: "/cars", name: "cars list" },
   { path: "/cars/toyota-highlander", name: "car detail" },
@@ -41,7 +44,8 @@ for (const page of PAGES) {
 
     const canonicalHref = await pw.locator('link[rel="canonical"]').getAttribute("href");
     expect(canonicalHref, "canonical tag should exist").toBeTruthy();
-    expect(canonicalHref).toContain(page.path === "/" ? "albanyairport.taxi" : page.path);
+    const expectedCanonical = page.path === "/" ? "albanyairport.taxi" : (page.expectCanonical ?? page.path);
+    expect(canonicalHref).toContain(expectedCanonical);
 
     const jsonLdBlocks = await pw.locator('script[type="application/ld+json"]').allTextContents();
     expect(jsonLdBlocks.length, "should have at least one JSON-LD block (Organization)").toBeGreaterThan(0);

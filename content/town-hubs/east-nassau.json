@@ -1,0 +1,156 @@
+{
+  "slug": "east-nassau",
+  "name": "East Nassau",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.5289,
+  "lon": -73.5161,
+  "wikidataQid": "Q3458103",
+  "population": 559,
+  "airportDistances": {
+    "alb": {
+      "miles": "~25 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Albany–Rensselaer",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Old Daley Inn on Crooked Lake",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "S & S Farm Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jack Kelly's Tavern by the Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pillars Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jackson's Old Chatham House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kay's Famous Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Zia's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tacos Diablos",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Wachoosik Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village Commons Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Meadows Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hitchcock House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butler Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Inn at Shaker Mill Falls",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shatford Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schodack Town Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Sand Lake Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Lebanon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stephentown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Poestenkill Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Schodack Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Chatham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Schodack Podiatry",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Upstate Dermatology",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:02.871Z"
+}

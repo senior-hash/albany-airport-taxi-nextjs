@@ -1,0 +1,156 @@
+{
+  "slug": "masonville",
+  "name": "Masonville",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 42.241944444,
+  "lon": -75.3775,
+  "wikidataQid": "Q3708316",
+  "population": 1239,
+  "airportDistances": {
+    "alb": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~275 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~70 miles",
+    "driveTime": "about 1 hr 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Chuck Wagon Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "China Buffet",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "China City",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Community Lounge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Hideaway Lounge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trackside Dining",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Roma",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sal's Pizza",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Keith Clark Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bainbridge Central Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "William S. Payne Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "General Clinton Canoe Regatta Grounds",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wattles Ferry Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greens Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oquaga Creek State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Warner Field",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Gelder Medical Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "A.O. Fox Hospital - Tri-Town Campus",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tompkins Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Unadilla Community House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Unadilla Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sanford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Guilford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Otego Village Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:03.336Z"
+}

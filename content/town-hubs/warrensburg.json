@@ -1,0 +1,156 @@
+{
+  "slug": "warrensburg",
+  "name": "Warrensburg",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.5,
+  "lon": -73.7667,
+  "wikidataQid": "Q3456910",
+  "population": 3045,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~235 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "New Way Lunch",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Pizza Shop",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "George Henry's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lucky Star Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Spirit's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Olde Log Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mario's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Giovanna's On The Lake Restaurant",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Floyd Bennett Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Calvin Engle Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Bond 1786",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Warrensburg Recreation Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hickory Ski Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shepard Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charles R. Wood Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Usher Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Warrensburg Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Thurman Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake George Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake George Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Queensbury Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Queensbury Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Convenient Medical Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:12.616Z"
+}

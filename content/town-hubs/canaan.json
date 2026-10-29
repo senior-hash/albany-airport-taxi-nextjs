@@ -1,0 +1,156 @@
+{
+  "slug": "canaan",
+  "name": "Canaan",
+  "county": "Columbia County",
+  "state": "New York",
+  "lat": 42.411944444,
+  "lon": -73.446944444,
+  "wikidataQid": "Q2483284",
+  "population": 1570,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Pillars Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Mountain Barbecue",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mario's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jackson's Old Chatham House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Mill Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Blue Plate Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chatham Brewing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "People's Pub",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hitchcock House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Meadows Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Inn at Shaker Mill Falls",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shatford Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village School Playground",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Japanese Knotweed",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Abode of the Message",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Spencertown Public Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Richmond Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chatham Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Lebanon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Stockbridge Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tracy Memorial Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Austerlitz Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stephentown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ghent Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:14.610Z"
+}

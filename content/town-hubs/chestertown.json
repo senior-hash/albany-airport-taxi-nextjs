@@ -1,0 +1,152 @@
+{
+  "slug": "chestertown",
+  "name": "Chestertown",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.6525,
+  "lon": -73.8008,
+  "wikidataQid": "Q3505993",
+  "population": 586,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr"
+    },
+    "lga": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Whitehall station",
+    "miles": "~50 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Hub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Black Bear",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cafe Adirondack",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lucky Star Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pizza Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Way Lunch",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "George Henry's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "DeCesare's Pizzeria",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "The Chester Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Landon Hill Bed & Breakfast",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Horicon",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Floyd Bennett Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Bond 1786",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Alpine Homestead",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Courtney Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Duck Pond Inn",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Warrensburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schroon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Johnsburg Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "North Creek Health Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Minerva Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bolton Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Thurman Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:00.598Z"
+}

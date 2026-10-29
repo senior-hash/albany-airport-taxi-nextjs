@@ -4,6 +4,7 @@ import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
+import { QuoteForm } from "@/components/QuoteForm";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
 import { serviceSchema, faqSchema } from "@/lib/schema";
@@ -59,8 +60,9 @@ export default function CorporatePage() {
             </div>
           )}
         </div>
-        <aside>
+        <aside className="space-y-6">
           <BookingCard heading="Set up corporate service" />
+          <QuoteForm />
         </aside>
       </Container>
     </>

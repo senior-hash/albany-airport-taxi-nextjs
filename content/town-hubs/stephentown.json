@@ -1,0 +1,156 @@
+{
+  "slug": "stephentown",
+  "name": "Stephentown",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.544444444,
+  "lon": -73.416111111,
+  "wikidataQid": "Q2888146",
+  "population": 2791,
+  "airportDistances": {
+    "alb": {
+      "miles": "~30 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~75 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Pillars Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Mountain Barbecue",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mario's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Old Daley Inn on Crooked Lake",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Christiansen's Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Beer Diviner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Towne Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "La Perla Restaurante",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Berkshire Mountain House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shatford Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cherry Plain State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaker Meadows Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hitchcock House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Inn at Shaker Mill Falls",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Japanese Knotweed",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Abode of the Message",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Stephentown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hancock Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Lebanon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berlin Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sand Lake Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Ashford Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lanesborough Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Berkshire Medical Center Hillcrest Campus",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:14.901Z"
+}

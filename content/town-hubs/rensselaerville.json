@@ -1,0 +1,156 @@
+{
+  "slug": "rensselaerville",
+  "name": "Rensselaerville",
+  "county": "Albany County",
+  "state": "New York",
+  "lat": 42.479444444,
+  "lon": -74.171944444,
+  "wikidataQid": "Q3709139",
+  "population": 1826,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~115 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Colonie",
+    "miles": "~30 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Helderberg Brewery Taproom",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Be Golden Farms",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Carriage House Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shell Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Five Furlongs Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shamrock House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mama Jeanne's Pizza Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saloon of East Durham",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Palmer House Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Catalpa House Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Irish Cultural Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Long Path Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Berne Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fox Creek Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Hannacroix Ravine",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Rensselaerville Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Broome Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westerlo Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Conesville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Berne Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Schoharie County Office Building",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Schoharie Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:38.937Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "castle-point",
+  "name": "Castle Point",
+  "county": "Dutchess County",
+  "state": "New York",
+  "lat": 41.54611111,
+  "lon": -73.95944444,
+  "wikidataQid": "Q43080398",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "lga": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "logan": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~110 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "21 Burgers & Wings",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Barking Frog",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Noble Pies",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tito Santana Taqueria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kitchen Sink Supper Club",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pandorica",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Meyer's Olde Dutch",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little King",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Heritage Financial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jean Van Pelt Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "South Avenue Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverfront Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Long Dock Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Beacon Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Geering Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Castle Point VA Medical Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wappinger Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Valley Primary Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wappingers Falls Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "City of Beacon Municipal Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Van Wyck Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tots To Teens Pediatrics PC",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "EXCEL Urgent Care",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:41.602Z"
+}

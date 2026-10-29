@@ -82,6 +82,10 @@ export const GENERAL_FAQ: FAQItem[] = [
       "Yes — we serve 23 counties across New York, Vermont, and Massachusetts, including the Hudson Valley, Adirondacks, and Berkshires.",
   },
   {
+    question: "Looking for an Albany airport shuttle?",
+    answer: "Skip the shared van — we're a private car, door-to-door, on your schedule.",
+  },
+  {
     question: "Do you offer corporate accounts for businesses?",
     answer: "Yes. Call us to set up a recurring corporate account for regular business travel.",
   },

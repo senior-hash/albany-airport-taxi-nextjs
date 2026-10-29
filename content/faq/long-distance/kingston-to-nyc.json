@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How far is it from Kingston to New York City?",
+    "answer": "~100 miles, about 2 hr by car."
+  },
+  {
+    "question": "Do you also serve JFK, LaGuardia, and Newark from Kingston?",
+    "answer": "Yes — JFK is about 2 hr (~105 miles), LaGuardia about 1 hr 45 min (~95 miles), and Newark about 1 hr 45 min (~105 miles)."
+  },
+  {
+    "question": "Is this a private car or a shared shuttle?",
+    "answer": "Private, door-to-door — no shared stops."
+  },
+  {
+    "question": "Can I book a round trip?",
+    "answer": "Yes, you can book both directions at the same time."
+  },
+  {
+    "question": "How much does a car service from Kingston to NYC cost?",
+    "answer": "Every trip is quoted individually — call or use our quote form. The price you're quoted is the price you pay."
+  }
+]

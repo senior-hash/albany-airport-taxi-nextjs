@@ -1,0 +1,156 @@
+{
+  "slug": "palatine-bridge",
+  "name": "Palatine Bridge",
+  "county": "Montgomery County",
+  "state": "New York",
+  "lat": 42.9108,
+  "lon": -74.5747,
+  "wikidataQid": "Q3452985",
+  "population": 796,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Mercatos",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Table at Fort Plain",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mediterranean Kitchen",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Erie Station",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Red Lantern House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "New York Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Papa Joe's Pizzaria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "5S Diner",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Mahan Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Arkell Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "River Front park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Library Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "NBT Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Haslett Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wintergreen Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fort Plain Historical Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Palatine Bridge Village Offices",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Canajoharie Town Offices",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fort Plain Village Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saint Johnsville Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Root Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Johnstown City Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Johnstown Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:55.658Z"
+}

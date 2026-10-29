@@ -1,0 +1,2812 @@
+[
+  {
+    "slug": "albany",
+    "name": "Albany",
+    "status": "qualified"
+  },
+  {
+    "slug": "alcove",
+    "name": "Alcove",
+    "status": "qualified"
+  },
+  {
+    "slug": "altamont",
+    "name": "Altamont",
+    "status": "qualified"
+  },
+  {
+    "slug": "clarksville",
+    "name": "Clarksville",
+    "status": "no-coords"
+  },
+  {
+    "slug": "coeymans",
+    "name": "Coeymans",
+    "status": "qualified"
+  },
+  {
+    "slug": "coeymans-hollow",
+    "name": "Coeymans Hollow",
+    "status": "qualified"
+  },
+  {
+    "slug": "berne",
+    "name": "Berne",
+    "status": "qualified"
+  },
+  {
+    "slug": "cohoes",
+    "name": "Cohoes",
+    "status": "qualified"
+  },
+  {
+    "slug": "delmar",
+    "name": "Delmar",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-berne",
+    "name": "East Berne",
+    "status": "qualified"
+  },
+  {
+    "slug": "feura-bush",
+    "name": "Feura Bush",
+    "status": "no-coords"
+  },
+  {
+    "slug": "guilderland-center",
+    "name": "Guilderland Center",
+    "status": "no-coords"
+  },
+  {
+    "slug": "glenmont",
+    "name": "Glenmont",
+    "status": "qualified"
+  },
+  {
+    "slug": "guilderland",
+    "name": "Guilderland",
+    "status": "qualified"
+  },
+  {
+    "slug": "knox",
+    "name": "Knox",
+    "status": "qualified"
+  },
+  {
+    "slug": "latham",
+    "name": "Latham",
+    "status": "qualified"
+  },
+  {
+    "slug": "medusa",
+    "name": "Medusa",
+    "status": "qualified"
+  },
+  {
+    "slug": "newtonville",
+    "name": "Newtonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "preston-hollow",
+    "name": "Preston Hollow",
+    "status": "qualified"
+  },
+  {
+    "slug": "ravena",
+    "name": "Ravena",
+    "status": "qualified"
+  },
+  {
+    "slug": "rensselaerville",
+    "name": "Rensselaerville",
+    "status": "qualified"
+  },
+  {
+    "slug": "selkirk",
+    "name": "Selkirk",
+    "status": "qualified"
+  },
+  {
+    "slug": "slingerlands",
+    "name": "Slingerlands",
+    "status": "qualified"
+  },
+  {
+    "slug": "south-bethlehem",
+    "name": "South Bethlehem",
+    "status": "qualified"
+  },
+  {
+    "slug": "voorheesville",
+    "name": "Voorheesville",
+    "status": "qualified"
+  },
+  {
+    "slug": "acra",
+    "name": "Acra",
+    "status": "qualified"
+  },
+  {
+    "slug": "ashland",
+    "name": "Ashland",
+    "status": "qualified"
+  },
+  {
+    "slug": "athens",
+    "name": "Athens",
+    "status": "qualified"
+  },
+  {
+    "slug": "cairo",
+    "name": "Cairo",
+    "status": "qualified"
+  },
+  {
+    "slug": "catskill",
+    "name": "Catskill",
+    "status": "qualified"
+  },
+  {
+    "slug": "climax",
+    "name": "Climax",
+    "status": "qualified"
+  },
+  {
+    "slug": "cornwallville",
+    "name": "Cornwallville",
+    "status": "qualified"
+  },
+  {
+    "slug": "coxsackie",
+    "name": "Coxsackie",
+    "status": "qualified"
+  },
+  {
+    "slug": "durham",
+    "name": "Durham",
+    "status": "qualified"
+  },
+  {
+    "slug": "earlton",
+    "name": "Earlton",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-durham",
+    "name": "East Durham",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-jewett",
+    "name": "East Jewett",
+    "status": "qualified"
+  },
+  {
+    "slug": "elka-park",
+    "name": "Elka Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "freehold",
+    "name": "Freehold",
+    "status": "qualified"
+  },
+  {
+    "slug": "haines-falls",
+    "name": "Haines Falls",
+    "status": "no-coords"
+  },
+  {
+    "slug": "greenville",
+    "name": "Greenville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hannacroix",
+    "name": "Hannacroix",
+    "status": "qualified"
+  },
+  {
+    "slug": "hensonville",
+    "name": "Hensonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hunter",
+    "name": "Hunter",
+    "status": "qualified"
+  },
+  {
+    "slug": "jewett",
+    "name": "Jewett",
+    "status": "qualified"
+  },
+  {
+    "slug": "lanesville",
+    "name": "Lanesville",
+    "status": "qualified"
+  },
+  {
+    "slug": "leeds",
+    "name": "Leeds",
+    "status": "qualified"
+  },
+  {
+    "slug": "lexington",
+    "name": "Lexington",
+    "status": "qualified"
+  },
+  {
+    "slug": "maplecrest",
+    "name": "Maplecrest",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-baltimore",
+    "name": "New Baltimore",
+    "status": "qualified"
+  },
+  {
+    "slug": "oak-hill",
+    "name": "Oak Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "palenville",
+    "name": "Palenville",
+    "status": "qualified"
+  },
+  {
+    "slug": "prattsville",
+    "name": "Prattsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "purling",
+    "name": "Purling",
+    "status": "qualified"
+  },
+  {
+    "slug": "round-top",
+    "name": "Round Top",
+    "status": "qualified"
+  },
+  {
+    "slug": "south-cairo",
+    "name": "South Cairo",
+    "status": "qualified"
+  },
+  {
+    "slug": "surprise",
+    "name": "Surprise",
+    "status": "qualified"
+  },
+  {
+    "slug": "tannersville",
+    "name": "Tannersville",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-coxsackie",
+    "name": "West Coxsackie",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-kill",
+    "name": "West Kill",
+    "status": "qualified"
+  },
+  {
+    "slug": "windham",
+    "name": "Windham",
+    "status": "qualified"
+  },
+  {
+    "slug": "ancram",
+    "name": "Ancram",
+    "status": "qualified"
+  },
+  {
+    "slug": "ancramdale",
+    "name": "Ancramdale",
+    "status": "qualified"
+  },
+  {
+    "slug": "austerlitz",
+    "name": "Austerlitz",
+    "status": "qualified"
+  },
+  {
+    "slug": "canaan",
+    "name": "Canaan",
+    "status": "qualified"
+  },
+  {
+    "slug": "chatham",
+    "name": "Chatham",
+    "status": "qualified"
+  },
+  {
+    "slug": "claverack",
+    "name": "Claverack",
+    "status": "qualified"
+  },
+  {
+    "slug": "columbiaville",
+    "name": "Columbiaville",
+    "status": "qualified"
+  },
+  {
+    "slug": "copake",
+    "name": "Copake",
+    "status": "qualified"
+  },
+  {
+    "slug": "copake-falls",
+    "name": "Copake Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "craryville",
+    "name": "Craryville",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-chatham",
+    "name": "East Chatham",
+    "status": "qualified"
+  },
+  {
+    "slug": "elizaville",
+    "name": "Elizaville",
+    "status": "qualified"
+  },
+  {
+    "slug": "germantown",
+    "name": "Germantown",
+    "status": "qualified"
+  },
+  {
+    "slug": "ghent",
+    "name": "Ghent",
+    "status": "qualified"
+  },
+  {
+    "slug": "hillsdale",
+    "name": "Hillsdale",
+    "status": "qualified"
+  },
+  {
+    "slug": "hollowville",
+    "name": "Hollowville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hudson",
+    "name": "Hudson",
+    "status": "qualified"
+  },
+  {
+    "slug": "kinderhook",
+    "name": "Kinderhook",
+    "status": "qualified"
+  },
+  {
+    "slug": "livingston",
+    "name": "Livingston",
+    "status": "qualified"
+  },
+  {
+    "slug": "malden-bridge",
+    "name": "Malden Bridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "mellenville",
+    "name": "Mellenville",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-lebanon",
+    "name": "New Lebanon",
+    "status": "qualified"
+  },
+  {
+    "slug": "niverville",
+    "name": "Niverville",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-chatham",
+    "name": "North Chatham",
+    "status": "qualified"
+  },
+  {
+    "slug": "philmont",
+    "name": "Philmont",
+    "status": "qualified"
+  },
+  {
+    "slug": "old-chatham",
+    "name": "Old Chatham",
+    "status": "qualified"
+  },
+  {
+    "slug": "spencertown",
+    "name": "Spencertown",
+    "status": "qualified"
+  },
+  {
+    "slug": "stottville",
+    "name": "Stottville",
+    "status": "qualified"
+  },
+  {
+    "slug": "stuyvesant",
+    "name": "Stuyvesant",
+    "status": "qualified"
+  },
+  {
+    "slug": "stuyvesant-falls",
+    "name": "Stuyvesant Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "valatie",
+    "name": "Valatie",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-lebanon",
+    "name": "West Lebanon",
+    "status": "qualified"
+  },
+  {
+    "slug": "amenia",
+    "name": "Amenia",
+    "status": "qualified"
+  },
+  {
+    "slug": "annandale-on-hudson",
+    "name": "Annandale On Hudson",
+    "status": "no-coords"
+  },
+  {
+    "slug": "bangall",
+    "name": "Bangall",
+    "status": "qualified"
+  },
+  {
+    "slug": "barrytown",
+    "name": "Barrytown",
+    "status": "qualified"
+  },
+  {
+    "slug": "beacon",
+    "name": "Beacon",
+    "status": "qualified"
+  },
+  {
+    "slug": "billings",
+    "name": "Billings",
+    "status": "qualified"
+  },
+  {
+    "slug": "castle-point",
+    "name": "Castle Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "chelsea",
+    "name": "Chelsea",
+    "status": "qualified"
+  },
+  {
+    "slug": "clinton-corners",
+    "name": "Clinton Corners",
+    "status": "qualified"
+  },
+  {
+    "slug": "dover-plains",
+    "name": "Dover Plains",
+    "status": "qualified"
+  },
+  {
+    "slug": "fishkill",
+    "name": "Fishkill",
+    "status": "qualified"
+  },
+  {
+    "slug": "glenham",
+    "name": "Glenham",
+    "status": "qualified"
+  },
+  {
+    "slug": "holmes",
+    "name": "Holmes",
+    "status": "qualified"
+  },
+  {
+    "slug": "hopewell-junction",
+    "name": "Hopewell Junction",
+    "status": "qualified"
+  },
+  {
+    "slug": "hughsonville",
+    "name": "Hughsonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hyde-park",
+    "name": "Hyde Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "lagrangeville",
+    "name": "Lagrangeville",
+    "status": "qualified"
+  },
+  {
+    "slug": "millbrook",
+    "name": "Millbrook",
+    "status": "qualified"
+  },
+  {
+    "slug": "millerton",
+    "name": "Millerton",
+    "status": "qualified"
+  },
+  {
+    "slug": "pawling",
+    "name": "Pawling",
+    "status": "qualified"
+  },
+  {
+    "slug": "pine-plains",
+    "name": "Pine Plains",
+    "status": "qualified"
+  },
+  {
+    "slug": "pleasant-valley",
+    "name": "Pleasant Valley",
+    "status": "qualified"
+  },
+  {
+    "slug": "poughkeepsie",
+    "name": "Poughkeepsie",
+    "status": "qualified"
+  },
+  {
+    "slug": "poughquag",
+    "name": "Poughquag",
+    "status": "qualified"
+  },
+  {
+    "slug": "red-hook",
+    "name": "Red Hook",
+    "status": "qualified"
+  },
+  {
+    "slug": "rhinebeck",
+    "name": "Rhinebeck",
+    "status": "qualified"
+  },
+  {
+    "slug": "rhinecliff",
+    "name": "Rhinecliff",
+    "status": "qualified"
+  },
+  {
+    "slug": "salt-point",
+    "name": "Salt Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "staatsburg",
+    "name": "Staatsburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "tivoli",
+    "name": "Tivoli",
+    "status": "no-coords"
+  },
+  {
+    "slug": "stanfordville",
+    "name": "Stanfordville",
+    "status": "qualified"
+  },
+  {
+    "slug": "stormville",
+    "name": "Stormville",
+    "status": "qualified"
+  },
+  {
+    "slug": "verbank",
+    "name": "Verbank",
+    "status": "qualified"
+  },
+  {
+    "slug": "wingdale",
+    "name": "Wingdale",
+    "status": "no-coords"
+  },
+  {
+    "slug": "wappingers-falls",
+    "name": "Wappingers Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "wassaic",
+    "name": "Wassaic",
+    "status": "qualified"
+  },
+  {
+    "slug": "accord",
+    "name": "Accord",
+    "status": "qualified"
+  },
+  {
+    "slug": "bearsville",
+    "name": "Bearsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "big-indian",
+    "name": "Big Indian",
+    "status": "qualified"
+  },
+  {
+    "slug": "bloomington",
+    "name": "Bloomington",
+    "status": "qualified"
+  },
+  {
+    "slug": "clintondale",
+    "name": "Clintondale",
+    "status": "no-coords"
+  },
+  {
+    "slug": "boiceville",
+    "name": "Boiceville",
+    "status": "qualified"
+  },
+  {
+    "slug": "chichester",
+    "name": "Chichester",
+    "status": "qualified"
+  },
+  {
+    "slug": "connelly",
+    "name": "Connelly",
+    "status": "qualified"
+  },
+  {
+    "slug": "cottekill",
+    "name": "Cottekill",
+    "status": "qualified"
+  },
+  {
+    "slug": "cragsmoor",
+    "name": "Cragsmoor",
+    "status": "qualified"
+  },
+  {
+    "slug": "ellenville",
+    "name": "Ellenville",
+    "status": "qualified"
+  },
+  {
+    "slug": "esopus",
+    "name": "Esopus",
+    "status": "qualified"
+  },
+  {
+    "slug": "gardiner",
+    "name": "Gardiner",
+    "status": "qualified"
+  },
+  {
+    "slug": "glasco",
+    "name": "Glasco",
+    "status": "qualified"
+  },
+  {
+    "slug": "glenford",
+    "name": "Glenford",
+    "status": "qualified"
+  },
+  {
+    "slug": "greenfield-park",
+    "name": "Greenfield Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "high-falls",
+    "name": "High Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "highland",
+    "name": "Highland",
+    "status": "qualified"
+  },
+  {
+    "slug": "highmount",
+    "name": "Highmount",
+    "status": "qualified"
+  },
+  {
+    "slug": "hurley",
+    "name": "Hurley",
+    "status": "qualified"
+  },
+  {
+    "slug": "kerhonkson",
+    "name": "Kerhonkson",
+    "status": "no-coords"
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-hill",
+    "name": "Lake Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-katrine",
+    "name": "Lake Katrine",
+    "status": "qualified"
+  },
+  {
+    "slug": "malden-on-hudson",
+    "name": "Malden On Hudson",
+    "status": "no-coords"
+  },
+  {
+    "slug": "modena",
+    "name": "Modena",
+    "status": "no-coords"
+  },
+  {
+    "slug": "marlboro",
+    "name": "Marlboro",
+    "status": "qualified"
+  },
+  {
+    "slug": "milton",
+    "name": "Milton",
+    "status": "qualified"
+  },
+  {
+    "slug": "mount-marion",
+    "name": "Mount Marion",
+    "status": "qualified"
+  },
+  {
+    "slug": "mount-tremper",
+    "name": "Mount Tremper",
+    "status": "qualified"
+  },
+  {
+    "slug": "napanoch",
+    "name": "Napanoch",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-paltz",
+    "name": "New Paltz",
+    "status": "qualified"
+  },
+  {
+    "slug": "olivebridge",
+    "name": "Olivebridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "phoenicia",
+    "name": "Phoenicia",
+    "status": "qualified"
+  },
+  {
+    "slug": "pine-hill",
+    "name": "Pine Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "plattekill",
+    "name": "Plattekill",
+    "status": "qualified"
+  },
+  {
+    "slug": "port-ewen",
+    "name": "Port Ewen",
+    "status": "qualified"
+  },
+  {
+    "slug": "rifton",
+    "name": "Rifton",
+    "status": "qualified"
+  },
+  {
+    "slug": "rosendale",
+    "name": "Rosendale",
+    "status": "qualified"
+  },
+  {
+    "slug": "ruby",
+    "name": "Ruby",
+    "status": "qualified"
+  },
+  {
+    "slug": "saugerties",
+    "name": "Saugerties",
+    "status": "qualified"
+  },
+  {
+    "slug": "shandaken",
+    "name": "Shandaken",
+    "status": "qualified"
+  },
+  {
+    "slug": "shokan",
+    "name": "Shokan",
+    "status": "qualified"
+  },
+  {
+    "slug": "spring-glen",
+    "name": "Spring Glen",
+    "status": "qualified"
+  },
+  {
+    "slug": "stone-ridge",
+    "name": "Stone Ridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "tillson",
+    "name": "Tillson",
+    "status": "qualified"
+  },
+  {
+    "slug": "ulster-park",
+    "name": "Ulster Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "walker-valley",
+    "name": "Walker Valley",
+    "status": "qualified"
+  },
+  {
+    "slug": "wallkill",
+    "name": "Wallkill",
+    "status": "qualified"
+  },
+  {
+    "slug": "wawarsing",
+    "name": "Wawarsing",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-camp",
+    "name": "West Camp",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-hurley",
+    "name": "West Hurley",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-park",
+    "name": "West Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-shokan",
+    "name": "West Shokan",
+    "status": "qualified"
+  },
+  {
+    "slug": "willow",
+    "name": "Willow",
+    "status": "qualified"
+  },
+  {
+    "slug": "woodstock",
+    "name": "Woodstock",
+    "status": "qualified"
+  },
+  {
+    "slug": "andes",
+    "name": "Andes",
+    "status": "qualified"
+  },
+  {
+    "slug": "arkville",
+    "name": "Arkville",
+    "status": "qualified"
+  },
+  {
+    "slug": "bloomville",
+    "name": "Bloomville",
+    "status": "qualified"
+  },
+  {
+    "slug": "bovina-center",
+    "name": "Bovina Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "davenport",
+    "name": "Davenport",
+    "status": "qualified"
+  },
+  {
+    "slug": "davenport-center",
+    "name": "Davenport Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "delancey",
+    "name": "Delancey",
+    "status": "qualified"
+  },
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "status": "qualified"
+  },
+  {
+    "slug": "downsville",
+    "name": "Downsville",
+    "status": "no-coords"
+  },
+  {
+    "slug": "denver",
+    "name": "Denver",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-branch",
+    "name": "East Branch",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-meredith",
+    "name": "East Meredith",
+    "status": "qualified"
+  },
+  {
+    "slug": "fishs-eddy",
+    "name": "Fishs Eddy",
+    "status": "qualified"
+  },
+  {
+    "slug": "fleischmanns",
+    "name": "Fleischmanns",
+    "status": "qualified"
+  },
+  {
+    "slug": "franklin",
+    "name": "Franklin",
+    "status": "qualified"
+  },
+  {
+    "slug": "grand-gorge",
+    "name": "Grand Gorge",
+    "status": "qualified"
+  },
+  {
+    "slug": "halcottsville",
+    "name": "Halcottsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hamden",
+    "name": "Hamden",
+    "status": "qualified"
+  },
+  {
+    "slug": "hancock-delaware-county",
+    "name": "Hancock",
+    "status": "qualified"
+  },
+  {
+    "slug": "harpersfield",
+    "name": "Harpersfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "hobart",
+    "name": "Hobart",
+    "status": "qualified"
+  },
+  {
+    "slug": "margaretville",
+    "name": "Margaretville",
+    "status": "qualified"
+  },
+  {
+    "slug": "masonville",
+    "name": "Masonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "meridale",
+    "name": "Meridale",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-kingston",
+    "name": "New Kingston",
+    "status": "qualified"
+  },
+  {
+    "slug": "roxbury",
+    "name": "Roxbury",
+    "status": "qualified"
+  },
+  {
+    "slug": "sidney",
+    "name": "Sidney",
+    "status": "qualified"
+  },
+  {
+    "slug": "sidney-center",
+    "name": "Sidney Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "south-kortright",
+    "name": "South Kortright",
+    "status": "qualified"
+  },
+  {
+    "slug": "stamford-delaware-county",
+    "name": "Stamford",
+    "status": "qualified"
+  },
+  {
+    "slug": "treadwell",
+    "name": "Treadwell",
+    "status": "qualified"
+  },
+  {
+    "slug": "trout-creek",
+    "name": "Trout Creek",
+    "status": "qualified"
+  },
+  {
+    "slug": "walton",
+    "name": "Walton",
+    "status": "qualified"
+  },
+  {
+    "slug": "burlington-flats",
+    "name": "Burlington Flats",
+    "status": "no-coords"
+  },
+  {
+    "slug": "west-davenport",
+    "name": "West Davenport",
+    "status": "qualified"
+  },
+  {
+    "slug": "cherry-valley",
+    "name": "Cherry Valley",
+    "status": "qualified"
+  },
+  {
+    "slug": "colliersville",
+    "name": "Colliersville",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-worcester",
+    "name": "East Worcester",
+    "status": "no-coords"
+  },
+  {
+    "slug": "cooperstown",
+    "name": "Cooperstown",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-springfield",
+    "name": "East Springfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "edmeston",
+    "name": "Edmeston",
+    "status": "qualified"
+  },
+  {
+    "slug": "fly-creek",
+    "name": "Fly Creek",
+    "status": "no-coords"
+  },
+  {
+    "slug": "garrattsville",
+    "name": "Garrattsville",
+    "status": "no-coords"
+  },
+  {
+    "slug": "gilbertsville",
+    "name": "Gilbertsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "hartwick",
+    "name": "Hartwick",
+    "status": "qualified"
+  },
+  {
+    "slug": "laurens",
+    "name": "Laurens",
+    "status": "qualified"
+  },
+  {
+    "slug": "maryland",
+    "name": "Maryland",
+    "status": "qualified"
+  },
+  {
+    "slug": "milford",
+    "name": "Milford",
+    "status": "qualified"
+  },
+  {
+    "slug": "morris",
+    "name": "Morris",
+    "status": "qualified"
+  },
+  {
+    "slug": "mount-vision",
+    "name": "Mount Vision",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-lisbon",
+    "name": "New Lisbon",
+    "status": "qualified"
+  },
+  {
+    "slug": "oneonta",
+    "name": "Oneonta",
+    "status": "qualified"
+  },
+  {
+    "slug": "otego",
+    "name": "Otego",
+    "status": "qualified"
+  },
+  {
+    "slug": "portlandville",
+    "name": "Portlandville",
+    "status": "qualified"
+  },
+  {
+    "slug": "richfield-springs",
+    "name": "Richfield Springs",
+    "status": "qualified"
+  },
+  {
+    "slug": "roseboom",
+    "name": "Roseboom",
+    "status": "qualified"
+  },
+  {
+    "slug": "schuyler-lake",
+    "name": "Schuyler Lake",
+    "status": "no-coords"
+  },
+  {
+    "slug": "schenevus",
+    "name": "Schenevus",
+    "status": "qualified"
+  },
+  {
+    "slug": "springfield-center",
+    "name": "Springfield Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "unadilla",
+    "name": "Unadilla",
+    "status": "qualified"
+  },
+  {
+    "slug": "wells-bridge",
+    "name": "Wells Bridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-burlington",
+    "name": "West Burlington",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-oneonta",
+    "name": "West Oneonta",
+    "status": "qualified"
+  },
+  {
+    "slug": "westford",
+    "name": "Westford",
+    "status": "qualified"
+  },
+  {
+    "slug": "worcester",
+    "name": "Worcester",
+    "status": "qualified"
+  },
+  {
+    "slug": "carlisle",
+    "name": "Carlisle",
+    "status": "qualified"
+  },
+  {
+    "slug": "central-bridge",
+    "name": "Central Bridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "charlotteville",
+    "name": "Charlotteville",
+    "status": "qualified"
+  },
+  {
+    "slug": "cobleskill",
+    "name": "Cobleskill",
+    "status": "qualified"
+  },
+  {
+    "slug": "fultonham",
+    "name": "Fultonham",
+    "status": "qualified"
+  },
+  {
+    "slug": "gallupville",
+    "name": "Gallupville",
+    "status": "qualified"
+  },
+  {
+    "slug": "gilboa",
+    "name": "Gilboa",
+    "status": "qualified"
+  },
+  {
+    "slug": "howes-cave",
+    "name": "Howes Cave",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-blenheim",
+    "name": "North Blenheim",
+    "status": "no-coords"
+  },
+  {
+    "slug": "jefferson",
+    "name": "Jefferson",
+    "status": "qualified"
+  },
+  {
+    "slug": "middleburgh",
+    "name": "Middleburgh",
+    "status": "qualified"
+  },
+  {
+    "slug": "richmondville",
+    "name": "Richmondville",
+    "status": "qualified"
+  },
+  {
+    "slug": "schoharie",
+    "name": "Schoharie",
+    "status": "qualified"
+  },
+  {
+    "slug": "sharon-springs",
+    "name": "Sharon Springs",
+    "status": "qualified"
+  },
+  {
+    "slug": "sloansville",
+    "name": "Sloansville",
+    "status": "qualified"
+  },
+  {
+    "slug": "summit",
+    "name": "Summit",
+    "status": "qualified"
+  },
+  {
+    "slug": "warnerville",
+    "name": "Warnerville",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-fulton",
+    "name": "West Fulton",
+    "status": "qualified"
+  },
+  {
+    "slug": "esperance",
+    "name": "Esperance",
+    "status": "no-coords"
+  },
+  {
+    "slug": "amsterdam",
+    "name": "Amsterdam",
+    "status": "qualified"
+  },
+  {
+    "slug": "canajoharie",
+    "name": "Canajoharie",
+    "status": "qualified"
+  },
+  {
+    "slug": "fonda",
+    "name": "Fonda",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-hunter",
+    "name": "Fort Hunter",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-johnson",
+    "name": "Fort Johnson",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-plain",
+    "name": "Fort Plain",
+    "status": "qualified"
+  },
+  {
+    "slug": "fultonville",
+    "name": "Fultonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "nelliston",
+    "name": "Nelliston",
+    "status": "qualified"
+  },
+  {
+    "slug": "hagaman",
+    "name": "Hagaman",
+    "status": "qualified"
+  },
+  {
+    "slug": "saint-johnsville",
+    "name": "Saint Johnsville",
+    "status": "no-coords"
+  },
+  {
+    "slug": "palatine-bridge",
+    "name": "Palatine Bridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "tribes-hill",
+    "name": "Tribes Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "sprakers",
+    "name": "Sprakers",
+    "status": "qualified"
+  },
+  {
+    "slug": "averill-park",
+    "name": "Averill Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "brainard",
+    "name": "Brainard",
+    "status": "qualified"
+  },
+  {
+    "slug": "berlin",
+    "name": "Berlin",
+    "status": "qualified"
+  },
+  {
+    "slug": "castleton-on-hudson",
+    "name": "Castleton On Hudson",
+    "status": "no-coords"
+  },
+  {
+    "slug": "eagle-bridge",
+    "name": "Eagle Bridge",
+    "status": "no-coords"
+  },
+  {
+    "slug": "cherry-plain",
+    "name": "Cherry Plain",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-greenbush",
+    "name": "East Greenbush",
+    "status": "qualified"
+  },
+  {
+    "slug": "cropseyville",
+    "name": "Cropseyville",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-nassau",
+    "name": "East Nassau",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-schodack",
+    "name": "East Schodack",
+    "status": "qualified"
+  },
+  {
+    "slug": "grafton",
+    "name": "Grafton",
+    "status": "qualified"
+  },
+  {
+    "slug": "hoosick",
+    "name": "Hoosick",
+    "status": "qualified"
+  },
+  {
+    "slug": "hoosick-falls",
+    "name": "Hoosick Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "johnsonville",
+    "name": "Johnsonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "melrose",
+    "name": "Melrose",
+    "status": "qualified"
+  },
+  {
+    "slug": "nassau",
+    "name": "Nassau",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-hoosick",
+    "name": "North Hoosick",
+    "status": "qualified"
+  },
+  {
+    "slug": "petersburg",
+    "name": "Petersburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "poestenkill",
+    "name": "Poestenkill",
+    "status": "qualified"
+  },
+  {
+    "slug": "rensselaer",
+    "name": "Rensselaer",
+    "status": "qualified"
+  },
+  {
+    "slug": "sand-lake",
+    "name": "Sand Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "schaghticoke",
+    "name": "Schaghticoke",
+    "status": "qualified"
+  },
+  {
+    "slug": "schodack-landing",
+    "name": "Schodack Landing",
+    "status": "qualified"
+  },
+  {
+    "slug": "stephentown",
+    "name": "Stephentown",
+    "status": "qualified"
+  },
+  {
+    "slug": "troy-rensselaer-county",
+    "name": "Troy",
+    "status": "qualified"
+  },
+  {
+    "slug": "valley-falls",
+    "name": "Valley Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-sand-lake",
+    "name": "West Sand Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "wynantskill",
+    "name": "Wynantskill",
+    "status": "qualified"
+  },
+  {
+    "slug": "ballston-lake",
+    "name": "Ballston Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "ballston-spa",
+    "name": "Ballston Spa",
+    "status": "qualified"
+  },
+  {
+    "slug": "burnt-hills",
+    "name": "Burnt Hills",
+    "status": "qualified"
+  },
+  {
+    "slug": "clifton-park",
+    "name": "Clifton Park",
+    "status": "qualified"
+  },
+  {
+    "slug": "corinth",
+    "name": "Corinth",
+    "status": "qualified"
+  },
+  {
+    "slug": "galway",
+    "name": "Galway",
+    "status": "qualified"
+  },
+  {
+    "slug": "gansevoort",
+    "name": "Gansevoort",
+    "status": "qualified"
+  },
+  {
+    "slug": "greenfield-center",
+    "name": "Greenfield Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "hadley",
+    "name": "Hadley",
+    "status": "qualified"
+  },
+  {
+    "slug": "mechanicville",
+    "name": "Mechanicville",
+    "status": "qualified"
+  },
+  {
+    "slug": "middle-grove",
+    "name": "Middle Grove",
+    "status": "qualified"
+  },
+  {
+    "slug": "porter-corners",
+    "name": "Porter Corners",
+    "status": "qualified"
+  },
+  {
+    "slug": "rexford",
+    "name": "Rexford",
+    "status": "qualified"
+  },
+  {
+    "slug": "rock-city-falls",
+    "name": "Rock City Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "saratoga-springs",
+    "name": "Saratoga Springs",
+    "status": "qualified"
+  },
+  {
+    "slug": "round-lake",
+    "name": "Round Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "schuylerville",
+    "name": "Schuylerville",
+    "status": "qualified"
+  },
+  {
+    "slug": "victory-mills",
+    "name": "Victory Mills",
+    "status": "no-coords"
+  },
+  {
+    "slug": "south-glens-falls",
+    "name": "South Glens Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "stillwater",
+    "name": "Stillwater",
+    "status": "qualified"
+  },
+  {
+    "slug": "waterford",
+    "name": "Waterford",
+    "status": "qualified"
+  },
+  {
+    "slug": "schenectady",
+    "name": "Schenectady",
+    "status": "qualified"
+  },
+  {
+    "slug": "rotterdam",
+    "name": "Rotterdam",
+    "status": "qualified"
+  },
+  {
+    "slug": "scotia",
+    "name": "Scotia",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-glenville",
+    "name": "East Glenville",
+    "status": "qualified"
+  },
+  {
+    "slug": "niskayuna",
+    "name": "Niskayuna",
+    "status": "qualified"
+  },
+  {
+    "slug": "mariaville-lake",
+    "name": "Mariaville Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "duanesburg",
+    "name": "Duanesburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "delanson",
+    "name": "Delanson",
+    "status": "qualified"
+  },
+  {
+    "slug": "duane-lake",
+    "name": "Duane Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "buskirk",
+    "name": "Buskirk",
+    "status": "no-coords"
+  },
+  {
+    "slug": "argyle",
+    "name": "Argyle",
+    "status": "qualified"
+  },
+  {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "clemons",
+    "name": "Clemons",
+    "status": "qualified"
+  },
+  {
+    "slug": "comstock",
+    "name": "Comstock",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-ann",
+    "name": "Fort Ann",
+    "status": "qualified"
+  },
+  {
+    "slug": "cossayuna",
+    "name": "Cossayuna",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-edward",
+    "name": "Fort Edward",
+    "status": "qualified"
+  },
+  {
+    "slug": "granville",
+    "name": "Granville",
+    "status": "qualified"
+  },
+  {
+    "slug": "greenwich",
+    "name": "Greenwich",
+    "status": "qualified"
+  },
+  {
+    "slug": "hampton",
+    "name": "Hampton",
+    "status": "qualified"
+  },
+  {
+    "slug": "hudson-falls",
+    "name": "Hudson Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "hartford",
+    "name": "Hartford",
+    "status": "qualified"
+  },
+  {
+    "slug": "huletts-landing",
+    "name": "Huletts Landing",
+    "status": "qualified"
+  },
+  {
+    "slug": "middle-falls",
+    "name": "Middle Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "middle-granville",
+    "name": "Middle Granville",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-granville",
+    "name": "North Granville",
+    "status": "qualified"
+  },
+  {
+    "slug": "putnam-station",
+    "name": "Putnam Station",
+    "status": "qualified"
+  },
+  {
+    "slug": "salem",
+    "name": "Salem",
+    "status": "qualified"
+  },
+  {
+    "slug": "shushan",
+    "name": "Shushan",
+    "status": "qualified"
+  },
+  {
+    "slug": "whitehall",
+    "name": "Whitehall",
+    "status": "qualified"
+  },
+  {
+    "slug": "adirondack",
+    "name": "Adirondack",
+    "status": "qualified"
+  },
+  {
+    "slug": "bolton-landing",
+    "name": "Bolton Landing",
+    "status": "no-coords"
+  },
+  {
+    "slug": "brant-lake",
+    "name": "Brant Lake",
+    "status": "no-coords"
+  },
+  {
+    "slug": "athol",
+    "name": "Athol",
+    "status": "qualified"
+  },
+  {
+    "slug": "bakers-mills",
+    "name": "Bakers Mills",
+    "status": "qualified"
+  },
+  {
+    "slug": "chestertown",
+    "name": "Chestertown",
+    "status": "qualified"
+  },
+  {
+    "slug": "cleverdale",
+    "name": "Cleverdale",
+    "status": "qualified"
+  },
+  {
+    "slug": "diamond-point",
+    "name": "Diamond Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "glens-falls",
+    "name": "Glens Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "kattskill-bay",
+    "name": "Kattskill Bay",
+    "status": "no-coords"
+  },
+  {
+    "slug": "hague",
+    "name": "Hague",
+    "status": "qualified"
+  },
+  {
+    "slug": "johnsburg",
+    "name": "Johnsburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-george",
+    "name": "Lake George",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-luzerne",
+    "name": "Lake Luzerne",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-creek",
+    "name": "North Creek",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-river",
+    "name": "North River",
+    "status": "qualified"
+  },
+  {
+    "slug": "pottersville",
+    "name": "Pottersville",
+    "status": "qualified"
+  },
+  {
+    "slug": "queensbury",
+    "name": "Queensbury",
+    "status": "qualified"
+  },
+  {
+    "slug": "riparius",
+    "name": "Riparius",
+    "status": "qualified"
+  },
+  {
+    "slug": "silver-bay",
+    "name": "Silver Bay",
+    "status": "qualified"
+  },
+  {
+    "slug": "stony-creek",
+    "name": "Stony Creek",
+    "status": "qualified"
+  },
+  {
+    "slug": "warrensburg",
+    "name": "Warrensburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "wevertown",
+    "name": "Wevertown",
+    "status": "qualified"
+  },
+  {
+    "slug": "blue-mountain-lake",
+    "name": "Blue Mountain Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "hoffmeister",
+    "name": "Hoffmeister",
+    "status": "qualified"
+  },
+  {
+    "slug": "indian-lake",
+    "name": "Indian Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "inlet",
+    "name": "Inlet",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-pleasant",
+    "name": "Lake Pleasant",
+    "status": "qualified"
+  },
+  {
+    "slug": "long-lake",
+    "name": "Long Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "piseco",
+    "name": "Piseco",
+    "status": "qualified"
+  },
+  {
+    "slug": "raquette-lake",
+    "name": "Raquette Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "sabael",
+    "name": "Sabael",
+    "status": "qualified"
+  },
+  {
+    "slug": "speculator",
+    "name": "Speculator",
+    "status": "qualified"
+  },
+  {
+    "slug": "wells-hamilton-county",
+    "name": "Wells",
+    "status": "qualified"
+  },
+  {
+    "slug": "bloomingdale",
+    "name": "Bloomingdale",
+    "status": "qualified"
+  },
+  {
+    "slug": "crown-point",
+    "name": "Crown Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "elizabethtown",
+    "name": "Elizabethtown",
+    "status": "qualified"
+  },
+  {
+    "slug": "essex",
+    "name": "Essex",
+    "status": "qualified"
+  },
+  {
+    "slug": "keene",
+    "name": "Keene",
+    "status": "qualified"
+  },
+  {
+    "slug": "jay",
+    "name": "Jay",
+    "status": "qualified"
+  },
+  {
+    "slug": "keene-valley",
+    "name": "Keene Valley",
+    "status": "qualified"
+  },
+  {
+    "slug": "lewis",
+    "name": "Lewis",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-placid",
+    "name": "Lake Placid",
+    "status": "qualified"
+  },
+  {
+    "slug": "minerva",
+    "name": "Minerva",
+    "status": "qualified"
+  },
+  {
+    "slug": "moriah",
+    "name": "Moriah",
+    "status": "qualified"
+  },
+  {
+    "slug": "mineville",
+    "name": "Mineville",
+    "status": "qualified"
+  },
+  {
+    "slug": "moriah-center",
+    "name": "Moriah Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "newcomb",
+    "name": "Newcomb",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-russia",
+    "name": "New Russia",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-hudson",
+    "name": "North Hudson",
+    "status": "qualified"
+  },
+  {
+    "slug": "olmstedville",
+    "name": "Olmstedville",
+    "status": "qualified"
+  },
+  {
+    "slug": "paradox",
+    "name": "Paradox",
+    "status": "qualified"
+  },
+  {
+    "slug": "port-henry",
+    "name": "Port Henry",
+    "status": "qualified"
+  },
+  {
+    "slug": "port-kent",
+    "name": "Port Kent",
+    "status": "qualified"
+  },
+  {
+    "slug": "ray-brook",
+    "name": "Ray Brook",
+    "status": "qualified"
+  },
+  {
+    "slug": "schroon-lake",
+    "name": "Schroon Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "severance",
+    "name": "Severance",
+    "status": "qualified"
+  },
+  {
+    "slug": "ticonderoga",
+    "name": "Ticonderoga",
+    "status": "qualified"
+  },
+  {
+    "slug": "upper-jay",
+    "name": "Upper Jay",
+    "status": "qualified"
+  },
+  {
+    "slug": "westport",
+    "name": "Westport",
+    "status": "qualified"
+  },
+  {
+    "slug": "willsboro",
+    "name": "Willsboro",
+    "status": "qualified"
+  },
+  {
+    "slug": "wilmington",
+    "name": "Wilmington",
+    "status": "qualified"
+  },
+  {
+    "slug": "witherbee",
+    "name": "Witherbee",
+    "status": "qualified"
+  },
+  {
+    "slug": "bombay",
+    "name": "Bombay",
+    "status": "qualified"
+  },
+  {
+    "slug": "brainardsville",
+    "name": "Brainardsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "brushton",
+    "name": "Brushton",
+    "status": "qualified"
+  },
+  {
+    "slug": "burke",
+    "name": "Burke",
+    "status": "qualified"
+  },
+  {
+    "slug": "chateaugay",
+    "name": "Chateaugay",
+    "status": "qualified"
+  },
+  {
+    "slug": "constable",
+    "name": "Constable",
+    "status": "qualified"
+  },
+  {
+    "slug": "dickinson-center",
+    "name": "Dickinson Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "fort-covington",
+    "name": "Fort Covington",
+    "status": "qualified"
+  },
+  {
+    "slug": "gabriels",
+    "name": "Gabriels",
+    "status": "qualified"
+  },
+  {
+    "slug": "hogansburg",
+    "name": "Hogansburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "lake-clear",
+    "name": "Lake Clear",
+    "status": "no-coords"
+  },
+  {
+    "slug": "malone",
+    "name": "Malone",
+    "status": "qualified"
+  },
+  {
+    "slug": "moira",
+    "name": "Moira",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-bangor",
+    "name": "North Bangor",
+    "status": "qualified"
+  },
+  {
+    "slug": "owls-head",
+    "name": "Owls Head",
+    "status": "qualified"
+  },
+  {
+    "slug": "paul-smiths",
+    "name": "Paul Smiths",
+    "status": "qualified"
+  },
+  {
+    "slug": "rainbow-lake",
+    "name": "Rainbow Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "saint-regis-falls",
+    "name": "Saint Regis Falls",
+    "status": "no-coords"
+  },
+  {
+    "slug": "saranac-lake",
+    "name": "Saranac Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "tupper-lake",
+    "name": "Tupper Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "vermontville",
+    "name": "Vermontville",
+    "status": "qualified"
+  },
+  {
+    "slug": "whippleville",
+    "name": "Whippleville",
+    "status": "qualified"
+  },
+  {
+    "slug": "altona",
+    "name": "Altona",
+    "status": "qualified"
+  },
+  {
+    "slug": "au-sable-forks",
+    "name": "Au Sable Forks",
+    "status": "qualified"
+  },
+  {
+    "slug": "cadyville",
+    "name": "Cadyville",
+    "status": "qualified"
+  },
+  {
+    "slug": "champlain",
+    "name": "Champlain",
+    "status": "qualified"
+  },
+  {
+    "slug": "chazy",
+    "name": "Chazy",
+    "status": "qualified"
+  },
+  {
+    "slug": "churubusco",
+    "name": "Churubusco",
+    "status": "qualified"
+  },
+  {
+    "slug": "dannemora",
+    "name": "Dannemora",
+    "status": "qualified"
+  },
+  {
+    "slug": "ellenburg",
+    "name": "Ellenburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "ellenburg-center",
+    "name": "Ellenburg Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "ellenburg-depot",
+    "name": "Ellenburg Depot",
+    "status": "qualified"
+  },
+  {
+    "slug": "keeseville",
+    "name": "Keeseville",
+    "status": "qualified"
+  },
+  {
+    "slug": "lyon-mountain",
+    "name": "Lyon Mountain",
+    "status": "qualified"
+  },
+  {
+    "slug": "mooers-forks",
+    "name": "Mooers Forks",
+    "status": "qualified"
+  },
+  {
+    "slug": "mooers",
+    "name": "Mooers",
+    "status": "qualified"
+  },
+  {
+    "slug": "morrisonville",
+    "name": "Morrisonville",
+    "status": "qualified"
+  },
+  {
+    "slug": "peru-clinton-county",
+    "name": "Peru",
+    "status": "qualified"
+  },
+  {
+    "slug": "plattsburgh",
+    "name": "Plattsburgh",
+    "status": "qualified"
+  },
+  {
+    "slug": "redford",
+    "name": "Redford",
+    "status": "qualified"
+  },
+  {
+    "slug": "rouses-point",
+    "name": "Rouses Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "saranac",
+    "name": "Saranac",
+    "status": "qualified"
+  },
+  {
+    "slug": "schuyler-falls",
+    "name": "Schuyler Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-chazy",
+    "name": "West Chazy",
+    "status": "qualified"
+  },
+  {
+    "slug": "cold-brook",
+    "name": "Cold Brook",
+    "status": "qualified"
+  },
+  {
+    "slug": "dolgeville",
+    "name": "Dolgeville",
+    "status": "no-coords"
+  },
+  {
+    "slug": "eagle-bay",
+    "name": "Eagle Bay",
+    "status": "qualified"
+  },
+  {
+    "slug": "frankfort",
+    "name": "Frankfort",
+    "status": "qualified"
+  },
+  {
+    "slug": "herkimer",
+    "name": "Herkimer",
+    "status": "qualified"
+  },
+  {
+    "slug": "ilion",
+    "name": "Ilion",
+    "status": "qualified"
+  },
+  {
+    "slug": "jordanville",
+    "name": "Jordanville",
+    "status": "qualified"
+  },
+  {
+    "slug": "little-falls",
+    "name": "Little Falls",
+    "status": "qualified"
+  },
+  {
+    "slug": "middleville",
+    "name": "Middleville",
+    "status": "qualified"
+  },
+  {
+    "slug": "mohawk",
+    "name": "Mohawk",
+    "status": "qualified"
+  },
+  {
+    "slug": "newport",
+    "name": "Newport",
+    "status": "qualified"
+  },
+  {
+    "slug": "old-forge",
+    "name": "Old Forge",
+    "status": "qualified"
+  },
+  {
+    "slug": "poland",
+    "name": "Poland",
+    "status": "qualified"
+  },
+  {
+    "slug": "salisbury-center",
+    "name": "Salisbury Center",
+    "status": "qualified"
+  },
+  {
+    "slug": "thendara",
+    "name": "Thendara",
+    "status": "qualified"
+  },
+  {
+    "slug": "van-hornesville",
+    "name": "Van Hornesville",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-winfield",
+    "name": "West Winfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "broadalbin",
+    "name": "Broadalbin",
+    "status": "qualified"
+  },
+  {
+    "slug": "caroga-lake",
+    "name": "Caroga Lake",
+    "status": "qualified"
+  },
+  {
+    "slug": "gloversville",
+    "name": "Gloversville",
+    "status": "qualified"
+  },
+  {
+    "slug": "johnstown",
+    "name": "Johnstown",
+    "status": "qualified"
+  },
+  {
+    "slug": "mayfield",
+    "name": "Mayfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "northville",
+    "name": "Northville",
+    "status": "qualified"
+  },
+  {
+    "slug": "stratford",
+    "name": "Stratford",
+    "status": "qualified"
+  },
+  {
+    "slug": "adams",
+    "name": "Adams",
+    "status": "qualified"
+  },
+  {
+    "slug": "alford",
+    "name": "Alford",
+    "status": "qualified"
+  },
+  {
+    "slug": "becket",
+    "name": "Becket",
+    "status": "qualified"
+  },
+  {
+    "slug": "cheshire",
+    "name": "Cheshire",
+    "status": "qualified"
+  },
+  {
+    "slug": "clarksburg",
+    "name": "Clarksburg",
+    "status": "qualified"
+  },
+  {
+    "slug": "dalton",
+    "name": "Dalton",
+    "status": "qualified"
+  },
+  {
+    "slug": "egremont",
+    "name": "Egremont",
+    "status": "qualified"
+  },
+  {
+    "slug": "florida",
+    "name": "Florida",
+    "status": "qualified"
+  },
+  {
+    "slug": "great-barrington",
+    "name": "Great Barrington",
+    "status": "qualified"
+  },
+  {
+    "slug": "hancock-berkshire-county",
+    "name": "Hancock",
+    "status": "qualified"
+  },
+  {
+    "slug": "hinsdale",
+    "name": "Hinsdale",
+    "status": "qualified"
+  },
+  {
+    "slug": "lanesboro",
+    "name": "Lanesboro",
+    "status": "no-coords"
+  },
+  {
+    "slug": "lenox",
+    "name": "Lenox",
+    "status": "qualified"
+  },
+  {
+    "slug": "lee",
+    "name": "Lee",
+    "status": "qualified"
+  },
+  {
+    "slug": "monterey",
+    "name": "Monterey",
+    "status": "qualified"
+  },
+  {
+    "slug": "mount-washington",
+    "name": "Mount Washington",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-ashford",
+    "name": "New Ashford",
+    "status": "qualified"
+  },
+  {
+    "slug": "new-marlborough",
+    "name": "New Marlborough",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-adams",
+    "name": "North Adams",
+    "status": "qualified"
+  },
+  {
+    "slug": "otis",
+    "name": "Otis",
+    "status": "qualified"
+  },
+  {
+    "slug": "peru-berkshire-county",
+    "name": "Peru",
+    "status": "qualified"
+  },
+  {
+    "slug": "pittsfield-berkshire-county",
+    "name": "Pittsfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "richmond",
+    "name": "Richmond",
+    "status": "qualified"
+  },
+  {
+    "slug": "sandisfield",
+    "name": "Sandisfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "savoy",
+    "name": "Savoy",
+    "status": "qualified"
+  },
+  {
+    "slug": "sheffield",
+    "name": "Sheffield",
+    "status": "qualified"
+  },
+  {
+    "slug": "stockbridge",
+    "name": "Stockbridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "tyringham",
+    "name": "Tyringham",
+    "status": "qualified"
+  },
+  {
+    "slug": "washington",
+    "name": "Washington",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-stockbridge",
+    "name": "West Stockbridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "williamstown",
+    "name": "Williamstown",
+    "status": "qualified"
+  },
+  {
+    "slug": "windsor",
+    "name": "Windsor",
+    "status": "qualified"
+  },
+  {
+    "slug": "arlington",
+    "name": "Arlington",
+    "status": "qualified"
+  },
+  {
+    "slug": "bennington",
+    "name": "Bennington",
+    "status": "qualified"
+  },
+  {
+    "slug": "bondville",
+    "name": "Bondville",
+    "status": "qualified"
+  },
+  {
+    "slug": "dorset",
+    "name": "Dorset",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-dorset",
+    "name": "East Dorset",
+    "status": "no-coords"
+  },
+  {
+    "slug": "manchester",
+    "name": "Manchester",
+    "status": "qualified"
+  },
+  {
+    "slug": "peru-bennington-county",
+    "name": "Peru",
+    "status": "qualified"
+  },
+  {
+    "slug": "pownal",
+    "name": "Pownal",
+    "status": "qualified"
+  },
+  {
+    "slug": "readsboro",
+    "name": "Readsboro",
+    "status": "qualified"
+  },
+  {
+    "slug": "rupert",
+    "name": "Rupert",
+    "status": "qualified"
+  },
+  {
+    "slug": "shaftsbury",
+    "name": "Shaftsbury",
+    "status": "qualified"
+  },
+  {
+    "slug": "stamford-bennington-county",
+    "name": "Stamford",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-rupert",
+    "name": "West Rupert",
+    "status": "qualified"
+  },
+  {
+    "slug": "benson",
+    "name": "Benson",
+    "status": "qualified"
+  },
+  {
+    "slug": "bomoseen",
+    "name": "Bomoseen",
+    "status": "qualified"
+  },
+  {
+    "slug": "brandon",
+    "name": "Brandon",
+    "status": "qualified"
+  },
+  {
+    "slug": "castleton",
+    "name": "Castleton",
+    "status": "qualified"
+  },
+  {
+    "slug": "center-rutland",
+    "name": "Center Rutland",
+    "status": "qualified"
+  },
+  {
+    "slug": "chittenden",
+    "name": "Chittenden",
+    "status": "qualified"
+  },
+  {
+    "slug": "cuttingsville",
+    "name": "Cuttingsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "danby",
+    "name": "Danby",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-wallingford",
+    "name": "East Wallingford",
+    "status": "qualified"
+  },
+  {
+    "slug": "fair-haven",
+    "name": "Fair Haven",
+    "status": "qualified"
+  },
+  {
+    "slug": "forest-dale",
+    "name": "Forest Dale",
+    "status": "qualified"
+  },
+  {
+    "slug": "hydeville",
+    "name": "Hydeville",
+    "status": "qualified"
+  },
+  {
+    "slug": "killington",
+    "name": "Killington",
+    "status": "qualified"
+  },
+  {
+    "slug": "middletown-springs",
+    "name": "Middletown Springs",
+    "status": "qualified"
+  },
+  {
+    "slug": "mount-holly",
+    "name": "Mount Holly",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-clarendon",
+    "name": "North Clarendon",
+    "status": "qualified"
+  },
+  {
+    "slug": "pawlet",
+    "name": "Pawlet",
+    "status": "qualified"
+  },
+  {
+    "slug": "pittsfield-rutland-county",
+    "name": "Pittsfield",
+    "status": "qualified"
+  },
+  {
+    "slug": "pittsford",
+    "name": "Pittsford",
+    "status": "qualified"
+  },
+  {
+    "slug": "poultney",
+    "name": "Poultney",
+    "status": "qualified"
+  },
+  {
+    "slug": "rutland",
+    "name": "Rutland",
+    "status": "qualified"
+  },
+  {
+    "slug": "wallingford",
+    "name": "Wallingford",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-pawlet",
+    "name": "West Pawlet",
+    "status": "no-coords"
+  },
+  {
+    "slug": "wells-rutland-county",
+    "name": "Wells",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-rutland",
+    "name": "West Rutland",
+    "status": "qualified"
+  }
+]

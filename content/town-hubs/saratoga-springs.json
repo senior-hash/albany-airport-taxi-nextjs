@@ -1,0 +1,156 @@
+{
+  "slug": "saratoga-springs",
+  "name": "Saratoga Springs",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 43.075277777,
+  "lon": -73.7825,
+  "wikidataQid": "Q1144357",
+  "population": 28491,
+  "airportDistances": {
+    "alb": {
+      "miles": "~25 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~125 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Saratoga Springs station",
+    "miles": "~1 mile",
+    "driveTime": "about 5 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Thirsty Owl",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "El Mexicano",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Bunker",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Osteria Danny",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nashville of Saratoga",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The District",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Harvey's Restaurant and Bar",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hattie's Restaurant",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "The Inn at Five Points",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Congress Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Henry Garden",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Flat Rock Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "High Rock Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "West Side Recreation Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "East Side Recreation Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "North Side Recreation Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Saratoga Springs City Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Passport Health Saratoga Springs Travel Clinic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Planned Parenthood - Saratoga Springs Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wesley Health Care Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saratoga Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Four Winds Hospital Saratoga",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Urgent Care - Wilton Medical Arts",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "SPAC Medical Clinic",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:31.256Z"
+}

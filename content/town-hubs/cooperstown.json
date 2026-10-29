@@ -1,0 +1,156 @@
+{
+  "slug": "cooperstown",
+  "name": "Cooperstown",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.697222222,
+  "lon": -74.926944444,
+  "wikidataQid": "Q1025016",
+  "population": 1794,
+  "airportDistances": {
+    "alb": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Mel's at 22",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Hawkeye Bar & Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Leatherstocking Golf Bar & Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Blue Mingo Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Red Shed Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cooperstown Brewing Company",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "High Burl Brewery",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Lake House",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Cooper Grounds Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cooper Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cooperstown B&B",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Badger Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Council Rock Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lake Front Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Betty and Wilbur Davis State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Richfield Springs Municipal Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Bassett Medical Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Middlefield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hartwick Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Milford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richfield Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Burlington Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westford Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Laurens Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:14.999Z"
+}

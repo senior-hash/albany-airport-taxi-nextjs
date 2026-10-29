@@ -1,0 +1,156 @@
+{
+  "slug": "millerton",
+  "name": "Millerton",
+  "county": "Dutchess County",
+  "state": "New York",
+  "lat": 41.9539,
+  "lon": -73.5078,
+  "wikidataQid": "Q3242173",
+  "population": 903,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "lga": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~120 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "logan": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~30 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Oakhurst Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Taro's Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salsa Fresca Mexican Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Big Grill Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Four Brothers Pizza Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Round Tuit Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rosey's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Four Brothers Pizza",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hotel Caravana",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veterans Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stissing Lake Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Copake Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Roeliff Jansenkill Multiple Use Area",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wilcox Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stanford Recreation Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stanford Skate Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "North East Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Millerton Village Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Amenia Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ancram Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Copake Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Autism Treatment Center of America",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gallatin Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Millbrook Village Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:51.216Z"
+}

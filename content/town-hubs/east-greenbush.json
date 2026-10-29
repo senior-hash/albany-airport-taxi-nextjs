@@ -1,0 +1,156 @@
+{
+  "slug": "east-greenbush",
+  "name": "East Greenbush",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.5925,
+  "lon": -73.7025,
+  "wikidataQid": "Q3460456",
+  "population": 6266,
+  "airportDistances": {
+    "alb": {
+      "miles": "~15 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Albany–Rensselaer",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Elias Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nic's Trattoria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sankalp - The Taste Of India",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Junior's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Soho",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Masala House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cafe Madison",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salsa Latina",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Eckman Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Prospect Heights Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "David J Onderdonk Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ontario Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hampton Manor Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Coyne Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Huyck Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Greenbush Town Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Dialysis Clinic, Inc.",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schodack Podiatry",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Upstate Dermatology",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schodack Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "East Greenbush Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saint Peter's Medical Imaging",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rosewood Rehabilitation and Nursing Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "WellNow",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:01.369Z"
+}

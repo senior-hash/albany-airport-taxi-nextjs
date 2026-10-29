@@ -1,0 +1,156 @@
+{
+  "slug": "northville",
+  "name": "Northville",
+  "county": "Fulton County",
+  "state": "New York",
+  "lat": 43.225,
+  "lon": -74.175,
+  "wikidataQid": "Q3459759",
+  "population": 993,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Local Dining and Spirits",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Jay's Village Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Timeless Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Christiano's Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Vic's Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Pines Bar & Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sport Island Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Northampton Diner",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Waterfront Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Edinburg Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Parker's Corner Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lapland Lake Nordic Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lapland Lake Nordic Vacation Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Darling Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Northville Northampton Municipal Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Edinburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Benson Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "St. Mary's Urgent Care - Gloversville",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dialysis Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Day Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Flemming Physical Therapy Consultants",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:37.276Z"
+}

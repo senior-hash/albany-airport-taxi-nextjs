@@ -1,0 +1,120 @@
+{
+  "slug": "brainardsville",
+  "name": "Brainardsville",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.85777778,
+  "lon": -74.03361111,
+  "wikidataQid": "Q48740174",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "lga": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "ewr": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "logan": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~280 miles",
+      "driveTime": "about 6 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hosler's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fat Jake's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Jreck's Subs",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sellers Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Athletic Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Memorial Recreation Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Chateaugay Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bellmont Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Burke Court House and Municipal Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Constable Muncipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Clinton Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Malone Village Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Alice Hyde Medical Center",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:48.402Z"
+}

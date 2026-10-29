@@ -1,0 +1,156 @@
+{
+  "slug": "diamond-point",
+  "name": "Diamond Point",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.47916667,
+  "lon": -73.68694444,
+  "wikidataQid": "Q48739662",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Whitehall station",
+    "miles": "~30 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Boathouse Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mario's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Giovanna's On The Lake Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Breakfast Spot",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Duffy's Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shepard's Cove",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Boardwalk Restaurant and Marina",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taste of India",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Dicks Island",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Shepard Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charles R. Wood Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rogers Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Calvin Engle Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Usher Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Floyd Bennett Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Bond 1786",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Lake George Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake George Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Warrensburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bolton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Queensbury Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Queensbury Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Thurman Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:02.969Z"
+}

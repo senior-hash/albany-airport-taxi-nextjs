@@ -1,0 +1,156 @@
+{
+  "slug": "alford",
+  "name": "Alford",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.235555555,
+  "lon": -73.413888888,
+  "wikidataQid": "Q2431901",
+  "population": 486,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~120 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~20 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Siam Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Number 10",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tangier Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "GB Eats",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "20 Railroad Public House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Baba Louie's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "MoonCloud",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dola",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Botham Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "French Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McAllister Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "South Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Grover's Corner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "William Stanley Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charles Castranova Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Alford Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Egremont Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fairview Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Great Barrington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Stockbridge Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sheffield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stockbridge Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hillsdale Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:39.693Z"
+}

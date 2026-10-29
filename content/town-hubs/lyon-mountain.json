@@ -1,0 +1,100 @@
+{
+  "slug": "lyon-mountain",
+  "name": "Lyon Mountain",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.7289,
+  "lon": -73.9078,
+  "wikidataQid": "Q3460412",
+  "population": 421,
+  "airportDistances": {
+    "alb": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "lga": {
+      "miles": "~330 miles",
+      "driveTime": "about 7 hr"
+    },
+    "ewr": {
+      "miles": "~335 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "logan": {
+      "miles": "~270 miles",
+      "driveTime": "about 6 hr"
+    },
+    "bradley": {
+      "miles": "~270 miles",
+      "driveTime": "about 6 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~30 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hi Falls Bar & Grill",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cadyville Recreation Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Picketts Corner Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Miner Lake State Park",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Dannemora Town Garage",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dannemora Community Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bellmont Town Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Saranac Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:12.465Z"
+}

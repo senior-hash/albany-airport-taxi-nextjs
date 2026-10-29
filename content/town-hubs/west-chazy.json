@@ -1,0 +1,156 @@
+{
+  "slug": "west-chazy",
+  "name": "West Chazy",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.8186,
+  "lon": -73.5102,
+  "wikidataQid": "Q6166888",
+  "population": 558,
+  "airportDistances": {
+    "alb": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~325 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "lga": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "logan": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Gathering",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Apple Lodge Eatery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McSweeney's Red Hots",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gus' Famous Red Hots",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Los Diablos Tacos",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Indian Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nonnalisas",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "El Sol",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Melissa Penfield Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Belmont Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McDonough Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wallace Hill Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trinity Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake Alice State Game Management Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Champlain Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dorchester Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Beekmantown Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Plattsburgh City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chazy Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Champlain Valley Physicians Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wellnow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Plattsburgh Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mooers Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:20.191Z"
+}

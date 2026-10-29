@@ -1,0 +1,156 @@
+{
+  "slug": "stamford-bennington-county",
+  "name": "Stamford",
+  "county": "Bennington County",
+  "state": "Vermont",
+  "lat": 42.7879822,
+  "lon": -73.078461,
+  "wikidataQid": "Q1942888",
+  "population": 861,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~170 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~30 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Bright Ideas Brewing",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Eagle Street Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Grazie",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Berkshire Blends",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Mohawk Tavern",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "413 Bistro & Taproom",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ramunto's Pizza",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Hub",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Bracewell Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Freeman Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Kemp Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Veterans Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Colgrove Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Western Gateway Heritage State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windsor Lake Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Brayton Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Stamford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clarksburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Adams Regional Hospital",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "North Adams City Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Searsburg Town Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Readsboro Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Tri State Podiatry",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "SVHC Urgent Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:13.435Z"
+}

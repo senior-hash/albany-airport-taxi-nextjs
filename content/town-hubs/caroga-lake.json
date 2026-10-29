@@ -1,0 +1,156 @@
+{
+  "slug": "caroga-lake",
+  "name": "Caroga Lake",
+  "county": "Fulton County",
+  "state": "New York",
+  "lat": 43.137777777,
+  "lon": -74.481388888,
+  "wikidataQid": "Q5753092",
+  "population": 548,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Nick Stoner Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dick & Peg's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Harold's Restaurant and Lounge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Doc's Remedy Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Upper Deck",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Caboose",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dave's Sports Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peaceful Valley Maple Farms",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Willie Marsh",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Littauer Pool Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wohlfraths Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Spring Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trail Station Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ashley Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wandel Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Bleecker Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gloversville City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "St. Mary's Urgent Care - Gloversville",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dialysis Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Flemming Physical Therapy Consultants",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Pediatrics",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:34.543Z"
+}

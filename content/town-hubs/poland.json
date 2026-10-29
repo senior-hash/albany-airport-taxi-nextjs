@@ -1,0 +1,156 @@
+{
+  "slug": "poland",
+  "name": "Poland",
+  "county": "Herkimer County",
+  "state": "New York",
+  "lat": 43.2261,
+  "lon": -75.0614,
+  "wikidataQid": "Q7208887",
+  "population": 464,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "lga": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr"
+    },
+    "ewr": {
+      "miles": "~235 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Alamo Bar and Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Woodland Farm Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "12 North Sports Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverside Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tasty Treat",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chesterfield's Tavolo",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Delmonico's Italian Steakhouse",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Kuyahoora Valley Town Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Trenton Assembly Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cincinnati Creek Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Remsen Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Union Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ropes Course",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Seymour Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "LaFayette Square",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Village of Poland",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Russia Municipal Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Deerfield Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trenton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Utica City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "CNY Cardiology",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wynn Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:29.768Z"
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "bovina-center",
+  "name": "Bovina Center",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 42.2620297,
+  "lon": -74.7846024,
+  "wikidataQid": "Q122554344",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~155 miles",
+      "driveTime": "about 4 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~75 miles",
+    "driveTime": "about 1 hr 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Andes Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wayside Cider",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jumbo Jumbo Asian Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cugino's Pizzeria and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mac-A-Doodles",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Hamden Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "T.P.'s Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Carolanne's Cuisine",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Delhi Community Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veterans Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Octagon Motor Lodge",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fleischmann Athletic Park",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Kirkside Park",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Bovina Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Andes Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Andes Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "O'Connor Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village of Delhi",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kortright Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stamford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stamford Village Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:48.837Z"
+}

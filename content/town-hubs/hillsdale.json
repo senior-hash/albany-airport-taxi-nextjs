@@ -1,0 +1,156 @@
+{
+  "slug": "hillsdale",
+  "name": "Hillsdale",
+  "county": "Columbia County",
+  "state": "New York",
+  "lat": 42.226944444,
+  "lon": -73.536944444,
+  "wikidataQid": "Q3708235",
+  "population": 1831,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~115 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~75 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Sweat Pea's Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Washington House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hillsdale House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Four Brothers Pizza and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vanderbilt House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Full Moon Organics Bakery/Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Zinnia's Dinette",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hy's Fried",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "The Honored Guest Bed & Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Hills Sculpture Garden",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Inn at Green River",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Circle Museum Sculpture Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Copake Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "French Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Spencertown Public Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hillsdale Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Claverack Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Egremont Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Austerlitz Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Copake Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Great Barrington Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ghent Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fairview Hospital",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:22.207Z"
+}

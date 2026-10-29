@@ -1,0 +1,128 @@
+{
+  "slug": "newcomb",
+  "name": "Newcomb",
+  "county": "Essex County",
+  "state": "New York",
+  "lat": 43.969444444,
+  "lon": -74.164722222,
+  "wikidataQid": "Q3708899",
+  "population": 418,
+  "airportDistances": {
+    "alb": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~270 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "lga": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "logan": {
+      "miles": "~280 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Port Henry station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Lakeside Knoshery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sporty's Saloon",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Strong Rope Taproom at Potters Resort",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Chef Darrell’s Mountain Diner",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bear Trap",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "McSweeney's Irish Pub",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Indian Lake Restaurant, Tavern, and Liquors",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Puterko's Family Pizzeria",
+          "driveTime": "about 1 hr"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Aunt Pollys Bed and Breakfast",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Pilot's House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Long Lake Municipal Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mt Sabattis Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Long Lake Town Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Byron Park",
+          "driveTime": "about 1 hr"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Newcomb Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Newcomb Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Indian Lake Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:34.158Z"
+}

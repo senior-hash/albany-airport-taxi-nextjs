@@ -1,0 +1,156 @@
+{
+  "slug": "danby",
+  "name": "Danby",
+  "county": "Rutland County",
+  "state": "Vermont",
+  "lat": 43.366666666,
+  "lon": -73.05,
+  "wikidataQid": "Q2972574",
+  "population": 1284,
+  "airportDistances": {
+    "alb": {
+      "miles": "~75 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "lga": {
+      "miles": "~225 miles",
+      "driveTime": "about 5 hr"
+    },
+    "ewr": {
+      "miles": "~225 miles",
+      "driveTime": "about 5 hr"
+    },
+    "logan": {
+      "miles": "~165 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rutland station",
+    "miles": "~20 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Tinmouth Snack Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Barn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bernardo's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Scarlotta's Car Hop & Diner",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "No. 1 Chinese Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pine Grove Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "AJ's Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Whistle Stop",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Tinmouth Channel Wildlife Management Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wallingford Main Street Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Middletown Springs Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mineral Springs Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Emerald Lake State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Honey Pond Farm Estate",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lower Clarendon Gorge State Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Danby Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Danby Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tinmouth Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mount Tabor Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mount Tabor Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pawlet Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wallingford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Middletown Springs Town Office",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:20.604Z"
+}

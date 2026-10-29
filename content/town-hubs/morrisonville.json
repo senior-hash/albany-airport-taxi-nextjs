@@ -1,0 +1,156 @@
+{
+  "slug": "morrisonville",
+  "name": "Morrisonville",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.6908,
+  "lon": -73.5508,
+  "wikidataQid": "Q2885038",
+  "population": 1893,
+  "airportDistances": {
+    "alb": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~320 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "lga": {
+      "miles": "~310 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~310 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "logan": {
+      "miles": "~250 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~250 miles",
+      "driveTime": "about 5 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hungry Bear",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Anthony's Restaurant & Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Ground Round",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butcher block",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "El Dorado",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sawadtee Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "El Sol",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The 99",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "LaPierre Lane Riverway Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "East Morrisonville Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "May Currier Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peter S. Bulmette Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Belmont Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dorchester Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McDonough Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trinity Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Schuyler Falls Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Plattsburgh Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wellnow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Plattsburgh City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Champlain Valley Physicians Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peru Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Beekmantown Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:14.884Z"
+}

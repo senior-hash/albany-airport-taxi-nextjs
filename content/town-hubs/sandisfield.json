@@ -1,0 +1,156 @@
+{
+  "slug": "sandisfield",
+  "name": "Sandisfield",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.1125,
+  "lon": -73.143611111,
+  "wikidataQid": "Q2431850",
+  "population": 989,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~35 miles",
+      "driveTime": "about 1 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Roadside Store & Café",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paige's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Grouse House",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Xicohtencatl Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Shiro Kitchen & Asian Market",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Four Brothers Pizza Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Great Barrington Pizza House",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Marketplace Kitchen Table",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Bidwell Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Umpachene Falls Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "John P Tracey Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stanton Home",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ski Butternut",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "William Stanley Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Memorial Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Barnard Memorial Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Sandisfield Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "New Marlborough Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Monterey Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tolland Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Otis Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Great Barrington Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Sheffield Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Tyringham Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:56.994Z"
+}

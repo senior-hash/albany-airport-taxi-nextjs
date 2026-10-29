@@ -1,0 +1,156 @@
+{
+  "slug": "rupert",
+  "name": "Rupert",
+  "county": "Bennington County",
+  "state": "Vermont",
+  "lat": 43.263619,
+  "lon": -73.1905112,
+  "wikidataQid": "Q1941446",
+  "population": 698,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~220 miles",
+      "driveTime": "about 5 hr"
+    },
+    "lga": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~165 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~30 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Barn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Christos' Pizza and Pasta",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Up for Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Gourmet Deli & Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Thai Basil",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Avocado Pit",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Mystic Cafe & Wine Bar",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ponce Bistro",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Rupert Town Green",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salem Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Factory Point Town Green",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Adams Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Sheldon Mansion Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Granville Little League",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cary Hill Sculpture Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Rupert Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dorset Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pawlet Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Salem Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Salem Family Health Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Manchester Medical Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Southwestern Vermont Medical Center Northshire Campus",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Granville Municipal Building",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:11.042Z"
+}

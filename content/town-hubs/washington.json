@@ -1,0 +1,156 @@
+{
+  "slug": "washington",
+  "name": "Washington",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.365555555,
+  "lon": -73.155277777,
+  "wikidataQid": "Q2431532",
+  "population": 494,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~10 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Route 8 Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ozzie's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mazcot's Sports Bar & Grill",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Mazzeo's Ristorante",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Roses Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "51 Park Restaurant & Tavern",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Salmon Run Fish House",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Firefly",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Ml Ransford Athletic Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Brattle Brook Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greenridge Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Henry V Marchisio Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Lee Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Abbey Court Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Triangle Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Veterans Mem Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Washington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Eye Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hinsdale Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Becket Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Health Urgent Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Tapestry - Sexual & Reproductive Health Clinic",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pittsfield City Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Dalton Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:01.364Z"
+}

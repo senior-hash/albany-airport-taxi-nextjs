@@ -1,0 +1,156 @@
+{
+  "slug": "ellenville",
+  "name": "Ellenville",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.716944444,
+  "lon": -74.393333333,
+  "wikidataQid": "Q3453189",
+  "population": 4167,
+  "airportDistances": {
+    "alb": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "lga": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr"
+    },
+    "ewr": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Aroma Thyme Bistro",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Il Paradiso Pizza and Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "China House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Outpost BBQ at the Kerhonkytonk Roadhouse",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Yang's Kitchen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kerhonkson Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tiki Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Custer's Last Stand",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Mildred & Louis Resnick Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Liberty Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mill Street Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bob Mangels Botanical Gardens",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Berme Road Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lippman Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sullivan County Parks & Recreation",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Verkeerderkill Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Town of Wawarsing Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ellenville Village Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ellenville Regional Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rochester Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Woodridge Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crawford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fallsburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bloomingburg Village Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:11.109Z"
+}

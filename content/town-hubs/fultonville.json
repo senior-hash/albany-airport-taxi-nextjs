@@ -1,0 +1,156 @@
+{
+  "slug": "fultonville",
+  "name": "Fultonville",
+  "county": "Montgomery County",
+  "state": "New York",
+  "lat": 42.9467,
+  "lon": -74.3694,
+  "wikidataQid": "Q3453118",
+  "population": 742,
+  "airportDistances": {
+    "alb": {
+      "miles": "~35 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~190 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "New Peking",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Loopie's Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "O'Connors",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hot Dog Hut Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Miss Johnstown Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peking Chinese",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Union Hall Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "George P. Snyder Community Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fonds Recreation Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tribes Hill Community Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Knox Recreation Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Partners Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charles Jenner Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Old Fort Johnson",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fairgrounds Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Johnstown City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Johnstown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saint Mary's Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Primary Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Johnstown Surgery Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "EpiMed",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:53.241Z"
+}

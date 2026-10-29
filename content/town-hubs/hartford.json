@@ -1,0 +1,156 @@
+{
+  "slug": "hartford",
+  "name": "Hartford",
+  "county": "Washington County",
+  "state": "New York",
+  "lat": 43.3575,
+  "lon": -73.405,
+  "wikidataQid": "Q1022761",
+  "population": 2193,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "No. 1 Chinese Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pine Grove Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Scarlotta's Car Hop & Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "AJ's Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bernardo's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Battle Hill Brewing Company",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Time Served",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hong Kong Chinese Restaurant",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Sheldon Mansion Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Five Combines",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Granville Little League",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Derby Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Falls Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Murray Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paris Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hartford Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Granville Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Argyle Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kingsbury Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Falls Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wells Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fort Edward Town and Village Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Glens Falls City Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:50.926Z"
+}

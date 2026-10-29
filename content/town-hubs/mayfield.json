@@ -1,0 +1,156 @@
+{
+  "slug": "mayfield",
+  "name": "Mayfield",
+  "county": "Fulton County",
+  "state": "New York",
+  "lat": 43.10452,
+  "lon": -74.26486,
+  "wikidataQid": "Q3461625",
+  "population": 780,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Mister Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mayfield Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mendetta's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The L.A.B. Shack",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Gloversville Moose",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Asian Delight",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mt. Fuji Japanese Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lakeside Marina and Tavern",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Darling Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ashley Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Union Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Melchoir Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Elk Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Washington Street Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Nathan Littauer",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "St. Mary's Urgent Care - Gloversville",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dialysis Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Flemming Physical Therapy Consultants",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Nathan Littauer Pediatrics",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Broadalbin-Perth Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:36.927Z"
+}

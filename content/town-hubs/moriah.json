@@ -1,0 +1,156 @@
+{
+  "slug": "moriah",
+  "name": "Moriah",
+  "county": "Essex County",
+  "state": "New York",
+  "lat": 44.046111111,
+  "lon": -73.505,
+  "wikidataQid": "Q3138434",
+  "population": 4716,
+  "airportDistances": {
+    "alb": {
+      "miles": "~110 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~275 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "lga": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "logan": {
+      "miles": "~220 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Port Henry station",
+    "miles": "~5 miles",
+    "driveTime": "about 5 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "King's Corner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Old Mine",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Moriah Country Club",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "George's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "King's Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Golden Palace",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Frank's Knotty Pine",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Foote's Port Henry Diner",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Moriah Miners Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crown Point State Historic Site",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ballard Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lee Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Frontier Town Campground, Equestrian and Day Use Area",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Carrilon Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Olde Mill Inn Bed and Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Artillery Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Back to Health Chiropractic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Port Henry Village Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Moriah Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Moriah Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crown Point Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crown Point Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westport Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Hudson Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:31.773Z"
+}

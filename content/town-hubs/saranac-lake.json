@@ -1,0 +1,156 @@
+{
+  "slug": "saranac-lake",
+  "name": "Saranac Lake",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.3261,
+  "lon": -74.1308,
+  "wikidataQid": "Q2663981",
+  "population": 4887,
+  "airportDistances": {
+    "alb": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "lga": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "logan": {
+      "miles": "~275 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Westport station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "China Jade",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Owl's Nest Pizza Parlor",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Downhill Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Left Bank Café",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Anne's Crepes",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Our Plates",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bitters & Bones",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Rusty Nail",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Berkeley Green",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Vest Pocket Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Riverside Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Beaver Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ward Plumadore Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dorsey Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "William Morris Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "World War I Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Harrietstown Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mountain Medical Urgent Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Adirondack Medical Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saint Armand Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Saint Armand",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "With Woman Wellness",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Brighton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake Placid Health and Medical Fitness Center",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:00.404Z"
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "dickinson-center",
+  "name": "Dickinson Center",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.7175,
+  "lon": -74.55277778,
+  "wikidataQid": "Q48740179",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    },
+    "jfk": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr 30 min"
+    },
+    "lga": {
+      "miles": "~335 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "logan": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "bradley": {
+      "miles": "~280 miles",
+      "driveTime": "about 6 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~70 miles",
+    "driveTime": "about 1 hr 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Deer Valley Trails",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jreck's Subs",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Cedar",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hopkinton Town Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Athletic Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Walter F Pratt Memorial Forest",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Kiwanis Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hopkinton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moira Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lawrence Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bangor Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Malone Village Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bombay Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Malone Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Parishville Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:51.218Z"
+}

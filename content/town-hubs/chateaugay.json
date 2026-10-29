@@ -1,0 +1,124 @@
+{
+  "slug": "chateaugay",
+  "name": "Chateaugay",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.9258,
+  "lon": -74.0783,
+  "wikidataQid": "Q3460865",
+  "population": 735,
+  "airportDistances": {
+    "alb": {
+      "miles": "~185 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~355 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "lga": {
+      "miles": "~345 miles",
+      "driveTime": "about 7 hr"
+    },
+    "ewr": {
+      "miles": "~345 miles",
+      "driveTime": "about 7 hr"
+    },
+    "logan": {
+      "miles": "~310 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~285 miles",
+      "driveTime": "about 6 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hosler's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fat Jake's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jreck's Subs",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sellers Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Athletic Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Recreation Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Salmon River Waterway Access",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Chateaugay Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Burke Court House and Municipal Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Constable Muncipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clinton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bellmont Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Malone Village Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Alice Hyde Medical Center",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:50.801Z"
+}

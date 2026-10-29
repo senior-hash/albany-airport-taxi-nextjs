@@ -1,0 +1,156 @@
+{
+  "slug": "fishs-eddy",
+  "name": "Fishs Eddy",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 41.9636984,
+  "lon": -75.1748916,
+  "wikidataQid": "Q20185432",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~285 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~95 miles",
+    "driveTime": "about 2 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Circle E Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Uncle Brother",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New China",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hancock House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "1947 Group",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Chestnut",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "LIttle Italy Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverside Tavern",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "East Branch Delaware River Waterway Access",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hancock Town Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fireman's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Point Mountain Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trout Town Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Delaware River Waterway Access",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Willis Smith Riverside Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Warner Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hancock Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Guthrie Clinic Hancock",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rockland Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Colchester Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Sanford Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Walton Municipal Building",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "UHS Delaware Valley Hospital",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Walton Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:55.502Z"
+}

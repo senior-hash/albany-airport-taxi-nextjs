@@ -1,0 +1,156 @@
+{
+  "slug": "ballston-lake",
+  "name": "Ballston Lake",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 42.908555,
+  "lon": -73.8746135,
+  "wikidataQid": "Q135910787",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~20 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Schenectady",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Lakeside Farms Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pizza Works",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Talon's Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rocco's on Main",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Brooke's Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Main Street Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Neon Sushi",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Ballston Lake Fire Department Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dog Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Anchor Diamond Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Jenkins Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Martin Jewett Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "George T. Smith Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Ballston Recreation Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hemlock Hollow",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Infusion Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saratoga-Schenectady Gastroenterology Associates, PC",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Endoscopy Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ballston Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cooney Orthodontics - Ballston Lake Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Neurology at Albany Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bone and Joint",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Round Lake Village Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:18.581Z"
+}

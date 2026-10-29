@@ -1,0 +1,156 @@
+{
+  "slug": "kinderhook",
+  "name": "Kinderhook",
+  "county": "Columbia County",
+  "state": "New York",
+  "lat": 42.3936,
+  "lon": -73.705,
+  "wikidataQid": "Q3478629",
+  "population": 1170,
+  "airportDistances": {
+    "alb": {
+      "miles": "~30 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Brooklyn Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Del's Roadside",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Main Street Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Four Brothers Pizza Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "La Bella Valatie",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fireside Pizza Den",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Winding Brook Country Club Bar and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Yummy Kitchen",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Kinderhook Village Green",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mills Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Rothermel Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Creekside Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Martin Van Buren National Historic Site",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Stuyvesant Town Park and Playground",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Schoolhouse Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Harrier Hill Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Kinderhook Village Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Stuyvesant Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ghent Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stockport Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tracy Memorial Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Castleton Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chatham Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greenport Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:24.608Z"
+}

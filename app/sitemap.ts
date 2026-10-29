@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAirports, getCounties, getCities, getCars, getAllBlogPosts } from "@/lib/content";
 import { getVenues } from "@/lib/venues";
 import { getDestinations } from "@/lib/long-distance-destinations";
+import { getAllTownHubs, getTownHub } from "@/lib/town-hubs";
 import { hasRealCityDetail } from "@/scripts/lib/meta";
 import { SITE_URL } from "@/lib/schema";
 
@@ -30,6 +31,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/long-distance` },
     { url: `${SITE_URL}/long-distance/albany-to-nyc` },
     { url: `${SITE_URL}/long-distance/albany-to-nyc/vs-train-and-bus` },
+    { url: `${SITE_URL}/long-distance/bennington-to-nyc` },
+    { url: `${SITE_URL}/long-distance/williamstown-to-boston` },
+    { url: `${SITE_URL}/long-distance/kingston-to-nyc` },
+    { url: `${SITE_URL}/long-distance/saratoga-springs-to-nyc-airports` },
+    { url: `${SITE_URL}/long-distance/pittsfield-to-bradley` },
     { url: `${SITE_URL}/services/non-emergency-medical-transportation` },
     { url: `${SITE_URL}/services/courier` },
     { url: `${SITE_URL}/services/wedding` },
@@ -49,20 +55,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${SITE_URL}/airport-taxi/${a.slug}`,
   }));
 
-  // Thin city pages (no real local content — see hasRealCityDetail) are
-  // noindexed on the page itself; keeping them out of the sitemap too
-  // avoids asking Google to crawl ~3,204 pages we've told it not to index.
-  const realDetailCities = cities.filter((c) => hasRealCityDetail(c.detailHtml));
+  // A city page belongs in the sitemap only if it's indexable (real local
+  // content, not noindexed) AND self-canonical. Once its town hub passes
+  // the quality gate, canonical moves to /towns/{slug} (added below) and
+  // this URL drops out — but a city with real content whose hub hasn't
+  // qualified yet (or has no hub data at all) still canonicals to itself
+  // and still belongs here. See the matching logic in the city page's
+  // generateMetadata ([airportSlug]/[placeSlug]/page.tsx).
+  const selfCanonicalCities = cities.filter((c) => {
+    if (!hasRealCityDetail(c.detailHtml)) return false;
+    return getTownHub(c.slug)?.qualifies !== true;
+  });
 
   const placeUrls: MetadataRoute.Sitemap = [];
   for (const airport of airports) {
     for (const county of counties) {
       placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${county.slug}` });
     }
-    for (const city of realDetailCities) {
+    for (const city of selfCanonicalCities) {
       placeUrls.push({ url: `${SITE_URL}/airport-taxi/${airport.slug}/${city.slug}` });
     }
   }
+
+  // Town hub pages: only the ones that passed the quality gate (real
+  // airport drive times plus at least 2 non-empty place groups) go in the
+  // sitemap — the rest stay noindex, live but unlisted.
+  const townHubUrls: MetadataRoute.Sitemap = getAllTownHubs()
+    .filter((t) => t.qualifies)
+    .map((t) => ({ url: `${SITE_URL}/towns/${t.slug}` }));
 
   const carUrls: MetadataRoute.Sitemap = cars.map((c) => ({ url: `${SITE_URL}/cars/${c.slug}` }));
   const postUrls: MetadataRoute.Sitemap = posts.map((p) => ({ url: `${SITE_URL}/blog/${p.slug}` }));
@@ -75,6 +95,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...staticUrls,
     ...airportUrls,
     ...placeUrls,
+    ...townHubUrls,
     ...carUrls,
     ...postUrls,
     ...venueUrls,

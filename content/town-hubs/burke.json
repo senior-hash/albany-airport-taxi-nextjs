@@ -1,0 +1,128 @@
+{
+  "slug": "burke",
+  "name": "Burke",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.9011,
+  "lon": -74.1706,
+  "wikidataQid": "Q3775687",
+  "population": 160,
+  "airportDistances": {
+    "alb": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "jfk": {
+      "miles": "~360 miles",
+      "driveTime": "about 7 hr 30 min"
+    },
+    "lga": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "logan": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~290 miles",
+      "driveTime": "about 6 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Hosler's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fat Jake's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jreck's Subs",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Sellers Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Athletic Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Recreation Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Salmon River Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kiwanis Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Town of Burke Court House and Municipal Offices",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chateaugay Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bellmont Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Constable Muncipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Malone Village Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Alice Hyde Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Malone Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bangor Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:48.824Z"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "hancock-delaware-county",
+  "name": "Hancock",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 41.953888888,
+  "lon": -75.280555555,
+  "wikidataQid": "Q3460760",
+  "population": 908,
+  "airportDistances": {
+    "alb": {
+      "miles": "~130 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~290 miles",
+      "driveTime": "about 6 hr"
+    },
+    "bradley": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~100 miles",
+    "driveTime": "about 2 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "New China",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "1947 Group",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Chestnut",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Uncle Brother",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hancock House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Circle E Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "LIttle Italy Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Riverside Tavern",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hancock Town Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Point Mountain Lodge",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fireman's Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "East Branch Delaware River Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Willis Smith Riverside Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Warner Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Firemen's Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kamp's Mohawk Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Guthrie Clinic Hancock",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hancock Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sanford Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:00.341Z"
+}

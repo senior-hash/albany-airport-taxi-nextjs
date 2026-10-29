@@ -1,0 +1,156 @@
+{
+  "slug": "east-wallingford",
+  "name": "East Wallingford",
+  "county": "Rutland County",
+  "state": "Vermont",
+  "lat": 43.4496827,
+  "lon": -72.8777441,
+  "wikidataQid": "Q135778231",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "lga": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "logan": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rutland station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Rustic Rooster",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Whistle Stop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paynter's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Killarney Irish Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little Mexico",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Goodman's American Pie",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Hatchery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ma Ma’s",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Wallingford Main Street Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lower Clarendon Gorge State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crisanver House Inn & Bed and Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Weston Recreation Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Totem Pole Ski Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pettigrew Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dorsey Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Okemo Mountain Resort",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Mount Holly Town Office",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wallingford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clarendon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ludlow Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tinmouth Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ludlow Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rutland Regional Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shrewsbury Town Office",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:20.667Z"
+}

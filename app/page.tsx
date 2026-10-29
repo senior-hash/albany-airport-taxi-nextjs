@@ -133,9 +133,10 @@ export default function HomePage() {
               <span className="text-accent-bright">Albany</span> Airport Taxi &amp; Limo Service
             </h1>
             <p className="mt-5 max-w-xl text-lg text-white/75">
-              Reliable, door-to-door taxi and airport transfer service to and
-              from Albany International, JFK, LaGuardia, Newark, Boston
-              Logan, and New York City.
+              Albany NY taxi and airport transfer service, available 24/7.
+              We provide reliable Albany airport car service, door-to-door,
+              to and from Albany International, JFK, LaGuardia, Newark,
+              Boston Logan, and New York City.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <CallButton className="cta-glow" />

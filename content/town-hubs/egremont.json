@@ -1,0 +1,156 @@
+{
+  "slug": "egremont",
+  "name": "Egremont",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.184722222,
+  "lon": -73.414444444,
+  "wikidataQid": "Q2431621",
+  "population": 1372,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~120 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Egremont Village Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Old Mill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Siam Square",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Number 10",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tangier Cafe",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "GB Eats",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "20 Railroad Public House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Baba Louie's",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "French Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Newsboy Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "South Street Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Grover's Corner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Memorial Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "McAllister Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "William Stanley Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Egremont Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Great Barrington Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fairview Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Alford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sheffield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hillsdale Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Autism Treatment Center of America",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stockbridge Town Offices",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:44.148Z"
+}

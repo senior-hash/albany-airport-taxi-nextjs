@@ -1,0 +1,156 @@
+{
+  "slug": "lanesville",
+  "name": "Lanesville",
+  "county": "Greene County",
+  "state": "New York",
+  "lat": 42.1278673,
+  "lon": -74.2629234,
+  "wikidataQid": "Q135911504",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "lga": {
+      "miles": "~125 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~125 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "logan": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~120 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Brio's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Phoenician Steakhouse",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hunter Mountain Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jagerberg Beer Hall and Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "MaMa's Pizza and Trattoria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Phoenicia Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ronnie Mac Gregor's Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "M&J Bagels",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Simpson Mini-Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Parish Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trail View Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Fairlawn Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Harris's Happy Hunter Hideaway",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hunter Mountain",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rip Van Winkle Lake Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Glenbrook Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Medical Associates of the Hudson Valley",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hunter Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shandaken Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Windham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Medical Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Olive Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Town of Lexington Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "West Kill - Lexington Community Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:58.213Z"
+}

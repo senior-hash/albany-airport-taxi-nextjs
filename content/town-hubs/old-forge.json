@@ -1,0 +1,95 @@
+{
+  "slug": "old-forge",
+  "name": "Old Forge",
+  "county": "Herkimer County",
+  "state": "New York",
+  "lat": 43.7098,
+  "lon": -74.9746,
+  "wikidataQid": "Q7084012",
+  "population": 727,
+  "airportDistances": {
+    "alb": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~300 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "lga": {
+      "miles": "~290 miles",
+      "driveTime": "about 6 hr"
+    },
+    "ewr": {
+      "miles": "~290 miles",
+      "driveTime": "about 6 hr"
+    },
+    "logan": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rome station",
+    "miles": "~50 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Waiting Room",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tow Bar",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The 46 Lounge and Sky Bar",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Keyes' Pancake House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pied Piper Drive-In",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fulton Chain Craft Brewery",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Old Mill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The SteakHouse",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "McCauley Mountain Ski Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fourth Lake Day Use Area",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:29.205Z"
+}

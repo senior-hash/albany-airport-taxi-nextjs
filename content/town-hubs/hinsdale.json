@@ -1,0 +1,156 @@
+{
+  "slug": "hinsdale",
+  "name": "Hinsdale",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.438611111,
+  "lon": -73.125833333,
+  "wikidataQid": "Q2318167",
+  "population": 1919,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 4 hr"
+    },
+    "lga": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~170 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Ozzie's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Dewey's Public House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Angelina's Sub Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "portaVia",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hot Harry's Fresh Burritos",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dalton Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Friendly's",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Ml Ransford Athletic Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "amphitheatre",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sports Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chamberlain Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "American Legion Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greenridge Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pine Grove Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Henry V Marchisio Memorial Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hinsdale Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Peru Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dalton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Washington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Windsor Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Eye Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Health Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsfield City Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:46.913Z"
+}

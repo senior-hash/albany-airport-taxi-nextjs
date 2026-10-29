@@ -1,0 +1,156 @@
+{
+  "slug": "monterey",
+  "name": "Monterey",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.179166666,
+  "lon": -73.2125,
+  "wikidataQid": "Q2887479",
+  "population": 1095,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~125 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~20 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Roadside Store & Café",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Grouse House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paige's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Xicohtencatl Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shiro Kitchen & Asian Market",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Four Brothers Pizza Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Great Barrington Pizza House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Marketplace Kitchen Table",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Bidwell Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "John P Tracey Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stanton Home",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Charles Castranova Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ski Butternut",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "William Stanley Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Memorial Field",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Monterey Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tyringham Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Otis Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Great Barrington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Marlborough Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fairview Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sandisfield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Egremont Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:49.586Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "cragsmoor",
+  "name": "Cragsmoor",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.668333333,
+  "lon": -74.388055555,
+  "wikidataQid": "Q3461123",
+  "population": 433,
+  "airportDistances": {
+    "alb": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "lga": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    },
+    "logan": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Aroma Thyme Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Il Paradiso Pizza and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "China House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Cup & Saucer Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Outpost BBQ at the Kerhonkytonk Roadhouse",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hoot Owl",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Villa Gaudio - Pizzeria & Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Mountain View",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Mill Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Liberty Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mildred & Louis Resnick Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berme Road Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bob Mangels Botanical Gardens",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Verkeerderkill Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pine Bush House Bed and Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Patrick E Matazara Field",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Town of Wawarsing Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenville Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ellenville Regional Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Crawford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bloomingburg Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rochester Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Walden Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Montgomery Village Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:10.495Z"
+}

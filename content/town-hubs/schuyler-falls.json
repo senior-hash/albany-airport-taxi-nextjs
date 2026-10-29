@@ -1,0 +1,156 @@
+{
+  "slug": "schuyler-falls",
+  "name": "Schuyler Falls",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.628611111,
+  "lon": -73.557777777,
+  "wikidataQid": "Q2917727",
+  "population": 4843,
+  "airportDistances": {
+    "alb": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "lga": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "logan": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Pasquale's Restaurant and Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Livingood's Restaurant & Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rulfs Orchard",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hungry Bear",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Anthony's Restaurant & Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Ground Round",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butcher block",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "El Dorado",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Jefferson Dukette Memorial Field",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Little Ausable Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hayworth-Mason Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lapham Mills Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "LaPierre Lane Riverway Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "M. J. Sullivan Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Morrisonville Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "South Plattsburgh Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Peru Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schuyler Falls Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Plattsburgh Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wellnow Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Au Sable Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chesterfield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Plattsburgh City Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:19.657Z"
+}

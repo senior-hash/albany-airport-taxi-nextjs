@@ -1,0 +1,120 @@
+{
+  "slug": "blue-mountain-lake",
+  "name": "Blue Mountain Lake",
+  "county": "Hamilton County",
+  "state": "New York",
+  "lat": 43.8548,
+  "lon": -74.4376,
+  "wikidataQid": "Q4929524",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~275 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "lga": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "logan": {
+      "miles": "~280 miles",
+      "driveTime": "about 6 hr"
+    },
+    "bradley": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Port Henry station",
+    "miles": "~70 miles",
+    "driveTime": "about 1 hr 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Strong Rope Taproom at Potters Resort",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chef Darrell’s Mountain Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bear Trap",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "McSweeney's Irish Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Indian Lake Restaurant, Tavern, and Liquors",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lakeside Knoshery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Puterko's Family Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Raquette Lake Tap Room",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Blue Mountain Lake Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mt Sabattis Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Long Lake Municipal Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Long Lake Town Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Byron Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Aunt Pollys Bed and Breakfast",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Indian Lake Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:14.981Z"
+}

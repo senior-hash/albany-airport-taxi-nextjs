@@ -1,0 +1,156 @@
+{
+  "slug": "milton",
+  "name": "Milton",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.658715,
+  "lon": -73.9664553,
+  "wikidataQid": "Q772594",
+  "population": 1650,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    },
+    "lga": {
+      "miles": "~80 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~80 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "logan": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Ship Lantern Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Marlo Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Encore",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salsa Mexican Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "TGI Friday's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Giacomos",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ginger Chinese Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bonsai",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Cluett Schantz Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Milton Landing Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Johnson-Iorio Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lincoln Center Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wheaton Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Eastman Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kaal Rock Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Victor C. Waryas Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Auerbach Chiropractic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Lloyd Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pine Street Medical Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Poughkeepsie City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vassar Brothers Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dr. Magdalena Goralczyk, endodontist",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Health Quest Home Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "MidHudson Regional Hospital",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:22.554Z"
+}

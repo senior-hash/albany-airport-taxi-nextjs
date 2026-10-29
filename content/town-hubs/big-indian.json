@@ -1,0 +1,156 @@
+{
+  "slug": "big-indian",
+  "name": "Big Indian",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 42.173611111,
+  "lon": -74.743611111,
+  "wikidataQid": "Q4905868",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 4 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~65 miles",
+    "driveTime": "about 1 hr 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Carolanne's Cuisine",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Zada's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Binnekill Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trattoria Locale",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oda Wine Garden",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Andes Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wayside Cider",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "TJ's Farm Market & Cafe",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Fleischmann Athletic Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Belleayre Ski Shop",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Smith Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Kirkside Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Belleayre Mountain Ski Center",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Delhi Community Park",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Lower Birch Creek Trailhead of the Shandaken Wild Forest",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Covered Bridge Park",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Middletown Town Office Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Margaretville Village Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Margaretville Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Andes Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Andes Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fleischmanns Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bovina Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Hardenburgh Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:05.660Z"
+}

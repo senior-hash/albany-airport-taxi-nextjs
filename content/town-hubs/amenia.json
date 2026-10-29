@@ -1,0 +1,156 @@
+{
+  "slug": "amenia",
+  "name": "Amenia",
+  "county": "Dutchess County",
+  "state": "New York",
+  "lat": 41.849166666,
+  "lon": -73.556666666,
+  "wikidataQid": "Q3248544",
+  "population": 725,
+  "airportDistances": {
+    "alb": {
+      "miles": "~75 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "lga": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "ewr": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "logan": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Four Brothers Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Pines",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Lantern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Round Tuit Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Salsa Fresca Mexican Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Big Grill Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oakhurst Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taro's Pizzeria",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hotel Caravana",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Veterans Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tribute Gardens",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ketcham Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Godfrey Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stanford Recreation Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stanford Skate Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Amenia Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Millbrook Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Washington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Millerton Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North East Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dover Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stanford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ancram Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:36.884Z"
+}

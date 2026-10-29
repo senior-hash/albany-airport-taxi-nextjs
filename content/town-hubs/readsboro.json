@@ -1,0 +1,156 @@
+{
+  "slug": "readsboro",
+  "name": "Readsboro",
+  "county": "Bennington County",
+  "state": "Vermont",
+  "lat": 42.7988474,
+  "lon": -72.971838,
+  "wikidataQid": "Q1940658",
+  "population": 702,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Alpenglow Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dot's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Maple Leaf Tavern",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cady & Dugan",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Wilmington Village Pub",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Anchor",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "19 South Main",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "North Star Pizza",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Monroe Bridge Overlook",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trail Head Picnic Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Woodford State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Birchwood Recreation Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Wilmington Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Beaver Brook Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Baker Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bracewell Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Readsboro Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Searsburg Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Monroe Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stamford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Whittingham Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rowe Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clarksburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wilmington Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:11.026Z"
+}

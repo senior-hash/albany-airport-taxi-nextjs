@@ -1,0 +1,148 @@
+{
+  "slug": "walton",
+  "name": "Walton",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 42.1695296,
+  "lon": -75.1293351,
+  "wikidataQid": "Q3453029",
+  "population": 2885,
+  "airportDistances": {
+    "alb": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~275 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~90 miles",
+    "driveTime": "about 2 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Soul Da Licious",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Danny's Restaurant and Lounge",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hamden Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Rainbow Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jumbo Jumbo Asian Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cugino's Pizzeria and Restaurant",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "D'Angelo's B&B",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bassett Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Upper Basset Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Austin Lincoln Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "More Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Octagon Motor Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bear Spring Mountain Game Management Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Covered Bridge Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Walton Municipal Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "UHS Delaware Valley Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Walton Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hamden Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tompkins Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Colchester Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Franklin Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village of Delhi",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:11.036Z"
+}

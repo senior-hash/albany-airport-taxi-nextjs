@@ -1,0 +1,156 @@
+{
+  "slug": "dorset",
+  "name": "Dorset",
+  "county": "Bennington County",
+  "state": "Vermont",
+  "lat": 43.2548,
+  "lon": -73.09872,
+  "wikidataQid": "Q1903749",
+  "population": 2133,
+  "airportDistances": {
+    "alb": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~225 miles",
+      "driveTime": "about 5 hr"
+    },
+    "lga": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~120 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Christos' Pizza and Pasta",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Up for Breakfast",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gourmet Deli & Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Thai Basil",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Avocado Pit",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mystic Cafe & Wine Bar",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ponce Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sushi Boat Japanese Restaurant",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Factory Point Town Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Adams Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rupert Town Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Seth Warner Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Inn at Ormsby Hill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Emerald Lake State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Arlington Recreation Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Dorset Town Offices",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Manchester Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Southwestern Vermont Medical Center Northshire Campus",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Manchester Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pawlet Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rupert Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sunderland Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wells Town Offices",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:06.618Z"
+}

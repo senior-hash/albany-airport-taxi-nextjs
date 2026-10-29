@@ -1,0 +1,156 @@
+{
+  "slug": "chittenden",
+  "name": "Chittenden",
+  "county": "Rutland County",
+  "state": "Vermont",
+  "lat": 43.732777777,
+  "lon": -72.9375,
+  "wikidataQid": "Q2972399",
+  "population": 1237,
+  "airportDistances": {
+    "alb": {
+      "miles": "~110 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~275 miles",
+      "driveTime": "about 6 hr"
+    },
+    "lga": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "logan": {
+      "miles": "~175 miles",
+      "driveTime": "about 4 hr"
+    },
+    "bradley": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rutland station",
+    "miles": "~10 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Maple Sugar & Vermont Spice",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsford Pub & Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pizza Hut",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Little Haveli (Indian)",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Table 24",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "McGrath's Irish Pub",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Last Run",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hathaway Farm Corn Maze",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsford Recreation Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rutland Area Robotics",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rotary Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Baxter Street Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Georgetti Park and Hiking Trails",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rutland City Forest",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Northwood Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Chittenden Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chittenden Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mendon Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsford Town Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rutland Mental Health",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Proctor Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rutland City Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:18.259Z"
+}

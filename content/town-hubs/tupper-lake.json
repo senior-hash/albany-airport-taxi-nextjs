@@ -1,0 +1,116 @@
+{
+  "slug": "tupper-lake",
+  "name": "Tupper Lake",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.22395,
+  "lon": -74.46406,
+  "wikidataQid": "Q1012099",
+  "population": 3282,
+  "airportDistances": {
+    "alb": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "jfk": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "lga": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~295 miles",
+      "driveTime": "about 6 hr 15 min"
+    },
+    "logan": {
+      "miles": "~315 miles",
+      "driveTime": "about 6 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Westport station",
+    "miles": "~65 miles",
+    "driveTime": "about 1 hr 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Guido's Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Little Italy",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Amado",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Woodshed on Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Trails End Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tyler's New York Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "P-2's Irish Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lumberjack Inn",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Flanders Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Big Tupper",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Tupper Lake Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Tupper Lake",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Santa Clara Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Camp Massawepie Health Lodge",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:00.559Z"
+}

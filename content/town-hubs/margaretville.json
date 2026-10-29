@@ -1,0 +1,156 @@
+{
+  "slug": "margaretville",
+  "name": "Margaretville",
+  "county": "Delaware County",
+  "state": "New York",
+  "lat": 42.1475,
+  "lon": -74.6511,
+  "wikidataQid": "Q1004016",
+  "population": 514,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~220 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~55 miles",
+    "driveTime": "about 1 hr 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Oda Wine Garden",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Carolanne's Cuisine",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Zada's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Binnekill Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Trattoria Locale",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "TJ's Farm Market & Cafe",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Union Grove Distillery",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Goatie Whites",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Fleischmann Athletic Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Belleayre Ski Shop",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Smith Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Big Indian Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kirkside Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Belleayre Mountain Ski Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Glenbrook Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lower Birch Creek Trailhead of the Shandaken Wild Forest",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Margaretville Village Offices",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Middletown Town Office Building",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Margaretville Hospital",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fleischmanns Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hardenburgh Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Andes Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Andes Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Roxbury Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:02.737Z"
+}

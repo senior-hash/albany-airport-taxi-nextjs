@@ -1,0 +1,156 @@
+{
+  "slug": "poestenkill",
+  "name": "Poestenkill",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.6958,
+  "lon": -73.5639,
+  "wikidataQid": "Q3462089",
+  "population": 1020,
+  "airportDistances": {
+    "alb": {
+      "miles": "~15 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "logan": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Watervliet",
+    "miles": "~10 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Arlington House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schroeder's Cook Out",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Michael's Lounge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lee Sun Chinese Food",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Towne Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hometown Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Eadilyn's Table",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "La Bella Pizza & Restaurant",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Barberville Falls Preserve",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Brunswick Sports Complex",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butler Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kinloch Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pineridge Cross Country Trails",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Greenbush Town Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Brunswick Wildlife Viewing Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Deddrick Park Town Beach",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Poestenkill Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sand Lake Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wynantskill Family Medicine",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kenneth F. March Podiatric Medicine & Surgery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Greenbush Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Brunswick Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wynantskill Chiropractic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Emma Willard Health Center",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:11.335Z"
+}

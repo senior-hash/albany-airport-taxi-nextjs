@@ -1,0 +1,156 @@
+{
+  "slug": "olivebridge",
+  "name": "Olivebridge",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.927872222,
+  "lon": -74.215422222,
+  "wikidataQid": "Q7087241",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~80 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~115 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "lga": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "logan": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~105 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rhinecliff station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "LJ's Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Snyder's Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Boiceville Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oyster Party",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Santa Fe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "High Falls Cafe",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Upstate Taco",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Spy",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Tongore Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Brown's Station",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Longhouse Lodge (Bunkhouse)",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sycamore Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Maple Lodge",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Osterhoudt Flats Preserve",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Grant Avery Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lester S. Davis Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Olive Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rondout Municipal Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hurley Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Medical Associates of the Hudson Valley",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Hudson Valley Gastroenterology",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rochester Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Woodstock Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Riverside Hearing Aide Service",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:23:27.218Z"
+}

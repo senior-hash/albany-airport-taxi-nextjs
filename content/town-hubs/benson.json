@@ -1,0 +1,156 @@
+{
+  "slug": "benson",
+  "name": "Benson",
+  "county": "Rutland County",
+  "state": "Vermont",
+  "lat": 43.7067,
+  "lon": -73.3106,
+  "wikidataQid": "Q5726224",
+  "population": 269,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "lga": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~245 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "logan": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~165 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fair Haven",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Wheel Inn Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fair Haven Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Scotch Hill Brewing Co.",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sunrise Family Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Paul's Family Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Iron Lantern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Blue Cat Bistro",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Castleton Pizza Place and Deli",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Pond Woods Wildlife Management Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Village Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Creek Waterfowl Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peace Garden",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Richville Wildlife Management Area",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ward Marsh Wildlife Management Area",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Marsh Pond Wildlife Management Area",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Blueberry Hill Wildlife Management Area",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Benson Town Office",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Orwell Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Orwell Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fair Haven Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Haven Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Castleton Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Castleton Family Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sudbury Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:13.839Z"
+}

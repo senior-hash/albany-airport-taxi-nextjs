@@ -1,0 +1,156 @@
+{
+  "slug": "hoosick-falls",
+  "name": "Hoosick Falls",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.9006,
+  "lon": -73.3525,
+  "wikidataQid": "Q1004012",
+  "population": 3216,
+  "airportDistances": {
+    "alb": {
+      "miles": "~35 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~105 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Mechanicville",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Great Wall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Olde Firehouse Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bagel and Brew Cafe",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bistro 42",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ferrara's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Jean's Place",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Walloomsac Taproom at Brown's Brewing Company",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Tammy's Candy Kettle",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Wood's Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Park Street",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Skorupski Landing",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hoosic Falls Youth Sports Fields",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Green Acres",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hoosick River Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lincoln Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cambridge Community Forest",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "White Creek Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Petersburgh Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaftsbury Town Offices (future home)",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bennington Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Southwestern Vermont Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cambridge Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pownal Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pittstown Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:06.536Z"
+}

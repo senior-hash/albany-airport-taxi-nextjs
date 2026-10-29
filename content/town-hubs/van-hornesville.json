@@ -1,0 +1,156 @@
+{
+  "slug": "van-hornesville",
+  "name": "Van Hornesville",
+  "county": "Herkimer County",
+  "state": "New York",
+  "lat": 42.895,
+  "lon": -74.82777778,
+  "wikidataQid": "Q48739379",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~240 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~30 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "New York Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Papa Joe's Pizzaria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Lantern House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Erie Station",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mediterranean Kitchen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Table at Fort Plain",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "5S Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Lake House",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Spring Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richfield Springs Municipal Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fort Plain Historical Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cary Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wiles Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Old Erie Enlarged Canal Double Lock 33",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rotary Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Clinton Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Warren Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richfield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fort Plain Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Canajoharie Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Palatine Bridge Village Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Saint Johnsville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "MVHS Medical Group - Little Falls Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Little Falls City Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:32.155Z"
+}

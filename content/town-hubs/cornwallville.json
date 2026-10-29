@@ -1,0 +1,156 @@
+{
+  "slug": "cornwallville",
+  "name": "Cornwallville",
+  "county": "Greene County",
+  "state": "New York",
+  "lat": 42.3681,
+  "lon": -74.1581,
+  "wikidataQid": "Q5172046",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~110 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Hudson",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Mama Jeanne's Pizza Shop",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Five Furlongs Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shamrock House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saloon of East Durham",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Green Hill Cafe & Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cave Mountain Brewing Company",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bistro Brie & Bordeaux",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ze Windham Wine Bar",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Irish Cultural Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Angelo Canna Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Mountain Club",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "K Lift",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "East Peak Express Quad",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Whiteway Express Quad",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ashland Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wonderama Express Quad",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Cairo Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pioneer Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Broome Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rensselaerville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Windham Medical Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ashland Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Conesville Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:48.234Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "lenox",
+  "name": "Lenox",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.3572,
+  "lon": -73.2842,
+  "wikidataQid": "Q6523150",
+  "population": 1639,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~140 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~135 miles",
+      "driveTime": "about 2 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Old Heritage Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Betty's Pizza Shack",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fin",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Nudel",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Frankie's Ristorante Italiano",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Zinc",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cafe Lucia",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Firefly",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Lilac Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Roche Reading Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Triangle Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ore Bed Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schermerhorn Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Veterans Mem Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Edith Wharton's Home",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Edith Wharton Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Lenox Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lee Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stockbridge Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Austen Riggs Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tapestry - Sexual & Reproductive Health Clinic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pittsfield City Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berkshire Osteopathic Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "CHP Neighborhood Health Center",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:49.265Z"
+}

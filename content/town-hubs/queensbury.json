@@ -1,0 +1,156 @@
+{
+  "slug": "queensbury",
+  "name": "Queensbury",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.359444444,
+  "lon": -73.656944444,
+  "wikidataQid": "Q3414040",
+  "population": 29169,
+  "airportDistances": {
+    "alb": {
+      "miles": "~50 miles",
+      "driveTime": "about 1 hr"
+    },
+    "jfk": {
+      "miles": "~215 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Harvest Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Angelina's Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chopsticks",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Denny's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Full Moon",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Skillet Marketplace",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Alpine Fest Haus",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Meadowbrook Preserve",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hovey Pond Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Bell House Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Glen Lake Boat Launch",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sagamore Street Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Colonel Williams Monument",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Glens Falls City Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ridge/Jenkinsville Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Queensbury Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Planned Parenthood",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Adirondack Cardiology",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Convenient Medical Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Associates in Vision Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Westfall Vision",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Glens Falls City Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:10.199Z"
+}

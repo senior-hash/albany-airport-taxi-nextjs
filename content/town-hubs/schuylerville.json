@@ -1,0 +1,156 @@
+{
+  "slug": "schuylerville",
+  "name": "Schuylerville",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 43.1008,
+  "lon": -73.5814,
+  "wikidataQid": "Q3458172",
+  "population": 1370,
+  "airportDistances": {
+    "alb": {
+      "miles": "~35 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Saratoga Springs station",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Amigos Cantina",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ollie's Bar and Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Old Saratoga Eatery",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mama Bear's Diner",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bound by Fate Brewing Taproom",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schuylerville Pizza & Pasta",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Basin Grill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chinese Food",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Fort Hardy Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Volunteer Recognition Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Manor Hill",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saratoga Sword Surrender Site Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hudson Crossing Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Knox Trail Pocket Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Stark's Knob Scientific Reservation",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Saratoga Falls Park",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Saratoga Hospital Medical Group Primary Care – Schuylerville",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schuylerville Family Health",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Town of Saratoga Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Village of Victory",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Glens Falls Hospital - Greenwich Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Greenwich Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Whipple City Health & Wellness Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Burton Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:31.730Z"
+}

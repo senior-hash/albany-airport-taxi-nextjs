@@ -1,0 +1,132 @@
+{
+  "slug": "edmeston",
+  "name": "Edmeston",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.6978,
+  "lon": -75.2439,
+  "wikidataQid": "Q5338808",
+  "population": 592,
+  "airportDistances": {
+    "alb": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~260 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~35 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "High Burl Brewery",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Horned Dorset Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Scotty's Pizzeria and Restaurant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Joe’s New York Pizzeria",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Kylie's Diner",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Red Door",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "VFW Post 2338",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Pathfinder Village Inn",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Morris Reservoir Waterway Access",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Gaines Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "West Winfield Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Winfield Memorial Town Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Burlington Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Lisbon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Guthrie Clinic New Berlin",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hartwick Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "West Winfield Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Laurens Town Hall",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:15.876Z"
+}

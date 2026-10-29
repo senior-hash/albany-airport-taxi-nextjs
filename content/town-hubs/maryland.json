@@ -1,0 +1,156 @@
+{
+  "slug": "maryland",
+  "name": "Maryland",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.536388888,
+  "lon": -74.886666666,
+  "wikidataQid": "Q3708363",
+  "population": 1760,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~240 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~55 miles",
+    "driveTime": "about 1 hr 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Cafe 151",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ardys",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Brooks' House of Bar-B-Q",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jacks Pub",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "No. 1 Chinese Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Buffalo Wild Wings",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Taqueria Guadalajara",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Denny's",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "John Stockdale Memorial Park 1391",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Goodyear Lake Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Worcester Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fortin Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Curtis Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Miller Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wilbur Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Huntington Memorial Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "M&M Building (Town Hall/Court)",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Worcester Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Milford Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "A. O. Fox Hospital",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oneonta Municipal Building",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hoffman Family Medicine",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Perrella Wellness Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Westford Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:19.801Z"
+}

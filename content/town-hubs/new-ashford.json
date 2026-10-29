@@ -1,0 +1,156 @@
+{
+  "slug": "new-ashford",
+  "name": "New Ashford",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.605,
+  "lon": -73.24,
+  "wikidataQid": "Q3875189",
+  "population": 250,
+  "airportDistances": {
+    "alb": {
+      "miles": "~40 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~75 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Store at Five Corners",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bob's Country Kitchen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Christiansen's Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Coyote Den",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Coyote Flaco",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Water Street Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gala",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moonlight Diner",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Bill Laston Memorial Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Little League Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Blair Hiking Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Margaret Lindley Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Guest House at Field Farm",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mount Hope Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Quality Street Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Liberty Street Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "New Ashford Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lanesborough Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hancock Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Williamstown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stephentown Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Williamstown Medical Associates",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tri State Podiatry",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "SVHC Urgent Care",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:51.743Z"
+}

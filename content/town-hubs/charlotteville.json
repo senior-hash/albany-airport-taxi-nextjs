@@ -1,0 +1,156 @@
+{
+  "slug": "charlotteville",
+  "name": "Charlotteville",
+  "county": "Schoharie County",
+  "state": "New York",
+  "lat": 42.5453,
+  "lon": -74.6647,
+  "wikidataQid": "Q16890186",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~170 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~170 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~225 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Amsterdam station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Heartbreak Hotel",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Breakfast Club",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mac-A-Doodles",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cafe 151",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Jacks Pub",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ardys",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "T.P.'s Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Jim Jam's",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Village Green at Jefferson",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richmondville Firemans Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Worcester Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "John Stockdale Memorial Park 1391",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Veterans Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Clinton Circle Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Mine Kill State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Iorio Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Summit Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Jefferson Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richmondville Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Worcester Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "M&M Building (Town Hall/Court)",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stamford Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Beard Wellness Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cobleskill Municipal Offices",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:36.114Z"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "sabael",
+  "name": "Sabael",
+  "county": "Hamilton County",
+  "state": "New York",
+  "lat": 43.7283982,
+  "lon": -74.305705,
+  "wikidataQid": "Q48740171",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "lga": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~255 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "logan": {
+      "miles": "~275 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Ticonderoga station",
+    "miles": "~65 miles",
+    "driveTime": "about 1 hr 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Puterko's Family Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Indian Lake Restaurant, Tavern, and Liquors",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "McSweeney's Irish Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bear Trap",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chef Darrell’s Mountain Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Strong Rope Taproom at Potters Resort",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Melody Lodge",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Acorn Pub & Eatery",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Byron Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Blue Mountain Lake Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Oak Mountain",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Topridge Quad",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Sunway",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Northwoods Gondola",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Adirondack Express",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "North Quad",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Indian Lake Town Hall",
+          "driveTime": "about 5 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:26:21.822Z"
+}

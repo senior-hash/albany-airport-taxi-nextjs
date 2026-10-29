@@ -1,0 +1,156 @@
+{
+  "slug": "holmes",
+  "name": "Holmes",
+  "county": "Dutchess County",
+  "state": "New York",
+  "lat": 41.5234269,
+  "lon": -73.646795,
+  "wikidataQid": "Q115857710",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "lga": {
+      "miles": "~65 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    },
+    "logan": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Farmhouse",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Oriental Express Wok",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Gappy's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Putnam Diner & Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fortuna",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Valare's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Grace II",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "La Famiglia Bar & Grill",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Veteran Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Thunder Ridge Ski Area",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ryan's Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Edward R Murrow Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hill and Dale Community Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "CornerStone Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Towne Center Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stormville Airport Soccer Fields",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Patterson Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pawling Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Beekman Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pawling Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Southeast Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kathleen Ennabi, MD",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "PM Pediatrics - Specialized Urgent Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ogleh Nesheiwat, M.D. - Internal Medicine / Primary Care",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:22:46.420Z"
+}

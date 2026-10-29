@@ -1,0 +1,156 @@
+{
+  "slug": "morris",
+  "name": "Morris",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.548055555,
+  "lon": -75.245,
+  "wikidataQid": "Q3709301",
+  "population": 1735,
+  "airportDistances": {
+    "alb": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr"
+    },
+    "jfk": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~265 miles",
+      "driveTime": "about 5 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Scotty's Pizzeria and Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Empire House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pizza 23 West",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Soda Jerks",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Undercover Eggplant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dante's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "STAR MIX GRILL",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "STAR MIX GRILL restaurant",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Morris Reservoir Waterway Access",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Huntington Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Frisbee Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Curtis Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Miller Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Neahwa Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pathfinder Village Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wilbur Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Butternuts Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Guthrie Clinic New Berlin",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Oneonta Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Lisbon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Laurens Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hoffman Family Medicine",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Oneonta Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Perrella Wellness Center",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:20.765Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "glenmont",
+  "name": "Glenmont",
+  "county": "Albany County",
+  "state": "New York",
+  "lat": 42.604722222,
+  "lon": -73.769444444,
+  "wikidataQid": "Q5568614",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~15 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "lga": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "ewr": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr"
+    },
+    "logan": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Albany–Rensselaer",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Angelo's Pizza & Pasta",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Romo's Pizza",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "South Wok",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sawa Sushi Bistro",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Chili's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Akira",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Milestone",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Prentice Homes Playground",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Magee Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mount Hope Playground",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Krank Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Island Creek Waterfront Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Hoffman Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Colonial Acres Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Coyne Field",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Albany Med EmUrgentCare - Glenmont/Delmar Branch",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Addictions Care Center of Albany",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "St. Peter's Family Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Capital City Rescue Mission Health Clinic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Albany County Mental Health Clinic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Albany Medical Center South Clinical Campus",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Capital Region Foot Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Rensselaer City Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:21:33.725Z"
+}

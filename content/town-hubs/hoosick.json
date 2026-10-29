@@ -1,0 +1,156 @@
+{
+  "slug": "hoosick",
+  "name": "Hoosick",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.8625,
+  "lon": -73.328055555,
+  "wikidataQid": "Q3708212",
+  "population": 6711,
+  "airportDistances": {
+    "alb": {
+      "miles": "~30 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~180 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "logan": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Mechanicville",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Tammy's Candy Kettle",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Man of Kent",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Moose Kaboose Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Great Wall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Olde Firehouse Tavern",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bistro 42",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ferrara's",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Bagel and Brew Cafe",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hoosic Falls Youth Sports Fields",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wood's Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Skorupski Landing",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Park Street",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Green Acres",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Monument Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Vermont Veterans Home Deer Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lincoln Square",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Bennington Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Petersburgh Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Southwestern Vermont Medical Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Shaftsbury Town Offices (future home)",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pownal Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Woodford Town Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "White Creek Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Williamstown Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:05.271Z"
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "richfield-springs",
+  "name": "Richfield Springs",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.8531,
+  "lon": -74.9875,
+  "wikidataQid": "Q3452810",
+  "population": 1050,
+  "airportDistances": {
+    "alb": {
+      "miles": "~70 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~240 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~25 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Lake House",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "VFW Post 2338",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Door",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Joe’s New York Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kylie's Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Denny's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tony's Pizza",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Applebee's",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Spring Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Richfield Springs Municipal Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Cary Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Winfield Memorial Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Winfield Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Weller Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ilion Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Russell Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Richfield Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Warren Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "West Winfield Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mohawk Village Office",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "German Flatts Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Primary Urgent Care",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Herkimer Municipal Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ilion Municipal Building",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:26.167Z"
+}

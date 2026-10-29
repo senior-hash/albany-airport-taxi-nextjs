@@ -1,0 +1,99 @@
+{
+  "slug": "ellenburg-depot",
+  "name": "Ellenburg Depot",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.90583333,
+  "lon": -73.80111111,
+  "wikidataQid": "Q48740183",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "lga": {
+      "miles": "~330 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~335 miles",
+      "driveTime": "about 6 hr 45 min"
+    },
+    "logan": {
+      "miles": "~295 miles",
+      "driveTime": "about 5 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~270 miles",
+      "driveTime": "about 5 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rouses Point station",
+    "miles": "~25 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Miner Lake State Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Feinburg Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lake Alice State Game Management Area",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mooers Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Clinton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Altona Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chateaugay Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dannemora Town Garage",
+          "driveTime": "about 45 min"
+        },
+        {
+          "name": "Dannemora Community Center",
+          "driveTime": "about 45 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:10.530Z"
+}

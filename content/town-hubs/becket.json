@@ -1,0 +1,156 @@
+{
+  "slug": "becket",
+  "name": "Becket",
+  "county": "Berkshire County",
+  "state": "Massachusetts",
+  "lat": 42.331944444,
+  "lon": -73.083333333,
+  "wikidataQid": "Q2431830",
+  "population": 1931,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~150 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "lga": {
+      "miles": "~145 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr"
+    },
+    "bradley": {
+      "miles": "~45 miles",
+      "driveTime": "about 1 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Joseph Scelsi Intermodal Transportation Center",
+    "miles": "~15 miles",
+    "driveTime": "about 30 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Route 8 Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ozzie's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Roses Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "51 Park Restaurant & Tavern",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Salmon Run Fish House",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Cafe Triskele",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Lee's Corner Kitchen",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Grouse House",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Ml Ransford Athletic Field",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Becket Historic Quarry and Forest trailhead",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "East Lee Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hampden Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "School Street Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "amphitheatre",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Riverside Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Abbey Court Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Washington Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Becket Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hinsdale Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chester Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Middlefield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lee Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Peru Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Berkshire Eye Center",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:41.252Z"
+}

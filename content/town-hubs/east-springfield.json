@@ -1,0 +1,156 @@
+{
+  "slug": "east-springfield",
+  "name": "East Springfield",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.8308,
+  "lon": -74.8153,
+  "wikidataQid": "Q5329413",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "lga": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "logan": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "bradley": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~35 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Red Shed Brewery - Red Shed Ale House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "204 Main Bar & Bistro",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Lake House",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Blue Mingo Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Leatherstocking Golf Bar & Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mel's at 22",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Hawkeye Bar & Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Red Shed Brewery - Cherry Valley Taproom and Brewery",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Spring Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Richfield Springs Municipal Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cary Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cooperstown B&B",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Council Rock Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake Front Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cooper Grounds Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Badger Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Richfield Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Warren Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bassett Medical Center",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Middlefield Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Fort Plain Village Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Canajoharie Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Palatine Bridge Village Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Saint Johnsville Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:15.507Z"
+}

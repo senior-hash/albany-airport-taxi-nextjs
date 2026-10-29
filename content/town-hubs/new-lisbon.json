@@ -1,0 +1,156 @@
+{
+  "slug": "new-lisbon",
+  "name": "New Lisbon",
+  "county": "Otsego County",
+  "state": "New York",
+  "lat": 42.6,
+  "lon": -75.166666666,
+  "wikidataQid": "Q3709186",
+  "population": 1084,
+  "airportDistances": {
+    "alb": {
+      "miles": "~100 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~200 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~185 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~270 miles",
+      "driveTime": "about 5 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Union Station",
+    "miles": "~45 miles",
+    "driveTime": "about 1 hr 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Scotty's Pizzeria and Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "High Burl Brewery",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Pizza 23 West",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Soda Jerks",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Undercover Eggplant",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Dante's",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "STAR MIX GRILL",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "STAR MIX GRILL restaurant",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Morris Reservoir Waterway Access",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pathfinder Village Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Huntington Memorial Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Frisbee Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Curtis Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Miller Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Neahwa Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wilbur Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "New Lisbon Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hartwick Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Laurens Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Butternuts Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Oneonta Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Burlington Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Guthrie Clinic New Berlin",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Hoffman Family Medicine",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:24:22.751Z"
+}

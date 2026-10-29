@@ -1,0 +1,156 @@
+{
+  "slug": "west-rupert",
+  "name": "West Rupert",
+  "county": "Bennington County",
+  "state": "Vermont",
+  "lat": 43.2386873,
+  "lon": -73.2428857,
+  "wikidataQid": "Q122597806",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~55 miles",
+      "driveTime": "about 1 hr 30 min"
+    },
+    "jfk": {
+      "miles": "~215 miles",
+      "driveTime": "about 5 hr"
+    },
+    "lga": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "ewr": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "logan": {
+      "miles": "~170 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~130 miles",
+      "driveTime": "about 3 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~30 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Brooklyn Marie's Italian Corner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Steininger's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Railroad Street Tavern",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Barn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Christos' Pizza and Pasta",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Gourmet Deli & Cafe",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Ponce Bistro",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Sushi Boat Japanese Restaurant",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Rupert Town Green",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salem Historic District",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cary Hill Sculpture Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Veteran's Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Sheldon Mansion Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Granville Little League",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Factory Point Town Green",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Adams Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Rupert Town Office",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Salem Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Salem Family Health Center",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dorset Town Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pawlet Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Granville Municipal Building",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Wells Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Manchester Medical Center",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:28:13.436Z"
+}

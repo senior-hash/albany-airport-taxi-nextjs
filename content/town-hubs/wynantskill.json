@@ -1,0 +1,156 @@
+{
+  "slug": "wynantskill",
+  "name": "Wynantskill",
+  "county": "Rensselaer County",
+  "state": "New York",
+  "lat": 42.6922,
+  "lon": -73.6444,
+  "wikidataQid": "Q3460087",
+  "population": 4050,
+  "airportDistances": {
+    "alb": {
+      "miles": "~10 miles",
+      "driveTime": "about 30 min"
+    },
+    "jfk": {
+      "miles": "~170 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "lga": {
+      "miles": "~155 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 15 min"
+    },
+    "logan": {
+      "miles": "~175 miles",
+      "driveTime": "about 3 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Watervliet",
+    "miles": "~5 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Okinawa Chinese And Japanese Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Eadilyn's Table",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Indian Flame",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Paolo Lombardi's Ristorante",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "La Bella Pizza & Restaurant",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Schroeder's Cook Out",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Villa Valenti Pub",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "The Eatery: Carol's Place",
+          "driveTime": "about 5 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "North Greenbush Town Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Kinloch Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Landslide Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Pawling Pines Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sheridan Avenue Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Carroll Hill Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "North Greenbush Town Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Eagle Scout Park & Boat Launch",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Kenneth F. March Podiatric Medicine & Surgery",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wynantskill Family Medicine",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "North Greenbush Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Wynantskill Chiropractic",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Fresenius Kidney Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Emma Willard Health Center",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Sunnyview Therapy Services",
+          "driveTime": "about 5 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:18.549Z"
+}

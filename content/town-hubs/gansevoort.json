@@ -1,0 +1,156 @@
+{
+  "slug": "gansevoort",
+  "name": "Gansevoort",
+  "county": "Saratoga County",
+  "state": "New York",
+  "lat": 43.195277777,
+  "lon": -73.65,
+  "wikidataQid": "Q5521491",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~35 miles",
+      "driveTime": "about 45 min"
+    },
+    "jfk": {
+      "miles": "~205 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "lga": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr"
+    },
+    "ewr": {
+      "miles": "~195 miles",
+      "driveTime": "about 4 hr"
+    },
+    "logan": {
+      "miles": "~210 miles",
+      "driveTime": "about 4 hr 15 min"
+    },
+    "bradley": {
+      "miles": "~135 miles",
+      "driveTime": "about 3 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Fort Edward station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Fitzgerald's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Half Time Bar & Grill",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Humbuggs",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Primo Pizzeria & Italian Specialties",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lam Fong Yuen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Giavano's Pizzeria",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Slickfin Brewing",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Kerrie's on Broadway",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Lamplighter Playground",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saratoga Falls Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Knox Trail Pocket Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Underwood Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bradley Beach",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hudson Crossing Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Stark's Knob Scientific Reservation",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moreau Town Park",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Northumberland Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Moreau Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moreau Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Wilton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Fort Edward Town and Village Offices",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Schuylerville Family Health",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Saratoga Hospital Medical Group Primary Care – Schuylerville",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Saratoga Town Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:25:23.397Z"
+}

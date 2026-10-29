@@ -1,0 +1,99 @@
+{
+  "slug": "churubusco",
+  "name": "Churubusco",
+  "county": "Clinton County",
+  "state": "New York",
+  "lat": 44.953866666,
+  "lon": -73.931980555,
+  "wikidataQid": "Q949805",
+  "population": null,
+  "airportDistances": {
+    "alb": {
+      "miles": "~180 miles",
+      "driveTime": "about 3 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~350 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "lga": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "ewr": {
+      "miles": "~340 miles",
+      "driveTime": "about 7 hr"
+    },
+    "logan": {
+      "miles": "~305 miles",
+      "driveTime": "about 6 hr"
+    },
+    "bradley": {
+      "miles": "~280 miles",
+      "driveTime": "about 6 hr"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Rouses Point station",
+    "miles": "~35 miles",
+    "driveTime": "about 45 min"
+  },
+  "places": {
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Chateaugay Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Miner Lake State Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Sellers Field",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Feinburg Park",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Clinton Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Ellenburg Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Chateaugay Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Town of Burke Court House and Municipal Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Altona Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bellmont Town Office",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Dannemora Town Garage",
+          "driveTime": "about 1 hr"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T02:27:07.690Z"
+}
