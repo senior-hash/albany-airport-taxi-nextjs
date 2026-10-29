@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Il Paradiso Pizza and Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.toasttab.com/il-paradiso/v3"
         },
         {
           "name": "China House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.eatchinahouse.com/"
         },
         {
           "name": "Aroma Thyme Bistro",
@@ -56,7 +58,8 @@
         },
         {
           "name": "Outpost BBQ at the Kerhonkytonk Roadhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.outpostbbqkerhonkson.com/"
         },
         {
           "name": "Yang's Kitchen",
@@ -118,11 +121,13 @@
       "items": [
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Village Hall",
@@ -130,7 +135,8 @@
         },
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Woodridge Village Hall",
@@ -146,11 +152,12 @@
         },
         {
           "name": "Fallsburg Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townoffallsburg.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:24.957Z"
+  "fetchedAt": "2026-10-29T10:22:51.826Z"
 }

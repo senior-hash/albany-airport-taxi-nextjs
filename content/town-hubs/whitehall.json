@@ -64,7 +64,8 @@
         },
         {
           "name": "Battle Hill Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://battlehillbrewing.com/"
         },
         {
           "name": "Sunrise Family Restaurant",
@@ -101,15 +102,18 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Boczek Marsh Wildlife Management Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://fpr.vermont.gov/buczek-wildlife-management-area"
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         }
       ]
     },
@@ -130,11 +134,13 @@
         },
         {
           "name": "Castleton Family Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.chcrr.org/location/castleton-family-health-center/"
         },
         {
           "name": "Poultney Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.poultney.vt.gov/"
         },
         {
           "name": "West Haven Town Office",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:58.153Z"
+  "fetchedAt": "2026-10-29T10:25:33.873Z"
 }

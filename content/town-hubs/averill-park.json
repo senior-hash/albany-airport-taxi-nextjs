@@ -85,7 +85,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "North Greenbush Town Beach",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:58.058Z"
+  "fetchedAt": "2026-10-29T10:24:31.198Z"
 }

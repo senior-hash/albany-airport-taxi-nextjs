@@ -56,23 +56,28 @@
         },
         {
           "name": "Oyster Party",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://linktr.ee/oysterparty"
         },
         {
           "name": "Santa Fe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://santafehudsonvalley.com/"
         },
         {
           "name": "High Falls Cafe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://highfallscafe.com"
         },
         {
           "name": "Upstate Taco",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.upstatetacony.com"
         },
         {
           "name": "The Spy",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thespysocialeatery.com"
         }
       ]
     },
@@ -85,7 +90,8 @@
         },
         {
           "name": "Brown's Station",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Ashokan_Day_Use_Area.pdf"
         },
         {
           "name": "Longhouse Lodge (Bunkhouse)",
@@ -105,11 +111,13 @@
         },
         {
           "name": "Grant Avery Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/recreation/"
         },
         {
           "name": "Lester S. Davis Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/recreation/"
         }
       ]
     },
@@ -118,7 +126,8 @@
       "items": [
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Rondout Municipal Center",
@@ -126,19 +135,23 @@
         },
         {
           "name": "Hurley Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townhurley.digitaltowpath.org:10077/content/"
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Woodstock Town Hall",
@@ -146,11 +159,12 @@
         },
         {
           "name": "Riverside Hearing Aide Service",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://riversidehearingaids.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:27.218Z"
+  "fetchedAt": "2026-10-29T10:22:52.267Z"
 }

@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Stissing House Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.stissinghouse.com/"
         },
         {
           "name": "Rosey's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://roseyspineplains.com/"
         },
         {
           "name": "The Village Pancake Factory",
@@ -56,15 +58,18 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "Aroi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.aroirhinebeck.com/"
         },
         {
           "name": "Aba's Falafel",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.abasfalafel.com/"
         },
         {
           "name": "The Shelter",
@@ -72,7 +77,8 @@
         },
         {
           "name": "Pete's Famous Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://Petesfamous.com"
         }
       ]
     },
@@ -89,7 +95,8 @@
         },
         {
           "name": "Whitlock Preserve",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dutchessny.gov/CountyGov/Departments/DPW-Parks/tmswhitlockpreserve.pdf"
         },
         {
           "name": "Friends Park",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:00.789Z"
+  "fetchedAt": "2026-10-29T10:22:20.771Z"
 }

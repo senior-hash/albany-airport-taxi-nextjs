@@ -48,7 +48,8 @@
         },
         {
           "name": "Red's Seafood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redsrestaurant.com/"
         },
         {
           "name": "Quarry Steak House",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Fish & Game",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.fishandgamehudson.com/"
         },
         {
           "name": "Culture Cream",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://eatculturecream.com"
         },
         {
           "name": "Red Dot Restaurant & Bar",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Tanzy's",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://tanzyshudson.com/"
         }
       ]
     },
@@ -126,7 +130,8 @@
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "New Baltimore Town Hall",
@@ -142,7 +147,8 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Wellnow Urgent Care",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:48.601Z"
+  "fetchedAt": "2026-10-29T10:21:08.253Z"
 }

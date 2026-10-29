@@ -60,7 +60,8 @@
         },
         {
           "name": "TGI Friday's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://locations.tgifridays.com/ny/poughkeepsie/2594-south-road-route-9.html"
         },
         {
           "name": "Giacomos",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Bonsai",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bonsaisushiny.com/"
         }
       ]
     },
@@ -130,11 +132,13 @@
         },
         {
           "name": "Poughkeepsie City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cityofpoughkeepsie.com/"
         },
         {
           "name": "Vassar Brothers Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.northwell.edu/locations/vassar-brothers-medical-center"
         },
         {
           "name": "Dr. Magdalena Goralczyk, endodontist",
@@ -146,11 +150,12 @@
         },
         {
           "name": "MidHudson Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wmchealth.org/locations/midhudson-regional-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:22.554Z"
+  "fetchedAt": "2026-10-29T10:22:47.424Z"
 }

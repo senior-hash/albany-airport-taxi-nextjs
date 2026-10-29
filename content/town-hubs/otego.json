@@ -48,7 +48,8 @@
         },
         {
           "name": "Undercover Eggplant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.undercovereggplant.com/"
         },
         {
           "name": "Dante's",
@@ -68,11 +69,13 @@
         },
         {
           "name": "Red's Ale House & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.redsalehouseoneonta.com/"
         },
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.pizza23west.com/"
         }
       ]
     },
@@ -138,7 +141,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -146,11 +150,12 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:24.618Z"
+  "fetchedAt": "2026-10-29T10:23:54.958Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Local Dining and Spirits",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thelocaldiningandspirits.com"
         },
         {
           "name": "Jay's Village Pizzeria",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Sport Island Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sportislandpub.com/"
         },
         {
           "name": "Northampton Diner",
@@ -93,7 +95,8 @@
         },
         {
           "name": "Lapland Lake Nordic Lodge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.laplandlake.com/"
         },
         {
           "name": "Veteran's Park",
@@ -101,7 +104,8 @@
         },
         {
           "name": "Lapland Lake Nordic Vacation Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.laplandlake.com"
         },
         {
           "name": "Nathan Littauer Park",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:37.276Z"
+  "fetchedAt": "2026-10-29T10:27:17.556Z"
 }

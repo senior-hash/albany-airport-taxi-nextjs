@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Rustic Rooster",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.vtrusticrooster.com/"
         },
         {
           "name": "Whistle Stop",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Goodman's American Pie",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.goodmansamericanpie.com/"
         },
         {
           "name": "The Hatchery",
@@ -85,11 +87,13 @@
         },
         {
           "name": "Lower Clarendon Gorge State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://vermontriverconservancy.org/sites/lower-clarendon-gorge-state-forest"
         },
         {
           "name": "Crisanver House Inn & Bed and Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.crisanver.com/"
         },
         {
           "name": "Weston Recreation Area",
@@ -138,11 +142,13 @@
         },
         {
           "name": "Ludlow Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://springfieldmed.org/ludlow-health-center/"
         },
         {
           "name": "Rutland Regional Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rrmc.org/"
         },
         {
           "name": "Shrewsbury Town Office",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:20.667Z"
+  "fetchedAt": "2026-10-29T10:28:01.175Z"
 }

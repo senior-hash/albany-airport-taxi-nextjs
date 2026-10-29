@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Hill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/people/The-Hill-Castleton-New-York/100028550246638/"
         },
         {
           "name": "Fireside Pizza Den",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Brooklyn Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.broadstreetbagelco.com"
         },
         {
           "name": "Samson's Bar & Restaurant",
@@ -105,11 +107,13 @@
         },
         {
           "name": "Schodack Town Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/park.htm"
         },
         {
           "name": "Martin Van Buren National Historic Site",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nps.gov/mava/index.htm"
         }
       ]
     },
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Castleton Village Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://castleton-on-hudson.org/"
         },
         {
           "name": "Stuyvesant Town Hall",
@@ -130,19 +135,23 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://upstatederm.com/"
         },
         {
           "name": "Dialysis Clinic, Inc.",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dciinc.org/location/east-greenbush/"
         },
         {
           "name": "East Greenbush Town Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:13.767Z"
+  "fetchedAt": "2026-10-29T10:24:48.105Z"
 }

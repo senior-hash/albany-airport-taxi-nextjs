@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Coyote Flaco Restaurant & Lounge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://coyoteflacohudson.com"
         },
         {
           "name": "Wasabi",
@@ -52,27 +53,33 @@
         },
         {
           "name": "Grazin' Spirits",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.grazinburger.com/"
         },
         {
           "name": "Klocke Estate",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.klocke-estate.com/"
         },
         {
           "name": "Scali's Pizza & Pasta",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://scalis.ordering.ordercounter.com/"
         },
         {
           "name": "Left Bank Ciders",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.leftbankciders.com/"
         },
         {
           "name": "The Avalon Lounge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.theavalonlounge.com/"
         },
         {
           "name": "La Casa Latina",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lacasalatinacatskill.com/"
         }
       ]
     },
@@ -81,7 +88,8 @@
       "items": [
         {
           "name": "Livingston Recreation Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townoflivingston.org/home-livingston-ny/rec-park/"
         },
         {
           "name": "Hettling Park at Clermont",
@@ -130,7 +138,8 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         },
         {
           "name": "Hudson City Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:26.625Z"
+  "fetchedAt": "2026-10-29T10:21:46.830Z"
 }

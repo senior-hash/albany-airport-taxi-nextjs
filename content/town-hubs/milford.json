@@ -60,7 +60,8 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         },
         {
           "name": "Brooks' House of Bar-B-Q",
@@ -72,7 +73,8 @@
         },
         {
           "name": "No. 1 Chinese Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.no1chineseoneonta.com"
         }
       ]
     },
@@ -105,7 +107,8 @@
         },
         {
           "name": "Goodyear Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/23876.html"
         },
         {
           "name": "Fortin Park",
@@ -122,7 +125,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Middlefield Town Hall",
@@ -130,7 +134,8 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -142,15 +147,17 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:20.353Z"
+  "fetchedAt": "2026-10-29T10:23:50.220Z"
 }

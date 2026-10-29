@@ -64,7 +64,8 @@
         },
         {
           "name": "Elsasser's @ 111",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://elsassers111.com/"
         },
         {
           "name": "Juniper",
@@ -85,7 +86,8 @@
         },
         {
           "name": "Cary Hill Sculpture Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.salemartworks.org/sculpture-park"
         },
         {
           "name": "Carters Pond Wildlife Management Area",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:55.789Z"
+  "fetchedAt": "2026-10-29T10:25:31.467Z"
 }

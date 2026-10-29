@@ -68,7 +68,8 @@
         },
         {
           "name": "5S Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.5sdiner.com/"
         },
         {
           "name": "Erie Station",
@@ -142,7 +143,8 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         },
         {
           "name": "Cobleskill Municipal Offices",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:43.864Z"
+  "fetchedAt": "2026-10-29T10:24:15.233Z"
 }

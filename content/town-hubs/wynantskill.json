@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Okinawa Chinese And Japanese Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.okinawarestaurantny.com/"
         },
         {
           "name": "Eadilyn's Table",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.eadilynstable.com"
         },
         {
           "name": "Indian Flame",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.indianflameny.com/"
         },
         {
           "name": "Paolo Lombardi's Ristorante",
@@ -60,7 +63,8 @@
         },
         {
           "name": "La Bella Pizza & Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.labellapizzawynantskill.com/"
         },
         {
           "name": "Schroeder's Cook Out",
@@ -138,7 +142,8 @@
         },
         {
           "name": "WellNow Urgent Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://wellnow.com/locations/north-greenbush/"
         },
         {
           "name": "Emma Willard Health Center",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:18.549Z"
+  "fetchedAt": "2026-10-29T10:24:52.907Z"
 }

@@ -48,7 +48,8 @@
         },
         {
           "name": "Tacos Diablo",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tacosdiablo.com"
         },
         {
           "name": "The Pines Restaurant and Bar",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Caffe Italia",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.caffeitaliaalbany.com/"
         },
         {
           "name": "MezzaNotte Ristorante",
@@ -126,7 +128,8 @@
         },
         {
           "name": "Skincare Specialists of the Capital Region",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "skinspecialistscr.com"
         },
         {
           "name": "Albany Med Health System",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:33.727Z"
+  "fetchedAt": "2026-10-29T10:20:53.813Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Red Maple Vineyards Cellars",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redmaplevineyard.com/rmvcellars"
         },
         {
           "name": "LOCOX",
@@ -52,11 +53,13 @@
         },
         {
           "name": "Hapág Bistro",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hapagbistro.com/"
         },
         {
           "name": "Asian Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://asiangardenny.com/"
         },
         {
           "name": "The Sandwhich Shop",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/poughkeepsie/3450-north-road-95067"
         }
       ]
     },
@@ -81,7 +85,8 @@
       "items": [
         {
           "name": "Black Creek Waterway Access",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Shaupeneak Ridge",
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "FirstCare Walk-In Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.firstcaremedcenter.com/"
         },
         {
           "name": "Town of Lloyd Town Hall",
@@ -138,11 +144,13 @@
         },
         {
           "name": "Sun River Health",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sunriver.org/"
         },
         {
           "name": "New Paltz Family Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.institute.org/health-care/locations/mid-hudson-valley/"
         },
         {
           "name": "Pine Street Medical Building",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:43.480Z"
+  "fetchedAt": "2026-10-29T10:23:08.698Z"
 }

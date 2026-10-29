@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Tammy's Candy Kettle",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://tammyscandykettle.com/"
         },
         {
           "name": "The Man of Kent",
@@ -118,7 +119,8 @@
       "items": [
         {
           "name": "Bennington Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.benningtonvt.org/"
         },
         {
           "name": "Petersburgh Town Hall",
@@ -126,7 +128,8 @@
         },
         {
           "name": "Southwestern Vermont Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://svmc.org/"
         },
         {
           "name": "Shaftsbury Town Offices (future home)",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:05.271Z"
+  "fetchedAt": "2026-10-29T10:24:39.293Z"
 }

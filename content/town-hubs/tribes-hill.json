@@ -64,15 +64,18 @@
         },
         {
           "name": "G’s Famous Lemon Cookies",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gsfamouslemoncookies.com/"
         },
         {
           "name": "Creek Stone",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://creekstoneamsterdam.com/"
         },
         {
           "name": "Sharp Shooters Billards Pub",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://sharpshootersbilliards.com/"
         }
       ]
     },
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Saint Mary's Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.smha.org/"
         },
         {
           "name": "Johnstown City Hall",
@@ -146,11 +150,12 @@
         },
         {
           "name": "Saint Mary's Hospital Memorial Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.smha.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:56.575Z"
+  "fetchedAt": "2026-10-29T10:24:29.699Z"
 }

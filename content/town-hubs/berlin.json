@@ -52,19 +52,23 @@
         },
         {
           "name": "The Store at Five Corners",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://storeatfivecorners.com"
         },
         {
           "name": "Spice Root",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.spiceroot.com/"
         },
         {
           "name": "Blue Mango",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://bluemangoma.smiledining.com/?2025021402"
         },
         {
           "name": "CRUST",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://crustpz.com"
         },
         {
           "name": "Tony's Sombrero Mexican Cuisine",
@@ -85,7 +89,8 @@
         },
         {
           "name": "Cherry Plain State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/cherryplain/"
         },
         {
           "name": "Grafton Lakes State Park",
@@ -93,10 +98,15 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Margaret Lindley Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Butler Park",
           "driveTime": "about 30 min"
         },
         {
@@ -105,10 +115,6 @@
         },
         {
           "name": "Mount Hope Park",
-          "driveTime": "about 30 min"
-        },
-        {
-          "name": "Science Quad",
           "driveTime": "about 30 min"
         }
       ]
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:58.974Z"
+  "fetchedAt": "2026-10-29T10:24:31.217Z"
 }

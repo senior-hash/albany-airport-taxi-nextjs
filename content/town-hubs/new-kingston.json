@@ -48,19 +48,23 @@
         },
         {
           "name": "Oda Wine Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://odabar.square.site"
         },
         {
           "name": "Zada's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.zadasbar.com"
         },
         {
           "name": "Binnekill Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.binnekill.com"
         },
         {
           "name": "Trattoria Locale",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.trattorialocalemargaretville.com/"
         },
         {
           "name": "TJ's Farm Market & Cafe",
@@ -68,11 +72,13 @@
         },
         {
           "name": "Union Grove Distillery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uniongrovedistillery.com"
         },
         {
           "name": "The Andes Diner",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://andesdiner.com/"
         }
       ]
     },
@@ -85,7 +91,8 @@
         },
         {
           "name": "Belleayre Ski Shop",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://belleayreskishop.com"
         },
         {
           "name": "Kirkside Park",
@@ -105,7 +112,8 @@
         },
         {
           "name": "Belleayre Mountain Ski Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.belleayre.com/"
         },
         {
           "name": "Lower Birch Creek Trailhead of the Shandaken Wild Forest",
@@ -130,7 +138,8 @@
         },
         {
           "name": "Margaretville Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wmchealth.org/locations/margaretville-hospital"
         },
         {
           "name": "Andes Town Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:05.147Z"
+  "fetchedAt": "2026-10-29T10:23:31.188Z"
 }

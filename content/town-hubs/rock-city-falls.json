@@ -52,11 +52,13 @@
         },
         {
           "name": "Justin's Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.justinspizzany.com/"
         },
         {
           "name": "Sunset at Saratoga",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://sunsetsaratoga.com/"
         },
         {
           "name": "Juicy Burgers & More",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Cusato's Pizzeria & Deli",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cusatospizza.com"
         }
       ]
     },
@@ -130,11 +133,13 @@
         },
         {
           "name": "Milton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofmiltonny.org"
         },
         {
           "name": "Saratoga Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://saratogahospital.org/"
         },
         {
           "name": "Saratoga Springs City Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:29.316Z"
+  "fetchedAt": "2026-10-29T10:25:03.391Z"
 }

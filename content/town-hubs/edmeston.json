@@ -81,7 +81,8 @@
         },
         {
           "name": "Morris Reservoir Waterway Access",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Gaines Memorial Park",
@@ -110,7 +111,8 @@
         },
         {
           "name": "Guthrie Clinic New Berlin",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.guthrie.org/locations/new-berlin"
         },
         {
           "name": "Hartwick Town Hall",
@@ -128,5 +130,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:15.876Z"
+  "fetchedAt": "2026-10-29T10:23:45.331Z"
 }

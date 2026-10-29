@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Daily Planet Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://dailyplanetdiner.com"
         },
         {
           "name": "Fratello's",
@@ -52,19 +53,23 @@
         },
         {
           "name": "Sonny's Restaurant & Pizzaria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.sonnysrestaurantandpizzeria.com/"
         },
         {
           "name": "The Blue Fountain Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://thebluefountain.com/"
         },
         {
           "name": "Pizza Time Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pizzatimewappingers.com/"
         },
         {
           "name": "Mama Mia's Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mamamiaswappingers.com/"
         },
         {
           "name": "TJ's Good Times Pub",
@@ -72,7 +77,8 @@
         },
         {
           "name": "Izumi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://izumi376.com/locations"
         }
       ]
     },
@@ -85,7 +91,8 @@
         },
         {
           "name": "James Baird State Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://parks.ny.gov/parks/jamesbaird"
         },
         {
           "name": "Stringham Park",
@@ -109,7 +116,8 @@
         },
         {
           "name": "Sylvan Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/60854.html"
         }
       ]
     },
@@ -122,7 +130,8 @@
         },
         {
           "name": "LaGrange Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.lagrangeny.org/"
         },
         {
           "name": "Union Vale Town Hall",
@@ -138,11 +147,13 @@
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pulse-mdurgentcare.com"
         },
         {
           "name": "Nuvance Health Primary Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nuvancehealth.org/locations/nuvance-health-medical-practice-primary-care-hopewell-junction"
         },
         {
           "name": "Poughkeepsie Town Offices",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:41.554Z"
+  "fetchedAt": "2026-10-29T10:22:01.544Z"
 }

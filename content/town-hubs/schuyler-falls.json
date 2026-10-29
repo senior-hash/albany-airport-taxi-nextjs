@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Pasquale's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.pasqualesrestaurant.org/"
         },
         {
           "name": "Livingood's Restaurant & Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.livingoodsrestaurant.com/"
         },
         {
           "name": "Rulfs Orchard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "rulfs.orchard.com"
         },
         {
           "name": "Hungry Bear",
@@ -142,7 +145,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:19.657Z"
+  "fetchedAt": "2026-10-29T10:26:58.233Z"
 }

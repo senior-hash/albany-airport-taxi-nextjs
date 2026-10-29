@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Bright Ideas Brewing",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.brightideasbrewing.com/"
         },
         {
           "name": "Eagle Street Cafe",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://eaglestreetcafe.com"
         },
         {
           "name": "Grazie",
@@ -64,11 +66,13 @@
         },
         {
           "name": "413 Bistro & Taproom",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://413bistro.com"
         },
         {
           "name": "Ramunto's Pizza",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://ramuntosbrickovenpizza.com/"
         },
         {
           "name": "The Hub",
@@ -101,11 +105,13 @@
         },
         {
           "name": "Western Gateway Heritage State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mass.gov/dcr/parks/western/wghp.htm"
         },
         {
           "name": "Windsor Lake Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.northadams-ma.gov/index.php?nav_id=75"
         },
         {
           "name": "Brayton Field",
@@ -122,15 +128,18 @@
         },
         {
           "name": "Clarksburg Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://clarksburgma.us/"
         },
         {
           "name": "North Adams Regional Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.berkshirehealthsystems.org/location/north-adams-regional-hospital/"
         },
         {
           "name": "North Adams City Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.northadams-ma.gov/"
         },
         {
           "name": "Searsburg Town Office",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:13.435Z"
+  "fetchedAt": "2026-10-29T10:27:52.703Z"
 }

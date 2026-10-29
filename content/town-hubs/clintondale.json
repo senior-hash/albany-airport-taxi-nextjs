@@ -1,0 +1,163 @@
+{
+  "slug": "clintondale",
+  "name": "Clintondale",
+  "county": "Ulster County",
+  "state": "New York",
+  "lat": 41.6948156,
+  "lon": -74.0512528,
+  "population": 1938,
+  "airportDistances": {
+    "alb": {
+      "miles": "~85 miles",
+      "driveTime": "about 1 hr 45 min"
+    },
+    "jfk": {
+      "miles": "~90 miles",
+      "driveTime": "about 2 hr 15 min"
+    },
+    "lga": {
+      "miles": "~80 miles",
+      "driveTime": "about 2 hr"
+    },
+    "ewr": {
+      "miles": "~85 miles",
+      "driveTime": "about 2 hr"
+    },
+    "logan": {
+      "miles": "~190 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "bradley": {
+      "miles": "~95 miles",
+      "driveTime": "about 2 hr 45 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Poughkeepsie station",
+    "miles": "~10 miles",
+    "driveTime": "about 15 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "John Fazio Farms Barbecue",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Paesano's Pizzeria",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "College Diner",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Pasquale's Restaurant & Pizza",
+          "driveTime": "about 15 min",
+          "website": "https://www.pasqualespizzarestaurant.net/"
+        },
+        {
+          "name": "Great Wall Kitchen",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Amazin' Melts",
+          "driveTime": "about 15 min",
+          "website": "https://www.amazinmelts.com/"
+        },
+        {
+          "name": "Asian Fusion",
+          "driveTime": "about 15 min",
+          "website": "https://asianfusionnp.com/"
+        },
+        {
+          "name": "Crazy Bowlz",
+          "driveTime": "about 15 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Sam's Cottage on the Greens Bed and Breakfast",
+          "driveTime": "about 5 min",
+          "website": "http://www.samscottagebb.com/"
+        },
+        {
+          "name": "Thomas Felten Community Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Tony Williams Town Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Cluett Schantz Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Johnson-Iorio Memorial Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Peace Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Berean Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Mill Brook Preserve",
+          "driveTime": "about 15 min",
+          "website": "https://www.millbrookpreserve.org/"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Plattekill Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Auerbach Chiropractic",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Gardiner Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Sun River Health",
+          "driveTime": "about 15 min",
+          "website": "https://www.sunriver.org/"
+        },
+        {
+          "name": "Town of Lloyd Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "FirstCare Walk-In Medical Center",
+          "driveTime": "about 15 min",
+          "website": "https://www.firstcaremedcenter.com/"
+        },
+        {
+          "name": "New Paltz Family Health Center",
+          "driveTime": "about 15 min",
+          "website": "https://www.institute.org/health-care/locations/mid-hudson-valley/"
+        },
+        {
+          "name": "New Paltz Village Hall",
+          "driveTime": "about 15 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T10:22:32.604Z"
+}

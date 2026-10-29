@@ -122,11 +122,13 @@
         },
         {
           "name": "Hometown Health Centers",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hometownhealthcenters.org/"
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.plannedparenthood.org/health-center/new-york/schenectady/12307/schenectady-center-4192-91110"
         },
         {
           "name": "Schenectady City Hall",
@@ -138,7 +140,8 @@
         },
         {
           "name": "Ellis Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.ellismedicine.org/locations/ellis-health-center.aspx"
         },
         {
           "name": "Wicker Wellness Center",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:36.079Z"
+  "fetchedAt": "2026-10-29T10:25:09.844Z"
 }

@@ -48,7 +48,8 @@
         },
         {
           "name": "El Mexicano",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://elmexicanorestaurant.com"
         },
         {
           "name": "The Bunker",
@@ -56,15 +57,18 @@
         },
         {
           "name": "Osteria Danny",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.osteriadanny.com/"
         },
         {
           "name": "Nashville of Saratoga",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://nashvilleofsaratoga.com/"
         },
         {
           "name": "The District",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thedistrict43.com/"
         },
         {
           "name": "Harvey's Restaurant and Bar",
@@ -72,7 +76,8 @@
         },
         {
           "name": "Hattie's Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://hattiesrestaurant.com/"
         }
       ]
     },
@@ -81,7 +86,8 @@
       "items": [
         {
           "name": "The Inn at Five Points",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.theinnatfivepoints.com/"
         },
         {
           "name": "Congress Park",
@@ -134,11 +140,13 @@
         },
         {
           "name": "Saratoga Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://saratogahospital.org/"
         },
         {
           "name": "Four Winds Hospital Saratoga",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.fourwindshospital.com"
         },
         {
           "name": "Urgent Care - Wilton Medical Arts",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:31.256Z"
+  "fetchedAt": "2026-10-29T10:25:04.992Z"
 }

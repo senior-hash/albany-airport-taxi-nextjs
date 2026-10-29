@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Broken Inn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.brokeninn.com/"
         },
         {
           "name": "Tequila Mexican Bar and Grill",
@@ -56,11 +57,13 @@
         },
         {
           "name": "Volcano Asian BBQ - Hotpot",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.volcanoalbany.com/"
         },
         {
           "name": "Meat & Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.meatandcompanynisky.com/"
         },
         {
           "name": "Uncle Rico's Pizza",
@@ -126,7 +129,8 @@
         },
         {
           "name": "Fresenius Medical Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.freseniuskidneycare.com/dialysis-centers/new-york/8663"
         },
         {
           "name": "Niskayuna Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:38.661Z"
+  "fetchedAt": "2026-10-29T10:25:13.021Z"
 }

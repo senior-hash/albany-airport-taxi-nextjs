@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Daily Planet Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dailyplanetdiner.com"
         },
         {
           "name": "Fratello's",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Sonny's Restaurant & Pizzaria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.sonnysrestaurantandpizzeria.com/"
         },
         {
           "name": "The Village Pancake Factory",
@@ -60,11 +62,13 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "A&A Italian Deli",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://aandaitaliandeli.com"
         },
         {
           "name": "Tap Room",
@@ -105,7 +109,8 @@
         },
         {
           "name": "James Baird State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/jamesbaird"
         },
         {
           "name": "Stringham Park",
@@ -130,7 +135,8 @@
         },
         {
           "name": "LaGrange Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.lagrangeny.org/"
         },
         {
           "name": "Union Vale Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:01.511Z"
+  "fetchedAt": "2026-10-29T10:22:23.161Z"
 }

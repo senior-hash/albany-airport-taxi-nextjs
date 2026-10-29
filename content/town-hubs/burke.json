@@ -77,7 +77,8 @@
         },
         {
           "name": "Salmon River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/docs/fish_marine_pdf/pfrsalmonrf.pdf"
         },
         {
           "name": "Kiwanis Park",
@@ -110,7 +111,8 @@
         },
         {
           "name": "Alice Hyde Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/alice-hyde-medical-center"
         },
         {
           "name": "Malone Town Hall",
@@ -124,5 +126,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:48.824Z"
+  "fetchedAt": "2026-10-29T10:26:27.011Z"
 }

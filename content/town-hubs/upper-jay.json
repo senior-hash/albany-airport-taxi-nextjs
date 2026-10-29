@@ -44,19 +44,23 @@
       "items": [
         {
           "name": "Adirondack Mountain Coffee Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.adkmountaincoffee.com/"
         },
         {
           "name": "Forty Six",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.fortysixer.com/"
         },
         {
           "name": "Rudy's Scar Bar + Grille",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rudyschaletwhiteface.com/"
         },
         {
           "name": "Country Bear",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.countrybeardiner.com"
         },
         {
           "name": "Pourman's Tap House",
@@ -64,7 +68,8 @@
         },
         {
           "name": "20 Main",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://20-main.edan.io/"
         },
         {
           "name": "Base Lodge Food Court",
@@ -93,7 +98,8 @@
         },
         {
           "name": "Dartbrook Lodge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dartbrooklodge.com/"
         },
         {
           "name": "The Inn at Whiteface",
@@ -130,7 +136,8 @@
         },
         {
           "name": "Town of Black Brook",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://blackbrook.webflow.io/"
         },
         {
           "name": "Black Brook Town Hall",
@@ -138,7 +145,8 @@
         },
         {
           "name": "Elizabethtown Community Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital"
         },
         {
           "name": "North Elba Town Hall",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:43.603Z"
+  "fetchedAt": "2026-10-29T10:26:19.824Z"
 }

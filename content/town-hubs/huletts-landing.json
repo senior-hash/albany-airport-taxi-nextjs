@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Huletts Casino",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "www.HulettsCasino.com"
         },
         {
           "name": "Sasquatch Saloon",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Hot Biscuit Diner",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://hotbiscuitdiner.com/"
         },
         {
           "name": "Emeralds Restaurant II",
@@ -97,7 +99,8 @@
         },
         {
           "name": "Peggy's Point",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://lglc.org/"
         },
         {
           "name": "Hague Town Beach Park",
@@ -130,11 +133,13 @@
         },
         {
           "name": "Elizabethtown Community Hospital - Ticonderoga",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital-ticonderoga-university-of-vermont-health"
         },
         {
           "name": "Ticonderoga Health Center",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.hhhn.org/locations/ticonderoga-health-center/"
         },
         {
           "name": "West Haven Town Office",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Town of Hague",
-          "driveTime": "about 1 hr"
+          "driveTime": "about 1 hr",
+          "website": "https://townofhague.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:53.040Z"
+  "fetchedAt": "2026-10-29T10:25:27.462Z"
 }

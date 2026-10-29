@@ -68,7 +68,8 @@
         },
         {
           "name": "The Dutch Ale House",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dutchalehouse.com/"
         },
         {
           "name": "Szechuan King",
@@ -142,15 +143,17 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:21.806Z"
+  "fetchedAt": "2026-10-29T10:21:42.031Z"
 }

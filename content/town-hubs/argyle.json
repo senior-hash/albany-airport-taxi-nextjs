@@ -60,7 +60,8 @@
         },
         {
           "name": "Slickfin Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.slickfinbrewing.com/"
         },
         {
           "name": "McCrea Tavern",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Pizza Hut",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://locations.pizzahut.com/ny/fort-edward/354-broadway"
         },
         {
           "name": "Dog Shack",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:43.278Z"
+  "fetchedAt": "2026-10-29T10:25:17.052Z"
 }

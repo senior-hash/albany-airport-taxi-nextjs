@@ -52,11 +52,13 @@
         },
         {
           "name": "Kingston Wok",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://kingstonwok.co"
         },
         {
           "name": "A Slice of Italy",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.asliceofitaly7115.com"
         },
         {
           "name": "Angel's Latin Restaurant II",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/kingston/1171-ulster-ave-98002"
         },
         {
           "name": "Michael's Diner",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Crazy Bowelz",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.crazybowlz.net/"
         }
       ]
     },
@@ -81,7 +85,8 @@
       "items": [
         {
           "name": "Barclay Heights Smythe House Bed and Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://smythehouse.com"
         },
         {
           "name": "Saugerties Public Beach Park",
@@ -93,7 +98,8 @@
         },
         {
           "name": "Esopus Bend Nature Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.esopuscreekconservancy.org/"
         },
         {
           "name": "Tina Chorvas Park",
@@ -101,11 +107,13 @@
         },
         {
           "name": "High Woods Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/104663.html"
         },
         {
           "name": "Potter Brothers Ski and Snowboard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.potterbrothers.com/about-us/our-shops/kingston-new-york/"
         },
         {
           "name": "Donlon Park",
@@ -122,7 +130,8 @@
         },
         {
           "name": "Advanced Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drkircher.com/"
         },
         {
           "name": "Optum Urgent Care",
@@ -134,7 +143,8 @@
         },
         {
           "name": "VA Kingston Outpatient Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albany.va.gov/locations/Kingston.asp"
         },
         {
           "name": "Nuvance Health - GoHealth Urgent Care",
@@ -152,5 +162,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:32.183Z"
+  "fetchedAt": "2026-10-29T10:22:59.043Z"
 }

@@ -72,7 +72,8 @@
         },
         {
           "name": "Sal's Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.salspizzeriany.com/"
         }
       ]
     },
@@ -105,7 +106,8 @@
         },
         {
           "name": "Oquaga Creek State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/oquagacreek/"
         },
         {
           "name": "Warner Field",
@@ -122,7 +124,8 @@
         },
         {
           "name": "A.O. Fox Hospital - Tri-Town Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus"
         },
         {
           "name": "Tompkins Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:03.336Z"
+  "fetchedAt": "2026-10-29T10:23:30.887Z"
 }

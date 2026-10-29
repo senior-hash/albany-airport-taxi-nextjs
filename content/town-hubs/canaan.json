@@ -52,7 +52,8 @@
         },
         {
           "name": "Mario's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mariosrestaurantnewlebanon.com/"
         },
         {
           "name": "Jackson's Old Chatham House",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Shaker Mill Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://shakermilltavernfamilysmokehouse.com/"
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Chatham Brewing",
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "Chatham Town Hall",
@@ -126,11 +130,13 @@
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Tracy Memorial Village Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:14.610Z"
+  "fetchedAt": "2026-10-29T10:21:34.774Z"
 }

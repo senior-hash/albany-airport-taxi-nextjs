@@ -52,7 +52,8 @@
         },
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.pizza23west.com/"
         },
         {
           "name": "Soda Jerks",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Undercover Eggplant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.undercovereggplant.com/"
         },
         {
           "name": "Dante's",
@@ -81,7 +83,8 @@
       "items": [
         {
           "name": "Morris Reservoir Waterway Access",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Huntington Memorial Park",
@@ -122,7 +125,8 @@
         },
         {
           "name": "Guthrie Clinic New Berlin",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.guthrie.org/locations/new-berlin"
         },
         {
           "name": "Oneonta Town Hall",
@@ -138,7 +142,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:20.765Z"
+  "fetchedAt": "2026-10-29T10:23:50.928Z"
 }

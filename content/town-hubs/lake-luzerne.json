@@ -48,27 +48,33 @@
         },
         {
           "name": "Amore Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.amorepizzapie.com/"
         },
         {
           "name": "The Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://qbytavern.com/"
         },
         {
           "name": "The Silo",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://thesiloqueensbury.com/"
         },
         {
           "name": "Ambrosia Diner",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.ambrosiadinerqueensbury.com"
         },
         {
           "name": "Friendly's",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.friendlys.com/"
         },
         {
           "name": "The Log Jam Restaurant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.logjamrestaurant.com/"
         },
         {
           "name": "Johnny Rockets",
@@ -142,7 +148,8 @@
         },
         {
           "name": "Queensbury Family Health",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hhhn.org/HealthCenters/?HCID=8"
         },
         {
           "name": "Hudson Headwaters Pediatric and Adolescent Health",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:07.464Z"
+  "fetchedAt": "2026-10-29T10:25:43.545Z"
 }

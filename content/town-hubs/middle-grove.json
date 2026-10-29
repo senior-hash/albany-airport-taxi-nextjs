@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Shirley's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/Shirleys12866/"
         },
         {
           "name": "Pope's Pizza",
@@ -52,11 +53,13 @@
         },
         {
           "name": "Taste of China",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tasteofchinass.com"
         },
         {
           "name": "West Ave Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westavenuepizzeria.com/"
         },
         {
           "name": "Abeel's",
@@ -68,7 +71,8 @@
         },
         {
           "name": "Sunset at Saratoga",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://sunsetsaratoga.com/"
         },
         {
           "name": "Juicy Burgers & More",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Saratoga Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://saratogahospital.org/"
         },
         {
           "name": "Passport Health Saratoga Springs Travel Clinic",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Milton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofmiltonny.org"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:26.915Z"
+  "fetchedAt": "2026-10-29T10:25:01.004Z"
 }

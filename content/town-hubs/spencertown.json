@@ -60,19 +60,23 @@
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gnomeslicepizzeria.com/"
         },
         {
           "name": "O's Eatery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://oseatery.com/"
         },
         {
           "name": "Yummy Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.yummykitchen.xyz/berry-farm"
         }
       ]
     },
@@ -97,7 +101,8 @@
         },
         {
           "name": "Berkshire Hills Sculpture Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bhsculpturegarden.com/"
         },
         {
           "name": "Village School Playground",
@@ -134,7 +139,8 @@
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Claverack Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:32.074Z"
+  "fetchedAt": "2026-10-29T10:21:54.015Z"
 }

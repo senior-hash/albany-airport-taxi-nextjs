@@ -48,7 +48,8 @@
         },
         {
           "name": "Shaker Mill Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://shakermilltavernfamilysmokehouse.com/"
         },
         {
           "name": "White Stone Cafe",
@@ -64,15 +65,18 @@
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gnomeslicepizzeria.com/"
         },
         {
           "name": "O's Eatery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://oseatery.com/"
         }
       ]
     },
@@ -93,7 +97,8 @@
         },
         {
           "name": "Berkshire Hills Sculpture Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bhsculpturegarden.com/"
         },
         {
           "name": "Village School Playground",
@@ -122,7 +127,8 @@
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Tracy Memorial Village Hall",
@@ -146,11 +152,12 @@
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:12.610Z"
+  "fetchedAt": "2026-10-29T10:21:34.773Z"
 }

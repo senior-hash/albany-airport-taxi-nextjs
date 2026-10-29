@@ -48,11 +48,13 @@
         },
         {
           "name": "S & S Farm Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sandsbrewery.com/"
         },
         {
           "name": "Jack Kelly's Tavern by the Green",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.blccgolf.com/restaurant.php"
         },
         {
           "name": "The Pillars Restaurant",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Tacos Diablos",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tacosdiablo.com/"
         }
       ]
     },
@@ -109,7 +112,8 @@
         },
         {
           "name": "Schodack Town Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.schodack.org/park.htm"
         }
       ]
     },
@@ -122,7 +126,8 @@
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "Stephentown Town Hall",
@@ -134,7 +139,8 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Chatham Town Hall",
@@ -142,15 +148,17 @@
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://upstatederm.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:02.871Z"
+  "fetchedAt": "2026-10-29T10:24:36.887Z"
 }

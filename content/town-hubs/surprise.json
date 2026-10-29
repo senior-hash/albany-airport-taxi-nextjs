@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         },
         {
           "name": "Tiny Diner",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Lil’ Piece BBQ and Catering",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://lilpiecebbq.com"
         },
         {
           "name": "Honey Hollow Brewing Company",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Green Hill Cafe & Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.greenhillcafepizzeria.com"
         },
         {
           "name": "Hop Barn Brewing",
@@ -122,7 +125,8 @@
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "Coxsackie Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:07.544Z"
+  "fetchedAt": "2026-10-29T10:21:27.573Z"
 }

@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "The Factory Eatery and Spirits",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.thefactoryeatery.com/"
         },
         {
           "name": "Legend Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.legendsushi15.com/"
         },
         {
           "name": "Ribbon Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ribboncafeny.com/menu"
         },
         {
           "name": "White House Restaurant",
@@ -64,7 +67,8 @@
         },
         {
           "name": "Route 50 Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mealeo.com/restaurants/ballston-spa/route-50-diner"
         },
         {
           "name": "The Brickyard Tavern & Grill",
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Milton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofmiltonny.org"
         },
         {
           "name": "Saratoga Hospital Medical Group Primary Care – Milton",
@@ -134,23 +139,27 @@
         },
         {
           "name": "Malta Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofmaltany.gov"
         },
         {
           "name": "SHMG Malta - Nephrology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/shmg-nephrology-at-malta"
         },
         {
           "name": "SHMG Malta -  Endocrinology & Diabetes",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/shmg-endocrinology-and-diabetes-at-malta"
         },
         {
           "name": "SHMG - Sports Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/saratoga-hospital-medical-group-primary-care-sports-medicine"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:19.716Z"
+  "fetchedAt": "2026-10-29T10:24:53.739Z"
 }

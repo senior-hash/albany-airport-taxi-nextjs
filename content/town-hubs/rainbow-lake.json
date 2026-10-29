@@ -52,7 +52,8 @@
         },
         {
           "name": "The Rusty Nail",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rustynail.com"
         },
         {
           "name": "Bitters & Bones",
@@ -68,11 +69,13 @@
         },
         {
           "name": "Left Bank Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://Www.leftbankcafeadk.com/"
         },
         {
           "name": "Charlie's Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.newyorksnowmobiling.com/dining.html"
         }
       ]
     },
@@ -122,7 +125,8 @@
         },
         {
           "name": "Adirondack Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.adirondackhealth.org/adirondack-medical-center-saranac-lake"
         },
         {
           "name": "Mountain Medical Urgent Care",
@@ -134,7 +138,8 @@
         },
         {
           "name": "Town of Saint Armand",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofstarmandny.gov/index.html"
         },
         {
           "name": "Harrietstown Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:58.416Z"
+  "fetchedAt": "2026-10-29T10:26:36.988Z"
 }

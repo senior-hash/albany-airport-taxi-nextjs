@@ -48,23 +48,28 @@
         },
         {
           "name": "Ausable Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://ausablebrewing.com/"
         },
         {
           "name": "Rulfs Orchard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "rulfs.orchard.com"
         },
         {
           "name": "Pasquale's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.pasqualesrestaurant.org/"
         },
         {
           "name": "Livingood's Restaurant & Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.livingoodsrestaurant.com/"
         },
         {
           "name": "New York Pizza Oven",
-          "driveTime": "about 1 hr 30 min"
+          "driveTime": "about 1 hr 30 min",
+          "website": "https://nypovt.com"
         },
         {
           "name": "Rossi Lakeshore Tavern & Restaurant",
@@ -130,7 +135,8 @@
         },
         {
           "name": "Lighthouse Chiropractic",
-          "driveTime": "about 1 hr"
+          "driveTime": "about 1 hr",
+          "website": "https://www.lighthouse-chiro.com"
         },
         {
           "name": "UVM Medical Center Family Medicine",
@@ -142,15 +148,17 @@
         },
         {
           "name": "Riverside Health Center",
-          "driveTime": "about 1 hr 30 min"
+          "driveTime": "about 1 hr 30 min",
+          "website": "https://www.chcb.org"
         },
         {
           "name": "Pearl Street Youth Health Center",
-          "driveTime": "about 1 hr 30 min"
+          "driveTime": "about 1 hr 30 min",
+          "website": "https://www.chcb.org/locations-providers/pearl-street-youth-health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:38.938Z"
+  "fetchedAt": "2026-10-29T10:26:16.269Z"
 }

@@ -60,7 +60,8 @@
         },
         {
           "name": "No. 1 Chinese Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.no1chineseoneonta.com"
         },
         {
           "name": "Buffalo Wild Wings",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Taqueria Guadalajara",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.taqueria-de-guadalajara.com/"
         },
         {
           "name": "Denny's",
@@ -85,7 +87,8 @@
         },
         {
           "name": "Goodyear Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/23876.html"
         },
         {
           "name": "Worcester Park",
@@ -130,7 +133,8 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -138,11 +142,13 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Westford Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:19.801Z"
+  "fetchedAt": "2026-10-29T10:23:50.121Z"
 }

@@ -60,7 +60,8 @@
         },
         {
           "name": "The Pizza Shop",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://thepizzashopwarrensburg.com/"
         },
         {
           "name": "New Way Lunch",
@@ -72,7 +73,8 @@
         },
         {
           "name": "DeCesare's Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.schroonlakeregion.com/dine-and-shop/dining/decesares-pizzeria"
         }
       ]
     },
@@ -104,12 +106,12 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Courtney Park",
+          "name": "Calvin Engle Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Duck Pond Inn",
-          "driveTime": "about 30 min"
+          "name": "Warrensburg Recreation Field",
+          "driveTime": "about 15 min"
         }
       ]
     },
@@ -148,5 +150,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:00.598Z"
+  "fetchedAt": "2026-10-29T10:25:38.673Z"
 }

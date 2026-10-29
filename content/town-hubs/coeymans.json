@@ -52,7 +52,8 @@
         },
         {
           "name": "Red's Seafood",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.redsrestaurant.com/"
         },
         {
           "name": "Quarry Steak House",
@@ -126,7 +127,8 @@
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "Coxsackie Town Hall",
@@ -142,7 +144,8 @@
         },
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "East Greenbush Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:28.927Z"
+  "fetchedAt": "2026-10-29T10:20:46.604Z"
 }

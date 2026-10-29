@@ -44,23 +44,28 @@
       "items": [
         {
           "name": "Burleigh House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.burleighluncheonette.com"
         },
         {
           "name": "Burleigh's Luncheonette",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.burleighluncheonette.com/"
         },
         {
           "name": "House of Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.houseofpizzarestaurant.com/"
         },
         {
           "name": "The Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://experiencethepub.com/"
         },
         {
           "name": "Bodette's Barbecue",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.facebook.com/bodettesbarbecue"
         },
         {
           "name": "Happy Star",
@@ -68,7 +73,8 @@
         },
         {
           "name": "Hot Biscuit Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://hotbiscuitdiner.com/"
         },
         {
           "name": "Wagon Wheel",
@@ -81,11 +87,13 @@
       "items": [
         {
           "name": "Artillery Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofticonderoga.gov/parks/"
         },
         {
           "name": "Carrilon Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofticonderoga.gov/parks/"
         },
         {
           "name": "Rogers Rock Campground Entrance",
@@ -97,7 +105,8 @@
         },
         {
           "name": "Peggy's Point",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lglc.org/"
         },
         {
           "name": "Hague Town Beach Park",
@@ -105,11 +114,13 @@
         },
         {
           "name": "Crown Point State Historic Site",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://nysparks.com/historic-sites/34/details.aspx"
         },
         {
           "name": "Watch Point Inn & Cottages",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.watchpointinn.com"
         }
       ]
     },
@@ -118,11 +129,13 @@
       "items": [
         {
           "name": "Elizabethtown Community Hospital - Ticonderoga",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital-ticonderoga-university-of-vermont-health"
         },
         {
           "name": "Ticonderoga Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hhhn.org/locations/ticonderoga-health-center/"
         },
         {
           "name": "Putnam Town Hall",
@@ -134,7 +147,8 @@
         },
         {
           "name": "Town of Hague",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofhague.org/"
         },
         {
           "name": "Crown Point Town Hall",
@@ -146,11 +160,12 @@
         },
         {
           "name": "Orwell Town Office",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://townoforwellvt.org"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:41.638Z"
+  "fetchedAt": "2026-10-29T10:26:19.805Z"
 }

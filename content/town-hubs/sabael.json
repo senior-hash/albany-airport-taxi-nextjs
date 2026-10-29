@@ -52,7 +52,8 @@
         },
         {
           "name": "McSweeney's Irish Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mcsweeneysirishpub.com/"
         },
         {
           "name": "Bear Trap",
@@ -85,30 +86,15 @@
         },
         {
           "name": "Blue Mountain Lake Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bluemountainlakeinn.com/"
         },
         {
           "name": "Oak Mountain",
           "driveTime": "about 30 min"
         },
         {
-          "name": "Topridge Quad",
-          "driveTime": "about 45 min"
-        },
-        {
-          "name": "Sunway",
-          "driveTime": "about 45 min"
-        },
-        {
-          "name": "Northwoods Gondola",
-          "driveTime": "about 45 min"
-        },
-        {
-          "name": "Adirondack Express",
-          "driveTime": "about 45 min"
-        },
-        {
-          "name": "North Quad",
+          "name": "Highwinds Inn",
           "driveTime": "about 45 min"
         }
       ]
@@ -124,5 +110,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:21.822Z"
+  "fetchedAt": "2026-10-29T10:25:58.085Z"
 }

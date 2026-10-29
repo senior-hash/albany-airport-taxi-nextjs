@@ -52,15 +52,18 @@
         },
         {
           "name": "Oliver's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oliversny.com"
         },
         {
           "name": "The Pines",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://catskillpines.com"
         },
         {
           "name": "Woodnotes Grille",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://emersonresort.com/woodnotesgrille/"
         },
         {
           "name": "LJ's Restaurant",
@@ -68,11 +71,13 @@
         },
         {
           "name": "Foxfire Bar Room",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.foxfiremountainhouse.com/menu"
         },
         {
           "name": "Woodstock Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drinkwoodstock.com"
         }
       ]
     },
@@ -81,19 +86,23 @@
       "items": [
         {
           "name": "Lester S. Davis Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofolive.org/recreation/"
         },
         {
           "name": "Little Blue House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.littlebluehousecatskills.com"
         },
         {
           "name": "Catskills Visitor Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://catskillsvisitorcenter.org"
         },
         {
           "name": "Grant Avery Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/recreation/"
         },
         {
           "name": "Tongore Park",
@@ -101,7 +110,8 @@
         },
         {
           "name": "Brown's Station",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www1.nyc.gov/assets/dep/downloads/pdf/recreation/area-maps/Ashokan_Day_Use_Area.pdf"
         },
         {
           "name": "Simpson Mini-Park",
@@ -118,19 +128,23 @@
       "items": [
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Woodstock Town Hall",
@@ -142,15 +156,17 @@
         },
         {
           "name": "Hurley Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://townhurley.digitaltowpath.org:10077/content/"
         },
         {
           "name": "Riverside Hearing Aide Service",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://riversidehearingaids.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:44.012Z"
+  "fetchedAt": "2026-10-29T10:23:09.158Z"
 }

@@ -48,23 +48,28 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "Eastdale Ave Bagels Coffee",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.eastdaleavenuebagels.com/"
         },
         {
           "name": "Pizzeria Posto at Eastdale",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://pizzeriapostoateastdale.com/"
         },
         {
           "name": "Tomo Asian Fusion",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://tomoasianfusioneastdale.com"
         },
         {
           "name": "El Jalapeno",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://eljalapenony.com/menu/eljalapeno-poughkeepsie"
         },
         {
           "name": "City Line Diner",
@@ -105,7 +110,8 @@
         },
         {
           "name": "James Baird State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/jamesbaird"
         },
         {
           "name": "Morgan Lake Park",
@@ -122,7 +128,8 @@
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pulse-mdurgentcare.com/"
         },
         {
           "name": "Poughkeepsie Town Offices",
@@ -134,7 +141,8 @@
         },
         {
           "name": "Poughkeepsie City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cityofpoughkeepsie.com/"
         },
         {
           "name": "Pine Street Medical Building",
@@ -142,7 +150,8 @@
         },
         {
           "name": "MidHudson Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wmchealth.org/locations/midhudson-regional-hospital"
         },
         {
           "name": "Millbrook Village Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:53.614Z"
+  "fetchedAt": "2026-10-29T10:22:15.631Z"
 }

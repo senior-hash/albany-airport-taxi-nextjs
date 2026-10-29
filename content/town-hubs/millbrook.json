@@ -52,11 +52,13 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "Daily Planet Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dailyplanetdiner.com"
         },
         {
           "name": "The Pines",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Eastdale Ave Bagels Coffee",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.eastdaleavenuebagels.com/"
         }
       ]
     },
@@ -97,7 +100,8 @@
         },
         {
           "name": "Hotel Caravana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hotelcaravana.com/"
         },
         {
           "name": "Friends Park",
@@ -105,7 +109,8 @@
         },
         {
           "name": "Whitlock Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dutchessny.gov/CountyGov/Departments/DPW-Parks/tmswhitlockpreserve.pdf"
         },
         {
           "name": "Salt Point Recreation Park",
@@ -146,11 +151,12 @@
         },
         {
           "name": "LaGrange Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.lagrangeny.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:51.199Z"
+  "fetchedAt": "2026-10-29T10:22:11.175Z"
 }

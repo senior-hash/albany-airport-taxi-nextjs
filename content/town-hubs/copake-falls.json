@@ -48,7 +48,8 @@
         },
         {
           "name": "Dad's Copake Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://dadscopakediner.com/"
         },
         {
           "name": "Sweat Pea's Diner",
@@ -89,7 +90,8 @@
         },
         {
           "name": "Garrett Garden and Green",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofmtwashington.com/garrett-garden/"
         },
         {
           "name": "Town Park",
@@ -101,7 +103,8 @@
         },
         {
           "name": "Berkshire Hills Sculpture Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bhsculpturegarden.com/"
         },
         {
           "name": "Newsboy Park",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:17.407Z"
+  "fetchedAt": "2026-10-29T10:21:39.580Z"
 }

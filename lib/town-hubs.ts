@@ -3,7 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 export type TownHubAirportDistance = { miles: string; driveTime: string };
-export type TownHubPlaceItem = { name: string; driveTime: string };
+export type TownHubPlaceItem = { name: string; driveTime: string; website?: string };
 export type TownHubPlaceGroup = { label: string; items: TownHubPlaceItem[] };
 
 // Written by scripts/town-hubs/refresh-town-hubs.mjs — real data from

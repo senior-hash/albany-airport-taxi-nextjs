@@ -68,7 +68,8 @@
         },
         {
           "name": "Elsasser's @ 111",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://elsassers111.com/"
         },
         {
           "name": "Juniper",
@@ -105,7 +106,8 @@
         },
         {
           "name": "Gannon Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://villageofgreenwich.org/location/gannon-park/"
         },
         {
           "name": "Mowry Park",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:46.141Z"
+  "fetchedAt": "2026-10-29T10:25:21.818Z"
 }

@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Honeypie",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.eatathoneypie.com/"
         },
         {
           "name": "Family Kitchen & Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.familykitchenpizzeria.com"
         },
         {
           "name": "Red Fox Inn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redfoxinn.com/"
         },
         {
           "name": "Green Apron",
@@ -81,7 +84,8 @@
       "items": [
         {
           "name": "Norse House Ski and Sport",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.norsehouse.com"
         },
         {
           "name": "The Startingate",
@@ -89,7 +93,8 @@
         },
         {
           "name": "Equipe Sport",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.equipesport.com"
         },
         {
           "name": "Stratton Mountain Resort",
@@ -126,11 +131,13 @@
         },
         {
           "name": "Carlos Otis Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.carlosotisclinic.org/"
         },
         {
           "name": "Londonderry Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.londonderryvt.org/"
         },
         {
           "name": "Jamaica Town Office",
@@ -138,19 +145,22 @@
         },
         {
           "name": "Peru Town Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.peruvt.org/"
         },
         {
           "name": "Mountain Valley Medical Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ourclinic.org/"
         },
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.manchestermedicalcenter.com"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:06.218Z"
+  "fetchedAt": "2026-10-29T10:27:45.476Z"
 }

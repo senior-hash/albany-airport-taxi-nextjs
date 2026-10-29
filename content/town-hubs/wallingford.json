@@ -72,7 +72,8 @@
         },
         {
           "name": "Vermont Tap House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.vermonttaphouserutland.com/"
         }
       ]
     },
@@ -85,7 +86,8 @@
         },
         {
           "name": "Lower Clarendon Gorge State Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://vermontriverconservancy.org/sites/lower-clarendon-gorge-state-forest"
         },
         {
           "name": "Tinmouth Channel Wildlife Management Area",
@@ -93,15 +95,18 @@
         },
         {
           "name": "Justin Thomas Memorial Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/justinthomasmemorialpark"
         },
         {
           "name": "Main Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/main-street-park"
         },
         {
           "name": "Center Street Marketplace Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/centerstreetmarketplace"
         },
         {
           "name": "Whites Memorial Park",
@@ -109,7 +114,8 @@
         },
         {
           "name": "Depot Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/depotpark"
         }
       ]
     },
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:30.691Z"
+  "fetchedAt": "2026-10-29T10:28:11.351Z"
 }

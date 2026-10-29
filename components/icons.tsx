@@ -161,6 +161,16 @@ export function UsersIcon({ className }: IconProps) {
   );
 }
 
+export function ExternalLinkIcon({ className }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden="true">
+      <path d="M14 4h6v6" />
+      <path d="M20 4 10 14" />
+      <path d="M18 13v5a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h5" />
+    </svg>
+  );
+}
+
 export function BriefcaseIcon({ className }: IconProps) {
   return (
     <svg {...base} className={className} aria-hidden="true">

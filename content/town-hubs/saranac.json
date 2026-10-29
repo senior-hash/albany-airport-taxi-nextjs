@@ -85,7 +85,8 @@
         },
         {
           "name": "Cadyville Recreation Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.townofplattsburghrecreation.com/Default.aspx?tabid=550987"
         },
         {
           "name": "East Morrisonville Park",
@@ -142,7 +143,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:18.058Z"
+  "fetchedAt": "2026-10-29T10:26:57.172Z"
 }

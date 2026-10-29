@@ -87,7 +87,13 @@ export async function generateMetadata({
       alternates: {
         canonical: hasQualifiedHub ? `/towns/${city.slug}` : `/airport-taxi/${airport.slug}/${city.slug}`,
       },
-      robots: hasRealDetail ? undefined : { index: false, follow: true },
+      // A page whose canonical points at a qualified hub is already telling
+      // Google to consolidate there — noindex alongside that canonical is
+      // redundant and conflicting (Google generally just honors noindex and
+      // drops the page, ignoring the canonical signal entirely). Only pages
+      // that stay self-canonical (no qualified hub) get noindexed for thin
+      // content.
+      robots: hasQualifiedHub || hasRealDetail ? undefined : { index: false, follow: true },
     };
   }
 

@@ -56,11 +56,13 @@
         },
         {
           "name": "DeCesare's Pizzeria",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.schroonlakeregion.com/dine-and-shop/dining/decesares-pizzeria"
         },
         {
           "name": "Flanagan's Bar & Grill",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.flanaganspubandgrill.com/"
         },
         {
           "name": "Timberwolf Pub",
@@ -142,11 +144,12 @@
         },
         {
           "name": "Town of Hague",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://townofhague.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:58.187Z"
+  "fetchedAt": "2026-10-29T10:25:33.874Z"
 }

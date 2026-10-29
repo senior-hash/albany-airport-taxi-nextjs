@@ -81,7 +81,8 @@ export default function AlbanyToNycPage() {
             <Link href="/long-distance/albany-to-nyc/vs-train-and-bus">
               full comparison of car service, train, and bus
             </Link>
-            .
+            . Flying out of JFK instead? See how a{" "}
+            <Link href="/jfk-shuttle-vs-private-car">shared shuttle compares to a private car</Link>.
           </p>
           <div className="not-prose mt-10">
             <PickupAreas destinationSlug="albany-to-nyc" />

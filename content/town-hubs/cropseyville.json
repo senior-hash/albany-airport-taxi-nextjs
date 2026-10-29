@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Duncan's Dairy Bar",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.duncansdairybar.com"
         },
         {
           "name": "Troy Botanical Garden Buffet",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.troybotanicalgarden.com/buffet"
         },
         {
           "name": "Country View Diner",
@@ -93,7 +95,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Brunswick Vanderheyden Reservoir Park",
@@ -101,7 +104,8 @@
         },
         {
           "name": "Gardner Farm Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.gardnerfarminn.com/"
         },
         {
           "name": "Eagle Scout Park & Boat Launch",
@@ -109,7 +113,8 @@
         },
         {
           "name": "Frear Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.troyny.gov/1413/Frear-Park"
         }
       ]
     },
@@ -146,11 +151,12 @@
         },
         {
           "name": "Samaritan Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/samaritan-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:01.370Z"
+  "fetchedAt": "2026-10-29T10:24:34.489Z"
 }

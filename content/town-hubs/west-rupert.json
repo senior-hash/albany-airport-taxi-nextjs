@@ -56,11 +56,13 @@
         },
         {
           "name": "The Barn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.thebarnrestaurantvt.com/"
         },
         {
           "name": "Christos' Pizza and Pasta",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://christospizzaandpasta.com"
         },
         {
           "name": "Gourmet Deli & Cafe",
@@ -68,11 +70,13 @@
         },
         {
           "name": "Ponce Bistro",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://poncebistro.com/"
         },
         {
           "name": "Sushi Boat Japanese Restaurant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sushiboatvt.com/"
         }
       ]
     },
@@ -89,7 +93,8 @@
         },
         {
           "name": "Cary Hill Sculpture Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.salemartworks.org/sculpture-park"
         },
         {
           "name": "Veteran's Park",
@@ -97,11 +102,13 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         },
         {
           "name": "Factory Point Town Green",
@@ -142,15 +149,17 @@
         },
         {
           "name": "Wells Town Offices",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://wellsvt.com/"
         },
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.manchestermedicalcenter.com"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:13.436Z"
+  "fetchedAt": "2026-10-29T10:27:53.857Z"
 }

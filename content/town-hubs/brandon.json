@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "22 Park Eatery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://22park.com/"
         },
         {
           "name": "Li's Chinese",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:15.856Z"
+  "fetchedAt": "2026-10-29T10:27:56.292Z"
 }

@@ -48,7 +48,8 @@
         },
         {
           "name": "Brandywine Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://brandywinewindham.com/"
         },
         {
           "name": "MaMa's Pizza and Trattoria",
@@ -93,7 +94,8 @@
         },
         {
           "name": "Bearpen Mountain Sports",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bearpenmountain.com/"
         },
         {
           "name": "Hunter Mountain",
@@ -108,7 +110,7 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "K Lift",
+          "name": "Glenbrook Park",
           "driveTime": "about 15 min"
         }
       ]
@@ -122,7 +124,8 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Prattsville Town Hall",
@@ -134,7 +137,8 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Windham Town Hall",
@@ -146,11 +150,12 @@
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:00.300Z"
+  "fetchedAt": "2026-10-29T10:21:20.259Z"
 }

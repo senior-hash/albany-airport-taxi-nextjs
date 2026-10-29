@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Oxbow inn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oxbowpizza.com"
         },
         {
           "name": "The Inn at Speculator",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Logan's Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.logansbarandgrill.com/"
         },
         {
           "name": "Sunrise Diner",
@@ -77,7 +79,8 @@
       "items": [
         {
           "name": "Poplar Point Day Use Area",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dec.ny.gov/outdoor/24491.html"
         },
         {
           "name": "shuffle board",
@@ -108,5 +111,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:19.780Z"
+  "fetchedAt": "2026-10-29T10:25:56.917Z"
 }

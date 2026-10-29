@@ -48,7 +48,8 @@
         },
         {
           "name": "The Barn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thebarnrestaurantvt.com/"
         },
         {
           "name": "Bernardo's",
@@ -97,7 +98,8 @@
         },
         {
           "name": "Mineral Springs Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://middletownsprings.vt.gov/recreation/"
         },
         {
           "name": "Emerald Lake State Park",
@@ -105,11 +107,13 @@
         },
         {
           "name": "Honey Pond Farm Estate",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://honeypondfarmvt.com/"
         },
         {
           "name": "Lower Clarendon Gorge State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://vermontriverconservancy.org/sites/lower-clarendon-gorge-state-forest"
         }
       ]
     },
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:20.604Z"
+  "fetchedAt": "2026-10-29T10:27:59.948Z"
 }

@@ -68,7 +68,8 @@
         },
         {
           "name": "Zinnia's Dinette",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.zinniasdinette.com/"
         },
         {
           "name": "Hy's Fried",
@@ -85,7 +86,8 @@
         },
         {
           "name": "Berkshire Hills Sculpture Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bhsculpturegarden.com/"
         },
         {
           "name": "Inn at Green River",
@@ -138,7 +140,8 @@
         },
         {
           "name": "Great Barrington Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofgb.org/"
         },
         {
           "name": "Ghent Town Hall",
@@ -146,11 +149,12 @@
         },
         {
           "name": "Fairview Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.berkshirehealthsystems.org/fairview"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:22.207Z"
+  "fetchedAt": "2026-10-29T10:21:44.423Z"
 }

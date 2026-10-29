@@ -64,15 +64,18 @@
         },
         {
           "name": "Iron Lantern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ironlanternrestaurant.com"
         },
         {
           "name": "Blue Cat Bistro",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bluecatcastleton.com/"
         },
         {
           "name": "Castleton Pizza Place and Deli",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.castletonpizza.com/"
         }
       ]
     },
@@ -122,7 +125,8 @@
         },
         {
           "name": "Orwell Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townoforwellvt.org"
         },
         {
           "name": "Orwell Town Hall",
@@ -142,7 +146,8 @@
         },
         {
           "name": "Castleton Family Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.chcrr.org/location/castleton-family-health-center/"
         },
         {
           "name": "Sudbury Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:13.839Z"
+  "fetchedAt": "2026-10-29T10:27:54.452Z"
 }

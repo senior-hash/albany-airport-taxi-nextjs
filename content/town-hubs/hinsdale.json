@@ -48,7 +48,8 @@
         },
         {
           "name": "Dewey's Public House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.deweyspublichouse.com/home"
         },
         {
           "name": "Angelina's Sub Shop",
@@ -56,7 +57,8 @@
         },
         {
           "name": "portaVia",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/PaddyspubDalton"
         },
         {
           "name": "Hot Harry's Fresh Burritos",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ma/pittsfield/555-hubbard-ave-81051"
         },
         {
           "name": "Friendly's",
@@ -118,23 +121,28 @@
       "items": [
         {
           "name": "Hinsdale Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hinsdalemass.com/"
         },
         {
           "name": "Peru Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofperuma.com/"
         },
         {
           "name": "Dalton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dalton-ma.gov/"
         },
         {
           "name": "Washington Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.washington-ma.com/"
         },
         {
           "name": "Windsor Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.windsormass.com/town-hall-rental"
         },
         {
           "name": "Berkshire Eye Center",
@@ -146,11 +154,12 @@
         },
         {
           "name": "Pittsfield City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cityofpittsfield.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:46.913Z"
+  "fetchedAt": "2026-10-29T10:27:27.265Z"
 }

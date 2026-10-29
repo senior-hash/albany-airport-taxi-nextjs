@@ -48,7 +48,8 @@
         },
         {
           "name": "22 Park Eatery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://22park.com/"
         },
         {
           "name": "Li's Chinese",
@@ -85,7 +86,8 @@
         },
         {
           "name": "Hathaway Farm Corn Maze",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hathawayfarm.com/"
         },
         {
           "name": "Library Green",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:28.285Z"
+  "fetchedAt": "2026-10-29T10:28:08.937Z"
 }

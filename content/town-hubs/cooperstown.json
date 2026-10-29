@@ -52,7 +52,8 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         },
         {
           "name": "Blue Mingo Grill",
@@ -105,7 +106,8 @@
         },
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "Richfield Springs Municipal Park",
@@ -118,7 +120,8 @@
       "items": [
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Middlefield Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:14.999Z"
+  "fetchedAt": "2026-10-29T10:23:42.923Z"
 }

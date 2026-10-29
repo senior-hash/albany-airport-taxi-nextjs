@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Zaitoon Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.zaitoonkitchen.com/"
         },
         {
           "name": "Ala Shanghai",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://alashanghai.net/"
         },
         {
           "name": "Tipsy Moose Tap & Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://tipsymoosetavern.com/"
         },
         {
           "name": "Ziggy's Night Club & Sports Bar",
@@ -60,19 +63,23 @@
         },
         {
           "name": "DinerTime",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dinertimeny.com/"
         },
         {
           "name": "JJ Rafferty's Bar & Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.jjraffertyslatham.com/"
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/latham/555-troy-schenectady-road-98032"
         },
         {
           "name": "J's Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.jskitchenchinese.com/"
         }
       ]
     },
@@ -126,7 +133,8 @@
         },
         {
           "name": "CNY Fertility Clinic",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cnyfertility.com/location/cny-fertility-albany/"
         },
         {
           "name": "Specialty Surgery Center of the Capital Region",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:36.108Z"
+  "fetchedAt": "2026-10-29T10:20:56.208Z"
 }

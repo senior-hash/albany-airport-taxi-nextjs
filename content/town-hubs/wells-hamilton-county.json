@@ -52,7 +52,8 @@
         },
         {
           "name": "Logan's Bar & Grill",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.logansbarandgrill.com/"
         },
         {
           "name": "The Inn at Speculator",
@@ -72,7 +73,8 @@
         },
         {
           "name": "The Local Dining and Spirits",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://thelocaldiningandspirits.com"
         }
       ]
     },
@@ -97,15 +99,18 @@
         },
         {
           "name": "Lapland Lake Nordic Lodge",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.laplandlake.com/"
         },
         {
           "name": "Lapland Lake Nordic Vacation Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.laplandlake.com"
         },
         {
           "name": "Poplar Point Day Use Area",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.dec.ny.gov/outdoor/24491.html"
         }
       ]
     },
@@ -140,5 +145,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:22.164Z"
+  "fetchedAt": "2026-10-29T10:26:00.500Z"
 }

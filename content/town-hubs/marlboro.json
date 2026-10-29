@@ -68,7 +68,8 @@
         },
         {
           "name": "Cafe Con Leche",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.nycafeconleche.com/"
         },
         {
           "name": "di'Vine Wine Bar",
@@ -89,11 +90,13 @@
         },
         {
           "name": "Locust Grove",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lgny.org/"
         },
         {
           "name": "Hemlock Ridge Multiple Use Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/lands/104628.html"
         },
         {
           "name": "Hagantown Park",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Castle Point VA Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.va.gov/hudson-valley-health-care/"
         },
         {
           "name": "Premere Medical Group",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:22.410Z"
+  "fetchedAt": "2026-10-29T10:22:47.015Z"
 }

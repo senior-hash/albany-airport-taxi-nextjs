@@ -48,23 +48,28 @@
         },
         {
           "name": "Zada's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.zadasbar.com"
         },
         {
           "name": "Binnekill Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.binnekill.com"
         },
         {
           "name": "Trattoria Locale",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.trattorialocalemargaretville.com/"
         },
         {
           "name": "Oda Wine Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://odabar.square.site"
         },
         {
           "name": "The Andes Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://andesdiner.com/"
         },
         {
           "name": "Wayside Cider",
@@ -85,7 +90,8 @@
         },
         {
           "name": "Belleayre Ski Shop",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://belleayreskishop.com"
         },
         {
           "name": "Smith Park",
@@ -97,7 +103,8 @@
         },
         {
           "name": "Belleayre Mountain Ski Center",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.belleayre.com/"
         },
         {
           "name": "Delhi Community Park",
@@ -126,7 +133,8 @@
         },
         {
           "name": "Margaretville Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wmchealth.org/locations/margaretville-hospital"
         },
         {
           "name": "Andes Town Hall",
@@ -146,11 +154,12 @@
         },
         {
           "name": "Hardenburgh Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofhardenburgh.org"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:05.660Z"
+  "fetchedAt": "2026-10-29T10:22:28.213Z"
 }

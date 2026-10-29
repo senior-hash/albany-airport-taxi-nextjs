@@ -85,7 +85,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Pineridge Cross Country Trails",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:12.501Z"
+  "fetchedAt": "2026-10-29T10:24:46.533Z"
 }

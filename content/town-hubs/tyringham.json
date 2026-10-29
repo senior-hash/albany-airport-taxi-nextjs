@@ -48,23 +48,28 @@
         },
         {
           "name": "51 Park Restaurant & Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.51parkrestaurant.com"
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Cafe Triskele",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cafetriskele.com/"
         },
         {
           "name": "Lee's Corner Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://leescornerkitchen.com"
         },
         {
           "name": "Roadside Store & Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.gouldfarm.org/roadside-store-and-cafe/"
         },
         {
           "name": "Grouse House",
@@ -118,11 +123,13 @@
       "items": [
         {
           "name": "Tyringham Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.tyringham-ma.gov/"
         },
         {
           "name": "Lee Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lee.ma.us/"
         },
         {
           "name": "Monterey Town Hall",
@@ -130,11 +137,13 @@
         },
         {
           "name": "Stockbridge Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofstockbridge.com/"
         },
         {
           "name": "Austen Riggs Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.austenriggs.org/"
         },
         {
           "name": "Otis Town Hall",
@@ -142,15 +151,17 @@
         },
         {
           "name": "Lenox Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townoflenox.com/"
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:01.275Z"
+  "fetchedAt": "2026-10-29T10:27:39.551Z"
 }

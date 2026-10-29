@@ -48,7 +48,8 @@
         },
         {
           "name": "The Rusty Nail",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rustynail.com"
         },
         {
           "name": "Bitters & Bones",
@@ -60,19 +61,23 @@
         },
         {
           "name": "Left Bank Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://Www.leftbankcafeadk.com/"
         },
         {
           "name": "Our Plates",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://our-plates.square.site/"
         },
         {
           "name": "China Jade",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://chinajade.food74.com"
         },
         {
           "name": "Owl's Nest Pizza Parlor",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.owlsnestpizza.com/"
         }
       ]
     },
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "Town of Saint Armand",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofstarmandny.gov/index.html"
         },
         {
           "name": "Saint Armand Town Hall",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Adirondack Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.adirondackhealth.org/adirondack-medical-center-saranac-lake"
         },
         {
           "name": "Brighton Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:24.229Z"
+  "fetchedAt": "2026-10-29T10:26:00.587Z"
 }

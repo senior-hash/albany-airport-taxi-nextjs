@@ -72,7 +72,8 @@
         },
         {
           "name": "Bob's Diner",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bobsdinerbainbridge.com/"
         }
       ]
     },
@@ -134,7 +135,8 @@
         },
         {
           "name": "A.O. Fox Hospital - Tri-Town Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus"
         },
         {
           "name": "Franklin Village Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:07.564Z"
+  "fetchedAt": "2026-10-29T10:23:33.608Z"
 }

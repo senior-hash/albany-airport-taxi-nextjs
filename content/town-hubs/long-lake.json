@@ -60,7 +60,8 @@
         },
         {
           "name": "McSweeney's Irish Pub",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mcsweeneysirishpub.com/"
         },
         {
           "name": "Indian Lake Restaurant, Tavern, and Liquors",
@@ -89,15 +90,18 @@
         },
         {
           "name": "Blue Mountain Lake Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bluemountainlakeinn.com/"
         },
         {
           "name": "Aunt Pollys Bed and Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.auntpollysbb.com/"
         },
         {
           "name": "The Pilot's House",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.cloudsplitteroutfitters.com/the-pilot-s-house.html"
         },
         {
           "name": "Byron Park",
@@ -124,5 +128,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:19.442Z"
+  "fetchedAt": "2026-10-29T10:25:55.709Z"
 }

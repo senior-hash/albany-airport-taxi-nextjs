@@ -48,7 +48,8 @@
         },
         {
           "name": "Lil’ Piece BBQ and Catering",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://lilpiecebbq.com"
         },
         {
           "name": "D & C Pizzeria",
@@ -56,7 +57,8 @@
         },
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         },
         {
           "name": "Tiny Diner",
@@ -138,11 +140,13 @@
         },
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "First Care",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:26.513Z"
+  "fetchedAt": "2026-10-29T10:20:44.183Z"
 }

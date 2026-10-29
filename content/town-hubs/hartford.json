@@ -64,7 +64,8 @@
         },
         {
           "name": "Battle Hill Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://battlehillbrewing.com/"
         },
         {
           "name": "Time Served",
@@ -85,7 +86,8 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Five Combines",
@@ -93,7 +95,8 @@
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         },
         {
           "name": "Derby Park",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Wells Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wellsvt.com/"
         },
         {
           "name": "Fort Edward Town and Village Offices",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:50.926Z"
+  "fetchedAt": "2026-10-29T10:25:26.661Z"
 }

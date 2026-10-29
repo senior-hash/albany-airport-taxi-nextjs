@@ -48,11 +48,13 @@
         },
         {
           "name": "Papa Joe's Pizzaria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.papajoespizzeriamenu.com"
         },
         {
           "name": "Red Lantern House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://red-lantern-house.edan.io/"
         },
         {
           "name": "Erie Station",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Mediterranean Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.yelp.com/biz/mediterranean-kitchen-fort-plain-2"
         },
         {
           "name": "The Table at Fort Plain",
@@ -68,7 +71,8 @@
         },
         {
           "name": "5S Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.5sdiner.com/"
         },
         {
           "name": "The Lake House",
@@ -142,7 +146,8 @@
         },
         {
           "name": "MVHS Medical Group - Little Falls Office",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mvhealthsystem.org/location/little-falls/"
         },
         {
           "name": "Little Falls City Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:32.155Z"
+  "fetchedAt": "2026-10-29T10:27:11.589Z"
 }

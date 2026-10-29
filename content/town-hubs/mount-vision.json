@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.pizza23west.com/"
         },
         {
           "name": "Toscana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://toscanaoneonta.com/"
         },
         {
           "name": "Tiger Sushi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tigersushiny.com/"
         },
         {
           "name": "Red Jug",
@@ -60,19 +63,23 @@
         },
         {
           "name": "Tokyo Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://oneontatokyo.com/"
         },
         {
           "name": "Indian Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oneontaindiangrill.com/"
         },
         {
           "name": "Autumn Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://autumncafe.com/"
         },
         {
           "name": "Taqueria Guadalajara",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.taqueria-de-guadalajara.com/"
         }
       ]
     },
@@ -130,7 +137,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -138,7 +146,8 @@
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Otego Municipal Building",
@@ -146,11 +155,12 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:22.216Z"
+  "fetchedAt": "2026-10-29T10:23:52.544Z"
 }

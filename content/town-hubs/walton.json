@@ -114,7 +114,8 @@
         },
         {
           "name": "UHS Delaware Valley Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.uhs.net/locations/uhs-delaware-valley-hospital/"
         },
         {
           "name": "Walton Town Hall",
@@ -144,5 +145,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:11.036Z"
+  "fetchedAt": "2026-10-29T10:23:38.103Z"
 }

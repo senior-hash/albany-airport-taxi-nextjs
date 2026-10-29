@@ -68,11 +68,13 @@
         },
         {
           "name": "The Old Mill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.oldmilloldforge.com/"
         },
         {
           "name": "The SteakHouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://adksteakhouse.com"
         }
       ]
     },
@@ -85,11 +87,12 @@
         },
         {
           "name": "Fourth Lake Day Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/75305.html"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:29.205Z"
+  "fetchedAt": "2026-10-29T10:27:08.231Z"
 }

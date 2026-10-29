@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "McGreivey's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://mcgreiveys.com"
         },
         {
           "name": "Don & Paul’s Coffee Shop",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Pizza Hut",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://locations.pizzahut.com/ny/troy/849-2nd-avenue"
         },
         {
           "name": "The Twisted Kitchen",
@@ -146,11 +148,12 @@
         },
         {
           "name": "Samaritan Hospital - St. Mary's Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/samaritan-hospital-st-marys-campus"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:34.130Z"
+  "fetchedAt": "2026-10-29T10:25:09.785Z"
 }

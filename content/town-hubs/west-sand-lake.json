@@ -60,7 +60,8 @@
         },
         {
           "name": "June Farms",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.junefarms.com/menus/"
         },
         {
           "name": "La Perla Restaurante",
@@ -93,7 +94,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Eastland Park",
@@ -146,11 +148,12 @@
         },
         {
           "name": "Rosewood Rehabilitation and Nursing Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rosewoodrehabilitation.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:17.317Z"
+  "fetchedAt": "2026-10-29T10:24:51.346Z"
 }

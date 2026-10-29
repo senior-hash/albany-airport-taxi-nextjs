@@ -60,7 +60,8 @@
         },
         {
           "name": "Green Hill Cafe & Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.greenhillcafepizzeria.com"
         },
         {
           "name": "Helderberg Brewery Taproom",
@@ -72,7 +73,8 @@
         },
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         }
       ]
     },
@@ -96,15 +98,16 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Max V. Shaul State Park",
+          "name": "Angelo Canna Town Park",
           "driveTime": "about 30 min"
+        },
+        {
+          "name": "Max V. Shaul State Park",
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         },
         {
           "name": "Windham Mountain Club",
-          "driveTime": "about 30 min"
-        },
-        {
-          "name": "K Lift",
           "driveTime": "about 30 min"
         },
         {
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:38.520Z"
+  "fetchedAt": "2026-10-29T10:20:58.608Z"
 }

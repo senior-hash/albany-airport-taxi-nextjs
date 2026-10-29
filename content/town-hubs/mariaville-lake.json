@@ -52,7 +52,8 @@
         },
         {
           "name": "Canali's Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.canalisrestaurant.com/"
         },
         {
           "name": "Ninety Nine Restaurant & Pub",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Top's American Grill Bakery & Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tops5corners.com/"
         },
         {
           "name": "Knotty Pine House",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:38.927Z"
+  "fetchedAt": "2026-10-29T10:25:14.598Z"
 }

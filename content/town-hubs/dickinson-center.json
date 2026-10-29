@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Deer Valley Trails",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://deer-valley-trails.com/"
         },
         {
           "name": "Jreck's Subs",
@@ -116,5 +117,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:51.218Z"
+  "fetchedAt": "2026-10-29T10:26:29.425Z"
 }

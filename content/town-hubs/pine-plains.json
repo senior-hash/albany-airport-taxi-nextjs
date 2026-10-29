@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Stissing House Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.stissinghouse.com/"
         },
         {
           "name": "Rosey's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://roseyspineplains.com/"
         },
         {
           "name": "Four Brothers Pizza Inn",
@@ -85,15 +87,18 @@
         },
         {
           "name": "Roeliff Jansenkill Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/index.html"
         },
         {
           "name": "Wilcox Memorial Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.co.dutchess.ny.us/CountyGov/Departments/DPW-Parks/PPwilcox.htm"
         },
         {
           "name": "Stanford Recreation Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/Stanford-Recreation-900609743302736/"
         },
         {
           "name": "Stanford Skate Park",
@@ -101,11 +106,13 @@
         },
         {
           "name": "Whitlock Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dutchessny.gov/CountyGov/Departments/DPW-Parks/tmswhitlockpreserve.pdf"
         },
         {
           "name": "Stissing Mountain Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/96653.html"
         },
         {
           "name": "Whistlewood Farms B&B",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:53.585Z"
+  "fetchedAt": "2026-10-29T10:22:13.548Z"
 }

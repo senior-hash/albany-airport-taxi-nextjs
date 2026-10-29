@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Middle Village Pasta and Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.middlevillagepastaandgrill.com"
         },
         {
           "name": "Green Wolf Brewing Co.",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         },
         {
           "name": "Cobleskill Diner",
@@ -81,7 +83,8 @@
       "items": [
         {
           "name": "Max V. Shaul State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         },
         {
           "name": "Long Path Park",
@@ -101,7 +104,8 @@
         },
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "Lasalle Park",
@@ -130,7 +134,8 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Cobleskill Municipal Offices",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:46.776Z"
+  "fetchedAt": "2026-10-29T10:24:19.133Z"
 }

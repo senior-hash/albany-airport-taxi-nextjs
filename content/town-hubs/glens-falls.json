@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Tres Mijas",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.tresmijasgf.com/"
         },
         {
           "name": "Buona Notte Cafe",
@@ -52,11 +53,13 @@
         },
         {
           "name": "Southpaw Bistro",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.crafton9.com/"
         },
         {
           "name": "Siam Thai Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.siamthaisushi.com/"
         },
         {
           "name": "Park 26",
@@ -72,7 +75,8 @@
         },
         {
           "name": "The Golden Monkey Lounge",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.thegoldenmonkeylounge.com/"
         }
       ]
     },
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Westfall Vision",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://westfallvison.com"
         },
         {
           "name": "Glens Falls City Hall",
@@ -130,7 +135,8 @@
         },
         {
           "name": "Glens Falls Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/glensfalls/"
         },
         {
           "name": "Associates in Vision Care",
@@ -138,7 +144,8 @@
         },
         {
           "name": "Health Center on Broad Street",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hhhn.org/HealthCenters/?HCID=3"
         },
         {
           "name": "Glens Falls Family Health",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:03.005Z"
+  "fetchedAt": "2026-10-29T10:25:41.130Z"
 }

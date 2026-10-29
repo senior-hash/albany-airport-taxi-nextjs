@@ -72,7 +72,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         }
       ]
     },
@@ -97,7 +98,8 @@
         },
         {
           "name": "Max V. Shaul State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         },
         {
           "name": "Worcester Park",
@@ -130,7 +132,8 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Cobleskill Municipal Offices",
@@ -142,7 +145,8 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         },
         {
           "name": "Fulton Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:46.045Z"
+  "fetchedAt": "2026-10-29T10:24:16.725Z"
 }

@@ -60,7 +60,8 @@
         },
         {
           "name": "Brooklyn Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.broadstreetbagelco.com"
         },
         {
           "name": "Fireside Pizza Den",
@@ -68,11 +69,13 @@
         },
         {
           "name": "Yummy Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.yummykitchen.xyz/berry-farm"
         },
         {
           "name": "Del's Roadside",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://delsdairyfarm.com/"
         }
       ]
     },
@@ -142,15 +145,17 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Castleton Village Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://castleton-on-hudson.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:36.736Z"
+  "fetchedAt": "2026-10-29T10:21:56.429Z"
 }

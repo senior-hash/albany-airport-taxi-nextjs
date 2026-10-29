@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Shirley's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/Shirleys12866/"
         },
         {
           "name": "Pope's Pizza",
@@ -52,15 +53,18 @@
         },
         {
           "name": "The Wishing Well",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wishingwellrestaurant.com/"
         },
         {
           "name": "Taste of China",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tasteofchinass.com"
         },
         {
           "name": "West Ave Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westavenuepizzeria.com/"
         },
         {
           "name": "Nove",
@@ -68,7 +72,8 @@
         },
         {
           "name": "The Local Pub & Teahouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thelocalpubandteahouse.com/"
         },
         {
           "name": "Forno Bistro",
@@ -126,7 +131,8 @@
         },
         {
           "name": "Saratoga Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://saratogahospital.org/"
         },
         {
           "name": "Passport Health Saratoga Springs Travel Clinic",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:24.530Z"
+  "fetchedAt": "2026-10-29T10:24:58.579Z"
 }

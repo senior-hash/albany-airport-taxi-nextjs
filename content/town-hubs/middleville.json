@@ -60,7 +60,8 @@
         },
         {
           "name": "Vinny's Pizzeria & Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.vinnyspizzeriaherkimer.com/"
         },
         {
           "name": "Tony's Pizza",
@@ -68,11 +69,13 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/herkimer/630-w.-state-street-97062"
         },
         {
           "name": "Denny's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://locations.dennys.com/NY/HERKIMER/246717"
         }
       ]
     },
@@ -130,7 +133,8 @@
         },
         {
           "name": "Bassett Healthcare Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/regional-health-centers/herkimer/"
         },
         {
           "name": "Primary Urgent Care",
@@ -138,11 +142,13 @@
         },
         {
           "name": "Valley Health Services",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.valleyhealthservices.org/"
         },
         {
           "name": "MVHS Medical Group - Little Falls Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mvhealthsystem.org/location/little-falls/"
         },
         {
           "name": "Little Falls City Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:26.812Z"
+  "fetchedAt": "2026-10-29T10:27:05.843Z"
 }

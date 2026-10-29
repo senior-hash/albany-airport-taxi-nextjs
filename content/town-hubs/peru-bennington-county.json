@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "New American Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.newamericangrill.com/"
         },
         {
           "name": "The Garden Cafe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.gardencafeandgallery.com/restaurant/"
         },
         {
           "name": "Stoddard's Restaurant",
@@ -56,19 +58,23 @@
         },
         {
           "name": "The Garden Market",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.gardencafeandgallery.com/market/"
         },
         {
           "name": "Mike & Tammy's Main Street Market and Deli",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.mainstreetmarketlondonderry.com/"
         },
         {
           "name": "Jake's Restaurant and Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.jakescafe.org/"
         },
         {
           "name": "The Mill Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.themilltavernvt.com/"
         },
         {
           "name": "Revival Kitchen",
@@ -85,7 +91,8 @@
         },
         {
           "name": "Magic Mountain Ski Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://magicmtn.com/"
         },
         {
           "name": "Jumping Rock",
@@ -109,7 +116,8 @@
         },
         {
           "name": "Norse House Ski and Sport",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.norsehouse.com"
         }
       ]
     },
@@ -118,7 +126,8 @@
       "items": [
         {
           "name": "Peru Town Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.peruvt.org/"
         },
         {
           "name": "Landgrove Town Hall",
@@ -126,11 +135,13 @@
         },
         {
           "name": "Mountain Valley Medical Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ourclinic.org/"
         },
         {
           "name": "Londonderry Town Office",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.londonderryvt.org/"
         },
         {
           "name": "Weston Town Office",
@@ -142,7 +153,8 @@
         },
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.manchestermedicalcenter.com"
         },
         {
           "name": "Bondville Town Hall",
@@ -152,5 +164,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:08.636Z"
+  "fetchedAt": "2026-10-29T10:27:49.030Z"
 }

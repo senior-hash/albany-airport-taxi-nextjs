@@ -56,7 +56,8 @@
         },
         {
           "name": "The Andes Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://andesdiner.com/"
         },
         {
           "name": "Wayside Cider",
@@ -122,7 +123,8 @@
         },
         {
           "name": "O'Connor Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.bassett.org/locations/oconnor-hospital"
         },
         {
           "name": "Hamden Town Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:51.715Z"
+  "fetchedAt": "2026-10-29T10:23:18.324Z"
 }

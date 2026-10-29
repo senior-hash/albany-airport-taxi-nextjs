@@ -48,11 +48,13 @@
         },
         {
           "name": "Schag A Val",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://schagaval.com/"
         },
         {
           "name": "Sammy Cohen's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://sammycohens.com/"
         },
         {
           "name": "Lewis' Tavern",
@@ -105,7 +107,8 @@
         },
         {
           "name": "Hoosick River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Corliss Park",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:13.735Z"
+  "fetchedAt": "2026-10-29T10:24:48.086Z"
 }

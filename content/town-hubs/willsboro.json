@@ -48,11 +48,13 @@
         },
         {
           "name": "Turtle Island Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://turtleislandcafe.com/"
         },
         {
           "name": "Old Orchard Place",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oldorchardplace.com/"
         },
         {
           "name": "THE BARN DOOR ESSEX",
@@ -64,11 +66,13 @@
         },
         {
           "name": "Backyard Bistro",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.backyardbistrovt.com/"
         },
         {
           "name": "Folino's Pizza",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.folinopizza.com/"
         },
         {
           "name": "Electra's Restaurant3",
@@ -97,7 +101,8 @@
         },
         {
           "name": "Shelburne Town Beach",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.shelburnevt.org/182/Beach-Information"
         },
         {
           "name": "Baycrest Park",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:44.037Z"
+  "fetchedAt": "2026-10-29T10:26:22.198Z"
 }

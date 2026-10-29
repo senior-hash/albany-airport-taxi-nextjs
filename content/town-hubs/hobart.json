@@ -97,11 +97,13 @@
         },
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "Bearpen Mountain Sports",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bearpenmountain.com/"
         },
         {
           "name": "Bearpen Lodge",
@@ -148,5 +150,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:01.385Z"
+  "fetchedAt": "2026-10-29T10:23:28.487Z"
 }

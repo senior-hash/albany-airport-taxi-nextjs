@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Brooklyn Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.broadstreetbagelco.com"
         },
         {
           "name": "Del's Roadside",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://delsdairyfarm.com/"
         },
         {
           "name": "Main Street Diner",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Yummy Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.yummykitchen.xyz/berry-farm"
         }
       ]
     },
@@ -138,7 +141,8 @@
         },
         {
           "name": "Castleton Village Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://castleton-on-hudson.org/"
         },
         {
           "name": "Chatham Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:24.608Z"
+  "fetchedAt": "2026-10-29T10:21:46.831Z"
 }

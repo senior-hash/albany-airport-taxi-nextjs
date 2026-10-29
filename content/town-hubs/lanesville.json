@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Brio's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://brios.net"
         },
         {
           "name": "The Phoenician Steakhouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://thephoeniciansteakhouse.com"
         },
         {
           "name": "Hunter Mountain Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hmbcatskills.com/"
         },
         {
           "name": "Jagerberg Beer Hall and Tavern",
@@ -64,7 +67,8 @@
         },
         {
           "name": "Phoenicia Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.phoeniciadiner.com"
         },
         {
           "name": "Ronnie Mac Gregor's Pub",
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Hunter Village Hall",
@@ -126,7 +131,8 @@
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Windham Town Hall",
@@ -138,7 +144,8 @@
         },
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Town of Lexington Municipal Building",
@@ -146,11 +153,12 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:58.213Z"
+  "fetchedAt": "2026-10-29T10:21:20.219Z"
 }

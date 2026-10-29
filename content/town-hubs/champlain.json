@@ -48,7 +48,8 @@
         },
         {
           "name": "Ristorante Casa Capitano",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.casa-capitano.com/"
         },
         {
           "name": "Best Friends Family Diner",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Ruthcliffe Lodge & Resturant",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://ruthcliffe.com/"
         }
       ]
     },
@@ -93,7 +95,8 @@
         },
         {
           "name": "Rouses Point Trailway",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Lake Alice State Game Management Area",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:05.433Z"
+  "fetchedAt": "2026-10-29T10:26:44.218Z"
 }

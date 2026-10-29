@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Sweeney's Irish Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sweeneysirishpub.com/"
         },
         {
           "name": "Tibet Corner",
@@ -52,15 +53,18 @@
         },
         {
           "name": "Franco's Pizzeria & Italian Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.francospizzeriawalden.com/"
         },
         {
           "name": "Daxxon Chinese Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://daxxonchinese78.com/"
         },
         {
           "name": "Sher Market - El Rey Del Taco",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cyrusramsey.com/places/sher-market-el-rey-del-taco/"
         },
         {
           "name": "Carmela's",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:39.664Z"
+  "fetchedAt": "2026-10-29T10:23:06.284Z"
 }

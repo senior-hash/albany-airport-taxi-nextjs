@@ -56,23 +56,28 @@
         },
         {
           "name": "The Avalon Lounge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.theavalonlounge.com/"
         },
         {
           "name": "La Casa Latina",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lacasalatinacatskill.com/"
         },
         {
           "name": "Left Bank Ciders",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.leftbankciders.com/"
         },
         {
           "name": "Subversive Malting + Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://drinksubversive.com/"
         },
         {
           "name": "Wendy's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://locations.wendys.com/united-states/ny/catskill/75-maple-ave"
         }
       ]
     },
@@ -122,7 +127,8 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Wellnow Urgent Care",
@@ -142,15 +148,17 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:07.393Z"
+  "fetchedAt": "2026-10-29T10:21:27.576Z"
 }

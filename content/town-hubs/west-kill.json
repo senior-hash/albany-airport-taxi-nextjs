@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "West Kill Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westkillbrewing.com"
         },
         {
           "name": "The Clubhouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandakeninn.com/the-clubhouse-restaurant-bar/"
         },
         {
           "name": "Prattsville Diner",
@@ -56,11 +58,13 @@
         },
         {
           "name": "Peekamoose",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.peekamooserestaurant.com"
         },
         {
           "name": "Brandywine Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://brandywinewindham.com/"
         },
         {
           "name": "MaMa's Pizza and Trattoria",
@@ -101,14 +105,15 @@
         },
         {
           "name": "Bearpen Mountain Sports",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bearpenmountain.com/"
         },
         {
           "name": "Smith Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Ashland Park",
+          "name": "Hunter Mountain",
           "driveTime": "about 30 min"
         }
       ]
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Town of Lexington Municipal Building",
@@ -126,7 +132,8 @@
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Prattsville Town Hall",
@@ -138,11 +145,13 @@
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Windham Town Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:09.968Z"
+  "fetchedAt": "2026-10-29T10:21:29.978Z"
 }

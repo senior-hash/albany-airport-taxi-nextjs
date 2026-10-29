@@ -60,7 +60,8 @@
         },
         {
           "name": "The Andes Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://andesdiner.com/"
         },
         {
           "name": "Wayside Cider",
@@ -97,11 +98,13 @@
         },
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "Bearpen Mountain Sports",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.bearpenmountain.com/"
         },
         {
           "name": "West Davenport Park",
@@ -138,7 +141,8 @@
         },
         {
           "name": "O'Connor Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/oconnor-hospital"
         },
         {
           "name": "Andes Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:08.156Z"
+  "fetchedAt": "2026-10-29T10:23:35.686Z"
 }

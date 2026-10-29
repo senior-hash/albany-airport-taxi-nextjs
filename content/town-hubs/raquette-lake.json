@@ -48,7 +48,8 @@
         },
         {
           "name": "Raquette Lake Navigation",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.raquettelakenavigation.com/"
         },
         {
           "name": "Seventh Lake House Restaurant",
@@ -56,7 +57,8 @@
         },
         {
           "name": "Screamen Eagle",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.screameneaglepizza.com/"
         },
         {
           "name": "Tony Harpers Pizza and Clam Shack",
@@ -64,7 +66,8 @@
         },
         {
           "name": "The Ole Barn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.theolebarninletny.com/"
         },
         {
           "name": "Strong Rope Taproom at Potters Resort",
@@ -81,15 +84,17 @@
       "items": [
         {
           "name": "Blue Mountain Lake Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bluemountainlakeinn.com/"
         },
         {
           "name": "Fourth Lake Day Use Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/lands/75305.html"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:19.782Z"
+  "fetchedAt": "2026-10-29T10:25:58.086Z"
 }

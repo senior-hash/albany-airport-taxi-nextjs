@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Stissing House Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.stissinghouse.com/"
         },
         {
           "name": "Rosey's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://roseyspineplains.com/"
         },
         {
           "name": "The Village Pancake Factory",
@@ -56,7 +58,8 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "Four Brothers Pizza",
@@ -64,11 +67,13 @@
         },
         {
           "name": "Aroi",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.aroirhinebeck.com/"
         },
         {
           "name": "Aba's Falafel",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.abasfalafel.com/"
         },
         {
           "name": "The Pines",
@@ -81,7 +86,8 @@
       "items": [
         {
           "name": "Stanford Recreation Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.facebook.com/Stanford-Recreation-900609743302736/"
         },
         {
           "name": "Stanford Skate Park",
@@ -89,7 +95,8 @@
         },
         {
           "name": "Whitlock Preserve",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dutchessny.gov/CountyGov/Departments/DPW-Parks/tmswhitlockpreserve.pdf"
         },
         {
           "name": "Friends Park",
@@ -101,7 +108,8 @@
         },
         {
           "name": "Stissing Mountain Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/96653.html"
         },
         {
           "name": "Salt Point Recreation Park",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:39.153Z"
+  "fetchedAt": "2026-10-29T10:21:59.137Z"
 }

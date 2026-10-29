@@ -52,7 +52,8 @@
         },
         {
           "name": "Mediterranean Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.yelp.com/biz/mediterranean-kitchen-fort-plain-2"
         },
         {
           "name": "Erie Station",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Red Lantern House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://red-lantern-house.edan.io/"
         },
         {
           "name": "New York Pizzeria",
@@ -68,11 +70,13 @@
         },
         {
           "name": "Papa Joe's Pizzaria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.papajoespizzeriamenu.com"
         },
         {
           "name": "5S Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.5sdiner.com/"
         }
       ]
     },
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:55.658Z"
+  "fetchedAt": "2026-10-29T10:24:27.287Z"
 }

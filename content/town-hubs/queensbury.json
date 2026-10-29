@@ -52,15 +52,18 @@
         },
         {
           "name": "Chopsticks",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.518chopsticks.com"
         },
         {
           "name": "Denny's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://locations.dennys.com/NY/QUEENSBURY/247305"
         },
         {
           "name": "Full Moon",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://noonatthemoon.com/"
         },
         {
           "name": "Skillet Marketplace",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/queensbury/255-quaker-road-94023"
         }
       ]
     },
@@ -85,7 +89,8 @@
         },
         {
           "name": "Hovey Pond Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://recreation.queensbury.net/index.php?option=com_content&view=category&id=30&Itemid=100"
         },
         {
           "name": "The Bell House Inn",
@@ -142,7 +147,8 @@
         },
         {
           "name": "Westfall Vision",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://westfallvison.com"
         },
         {
           "name": "Glens Falls City Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:10.199Z"
+  "fetchedAt": "2026-10-29T10:25:46.947Z"
 }

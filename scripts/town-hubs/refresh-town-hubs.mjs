@@ -46,6 +46,15 @@ const cities = loadJson(path.join(ROOT, "content", "cities.json"));
 const counties = loadJson(path.join(ROOT, "content", "counties.json"));
 const states = loadJson(path.join(ROOT, "content", "states.json"));
 const wikidata = loadJson(path.join(ROOT, "content", "town-hub-wikidata.json"));
+const OSM_CENTERS_FILE = path.join(ROOT, "content", "town-hub-osm-centers.json");
+const osmCenters = fs.existsSync(OSM_CENTERS_FILE) ? loadJson(OSM_CENTERS_FILE) : {};
+// Towns with no Wikidata match (see scripts/town-hubs/extract_local_places.py,
+// which matches them to an OSM place node instead) — merged in as a
+// lower-priority source so a later Wikidata match always wins.
+const coordsBySlug = { ...osmCenters, ...wikidata };
+if (Object.keys(osmCenters).length > 0) {
+  console.log(`Using OSM-place-node coordinates for ${Object.keys(osmCenters).length} towns with no Wikidata match.`);
+}
 const amtrakStations = loadJson(path.join(ROOT, "content", "amtrak-stations.json"));
 const LOCAL_PLACES_FILE = path.join(ROOT, "content", "town-hub-local-places.json");
 const localPlaces = fs.existsSync(LOCAL_PLACES_FILE) ? loadJson(LOCAL_PLACES_FILE) : null;
@@ -98,13 +107,19 @@ function overpassQuery(lat, lon, radiusM) {
 }
 
 function categorize(tags) {
+  // Aerialway (lifts/gondolas) and piste (ski trail) features are lift/trail
+  // furniture, not a place — exclude them, but keep the resort itself.
+  if (tags.aerialway || tags["piste:type"]) return null;
   const amenity = tags.amenity;
   const leisure = tags.leisure;
   const tourism = tags.tourism;
   const sport = tags.sport;
   if (["restaurant", "bar", "pub"].includes(amenity)) return "dinner-and-nights-out";
-  if (leisure === "park" || tourism === "guest_house" || tourism === "trailhead" || /ski/i.test(sport || ""))
+  if (leisure === "park") {
+    if (/\bquad(rangle)?\b/i.test(tags.name || "")) return null; // campus quads
     return "getting-around";
+  }
+  if (tourism === "guest_house" || tourism === "trailhead" || /ski/i.test(sport || "")) return "getting-around";
   if (["hospital", "clinic", "doctors", "townhall"].includes(amenity)) return "appointments";
   return null;
 }
@@ -129,7 +144,14 @@ async function fetchOverpassPlaces(lat, lon) {
     const plat = el.lat ?? el.center?.lat;
     const plon = el.lon ?? el.center?.lon;
     if (plat == null || plon == null) continue;
-    byGroup[group].push({ name, lat: plat, lon: plon, straightMiles: haversineMiles(lat, lon, plat, plon) });
+    const website = el.tags?.website || el.tags?.["contact:website"];
+    byGroup[group].push({
+      name,
+      lat: plat,
+      lon: plon,
+      straightMiles: haversineMiles(lat, lon, plat, plon),
+      ...(website ? { website } : {}),
+    });
   }
   // Cap each group to the nearest 15 by straight-line before the OSRM call,
   // so the table request (and Overpass load) stays bounded even near dense
@@ -202,7 +224,7 @@ let qualified = 0;
 const results = [];
 
 async function processCity(city) {
-  const wd = wikidata[city.slug];
+  const wd = coordsBySlug[city.slug];
   const outFile = path.join(OUT_DIR, `${city.slug}.json`);
   if (!wd) {
     results.push({ slug: city.slug, name: city.name, status: "no-coords" });
@@ -261,7 +283,7 @@ async function processCity(city) {
         .filter((d) => d.kind === "poi" && d.group === group && d.minutes != null)
         .sort((a, b) => a.minutes - b.minutes)
         .slice(0, 8)
-        .map((p) => ({ name: p.name, driveTime: fmtDriveTime(p.minutes) }));
+        .map((p) => ({ name: p.name, driveTime: fmtDriveTime(p.minutes), ...(p.website ? { website: p.website } : {}) }));
       if (items.length > 0) placesOut[group] = { label: meta.label, items };
     }
 

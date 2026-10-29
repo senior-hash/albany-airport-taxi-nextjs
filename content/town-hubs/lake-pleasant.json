@@ -48,7 +48,8 @@
         },
         {
           "name": "Logan's Bar & Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.logansbarandgrill.com/"
         },
         {
           "name": "Sunrise Diner",
@@ -56,7 +57,8 @@
         },
         {
           "name": "The Oxbow inn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oxbowpizza.com"
         },
         {
           "name": "Melody Lodge",
@@ -85,7 +87,8 @@
         },
         {
           "name": "Poplar Point Day Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/24491.html"
         },
         {
           "name": "Parker's Corner Park",
@@ -93,11 +96,13 @@
         },
         {
           "name": "Lapland Lake Nordic Lodge",
-          "driveTime": "about 1 hr"
+          "driveTime": "about 1 hr",
+          "website": "https://www.laplandlake.com/"
         },
         {
           "name": "Lapland Lake Nordic Vacation Center",
-          "driveTime": "about 1 hr"
+          "driveTime": "about 1 hr",
+          "website": "https://www.laplandlake.com"
         }
       ]
     },
@@ -116,5 +121,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:17.399Z"
+  "fetchedAt": "2026-10-29T10:25:55.690Z"
 }

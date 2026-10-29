@@ -85,11 +85,13 @@
         },
         {
           "name": "Spring Street Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Trail Station Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Bleecker Street Square",
@@ -105,7 +107,8 @@
         },
         {
           "name": "Castiglione Memorial Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Fairgrounds Park",
@@ -122,7 +125,8 @@
         },
         {
           "name": "Gloversville City Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "St. Mary's Urgent Care - Gloversville",
@@ -142,7 +146,8 @@
         },
         {
           "name": "Nathan Littauer Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nlh.org/"
         },
         {
           "name": "Nathan Littauer Pediatrics",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:36.359Z"
+  "fetchedAt": "2026-10-29T10:27:15.475Z"
 }

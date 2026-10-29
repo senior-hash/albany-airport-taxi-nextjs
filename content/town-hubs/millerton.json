@@ -68,7 +68,8 @@
         },
         {
           "name": "Rosey's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://roseyspineplains.com/"
         },
         {
           "name": "Four Brothers Pizza",
@@ -81,7 +82,8 @@
       "items": [
         {
           "name": "Hotel Caravana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hotelcaravana.com/"
         },
         {
           "name": "Veterans Field",
@@ -97,15 +99,18 @@
         },
         {
           "name": "Roeliff Jansenkill Multiple Use Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/index.html"
         },
         {
           "name": "Wilcox Memorial Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.co.dutchess.ny.us/CountyGov/Departments/DPW-Parks/PPwilcox.htm"
         },
         {
           "name": "Stanford Recreation Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.facebook.com/Stanford-Recreation-900609743302736/"
         },
         {
           "name": "Stanford Skate Park",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:51.216Z"
+  "fetchedAt": "2026-10-29T10:22:13.228Z"
 }

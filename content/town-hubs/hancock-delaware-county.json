@@ -93,7 +93,8 @@
         },
         {
           "name": "East Branch Delaware River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/docs/fish_marine_pdf/pfreastbranch.pdf"
         },
         {
           "name": "Willis Smith Riverside Memorial Park",
@@ -118,7 +119,8 @@
       "items": [
         {
           "name": "Guthrie Clinic Hancock",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.guthrie.org/locations/hancock"
         },
         {
           "name": "Hancock Town Hall",
@@ -132,5 +134,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:00.341Z"
+  "fetchedAt": "2026-10-29T10:23:26.407Z"
 }

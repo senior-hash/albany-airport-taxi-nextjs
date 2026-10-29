@@ -52,7 +52,8 @@
         },
         {
           "name": "Wolfe's Market & Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wolfesmarketandpizza-ny.com"
         },
         {
           "name": "Dairy Carnival",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Middle Village Pasta and Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.middlevillagepastaandgrill.com"
         },
         {
           "name": "Green Wolf Brewing Co.",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:38.516Z"
+  "fetchedAt": "2026-10-29T10:24:09.499Z"
 }

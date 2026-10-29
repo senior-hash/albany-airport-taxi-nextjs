@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Silvia",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.silviawoodstockny.com"
         },
         {
           "name": "Small Talk",
@@ -52,23 +53,28 @@
         },
         {
           "name": "Nirvana",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://nirvanawoodstock.com/"
         },
         {
           "name": "Pearl Moon",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://pearlmoonwoodstock.com"
         },
         {
           "name": "The Woodstock Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thewoodstockpub.com/"
         },
         {
           "name": "Catskill Mountain Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.catskillmountainpizza.com/"
         },
         {
           "name": "Oriole 9",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oriole9.com"
         },
         {
           "name": "Shelter",
@@ -85,7 +91,8 @@
         },
         {
           "name": "Andy Lee Field",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.woodstockny.org/content/Parks/View/1"
         },
         {
           "name": "The Comeau Property",
@@ -105,11 +112,13 @@
         },
         {
           "name": "High Woods Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/104663.html"
         },
         {
           "name": "Potter Brothers Ski and Snowboard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.potterbrothers.com/about-us/our-shops/kingston-new-york/"
         }
       ]
     },
@@ -122,15 +131,18 @@
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "Kingston Town Hall",
@@ -146,11 +158,12 @@
         },
         {
           "name": "Advanced Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drkircher.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:45.876Z"
+  "fetchedAt": "2026-10-29T10:23:11.099Z"
 }

@@ -44,35 +44,43 @@
       "items": [
         {
           "name": "The Silver Fork",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thesilverforkvt.com"
         },
         {
           "name": "Mulligan's Pub & Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mulligans-vt.com/"
         },
         {
           "name": "The Copper Grouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.coppergrouse.com/"
         },
         {
           "name": "The Crooked Ram",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.thecrookedramvt.com/"
         },
         {
           "name": "Sam's Wood Fired Pizza Co.",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.samswoodfiredpizzavt.com/"
         },
         {
           "name": "Moonwink",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://m.facebook.com/moonwinkvt"
         },
         {
           "name": "Seasons",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.seasonsvt.com"
         },
         {
           "name": "Ponce Bistro",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://poncebistro.com/"
         }
       ]
     },
@@ -93,7 +101,8 @@
         },
         {
           "name": "The Inn at Ormsby Hill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ormsbyhill.com/"
         },
         {
           "name": "Arlington Recreation Park",
@@ -101,7 +110,8 @@
         },
         {
           "name": "West Mountain Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://westmountaininn.com/"
         },
         {
           "name": "Emerald Lake State Park",
@@ -109,7 +119,8 @@
         },
         {
           "name": "Norse House Ski and Sport",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.norsehouse.com"
         }
       ]
     },
@@ -118,11 +129,13 @@
       "items": [
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.manchestermedicalcenter.com"
         },
         {
           "name": "Southwestern Vermont Medical Center Northshire Campus",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://svhealthcare.org/locations/northshire-campus/"
         },
         {
           "name": "Manchester Town Hall",
@@ -142,15 +155,17 @@
         },
         {
           "name": "Peru Town Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.peruvt.org/"
         },
         {
           "name": "Mountain Valley Medical Clinic",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.ourclinic.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:08.621Z"
+  "fetchedAt": "2026-10-29T10:27:47.873Z"
 }

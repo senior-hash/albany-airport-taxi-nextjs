@@ -56,11 +56,13 @@
         },
         {
           "name": "Duncan's Dairy Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.duncansdairybar.com"
         },
         {
           "name": "Troy Botanical Garden Buffet",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.troybotanicalgarden.com/buffet"
         },
         {
           "name": "Country View Diner",
@@ -93,7 +95,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Brunswick Vanderheyden Reservoir Park",
@@ -109,7 +112,8 @@
         },
         {
           "name": "Frear Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.troyny.gov/1413/Frear-Park"
         }
       ]
     },
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:04.151Z"
+  "fetchedAt": "2026-10-29T10:24:38.453Z"
 }

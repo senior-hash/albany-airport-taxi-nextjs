@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Toscana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://toscanaoneonta.com/"
         },
         {
           "name": "Simply Thai",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.simplythaioneonta.com"
         },
         {
           "name": "Hunan Gourmet",
@@ -64,11 +66,13 @@
         },
         {
           "name": "Nina's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://ninasitalian.com/"
         },
         {
           "name": "Tiger Sushi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tigersushiny.com/"
         },
         {
           "name": "Red Jug",
@@ -118,11 +122,13 @@
       "items": [
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -130,7 +136,8 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Oneonta Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:23.181Z"
+  "fetchedAt": "2026-10-29T10:23:53.359Z"
 }

@@ -81,7 +81,8 @@
       "items": [
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "Worcester Park",
@@ -97,7 +98,8 @@
         },
         {
           "name": "Goodyear Lake Waterway Access",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/outdoor/23876.html"
         },
         {
           "name": "Cooperstown B&B",
@@ -138,11 +140,13 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Milford Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:32.365Z"
+  "fetchedAt": "2026-10-29T10:24:03.202Z"
 }

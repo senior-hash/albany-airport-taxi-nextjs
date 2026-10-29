@@ -68,7 +68,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         },
         {
           "name": "Cobleskill Diner",
@@ -122,7 +123,8 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Cobleskill Municipal Offices",
@@ -138,7 +140,8 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         },
         {
           "name": "M&M Building (Town Hall/Court)",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:41.962Z"
+  "fetchedAt": "2026-10-29T10:24:14.305Z"
 }

@@ -48,11 +48,13 @@
         },
         {
           "name": "Casino Tavern and Pool Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.glenfallshouse.com/"
         },
         {
           "name": "Nussy's Bier Garten",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://riedlbauersresort.com/drivingrange.html"
         },
         {
           "name": "B&B Lounge",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Crystal Brook Resort Mountain Brauhaus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.crystalbrook.com/"
         },
         {
           "name": "Saloon of East Durham",
@@ -122,7 +125,8 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Pioneer Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:05.145Z"
+  "fetchedAt": "2026-10-29T10:21:25.165Z"
 }

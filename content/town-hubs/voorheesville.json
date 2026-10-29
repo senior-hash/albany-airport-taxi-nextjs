@@ -48,11 +48,13 @@
         },
         {
           "name": "Blackbirds Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://blackbirdstavern.com/"
         },
         {
           "name": "Pretty Alright Breakfast Club",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://foodeist.com/place/pretty-alright-breakfast-club"
         },
         {
           "name": "JayCee's Pizza Depot",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Indian Ladder Farms Cidery and Brewery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ilfcb.com/"
         },
         {
           "name": "Two Little Dumplings",
@@ -105,7 +108,8 @@
         },
         {
           "name": "North Bethlehem Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbethlehem.org/277/North-Bethlehem-Park"
         },
         {
           "name": "Veterans Memorial Park",
@@ -134,11 +138,13 @@
         },
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "Skincare Specialists of the Capital Region",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "skinspecialistscr.com"
         },
         {
           "name": "Albany Med Health System",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:43.320Z"
+  "fetchedAt": "2026-10-29T10:21:03.411Z"
 }

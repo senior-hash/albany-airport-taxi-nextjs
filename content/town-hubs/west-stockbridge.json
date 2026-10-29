@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Shaker Mill Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://shakermilltavernfamilysmokehouse.com/"
         },
         {
           "name": "Papa Gino's",
@@ -56,11 +57,13 @@
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Cafe Triskele",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cafetriskele.com/"
         },
         {
           "name": "Old Heritage Tavern",
@@ -118,27 +121,33 @@
       "items": [
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "Austen Riggs Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.austenriggs.org/"
         },
         {
           "name": "Stockbridge Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofstockbridge.com/"
         },
         {
           "name": "Lee Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lee.ma.us/"
         },
         {
           "name": "Lenox Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townoflenox.com/"
         },
         {
           "name": "Tapestry - Sexual & Reproductive Health Clinic",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:01.790Z"
+  "fetchedAt": "2026-10-29T10:27:41.769Z"
 }

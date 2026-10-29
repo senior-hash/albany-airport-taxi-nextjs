@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Lake Ridge",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.lake-ridge.com/"
         },
         {
           "name": "The Mill on Round Lake",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.myfavoritetaverns.com/"
         },
         {
           "name": "Unified Beerworks",
@@ -56,7 +58,8 @@
         },
         {
           "name": "Azuma Sushi Bistro",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.azumasushimalta.com/"
         },
         {
           "name": "China Wang",
@@ -126,7 +129,8 @@
         },
         {
           "name": "Malta Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofmaltany.gov"
         },
         {
           "name": "St. Peter's Primary Care - Malta",
@@ -138,19 +142,22 @@
         },
         {
           "name": "SHMG Malta - Nephrology",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/shmg-nephrology-at-malta"
         },
         {
           "name": "SHMG Malta -  Endocrinology & Diabetes",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/shmg-endocrinology-and-diabetes-at-malta"
         },
         {
           "name": "SHMG - Sports Medicine",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.saratogahospital.org/locations-directions-s/malta-campus/saratoga-hospital-medical-group-primary-care-sports-medicine"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:31.275Z"
+  "fetchedAt": "2026-10-29T10:25:04.969Z"
 }

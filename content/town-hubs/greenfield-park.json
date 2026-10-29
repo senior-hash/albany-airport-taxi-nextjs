@@ -48,27 +48,33 @@
         },
         {
           "name": "Smash House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.smashhouseburgers.com/locations/new-york/woodbourne/"
         },
         {
           "name": "Dougie's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dougiesw.com/"
         },
         {
           "name": "Panino Toasty Delicious",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.paninotakeout.com/panino-upstate"
         },
         {
           "name": "Il Paradiso Pizza and Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.toasttab.com/il-paradiso/v3"
         },
         {
           "name": "China House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.eatchinahouse.com/"
         },
         {
           "name": "Sprinkles Kosher Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://sprinkleskosherpizza.com/"
         },
         {
           "name": "Main Street Pizza",
@@ -101,7 +107,8 @@
         },
         {
           "name": "Lansmans Co-op & Bungalow Colony",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lansmansbungalowcolony.com/"
         },
         {
           "name": "Lippman Park",
@@ -122,11 +129,13 @@
         },
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Woodridge Village Hall",
@@ -134,7 +143,8 @@
         },
         {
           "name": "Fallsburg Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townoffallsburg.com/"
         },
         {
           "name": "Sun River Health",
@@ -142,7 +152,8 @@
         },
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Liberty Municipal Building",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:15.324Z"
+  "fetchedAt": "2026-10-29T10:22:39.823Z"
 }

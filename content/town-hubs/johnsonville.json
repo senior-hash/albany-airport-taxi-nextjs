@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Schag A Val",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://schagaval.com/"
         },
         {
           "name": "Chrissys Cravings",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Sammy Cohen's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://sammycohens.com/"
         },
         {
           "name": "Lewis' Tavern",
@@ -81,7 +83,8 @@
       "items": [
         {
           "name": "Hoosick River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Blockhouse Park",
@@ -101,7 +104,8 @@
         },
         {
           "name": "Easton Mountain",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://eastonmountain.org"
         },
         {
           "name": "Skorupski Landing",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:06.545Z"
+  "fetchedAt": "2026-10-29T10:24:40.878Z"
 }

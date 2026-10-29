@@ -1076,6 +1076,19 @@ export function getVenueBySlug(slug: string): Venue | undefined {
   return VENUES.find((v) => v.slug === slug);
 }
 
+function normalizeVenueName(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+/** Matches an OSM place name (from a town hub's nearby-places list) to one
+ * of our curated venue pages, so the place can link there instead of
+ * opening the quote form. Exact normalized-name match only — no fuzzy
+ * matching, to avoid linking the wrong place. */
+export function findVenueByName(name: string): Venue | undefined {
+  const key = normalizeVenueName(name);
+  return VENUES.find((v) => normalizeVenueName(v.name) === key);
+}
+
 // Broad display groups for the venues index — the 25 raw `category` values
 // (Winery, Farm & Cidery, Orchard & Winery, ...) are too granular to browse
 // by directly once there are 100+ venues, so this collapses them into a

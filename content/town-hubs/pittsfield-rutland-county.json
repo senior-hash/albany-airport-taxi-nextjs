@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Clear River Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.clearrivertavern.com/"
         },
         {
           "name": "McGrath's Irish Pub",
@@ -52,11 +53,13 @@
         },
         {
           "name": "iPie Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ipiepizzeria.com"
         },
         {
           "name": "Wobbly Barn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.killington.com/things-to-do/dining-apres/wobbly-barn"
         },
         {
           "name": "The Last Run",
@@ -64,15 +67,18 @@
         },
         {
           "name": "The Lookout Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lookoutvt.com"
         },
         {
           "name": "Domenic's Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.domenicspizzeria.com/"
         },
         {
           "name": "Creek House Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://creekhousediner.squarespace.com/"
         }
       ]
     },
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:27.901Z"
+  "fetchedAt": "2026-10-29T10:28:08.423Z"
 }

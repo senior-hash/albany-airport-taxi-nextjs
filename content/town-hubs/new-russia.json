@@ -48,7 +48,8 @@
         },
         {
           "name": "Bub's Pizza & Deli",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://bubsdeli.blogspot.com"
         },
         {
           "name": "Cobble Hill Inn",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Ledge Hill Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ledgehillbrewing.com"
         },
         {
           "name": "Life of Pie",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://lifeofpiepizzeria.blogspot.com"
         },
         {
           "name": "The Gables Inn",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Noon Mark Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.noonmarkdiner.com/"
         }
       ]
     },
@@ -81,15 +85,18 @@
       "items": [
         {
           "name": "The Olde Mill Inn Bed and Breakfast",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oldemillinnbnb.com/"
         },
         {
           "name": "Stoneleigh Bed & Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.adirondackinns.com/stoneleigh/"
         },
         {
           "name": "Namaste Inn Bed & Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.namasteinnny.com/"
         },
         {
           "name": "Milholland Park",
@@ -109,7 +116,8 @@
         },
         {
           "name": "Dartbrook Lodge",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dartbrooklodge.com/"
         }
       ]
     },
@@ -126,11 +134,13 @@
         },
         {
           "name": "Elizabethtown Community Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital"
         },
         {
           "name": "Westport Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westportny.net/"
         },
         {
           "name": "Keene Town Hall",
@@ -142,7 +152,8 @@
         },
         {
           "name": "Moriah Health Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.hhhn.org/locations/moriah-health-center/"
         },
         {
           "name": "Back to Health Chiropractic",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:34.174Z"
+  "fetchedAt": "2026-10-29T10:26:11.463Z"
 }

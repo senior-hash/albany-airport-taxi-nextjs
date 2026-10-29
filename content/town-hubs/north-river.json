@@ -48,15 +48,18 @@
         },
         {
           "name": "becks TAVERN",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.beckstavern.com/"
         },
         {
           "name": "Basil & Wick's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://basilandwicks.com/"
         },
         {
           "name": "The Inn on Gore Mountain",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.innongore.com/index.asp"
         },
         {
           "name": "Log House Restaurant and Pub",
@@ -64,7 +67,8 @@
         },
         {
           "name": "Sporty's Saloon",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://Sportysirondukesaloon.com/"
         },
         {
           "name": "Indian Lake Restaurant, Tavern, and Liquors",
@@ -72,7 +76,8 @@
         },
         {
           "name": "McSweeney's Irish Pub",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mcsweeneysirishpub.com/"
         }
       ]
     },
@@ -80,36 +85,36 @@
       "label": "Getting around",
       "items": [
         {
-          "name": "Hudson Chair",
-          "driveTime": "about 15 min"
-        },
-        {
           "name": "Duck Pond Inn",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Village Chair",
+          "name": "Courtney Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Topridge Quad",
+          "name": "The Alpine Homestead",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Sunway",
+          "name": "Byron Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Adirondack Express",
+          "name": "Highwinds Inn",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Northwoods Gondola",
-          "driveTime": "about 15 min"
+          "name": "The Chester Inn",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "North Quad",
-          "driveTime": "about 15 min"
+          "name": "Landon Hill Bed & Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Rocky Acres Inn / B&B",
+          "driveTime": "about 45 min"
         }
       ]
     },
@@ -140,5 +145,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:07.819Z"
+  "fetchedAt": "2026-10-29T10:25:45.928Z"
 }

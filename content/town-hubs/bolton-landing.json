@@ -1,0 +1,159 @@
+{
+  "slug": "bolton-landing",
+  "name": "Bolton Landing",
+  "county": "Warren County",
+  "state": "New York",
+  "lat": 43.5571601,
+  "lon": -73.6549145,
+  "population": 518,
+  "airportDistances": {
+    "alb": {
+      "miles": "~60 miles",
+      "driveTime": "about 1 hr 15 min"
+    },
+    "jfk": {
+      "miles": "~230 miles",
+      "driveTime": "about 4 hr 45 min"
+    },
+    "lga": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "ewr": {
+      "miles": "~220 miles",
+      "driveTime": "about 4 hr 30 min"
+    },
+    "logan": {
+      "miles": "~235 miles",
+      "driveTime": "about 5 hr"
+    },
+    "bradley": {
+      "miles": "~160 miles",
+      "driveTime": "about 3 hr 30 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Whitehall station",
+    "miles": "~40 miles",
+    "driveTime": "about 1 hr"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "The Algonquin Restaurant",
+          "driveTime": "about 5 min",
+          "website": "https://www.thealgonquin.com/"
+        },
+        {
+          "name": "The Boathouse Restaurant",
+          "driveTime": "about 15 min",
+          "website": "https://www.cresthavenlodges.com/boathouse.asp"
+        },
+        {
+          "name": "Mario's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Giovanna's On The Lake Restaurant",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Olde Log Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "George Henry's",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "New Way Lunch",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Pizza Shop",
+          "driveTime": "about 30 min",
+          "website": "https://thepizzashopwarrensburg.com/"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Rogers Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Veteran's Memorial Park",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Recluse Island",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Dicks Island",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Calvin Engle Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Floyd Bennett Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "The Bond 1786",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Warrensburg Recreation Field",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Bolton Town Hall",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Lake George Village Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lake George Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Warrensburg Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "WellNow Urgent Care",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Town of Hague",
+          "driveTime": "about 30 min",
+          "website": "https://townofhague.org/"
+        },
+        {
+          "name": "Queensbury Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Thurman Town Hall",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T10:25:36.270Z"
+}

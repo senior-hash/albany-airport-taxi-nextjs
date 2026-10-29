@@ -56,11 +56,13 @@
         },
         {
           "name": "Il Paradiso Pizza and Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.toasttab.com/il-paradiso/v3"
         },
         {
           "name": "China House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.eatchinahouse.com/"
         },
         {
           "name": "Villa Gaudio - Pizzeria & Restaurant",
@@ -122,7 +124,8 @@
         },
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Village Hall",
@@ -130,7 +133,8 @@
         },
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Bloomingburg Village Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:39.214Z"
+  "fetchedAt": "2026-10-29T10:23:04.336Z"
 }

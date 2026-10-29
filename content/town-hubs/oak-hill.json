@@ -52,7 +52,8 @@
         },
         {
           "name": "Green Hill Cafe & Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.greenhillcafepizzeria.com"
         },
         {
           "name": "Mama Jeanne's Pizza Shop",
@@ -68,7 +69,8 @@
         },
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         },
         {
           "name": "Tiny Diner",
@@ -104,11 +106,11 @@
           "driveTime": "about 30 min"
         },
         {
-          "name": "K Lift",
+          "name": "Ashland Park",
           "driveTime": "about 30 min"
         },
         {
-          "name": "East Peak Express Quad",
+          "name": "Lawson Lake County Park",
           "driveTime": "about 30 min"
         }
       ]
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:02.753Z"
+  "fetchedAt": "2026-10-29T10:21:22.752Z"
 }

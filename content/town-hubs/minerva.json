@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Sporty's Saloon",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://Sportysirondukesaloon.com/"
         },
         {
           "name": "Ski Bowl Cafe",
@@ -52,7 +53,8 @@
         },
         {
           "name": "becks TAVERN",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.beckstavern.com/"
         },
         {
           "name": "Cafe Adirondack",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Basil & Wick's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://basilandwicks.com/"
         },
         {
           "name": "Black Bear",
@@ -68,7 +71,8 @@
         },
         {
           "name": "The Inn on Gore Mountain",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.innongore.com/index.asp"
         },
         {
           "name": "The Hub",
@@ -92,24 +96,25 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Village Chair",
-          "driveTime": "about 15 min"
+          "name": "The Pilot's House",
+          "driveTime": "about 30 min",
+          "website": "https://www.cloudsplitteroutfitters.com/the-pilot-s-house.html"
         },
         {
-          "name": "Hudson Chair",
-          "driveTime": "about 15 min"
+          "name": "The Chester Inn",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Sunway",
-          "driveTime": "about 15 min"
+          "name": "Landon Hill Bed & Breakfast",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Topridge Quad",
-          "driveTime": "about 15 min"
+          "name": "Town of Horicon",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Adirondack Express",
-          "driveTime": "about 15 min"
+          "name": "Rocky Acres Inn / B&B",
+          "driveTime": "about 30 min"
         }
       ]
     },
@@ -144,5 +149,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:31.558Z"
+  "fetchedAt": "2026-10-29T10:26:07.813Z"
 }

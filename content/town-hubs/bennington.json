@@ -48,11 +48,13 @@
         },
         {
           "name": "The 421 Craft Bar & Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.the421craftbar.com/"
         },
         {
           "name": "Madison Brewing Co.",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.madisonbrewingco.com/"
         },
         {
           "name": "Lil' Britain",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Kelli's Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://kellistavern.com/"
         },
         {
           "name": "Your Belly's Deli",
@@ -68,11 +71,13 @@
         },
         {
           "name": "Lucky Dragon",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.menuguide.com/VT/Bennington/Lucky-Dragon"
         },
         {
           "name": "Ramunto's Brick Oven Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://ramuntos.com/"
         }
       ]
     },
@@ -93,7 +98,8 @@
         },
         {
           "name": "Willow Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://benningtonvt.org/services/parks___recreation/willow_park.php"
         },
         {
           "name": "Lincoln Square",
@@ -118,11 +124,13 @@
       "items": [
         {
           "name": "Bennington Town Offices",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.benningtonvt.org/"
         },
         {
           "name": "Southwestern Vermont Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://svmc.org/"
         },
         {
           "name": "Shaftsbury Town Offices (future home)",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:06.202Z"
+  "fetchedAt": "2026-10-29T10:27:44.794Z"
 }

@@ -130,7 +130,8 @@
         },
         {
           "name": "A.O. Fox Hospital - Tri-Town Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus"
         },
         {
           "name": "Butternuts Town Offices",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:29.432Z"
+  "fetchedAt": "2026-10-29T10:23:59.875Z"
 }

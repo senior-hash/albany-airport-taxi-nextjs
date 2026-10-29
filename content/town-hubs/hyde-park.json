@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Mizu Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://mizusushiny.com"
         },
         {
           "name": "Eveready Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.theevereadydiner.com"
         },
         {
           "name": "Ristorante Caterina de' Medici",
@@ -56,15 +58,18 @@
         },
         {
           "name": "The Bocuse Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.bocuserestaurant.com/"
         },
         {
           "name": "American Bounty Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.americanbountyrestaurant.com/"
         },
         {
           "name": "Apple Pie Bakery Café",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.applepiebakerycafe.com/"
         },
         {
           "name": "Touch of Naples",
@@ -72,7 +77,8 @@
         },
         {
           "name": "Hudson Valley Falafel",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://hudsonvalleyfalafel.com"
         }
       ]
     },
@@ -122,15 +128,18 @@
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://pulse-mdurgentcare.com/locations/poughkeepsie-north-road/"
         },
         {
           "name": "MidHudson Regional Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.wmchealth.org/locations/midhudson-regional-hospital"
         },
         {
           "name": "Poughkeepsie City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cityofpoughkeepsie.com/"
         },
         {
           "name": "Pine Street Medical Building",
@@ -142,7 +151,8 @@
         },
         {
           "name": "Vassar Brothers Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.northwell.edu/locations/vassar-brothers-medical-center"
         },
         {
           "name": "Mental Health America of Dutchess County",
@@ -152,5 +162,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:48.815Z"
+  "fetchedAt": "2026-10-29T10:22:10.828Z"
 }

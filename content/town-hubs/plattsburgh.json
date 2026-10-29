@@ -48,11 +48,13 @@
         },
         {
           "name": "Sip",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sipplattsburgh.com/"
         },
         {
           "name": "Yama Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.yamasushiny.com/"
         },
         {
           "name": "1UP Arcade & Pub",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Irises Cafe & Wine Bar",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://irisescafe.com/"
         },
         {
           "name": "Twisted Carrot",
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Champlain Valley Physicians Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.uvmhealth.org/locations/champlain-valley-physicians-hospital"
         },
         {
           "name": "Wellnow Urgent Care",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:15.666Z"
+  "fetchedAt": "2026-10-29T10:26:54.752Z"
 }

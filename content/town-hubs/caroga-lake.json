@@ -93,11 +93,13 @@
         },
         {
           "name": "Spring Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Trail Station Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Veteran's Park",
@@ -109,7 +111,8 @@
         },
         {
           "name": "Wandel Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cityofgloversville.com/"
         }
       ]
     },
@@ -122,7 +125,8 @@
         },
         {
           "name": "Gloversville City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "St. Mary's Urgent Care - Gloversville",
@@ -134,7 +138,8 @@
         },
         {
           "name": "Nathan Littauer Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nlh.org/"
         },
         {
           "name": "Planned Parenthood",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:34.543Z"
+  "fetchedAt": "2026-10-29T10:27:13.996Z"
 }

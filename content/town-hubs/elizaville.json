@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Elizaville Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.elizaville-diner.com/"
         },
         {
           "name": "Sabroso Mexican Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ordersabrosomexicanrestaurant.com"
         },
         {
           "name": "Historic Village Diner",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Cancun's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.cancunsrestaurant.com/"
         },
         {
           "name": "Bubby's Take Away Kitchen",
@@ -93,7 +96,8 @@
         },
         {
           "name": "Roeliff Jansenkill Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/index.html"
         },
         {
           "name": "Abrams Park",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:19.806Z"
+  "fetchedAt": "2026-10-29T10:21:42.030Z"
 }

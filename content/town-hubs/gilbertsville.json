@@ -72,7 +72,8 @@
         },
         {
           "name": "Nina's Pizzeria & Restaurant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://ninaspizzeria.biz/"
         }
       ]
     },
@@ -81,7 +82,8 @@
       "items": [
         {
           "name": "Morris Reservoir Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Keith Clark Park",
@@ -126,7 +128,8 @@
         },
         {
           "name": "A.O. Fox Hospital - Tri-Town Campus",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus"
         },
         {
           "name": "Guilford Town Hall",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Guthrie Clinic New Berlin",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.guthrie.org/locations/new-berlin"
         },
         {
           "name": "Unadilla Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:17.395Z"
+  "fetchedAt": "2026-10-29T10:23:47.716Z"
 }

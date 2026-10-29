@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Alpenglow Bistro",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.alpenglowbistrovt.com/"
         },
         {
           "name": "Dot's",
@@ -64,11 +65,13 @@
         },
         {
           "name": "The Anchor",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://anchorseafoodrestaurant.com"
         },
         {
           "name": "19 South Main",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://19southmain.com/"
         },
         {
           "name": "North Star Pizza",
@@ -97,7 +100,8 @@
         },
         {
           "name": "The Wilmington Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thewilmingtoninn.com/"
         },
         {
           "name": "Beaver Brook Park",
@@ -138,11 +142,13 @@
         },
         {
           "name": "Rowe Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://rowe-ma.gov/"
         },
         {
           "name": "Clarksburg Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://clarksburgma.us/"
         },
         {
           "name": "Wilmington Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:11.026Z"
+  "fetchedAt": "2026-10-29T10:27:50.294Z"
 }

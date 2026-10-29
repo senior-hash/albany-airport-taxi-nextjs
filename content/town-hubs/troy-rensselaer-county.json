@@ -48,11 +48,13 @@
         },
         {
           "name": "Bacchus Woodfired",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.yelp.com/biz/bacchus-troy"
         },
         {
           "name": "Lucas Confectionery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://lucasconfectionery.wordpress.com/"
         },
         {
           "name": "518 Craft",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Burrito Burrito",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://burritosquared.com/menu"
         }
       ]
     },
@@ -122,11 +125,13 @@
         },
         {
           "name": "Hope House Troy Outpatient",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hopehouseinc.org/"
         },
         {
           "name": "Whiteney & Young Health",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.wmyhealth.org"
         },
         {
           "name": "Mahendra Ganjhu, MD, PC",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:16.133Z"
+  "fetchedAt": "2026-10-29T10:24:50.472Z"
 }

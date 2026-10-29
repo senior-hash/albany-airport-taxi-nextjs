@@ -72,7 +72,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/johnstown/223-n.-comrie-ave.-96069"
         }
       ]
     },
@@ -130,7 +131,8 @@
         },
         {
           "name": "Saint Mary's Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.smha.org/"
         },
         {
           "name": "Nathan Littauer Primary Care",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:53.241Z"
+  "fetchedAt": "2026-10-29T10:24:24.884Z"
 }

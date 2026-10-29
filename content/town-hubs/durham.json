@@ -60,7 +60,8 @@
         },
         {
           "name": "Green Hill Cafe & Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.greenhillcafepizzeria.com"
         },
         {
           "name": "Hop Barn Brewing",
@@ -68,7 +69,8 @@
         },
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         },
         {
           "name": "Tiny Diner",
@@ -92,23 +94,23 @@
           "driveTime": "about 30 min"
         },
         {
-          "name": "K Lift",
-          "driveTime": "about 30 min"
-        },
-        {
-          "name": "East Peak Express Quad",
-          "driveTime": "about 30 min"
-        },
-        {
-          "name": "Whiteway Express Quad",
-          "driveTime": "about 30 min"
-        },
-        {
           "name": "Ashland Park",
           "driveTime": "about 30 min"
         },
         {
           "name": "Palmer House Inn",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Catalpa House Bed & Breakfast",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Westerlo Veterans Memorial Town Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "C.D. Lane Park",
           "driveTime": "about 30 min"
         }
       ]
@@ -142,7 +144,8 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Conesville Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:50.551Z"
+  "fetchedAt": "2026-10-29T10:21:10.605Z"
 }

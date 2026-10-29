@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Del's Roadside",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://delsdairyfarm.com/"
         },
         {
           "name": "Brooklyn Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.broadstreetbagelco.com"
         },
         {
           "name": "Applebee's",
@@ -101,7 +103,8 @@
         },
         {
           "name": "Martin Van Buren National Historic Site",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nps.gov/mava/index.htm"
         },
         {
           "name": "Harrier Hill Park",
@@ -130,7 +133,8 @@
         },
         {
           "name": "Castleton Village Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://castleton-on-hudson.org/"
         },
         {
           "name": "Greenport Town Hall",
@@ -138,7 +142,8 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         },
         {
           "name": "Hudson City Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:34.363Z"
+  "fetchedAt": "2026-10-29T10:21:54.301Z"
 }

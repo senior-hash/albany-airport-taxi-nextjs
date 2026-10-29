@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Jimmy's Lakeside Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/Jimmys-Lakeside-Grill-110888014945510/"
         },
         {
           "name": "Zia's Pizza",
@@ -56,11 +57,13 @@
         },
         {
           "name": "Tacos Diablos",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tacosdiablo.com/"
         },
         {
           "name": "Jack Kelly's Tavern by the Green",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.blccgolf.com/restaurant.php"
         },
         {
           "name": "Old Daley Inn on Crooked Lake",
@@ -68,7 +71,8 @@
         },
         {
           "name": "Stable Gate Winery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.stablegatewinery.com/"
         },
         {
           "name": "Kay's Famous Pizza",
@@ -89,7 +93,8 @@
         },
         {
           "name": "Schodack Town Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/park.htm"
         },
         {
           "name": "Butler Park",
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Sand Lake Town Hall",
@@ -126,15 +132,18 @@
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://upstatederm.com/"
         },
         {
           "name": "Dialysis Clinic, Inc.",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dciinc.org/location/east-greenbush/"
         },
         {
           "name": "Stephentown Town Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:08.936Z"
+  "fetchedAt": "2026-10-29T10:24:43.274Z"
 }

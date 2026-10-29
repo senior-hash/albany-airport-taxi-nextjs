@@ -64,7 +64,8 @@
         },
         {
           "name": "Denny's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://locations.dennys.com/NY/HERKIMER/246717"
         },
         {
           "name": "Tony's Pizza",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/herkimer/630-w.-state-street-97062"
         }
       ]
     },
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:26.167Z"
+  "fetchedAt": "2026-10-29T10:23:55.799Z"
 }

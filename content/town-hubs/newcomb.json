@@ -48,7 +48,8 @@
         },
         {
           "name": "Sporty's Saloon",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://Sportysirondukesaloon.com/"
         },
         {
           "name": "Strong Rope Taproom at Potters Resort",
@@ -64,7 +65,8 @@
         },
         {
           "name": "McSweeney's Irish Pub",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.mcsweeneysirishpub.com/"
         },
         {
           "name": "Indian Lake Restaurant, Tavern, and Liquors",
@@ -81,11 +83,13 @@
       "items": [
         {
           "name": "Aunt Pollys Bed and Breakfast",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.auntpollysbb.com/"
         },
         {
           "name": "The Pilot's House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cloudsplitteroutfitters.com/the-pilot-s-house.html"
         },
         {
           "name": "Town of Long Lake Municipal Park",
@@ -124,5 +128,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:34.158Z"
+  "fetchedAt": "2026-10-29T10:26:12.565Z"
 }

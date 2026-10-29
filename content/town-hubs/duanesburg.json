@@ -48,7 +48,8 @@
         },
         {
           "name": "Wolfe's Market & Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://wolfesmarketandpizza-ny.com"
         },
         {
           "name": "Chris's Chuck Wagon Diner",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:40.860Z"
+  "fetchedAt": "2026-10-29T10:25:14.665Z"
 }

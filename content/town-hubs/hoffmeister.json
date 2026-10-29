@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Oxbow inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oxbowpizza.com"
         }
       ]
     },
@@ -53,11 +54,12 @@
       "items": [
         {
           "name": "Poplar Point Day Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/24491.html"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:15.016Z"
+  "fetchedAt": "2026-10-29T10:25:53.307Z"
 }

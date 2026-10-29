@@ -72,7 +72,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ma/pittsfield/555-hubbard-ave-81051"
         }
       ]
     },
@@ -118,19 +119,23 @@
       "items": [
         {
           "name": "Cheshire Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cheshire-ma.net/"
         },
         {
           "name": "Adams Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.town.adams.ma.us/"
         },
         {
           "name": "Lanesborough Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lanesborough-ma.gov/"
         },
         {
           "name": "Dalton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dalton-ma.gov/"
         },
         {
           "name": "Savoy Town Hall",
@@ -142,7 +147,8 @@
         },
         {
           "name": "Berkshire Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.berkshirehealthsystems.org/location/berkshire-medical-center/"
         },
         {
           "name": "Dr. Mark R. Snowise, MD",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:41.741Z"
+  "fetchedAt": "2026-10-29T10:27:21.214Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Union Grove Distillery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.uniongrovedistillery.com"
         },
         {
           "name": "TJ's Farm Market & Cafe",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Trattoria Locale",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.trattorialocalemargaretville.com/"
         },
         {
           "name": "Carolanne's Cuisine",
@@ -60,15 +62,18 @@
         },
         {
           "name": "Zada's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.zadasbar.com"
         },
         {
           "name": "Binnekill Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.binnekill.com"
         },
         {
           "name": "Oda Wine Garden",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://odabar.square.site"
         },
         {
           "name": "Goatie Whites",
@@ -85,7 +90,8 @@
         },
         {
           "name": "Belleayre Ski Shop",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://belleayreskishop.com"
         },
         {
           "name": "Smith Park",
@@ -97,7 +103,8 @@
         },
         {
           "name": "Belleayre Mountain Ski Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.belleayre.com/"
         },
         {
           "name": "Kirkside Park",
@@ -122,7 +129,8 @@
         },
         {
           "name": "Margaretville Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.wmchealth.org/locations/margaretville-hospital"
         },
         {
           "name": "Margaretville Village Offices",
@@ -134,7 +142,8 @@
         },
         {
           "name": "Hardenburgh Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofhardenburgh.org"
         },
         {
           "name": "Halcott Grange",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:46.895Z"
+  "fetchedAt": "2026-10-29T10:23:13.500Z"
 }

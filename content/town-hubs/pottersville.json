@@ -56,11 +56,13 @@
         },
         {
           "name": "DeCesare's Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.schroonlakeregion.com/dine-and-shop/dining/decesares-pizzeria"
         },
         {
           "name": "Flanagan's Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.flanaganspubandgrill.com/"
         },
         {
           "name": "Timberwolf Pub",
@@ -140,5 +142,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:09.848Z"
+  "fetchedAt": "2026-10-29T10:25:45.929Z"
 }

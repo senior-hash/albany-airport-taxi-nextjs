@@ -1,0 +1,175 @@
+{
+  "clarksville": {
+    "lat": 42.5759096,
+    "lon": -73.9639542,
+    "source": "osm"
+  },
+  "feura-bush": {
+    "lat": 42.5777513,
+    "lon": -73.8788321,
+    "source": "osm"
+  },
+  "guilderland-center": {
+    "lat": 42.7023927,
+    "lon": -73.9662007,
+    "source": "osm"
+  },
+  "haines-falls": {
+    "lat": 42.1960954,
+    "lon": -74.0972358,
+    "source": "osm",
+    "population": 249
+  },
+  "annandale-on-hudson": {
+    "lat": 42.0128695,
+    "lon": -73.9081901,
+    "source": "osm"
+  },
+  "tivoli": {
+    "lat": 42.058528,
+    "lon": -73.908913,
+    "source": "osm",
+    "population": 1012
+  },
+  "wingdale": {
+    "lat": 41.6470383,
+    "lon": -73.5681816,
+    "source": "osm",
+    "population": 1051
+  },
+  "clintondale": {
+    "lat": 41.6948156,
+    "lon": -74.0512528,
+    "source": "osm",
+    "population": 1938
+  },
+  "kerhonkson": {
+    "lat": 41.7748155,
+    "lon": -74.2982059,
+    "source": "osm",
+    "population": 1722
+  },
+  "malden-on-hudson": {
+    "lat": 42.095368,
+    "lon": -73.9340227,
+    "source": "osm",
+    "population": 365
+  },
+  "modena": {
+    "lat": 41.6684268,
+    "lon": -74.1026437,
+    "source": "osm"
+  },
+  "downsville": {
+    "lat": 42.080886,
+    "lon": -74.9953492,
+    "source": "osm",
+    "population": 474
+  },
+  "burlington-flats": {
+    "lat": 42.7453504,
+    "lon": -75.1829401,
+    "source": "osm",
+    "population": 143
+  },
+  "east-worcester": {
+    "lat": 42.6233917,
+    "lon": -74.6716793,
+    "source": "osm"
+  },
+  "fly-creek": {
+    "lat": 42.7184076,
+    "lon": -74.983212,
+    "source": "osm",
+    "population": 270
+  },
+  "garrattsville": {
+    "lat": 42.6472968,
+    "lon": -75.1718306,
+    "source": "osm",
+    "population": 120
+  },
+  "schuyler-lake": {
+    "lat": 42.7803509,
+    "lon": -75.0279352,
+    "source": "osm",
+    "population": 189
+  },
+  "north-blenheim": {
+    "lat": 42.4709109,
+    "lon": -74.4454234,
+    "source": "osm",
+    "population": 54
+  },
+  "esperance": {
+    "lat": 42.7609472,
+    "lon": -74.2568659,
+    "source": "osm"
+  },
+  "saint-johnsville": {
+    "lat": 42.998198,
+    "lon": -74.6799077,
+    "source": "osm"
+  },
+  "castleton-on-hudson": {
+    "lat": 42.5308134,
+    "lon": -73.7553018,
+    "source": "osm",
+    "population": 1477
+  },
+  "eagle-bridge": {
+    "lat": 42.9500778,
+    "lon": -73.3962234,
+    "source": "osm"
+  },
+  "victory-mills": {
+    "lat": 43.0878391,
+    "lon": -73.5938478,
+    "source": "osm"
+  },
+  "buskirk": {
+    "lat": 42.9537771,
+    "lon": -73.4333366,
+    "source": "osm"
+  },
+  "bolton-landing": {
+    "lat": 43.5571601,
+    "lon": -73.6549145,
+    "source": "osm",
+    "population": 518
+  },
+  "brant-lake": {
+    "lat": 43.6765094,
+    "lon": -73.749562,
+    "source": "osm"
+  },
+  "lake-clear": {
+    "lat": 44.3675548,
+    "lon": -74.2326587,
+    "source": "osm"
+  },
+  "saint-regis-falls": {
+    "lat": 44.6739468,
+    "lon": -74.5448962,
+    "source": "osm",
+    "population": 432
+  },
+  "dolgeville": {
+    "lat": 43.100983,
+    "lon": -74.772949,
+    "source": "osm",
+    "population": 2042
+  },
+  "east-dorset": {
+    "lat": 43.2397974,
+    "lon": -73.00927,
+    "source": "osm",
+    "population": 1996
+  },
+  "west-pawlet": {
+    "lat": 43.3534386,
+    "lon": -73.2520005,
+    "source": "osm",
+    "population": 1438
+  }
+}

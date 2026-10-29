@@ -64,7 +64,8 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         },
         {
           "name": "Cooperstown Brewing Company",
@@ -81,7 +82,8 @@
       "items": [
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "Cooperstown B&B",
@@ -126,7 +128,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "M&M Building (Town Hall/Court)",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:27.034Z"
+  "fetchedAt": "2026-10-29T10:23:57.365Z"
 }

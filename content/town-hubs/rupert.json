@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "The Barn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thebarnrestaurantvt.com/"
         },
         {
           "name": "Christos' Pizza and Pasta",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://christospizzaandpasta.com"
         },
         {
           "name": "Up for Breakfast",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.upforbreakfastvt.com"
         },
         {
           "name": "Gourmet Deli & Cafe",
@@ -60,7 +63,8 @@
         },
         {
           "name": "Thai Basil",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.thaibasilvt.com/"
         },
         {
           "name": "The Avocado Pit",
@@ -68,11 +72,13 @@
         },
         {
           "name": "Mystic Cafe & Wine Bar",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://mysticcafeandwinebar.com/"
         },
         {
           "name": "Ponce Bistro",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://poncebistro.com/"
         }
       ]
     },
@@ -101,15 +107,18 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         },
         {
           "name": "Cary Hill Sculpture Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.salemartworks.org/sculpture-park"
         }
       ]
     },
@@ -138,11 +147,13 @@
         },
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.manchestermedicalcenter.com"
         },
         {
           "name": "Southwestern Vermont Medical Center Northshire Campus",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://svhealthcare.org/locations/northshire-campus/"
         },
         {
           "name": "Granville Municipal Building",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:11.042Z"
+  "fetchedAt": "2026-10-29T10:27:51.438Z"
 }

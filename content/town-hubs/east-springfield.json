@@ -60,7 +60,8 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         },
         {
           "name": "Mel's at 22",
@@ -126,7 +127,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Middlefield Town Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:15.507Z"
+  "fetchedAt": "2026-10-29T10:23:42.946Z"
 }

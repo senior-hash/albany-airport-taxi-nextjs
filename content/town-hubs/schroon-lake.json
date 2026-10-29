@@ -60,15 +60,18 @@
         },
         {
           "name": "Flanagan's Bar & Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.flanaganspubandgrill.com/"
         },
         {
           "name": "DeCesare's Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.schroonlakeregion.com/dine-and-shop/dining/decesares-pizzeria"
         },
         {
           "name": "Paradox Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.paradoxbrewery.com/"
         },
         {
           "name": "Cafe Adirondack",
@@ -93,7 +96,8 @@
         },
         {
           "name": "Frontier Town Campground, Equestrian and Day Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/112046.html"
         },
         {
           "name": "The Chester Inn",
@@ -138,11 +142,12 @@
         },
         {
           "name": "Town of Hague",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://townofhague.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:41.203Z"
+  "fetchedAt": "2026-10-29T10:26:17.422Z"
 }

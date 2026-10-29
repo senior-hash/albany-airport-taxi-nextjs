@@ -57,7 +57,8 @@
         },
         {
           "name": "Cadyville Recreation Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.townofplattsburghrecreation.com/Default.aspx?tabid=550987"
         },
         {
           "name": "Picketts Corner Park",
@@ -96,5 +97,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:12.465Z"
+  "fetchedAt": "2026-10-29T10:26:51.002Z"
 }

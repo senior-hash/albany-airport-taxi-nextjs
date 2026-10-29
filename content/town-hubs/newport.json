@@ -64,11 +64,13 @@
         },
         {
           "name": "Vinny's Pizzeria & Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.vinnyspizzeriaherkimer.com/"
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/herkimer/630-w.-state-street-97062"
         },
         {
           "name": "Trattoria Calabria",
@@ -89,7 +91,8 @@
         },
         {
           "name": "Cincinnati Creek Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/9239.html"
         },
         {
           "name": "Tony Bagetta Mini Park",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Bassett Healthcare Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/regional-health-centers/herkimer/"
         },
         {
           "name": "Primary Urgent Care",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:27.674Z"
+  "fetchedAt": "2026-10-29T10:27:07.880Z"
 }

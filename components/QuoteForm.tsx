@@ -52,8 +52,23 @@ export function QuoteForm() {
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error" | "captcha-required">("idle");
   const [errorMessage, setErrorMessage] = useState("");
   const [captchaToken, setCaptchaToken] = useState("");
+  const [dropoffSeed, setDropoffSeed] = useState<string | undefined>(undefined);
   const captchaRef = useRef<HTMLDivElement>(null);
   const widgetId = useRef<number | null>(null);
+
+  // "Get a ride to [place]" links elsewhere on the page (e.g. a town hub's
+  // nearby-places list) dispatch this instead of reaching into form state
+  // directly, since QuoteForm mounts once and those links live outside it.
+  useEffect(() => {
+    function handlePrefill(e: Event) {
+      const place = (e as CustomEvent<{ place: string }>).detail?.place;
+      if (!place) return;
+      setTripType("other");
+      setDropoffSeed(place);
+    }
+    window.addEventListener("quote-form-prefill-dropoff", handlePrefill);
+    return () => window.removeEventListener("quote-form-prefill-dropoff", handlePrefill);
+  }, []);
 
   function renderCaptcha() {
     if (!RECAPTCHA_SITE_KEY || !captchaRef.current || !window.grecaptcha || widgetId.current !== null) return;
@@ -192,7 +207,7 @@ export function QuoteForm() {
             </select>
           </div>
         ) : (
-          <AddressAutocomplete id="dropoff" name="dropoff" label={dropoffLabel} />
+          <AddressAutocomplete id="dropoff" name="dropoff" label={dropoffLabel} seed={dropoffSeed} />
         )}
 
         <div className="grid grid-cols-3 gap-3">

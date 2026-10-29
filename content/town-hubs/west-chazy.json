@@ -52,7 +52,8 @@
         },
         {
           "name": "McSweeney's Red Hots",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.mcsweeneysredhots.com/"
         },
         {
           "name": "Gus' Famous Red Hots",
@@ -122,7 +123,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -134,7 +136,8 @@
         },
         {
           "name": "Champlain Valley Physicians Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/champlain-valley-physicians-hospital"
         },
         {
           "name": "Wellnow Urgent Care",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:20.191Z"
+  "fetchedAt": "2026-10-29T10:26:58.634Z"
 }

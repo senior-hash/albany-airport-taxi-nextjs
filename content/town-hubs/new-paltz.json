@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Yah So Nice",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://yahsonoce.toast.site/"
         },
         {
           "name": "Snugs Tavern",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Lola's Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.lolascafeandcatering.com/location/lolas-new-paltz/"
         },
         {
           "name": "Bacchus Restaurant",
@@ -60,7 +62,8 @@
         },
         {
           "name": "McGillicuddy's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cuddysny.com/"
         },
         {
           "name": "Gourmet Pizza",
@@ -68,11 +71,13 @@
         },
         {
           "name": "Krishna Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://krishnakitchen.square.site/"
         },
         {
           "name": "Karma Road",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.karmaroad.net/"
         }
       ]
     },
@@ -109,7 +114,8 @@
         },
         {
           "name": "Mill Brook Preserve",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.millbrookpreserve.org/"
         }
       ]
     },
@@ -122,15 +128,18 @@
         },
         {
           "name": "New Paltz Family Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.institute.org/health-care/locations/mid-hudson-valley/"
         },
         {
           "name": "Sun River Health",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sunriver.org/"
         },
         {
           "name": "FirstCare Walk-In Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.firstcaremedcenter.com/"
         },
         {
           "name": "Gardiner Town Hall",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:25.668Z"
+  "fetchedAt": "2026-10-29T10:22:51.827Z"
 }

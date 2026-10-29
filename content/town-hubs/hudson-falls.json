@@ -64,7 +64,8 @@
         },
         {
           "name": "Pizza Hut",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://locations.pizzahut.com/ny/fort-edward/354-broadway"
         },
         {
           "name": "Hong Kong Chinese Restaurant",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Ginny Rae's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ginnyraes.com/"
         }
       ]
     },
@@ -138,11 +140,13 @@
         },
         {
           "name": "Westfall Vision",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://westfallvison.com"
         },
         {
           "name": "Glens Falls Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/glensfalls/"
         },
         {
           "name": "Convenient Medical Care",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:50.924Z"
+  "fetchedAt": "2026-10-29T10:25:26.662Z"
 }

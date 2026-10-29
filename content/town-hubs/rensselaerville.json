@@ -48,7 +48,8 @@
         },
         {
           "name": "Be Golden Farms",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://begoldenfarms.com"
         },
         {
           "name": "Carriage House Restaurant",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:38.937Z"
+  "fetchedAt": "2026-10-29T10:20:58.624Z"
 }

@@ -60,7 +60,8 @@
         },
         {
           "name": "The Store at Five Corners",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://storeatfivecorners.com"
         },
         {
           "name": "Coyote Flaco",
@@ -68,11 +69,13 @@
         },
         {
           "name": "Spice Root",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.spiceroot.com/"
         },
         {
           "name": "Blue Mango",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://bluemangoma.smiledining.com/?2025021402"
         }
       ]
     },
@@ -81,7 +84,8 @@
       "items": [
         {
           "name": "Cherry Plain State Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://parks.ny.gov/parks/cherryplain/"
         },
         {
           "name": "Pineridge Cross Country Trails",
@@ -93,7 +97,8 @@
         },
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Bill Laston Memorial Field",
@@ -134,7 +139,8 @@
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "Sand Lake Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:00.472Z"
+  "fetchedAt": "2026-10-29T10:24:33.634Z"
 }

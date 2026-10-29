@@ -48,23 +48,28 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "Eastdale Ave Bagels Coffee",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.eastdaleavenuebagels.com/"
         },
         {
           "name": "Pizzeria Posto at Eastdale",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pizzeriapostoateastdale.com/"
         },
         {
           "name": "Tomo Asian Fusion",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tomoasianfusioneastdale.com"
         },
         {
           "name": "El Jalapeno",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://eljalapenony.com/menu/eljalapeno-poughkeepsie"
         },
         {
           "name": "Touch of Naples",
@@ -72,7 +77,8 @@
         },
         {
           "name": "Mizu Sushi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://mizusushiny.com"
         }
       ]
     },
@@ -97,7 +103,8 @@
         },
         {
           "name": "Whitlock Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dutchessny.gov/CountyGov/Departments/DPW-Parks/tmswhitlockpreserve.pdf"
         },
         {
           "name": "Greenfields Park",
@@ -138,7 +145,8 @@
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pulse-mdurgentcare.com/"
         },
         {
           "name": "Mental Health America of Dutchess County",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:58.426Z"
+  "fetchedAt": "2026-10-29T10:22:20.427Z"
 }

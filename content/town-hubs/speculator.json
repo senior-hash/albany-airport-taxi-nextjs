@@ -48,7 +48,8 @@
         },
         {
           "name": "Logan's Bar & Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.logansbarandgrill.com/"
         },
         {
           "name": "Sunrise Diner",
@@ -64,7 +65,8 @@
         },
         {
           "name": "The Oxbow inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oxbowpizza.com"
         },
         {
           "name": "Alpine Grille",
@@ -89,7 +91,8 @@
         },
         {
           "name": "Poplar Point Day Use Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/outdoor/24491.html"
         }
       ]
     },
@@ -108,5 +111,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:22.162Z"
+  "fetchedAt": "2026-10-29T10:25:59.349Z"
 }

@@ -93,11 +93,13 @@
         },
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "Goodyear Lake Waterway Access",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/outdoor/23876.html"
         },
         {
           "name": "West Davenport Park",
@@ -134,7 +136,8 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Milford Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:33.399Z"
+  "fetchedAt": "2026-10-29T10:24:04.678Z"
 }

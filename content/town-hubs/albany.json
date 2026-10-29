@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Susies Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.susiespub.com/"
         },
         {
           "name": "The Local 217",
@@ -52,11 +53,13 @@
         },
         {
           "name": "Oh Bar on Lark",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://ohonlark.com/"
         },
         {
           "name": "The Savoy Taproom",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.savoyonlark.com"
         },
         {
           "name": "Encebollados El Idolo",
@@ -68,7 +71,8 @@
         },
         {
           "name": "Shogun Japanese Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.shogunalbany.com/"
         },
         {
           "name": "Fusion",
@@ -122,11 +126,13 @@
         },
         {
           "name": "Albany City Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanyny.org/"
         },
         {
           "name": "Samuel S. Stratton Veterans Affairs Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albany.va.gov/"
         },
         {
           "name": "SUNY Albany Psychological Services Center",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:26.510Z"
+  "fetchedAt": "2026-10-29T10:20:44.180Z"
 }

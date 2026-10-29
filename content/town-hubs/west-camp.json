@@ -56,7 +56,8 @@
         },
         {
           "name": "The Dutch Ale House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dutchalehouse.com/"
         },
         {
           "name": "Szechuan King",
@@ -64,11 +65,13 @@
         },
         {
           "name": "Marqaux Bar",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.margauxupstate.com/"
         },
         {
           "name": "Miss Lucy's Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.misslucyskitchen.com/"
         },
         {
           "name": "Mirabellas",
@@ -97,7 +100,8 @@
         },
         {
           "name": "Cantine Fields",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://villagesaugerties.digitaltowpath.org:10064/content/Parks/View/6"
         },
         {
           "name": "Cantine Complex",
@@ -105,7 +109,8 @@
         },
         {
           "name": "Ruth Reynolds Glunt Nature Preserve",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.saugertieslighthouse.com/"
         },
         {
           "name": "Cantine Memorial Field",
@@ -130,15 +135,18 @@
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Advanced Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drkircher.com/"
         },
         {
           "name": "Optum Urgent Care",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:41.614Z"
+  "fetchedAt": "2026-10-29T10:23:06.749Z"
 }

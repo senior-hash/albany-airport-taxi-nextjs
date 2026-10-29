@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Christos' Pizza and Pasta",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://christospizzaandpasta.com"
         },
         {
           "name": "Up for Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.upforbreakfastvt.com"
         },
         {
           "name": "Gourmet Deli & Cafe",
@@ -56,7 +58,8 @@
         },
         {
           "name": "Thai Basil",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thaibasilvt.com/"
         },
         {
           "name": "The Avocado Pit",
@@ -64,15 +67,18 @@
         },
         {
           "name": "Mystic Cafe & Wine Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://mysticcafeandwinebar.com/"
         },
         {
           "name": "Ponce Bistro",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://poncebistro.com/"
         },
         {
           "name": "Sushi Boat Japanese Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sushiboatvt.com/"
         }
       ]
     },
@@ -97,7 +103,8 @@
         },
         {
           "name": "The Inn at Ormsby Hill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ormsbyhill.com/"
         },
         {
           "name": "Emerald Lake State Park",
@@ -122,11 +129,13 @@
         },
         {
           "name": "Manchester Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.manchestermedicalcenter.com"
         },
         {
           "name": "Southwestern Vermont Medical Center Northshire Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://svhealthcare.org/locations/northshire-campus/"
         },
         {
           "name": "Manchester Town Hall",
@@ -146,11 +155,12 @@
         },
         {
           "name": "Wells Town Offices",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://wellsvt.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:06.618Z"
+  "fetchedAt": "2026-10-29T10:27:46.613Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Mister Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mayfieldmisterpizza.com/about"
         },
         {
           "name": "Mayfield Grill",
@@ -97,7 +98,8 @@
         },
         {
           "name": "Union Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cityofgloversville.com/"
         },
         {
           "name": "Melchoir Park",
@@ -134,7 +136,8 @@
         },
         {
           "name": "Nathan Littauer Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nlh.org/"
         },
         {
           "name": "Nathan Littauer Pediatrics",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:36.927Z"
+  "fetchedAt": "2026-10-29T10:27:16.402Z"
 }

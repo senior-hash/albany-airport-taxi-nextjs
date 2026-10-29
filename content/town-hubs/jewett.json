@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Brandywine Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://brandywinewindham.com/"
         },
         {
           "name": "Chicken Run",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Ze Windham Wine Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.zewinebar.com/"
         },
         {
           "name": "Wheelhouse Lodge",
@@ -88,18 +90,6 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "K Lift",
-          "driveTime": "about 15 min"
-        },
-        {
-          "name": "East Peak Express Quad",
-          "driveTime": "about 15 min"
-        },
-        {
-          "name": "Whiteway Express Quad",
-          "driveTime": "about 15 min"
-        },
-        {
           "name": "Harris's Happy Hunter Hideaway",
           "driveTime": "about 15 min"
         },
@@ -110,6 +100,19 @@
         {
           "name": "Trail View Inn",
           "driveTime": "about 15 min"
+        },
+        {
+          "name": "Hunter Mountain",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "C.D. Lane Park",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Bearpen Mountain Sports",
+          "driveTime": "about 15 min",
+          "website": "https://www.bearpenmountain.com/"
         }
       ]
     },
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Town of Lexington Municipal Building",
@@ -142,7 +146,8 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Gilboa Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:57.898Z"
+  "fetchedAt": "2026-10-29T10:21:17.852Z"
 }

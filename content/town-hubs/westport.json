@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Life of Pie",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://lifeofpiepizzeria.blogspot.com"
         },
         {
           "name": "The Gables Inn",
@@ -56,7 +57,8 @@
         },
         {
           "name": "Ledge Hill Brewing Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.ledgehillbrewing.com"
         },
         {
           "name": "Westport Country Club",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Bub's Pizza & Deli",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://bubsdeli.blogspot.com"
         },
         {
           "name": "Deer's Head Inn",
@@ -89,15 +92,18 @@
         },
         {
           "name": "The Olde Mill Inn Bed and Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oldemillinnbnb.com/"
         },
         {
           "name": "Stoneleigh Bed & Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.adirondackinns.com/stoneleigh/"
         },
         {
           "name": "Namaste Inn Bed & Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.namasteinnny.com/"
         },
         {
           "name": "Milholland Park",
@@ -118,7 +124,8 @@
       "items": [
         {
           "name": "Westport Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.westportny.net/"
         },
         {
           "name": "Elizabethtown Town Hall",
@@ -130,7 +137,8 @@
         },
         {
           "name": "Elizabethtown Community Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital"
         },
         {
           "name": "Back to Health Chiropractic",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:43.737Z"
+  "fetchedAt": "2026-10-29T10:26:21.098Z"
 }

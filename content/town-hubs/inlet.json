@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Screamen Eagle",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.screameneaglepizza.com/"
         },
         {
           "name": "Tony Harpers Pizza and Clam Shack",
@@ -56,11 +57,13 @@
         },
         {
           "name": "Red Dog Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.reddogtavern.com/"
         },
         {
           "name": "The Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://the-tavern-eagle-bay.edan.io"
         },
         {
           "name": "The Eagle Bay House",
@@ -72,7 +75,8 @@
         },
         {
           "name": "The Ole Barn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.theolebarninletny.com/"
         }
       ]
     },
@@ -81,7 +85,8 @@
       "items": [
         {
           "name": "Fourth Lake Day Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/75305.html"
         },
         {
           "name": "McCauley Mountain Ski Area",
@@ -91,5 +96,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:17.381Z"
+  "fetchedAt": "2026-10-29T10:25:54.518Z"
 }

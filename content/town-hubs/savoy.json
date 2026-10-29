@@ -52,7 +52,8 @@
         },
         {
           "name": "Bounti-Fare Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://bountifare.com/"
         },
         {
           "name": "Angelina's Sub Shop",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Dewey's Public House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.deweyspublichouse.com/home"
         },
         {
           "name": "portaVia",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/PaddyspubDalton"
         },
         {
           "name": "Common Table Food & Drink",
@@ -122,35 +125,42 @@
         },
         {
           "name": "Windsor Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.windsormass.com/town-hall-rental"
         },
         {
           "name": "Plainfield Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://plainfield-ma.us/"
         },
         {
           "name": "Adams Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.town.adams.ma.us/"
         },
         {
           "name": "Cheshire Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cheshire-ma.net/"
         },
         {
           "name": "Dalton Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dalton-ma.gov/"
         },
         {
           "name": "North Adams City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.northadams-ma.gov/"
         },
         {
           "name": "Cummington Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://cummington-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:58.877Z"
+  "fetchedAt": "2026-10-29T10:27:37.140Z"
 }

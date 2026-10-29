@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Farmhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thefarmhousert22.com"
         },
         {
           "name": "Oriental Express Wok",
@@ -56,7 +57,8 @@
         },
         {
           "name": "Putnam Diner & Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://putnamdinerny.com"
         },
         {
           "name": "Fortuna",
@@ -72,7 +74,8 @@
         },
         {
           "name": "La Famiglia Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lafamigliagrill.com"
         }
       ]
     },
@@ -134,7 +137,8 @@
         },
         {
           "name": "Southeast Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.southeast-ny.gov/"
         },
         {
           "name": "Kathleen Ennabi, MD",
@@ -142,7 +146,8 @@
         },
         {
           "name": "PM Pediatrics - Specialized Urgent Care",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://pmpediatriccare.com/location/pm-pediatrics-dutchess-hopewell-junction/"
         },
         {
           "name": "Ogleh Nesheiwat, M.D. - Internal Medicine / Primary Care",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:46.420Z"
+  "fetchedAt": "2026-10-29T10:22:08.441Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Chatham Brewing",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gnomeslicepizzeria.com/"
         },
         {
           "name": "Yummy Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.yummykitchen.xyz/berry-farm"
         },
         {
           "name": "Silver Brothers Spirits Company",
@@ -134,11 +137,13 @@
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "Kinderhook Village Hall",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.schodack.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:31.955Z"
+  "fetchedAt": "2026-10-29T10:21:51.627Z"
 }

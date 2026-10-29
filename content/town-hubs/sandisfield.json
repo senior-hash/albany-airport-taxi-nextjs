@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Roadside Store & Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.gouldfarm.org/roadside-store-and-cafe/"
         },
         {
           "name": "Paige's",
@@ -56,15 +57,18 @@
         },
         {
           "name": "Xicohtencatl Restaurant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.xicohmexicano.com/"
         },
         {
           "name": "Shiro Kitchen & Asian Market",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.berkshiro.com/"
         },
         {
           "name": "Four Brothers Pizza Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://fourbrothersrestaurants.com/"
         },
         {
           "name": "Great Barrington Pizza House",
@@ -72,7 +76,8 @@
         },
         {
           "name": "Marketplace Kitchen Table",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://marketplacekitchen.com/"
         }
       ]
     },
@@ -93,7 +98,8 @@
         },
         {
           "name": "Stanton Home",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://stantonhome.org/"
         },
         {
           "name": "Ski Butternut",
@@ -118,11 +124,13 @@
       "items": [
         {
           "name": "Sandisfield Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sandisfieldma.gov/"
         },
         {
           "name": "New Marlborough Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.newmarlboroughma.gov/"
         },
         {
           "name": "Monterey Town Hall",
@@ -130,7 +138,8 @@
         },
         {
           "name": "Tolland Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tolland-ma.gov/"
         },
         {
           "name": "Otis Town Hall",
@@ -138,19 +147,22 @@
         },
         {
           "name": "Great Barrington Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofgb.org/"
         },
         {
           "name": "Sheffield Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sheffieldma.gov/"
         },
         {
           "name": "Tyringham Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.tyringham-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:56.994Z"
+  "fetchedAt": "2026-10-29T10:27:36.922Z"
 }

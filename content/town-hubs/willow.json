@@ -44,35 +44,43 @@
       "items": [
         {
           "name": "The Pines",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://catskillpines.com"
         },
         {
           "name": "Oliver's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oliversny.com"
         },
         {
           "name": "Woodnotes Grille",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://emersonresort.com/woodnotesgrille/"
         },
         {
           "name": "The Bear Cantina",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thebearcantinawoodstock.org"
         },
         {
           "name": "Tinker Street Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tinkerstreettavern.com"
         },
         {
           "name": "Tibet Pho",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tibetphowoodstock.com"
         },
         {
           "name": "Foxfire Bar Room",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.foxfiremountainhouse.com/menu"
         },
         {
           "name": "Woodstock Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drinkwoodstock.com"
         }
       ]
     },
@@ -85,7 +93,8 @@
         },
         {
           "name": "Catskills Visitor Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://catskillsvisitorcenter.org"
         },
         {
           "name": "Rick Volz Field",
@@ -105,7 +114,8 @@
         },
         {
           "name": "Andy Lee Field",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.woodstockny.org/content/Parks/View/1"
         },
         {
           "name": "The Comeau Property",
@@ -118,11 +128,13 @@
       "items": [
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Woodstock Town Hall",
@@ -130,15 +142,18 @@
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "Kingston Town Hall",
@@ -152,5 +167,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:44.479Z"
+  "fetchedAt": "2026-10-29T10:23:11.083Z"
 }

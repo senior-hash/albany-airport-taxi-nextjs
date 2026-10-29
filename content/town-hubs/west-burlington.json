@@ -72,7 +72,8 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         }
       ]
     },
@@ -85,7 +86,8 @@
         },
         {
           "name": "Morris Reservoir Waterway Access",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Cooperstown B&B",
@@ -126,7 +128,8 @@
         },
         {
           "name": "Guthrie Clinic New Berlin",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.guthrie.org/locations/new-berlin"
         },
         {
           "name": "Hartwick Town Hall",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Richfield Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:30.999Z"
+  "fetchedAt": "2026-10-29T10:24:02.268Z"
 }

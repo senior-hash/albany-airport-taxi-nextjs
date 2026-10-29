@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Epicurian",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.transparentfood.co/the-epicurean"
         },
         {
           "name": "Willow by Charlie Palmer at Mirbeau",
@@ -52,11 +53,13 @@
         },
         {
           "name": "Brunette",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.brunettewinebar.com"
         },
         {
           "name": "Savona's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://savonas.com"
         },
         {
           "name": "Duffy's Dockside",
@@ -64,15 +67,18 @@
         },
         {
           "name": "Mariner's Harbor",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.marinersharbor.com/"
         },
         {
           "name": "Ship to Shore",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://shiptoshorehudsonvalley.com"
         },
         {
           "name": "E-Weez Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/E-weez-kitchen-LLC-103926381950046/"
         }
       ]
     },
@@ -97,7 +103,8 @@
         },
         {
           "name": "Sojourner Truth State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://sojournertruthstatepark.info/"
         },
         {
           "name": "Hutton Park",
@@ -126,7 +133,8 @@
         },
         {
           "name": "Northern Dutchess Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.northwell.edu/locations/northern-dutchess-hospital"
         },
         {
           "name": "CareMount Medical",
@@ -138,7 +146,8 @@
         },
         {
           "name": "VA Kingston Outpatient Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albany.va.gov/locations/Kingston.asp"
         },
         {
           "name": "Nuvance Health - GoHealth Urgent Care",
@@ -146,11 +155,12 @@
         },
         {
           "name": "Kingston City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://kingston-ny.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:58.395Z"
+  "fetchedAt": "2026-10-29T10:22:18.358Z"
 }

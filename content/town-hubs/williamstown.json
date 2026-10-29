@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Gramercy Bistro",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.gramercybistro.com/"
         },
         {
           "name": "Olympic Pizza",
@@ -52,19 +53,23 @@
         },
         {
           "name": "Spice Root",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.spiceroot.com/"
         },
         {
           "name": "Blue Mango",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://bluemangoma.smiledining.com/?2025021402"
         },
         {
           "name": "Water Street Grill",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.waterstgrill.com/"
         },
         {
           "name": "CRUST",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://crustpz.com"
         },
         {
           "name": "Tony's Sombrero Mexican Cuisine",
@@ -79,14 +84,6 @@
     "getting-around": {
       "label": "Getting around",
       "items": [
-        {
-          "name": "Currier Quad",
-          "driveTime": "about 5 min"
-        },
-        {
-          "name": "Science Quad",
-          "driveTime": "about 5 min"
-        },
         {
           "name": "Linear Park",
           "driveTime": "about 5 min"
@@ -110,6 +107,14 @@
         {
           "name": "Broad Brook Park",
           "driveTime": "about 5 min"
+        },
+        {
+          "name": "West End Playground",
+          "driveTime": "about 5 min"
+        },
+        {
+          "name": "Mount Hope Park",
+          "driveTime": "about 5 min"
         }
       ]
     },
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "Williamstown Medical Associates",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.berkshirehealthsystems.org/wma"
         },
         {
           "name": "Williamstown Town Hall",
@@ -134,11 +140,13 @@
         },
         {
           "name": "North Adams City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.northadams-ma.gov/"
         },
         {
           "name": "North Adams Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.berkshirehealthsystems.org/location/north-adams-regional-hospital/"
         },
         {
           "name": "Pownal Town Offices",
@@ -146,11 +154,12 @@
         },
         {
           "name": "Clarksburg Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://clarksburgma.us/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:03.799Z"
+  "fetchedAt": "2026-10-29T10:27:42.373Z"
 }

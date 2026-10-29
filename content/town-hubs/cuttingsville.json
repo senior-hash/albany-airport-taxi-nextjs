@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Rustic Rooster",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.vtrusticrooster.com/"
         },
         {
           "name": "Whistle Stop",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Vermont Tap House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.vermonttaphouserutland.com/"
         }
       ]
     },
@@ -81,11 +83,13 @@
       "items": [
         {
           "name": "Lower Clarendon Gorge State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://vermontriverconservancy.org/sites/lower-clarendon-gorge-state-forest"
         },
         {
           "name": "Crisanver House Inn & Bed and Breakfast",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.crisanver.com/"
         },
         {
           "name": "Wallingford Main Street Historic District",
@@ -93,15 +97,18 @@
         },
         {
           "name": "Justin Thomas Memorial Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/justinthomasmemorialpark"
         },
         {
           "name": "Main Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/main-street-park"
         },
         {
           "name": "Center Street Marketplace Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/centerstreetmarketplace"
         },
         {
           "name": "Whites Memorial Park",
@@ -109,7 +116,8 @@
         },
         {
           "name": "Depot Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/depotpark"
         }
       ]
     },
@@ -134,7 +142,8 @@
         },
         {
           "name": "Rutland Regional Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rrmc.org/"
         },
         {
           "name": "Rutland Mental Health",
@@ -146,11 +155,12 @@
         },
         {
           "name": "Rutland County Free Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandcountyfreeclinic.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:18.657Z"
+  "fetchedAt": "2026-10-29T10:27:59.258Z"
 }

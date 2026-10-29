@@ -81,7 +81,8 @@
       "items": [
         {
           "name": "Cadyville Recreation Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.townofplattsburghrecreation.com/Default.aspx?tabid=550987"
         },
         {
           "name": "Picketts Corner Park",
@@ -138,7 +139,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -146,11 +148,12 @@
         },
         {
           "name": "Champlain Valley Physicians Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/champlain-valley-physicians-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:05.264Z"
+  "fetchedAt": "2026-10-29T10:26:43.825Z"
 }

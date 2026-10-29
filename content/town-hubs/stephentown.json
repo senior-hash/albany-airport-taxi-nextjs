@@ -52,7 +52,8 @@
         },
         {
           "name": "Mario's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mariosrestaurantnewlebanon.com/"
         },
         {
           "name": "Old Daley Inn on Crooked Lake",
@@ -89,7 +90,8 @@
         },
         {
           "name": "Cherry Plain State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/cherryplain/"
         },
         {
           "name": "Shaker Meadows Bed & Breakfast",
@@ -122,11 +124,13 @@
         },
         {
           "name": "Hancock Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://town.hancock.ma.us/"
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "Berlin Town Hall",
@@ -142,15 +146,17 @@
         },
         {
           "name": "Lanesborough Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.lanesborough-ma.gov/"
         },
         {
           "name": "Berkshire Medical Center Hillcrest Campus",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.berkshirehealthsystems.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:14.901Z"
+  "fetchedAt": "2026-10-29T10:24:48.939Z"
 }

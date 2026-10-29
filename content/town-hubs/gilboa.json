@@ -68,7 +68,8 @@
         },
         {
           "name": "Brandywine Restaurant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://brandywinewindham.com/"
         },
         {
           "name": "Chicken Run",
@@ -81,7 +82,8 @@
       "items": [
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "Kirkside Park",
@@ -97,11 +99,13 @@
         },
         {
           "name": "Bearpen Mountain Sports",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bearpenmountain.com/"
         },
         {
           "name": "Max V. Shaul State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         },
         {
           "name": "Ashland Park",
@@ -146,11 +150,12 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.ashlandny.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:39.062Z"
+  "fetchedAt": "2026-10-29T10:24:09.500Z"
 }

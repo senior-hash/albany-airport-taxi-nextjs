@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Maple Sugar & Vermont Spice",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://vtsugarandspice.com/"
         },
         {
           "name": "Pittsford Pub & Grill",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://restaurants.applebees.com/en-us/vt/rutland/225-woodstock-avenue-83076"
         },
         {
           "name": "Pizza Hut",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Table 24",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.table24.net/"
         },
         {
           "name": "McGrath's Irish Pub",
@@ -81,7 +84,8 @@
       "items": [
         {
           "name": "Hathaway Farm Corn Maze",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hathawayfarm.com/"
         },
         {
           "name": "Pittsford Recreation Area",
@@ -93,11 +97,13 @@
         },
         {
           "name": "Rotary Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.rutlandrec.com/rotarypark"
         },
         {
           "name": "Baxter Street Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.rutlandrec.com/baxterstreetpark"
         },
         {
           "name": "Georgetti Park and Hiking Trails",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:18.259Z"
+  "fetchedAt": "2026-10-29T10:27:58.691Z"
 }

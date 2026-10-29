@@ -42,20 +42,35 @@ export function AddressAutocomplete({
   label,
   required,
   className = "",
+  seed,
 }: {
   id: string;
   name: string;
   label: string;
   required?: boolean;
   className?: string;
+  /** External value to adopt once (e.g. "Get a ride to [place]" links) —
+   * seeds the field without making it a fully controlled input. */
+  seed?: string;
 }) {
-  const [value, setValue] = useState("");
+  const [value, setValue] = useState(seed ?? "");
   const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
   const [open, setOpen] = useState(false);
   const [highlighted, setHighlighted] = useState(-1);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const requestIdRef = useRef(0);
   const wrapperRef = useRef<HTMLDivElement>(null);
+
+  // Adopt a new seed value during render (not in an effect, per React's
+  // "you might not need an effect" guidance) by tracking the last seed seen.
+  const [lastSeed, setLastSeed] = useState(seed);
+  if (seed !== lastSeed) {
+    setLastSeed(seed);
+    if (seed) {
+      setValue(seed);
+      setOpen(false);
+    }
+  }
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {

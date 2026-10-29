@@ -56,7 +56,8 @@
         },
         {
           "name": "Primo Pizzeria & Italian Specialties",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://getprimopizza.com/"
         },
         {
           "name": "Lam Fong Yuen",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Slickfin Brewing",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.slickfinbrewing.com/"
         },
         {
           "name": "Kerrie's on Broadway",
@@ -101,7 +103,8 @@
         },
         {
           "name": "Hudson Crossing Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hudsoncrossingpark.org/"
         },
         {
           "name": "Stark's Knob Scientific Reservation",
@@ -146,11 +149,12 @@
         },
         {
           "name": "Town of Saratoga Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofsaratoga.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:23.397Z"
+  "fetchedAt": "2026-10-29T10:24:57.727Z"
 }

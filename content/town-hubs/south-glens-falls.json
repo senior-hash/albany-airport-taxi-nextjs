@@ -52,7 +52,8 @@
         },
         {
           "name": "The Peppermill Family Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.peppermillsgf.com/"
         },
         {
           "name": "Jake's Roadhouse",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Mi Rancho Mexican Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://miranchosgf.com/"
         },
         {
           "name": "Lam Fong Yuen",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Fire Mission Smokehouse & Taproom",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.firemissionsmokehouse.com/"
         }
       ]
     },
@@ -126,15 +129,18 @@
         },
         {
           "name": "Westfall Vision",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://westfallvison.com"
         },
         {
           "name": "Glens Falls Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/glensfalls/"
         },
         {
           "name": "Health Center on Broad Street",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hhhn.org/HealthCenters/?HCID=3"
         },
         {
           "name": "Associates in Vision Care",
@@ -142,7 +148,8 @@
         },
         {
           "name": "WellNow Urgent Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.wellnow.com/"
         },
         {
           "name": "Glens Falls Family Health",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:33.664Z"
+  "fetchedAt": "2026-10-29T10:25:07.377Z"
 }

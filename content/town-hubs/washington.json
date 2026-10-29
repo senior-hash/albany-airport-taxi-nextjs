@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Route 8 Pub",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.route8pub.com/"
         },
         {
           "name": "Ozzie's",
@@ -56,7 +57,8 @@
         },
         {
           "name": "Mazzeo's Ristorante",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mazzeosristorante.com/"
         },
         {
           "name": "Roses Restaurant",
@@ -64,11 +66,13 @@
         },
         {
           "name": "51 Park Restaurant & Tavern",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.51parkrestaurant.com"
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Firefly",
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Washington Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.washington-ma.com/"
         },
         {
           "name": "Berkshire Eye Center",
@@ -126,11 +131,13 @@
         },
         {
           "name": "Hinsdale Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hinsdalemass.com/"
         },
         {
           "name": "Becket Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbecket.org/"
         },
         {
           "name": "Berkshire Health Urgent Care",
@@ -142,15 +149,17 @@
         },
         {
           "name": "Pittsfield City Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.cityofpittsfield.org/"
         },
         {
           "name": "Dalton Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://dalton-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:01.364Z"
+  "fetchedAt": "2026-10-29T10:27:40.642Z"
 }

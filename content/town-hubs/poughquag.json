@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "A&A Italian Deli",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://aandaitaliandeli.com"
         },
         {
           "name": "Greenhaven Italian Bistro",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Sonny's Restaurant & Pizzaria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.sonnysrestaurantandpizzeria.com/"
         },
         {
           "name": "Daddy O's Restaurant",
@@ -89,11 +91,13 @@
         },
         {
           "name": "Sylvan Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/60854.html"
         },
         {
           "name": "Depot Hill Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/34751.html"
         },
         {
           "name": "Tymor Park",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:55.980Z"
+  "fetchedAt": "2026-10-29T10:22:15.967Z"
 }

@@ -64,15 +64,18 @@
         },
         {
           "name": "Soy",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://soyrosendale.com"
         },
         {
           "name": "Bistro Le Chat Barbu",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://lechatbarbu.com"
         },
         {
           "name": "The Feathers",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thesixbellshotel.com/restaurant"
         }
       ]
     },
@@ -81,7 +84,8 @@
       "items": [
         {
           "name": "Rondout Creek Waterway Access",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dec.ny.gov/outdoor/58871.html"
         },
         {
           "name": "Veteran's Park",
@@ -89,7 +93,8 @@
         },
         {
           "name": "Parks of Study and Reflection - Hudson Valley",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hudsonvalleypark.org/"
         },
         {
           "name": "Rutsen Park - Rosendale Recreation Center",
@@ -101,11 +106,13 @@
         },
         {
           "name": "LYE Parklet",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.instagram.com/lyeparkletkingston/"
         },
         {
           "name": "Cas Landi Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.esopus.com/about/venue-rentals/"
         },
         {
           "name": "Barmann Park",
@@ -118,11 +125,13 @@
       "items": [
         {
           "name": "Riverside Hearing Aide Service",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://riversidehearingaids.com/"
         },
         {
           "name": "Kingston City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://kingston-ny.gov/"
         },
         {
           "name": "HealthAlliance Hospital Broadway Campus",
@@ -134,11 +143,13 @@
         },
         {
           "name": "Health Quest",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://patients.healthquest.org/locations/health-quest-medical-practice-p-c-primary-care-3/"
         },
         {
           "name": "HealthAlliance Hospital Mary's Avenue Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wmchealth.org/locations/healthalliance-hospital-mary-s-avenue"
         },
         {
           "name": "Rondout Municipal Center",
@@ -146,11 +157,12 @@
         },
         {
           "name": "Hurley Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townhurley.digitaltowpath.org:10077/content/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:06.326Z"
+  "fetchedAt": "2026-10-29T10:22:30.188Z"
 }

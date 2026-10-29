@@ -126,7 +126,8 @@
         },
         {
           "name": "UHS Delaware Valley Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uhs.net/locations/uhs-delaware-valley-hospital/"
         },
         {
           "name": "Gelder Medical Clinic",
@@ -134,7 +135,8 @@
         },
         {
           "name": "A.O. Fox Hospital - Tri-Town Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus"
         },
         {
           "name": "Walton Town Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:10.572Z"
+  "fetchedAt": "2026-10-29T10:23:38.087Z"
 }

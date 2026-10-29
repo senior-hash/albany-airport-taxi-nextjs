@@ -48,11 +48,13 @@
         },
         {
           "name": "Shwe Burmese Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.facebook.com/people/Shwe-Burmese-Restaurant-Albany/100086982355880/"
         },
         {
           "name": "Peterson's Place",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://m.facebook.com/people/Petersons-Place/100065259590477/"
         },
         {
           "name": "June's Restaurant",
@@ -60,11 +62,13 @@
         },
         {
           "name": "Son of Egg Broadway",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://sonofegg.com/"
         },
         {
           "name": "Cugino's Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cuginospizzas.com/"
         },
         {
           "name": "Nelsons Steak Out",
@@ -72,7 +76,8 @@
         },
         {
           "name": "Illusive Restaurant & Bar",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.illusives.com/"
         }
       ]
     },
@@ -126,7 +131,8 @@
         },
         {
           "name": "Albany City Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanyny.org/"
         },
         {
           "name": "Capital City Rescue Mission Health Clinic",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:11.353Z"
+  "fetchedAt": "2026-10-29T10:24:45.700Z"
 }

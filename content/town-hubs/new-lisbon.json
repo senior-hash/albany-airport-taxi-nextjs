@@ -52,7 +52,8 @@
         },
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.pizza23west.com/"
         },
         {
           "name": "Soda Jerks",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Undercover Eggplant",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.undercovereggplant.com/"
         },
         {
           "name": "Dante's",
@@ -81,7 +83,8 @@
       "items": [
         {
           "name": "Morris Reservoir Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Pathfinder Village Inn",
@@ -142,15 +145,17 @@
         },
         {
           "name": "Guthrie Clinic New Berlin",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.guthrie.org/locations/new-berlin"
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:22.751Z"
+  "fetchedAt": "2026-10-29T10:23:52.623Z"
 }

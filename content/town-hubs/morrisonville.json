@@ -130,7 +130,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -138,7 +139,8 @@
         },
         {
           "name": "Champlain Valley Physicians Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/champlain-valley-physicians-hospital"
         },
         {
           "name": "Peru Town Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:14.884Z"
+  "fetchedAt": "2026-10-29T10:26:53.415Z"
 }

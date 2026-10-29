@@ -52,19 +52,23 @@
         },
         {
           "name": "Arango Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://arangocafe.com/"
         },
         {
           "name": "SushiMakio",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sushimakio.com/"
         },
         {
           "name": "Kingston Wok",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://kingstonwok.co"
         },
         {
           "name": "Savona's Plaza Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.savonasplazapizzakingston.com/"
         },
         {
           "name": "Michael's Diner",
@@ -85,7 +89,8 @@
         },
         {
           "name": "Potter Brothers Ski and Snowboard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.potterbrothers.com/about-us/our-shops/kingston-new-york/"
         },
         {
           "name": "LOUGHRAN PARK",
@@ -122,7 +127,8 @@
         },
         {
           "name": "Advanced Dermatology",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.drkircher.com/"
         },
         {
           "name": "Optum Urgent Care",
@@ -130,7 +136,8 @@
         },
         {
           "name": "VA Kingston Outpatient Clinic",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albany.va.gov/locations/Kingston.asp"
         },
         {
           "name": "Kingston Town Hall",
@@ -142,15 +149,17 @@
         },
         {
           "name": "Hurley Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townhurley.digitaltowpath.org:10077/content/"
         },
         {
           "name": "Kingston City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://kingston-ny.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:20.872Z"
+  "fetchedAt": "2026-10-29T10:22:45.002Z"
 }

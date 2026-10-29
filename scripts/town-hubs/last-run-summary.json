@@ -17,16 +17,6 @@
   {
     "slug": "clarksville",
     "name": "Clarksville",
-    "status": "no-coords"
-  },
-  {
-    "slug": "coeymans",
-    "name": "Coeymans",
-    "status": "qualified"
-  },
-  {
-    "slug": "coeymans-hollow",
-    "name": "Coeymans Hollow",
     "status": "qualified"
   },
   {
@@ -35,8 +25,18 @@
     "status": "qualified"
   },
   {
+    "slug": "coeymans",
+    "name": "Coeymans",
+    "status": "qualified"
+  },
+  {
     "slug": "cohoes",
     "name": "Cohoes",
+    "status": "qualified"
+  },
+  {
+    "slug": "coeymans-hollow",
+    "name": "Coeymans Hollow",
     "status": "qualified"
   },
   {
@@ -45,19 +45,14 @@
     "status": "qualified"
   },
   {
-    "slug": "east-berne",
-    "name": "East Berne",
+    "slug": "feura-bush",
+    "name": "Feura Bush",
     "status": "qualified"
   },
   {
-    "slug": "feura-bush",
-    "name": "Feura Bush",
-    "status": "no-coords"
-  },
-  {
-    "slug": "guilderland-center",
-    "name": "Guilderland Center",
-    "status": "no-coords"
+    "slug": "east-berne",
+    "name": "East Berne",
+    "status": "qualified"
   },
   {
     "slug": "glenmont",
@@ -70,18 +65,23 @@
     "status": "qualified"
   },
   {
+    "slug": "guilderland-center",
+    "name": "Guilderland Center",
+    "status": "qualified"
+  },
+  {
     "slug": "knox",
     "name": "Knox",
     "status": "qualified"
   },
   {
-    "slug": "latham",
-    "name": "Latham",
+    "slug": "medusa",
+    "name": "Medusa",
     "status": "qualified"
   },
   {
-    "slug": "medusa",
-    "name": "Medusa",
+    "slug": "latham",
+    "name": "Latham",
     "status": "qualified"
   },
   {
@@ -105,13 +105,13 @@
     "status": "qualified"
   },
   {
-    "slug": "selkirk",
-    "name": "Selkirk",
+    "slug": "slingerlands",
+    "name": "Slingerlands",
     "status": "qualified"
   },
   {
-    "slug": "slingerlands",
-    "name": "Slingerlands",
+    "slug": "selkirk",
+    "name": "Selkirk",
     "status": "qualified"
   },
   {
@@ -180,13 +180,13 @@
     "status": "qualified"
   },
   {
-    "slug": "east-jewett",
-    "name": "East Jewett",
+    "slug": "elka-park",
+    "name": "Elka Park",
     "status": "qualified"
   },
   {
-    "slug": "elka-park",
-    "name": "Elka Park",
+    "slug": "east-jewett",
+    "name": "East Jewett",
     "status": "qualified"
   },
   {
@@ -197,7 +197,7 @@
   {
     "slug": "haines-falls",
     "name": "Haines Falls",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "greenville",
@@ -240,11 +240,6 @@
     "status": "qualified"
   },
   {
-    "slug": "maplecrest",
-    "name": "Maplecrest",
-    "status": "qualified"
-  },
-  {
     "slug": "new-baltimore",
     "name": "New Baltimore",
     "status": "qualified"
@@ -255,13 +250,13 @@
     "status": "qualified"
   },
   {
-    "slug": "palenville",
-    "name": "Palenville",
+    "slug": "maplecrest",
+    "name": "Maplecrest",
     "status": "qualified"
   },
   {
-    "slug": "prattsville",
-    "name": "Prattsville",
+    "slug": "palenville",
+    "name": "Palenville",
     "status": "qualified"
   },
   {
@@ -270,18 +265,23 @@
     "status": "qualified"
   },
   {
+    "slug": "prattsville",
+    "name": "Prattsville",
+    "status": "qualified"
+  },
+  {
     "slug": "round-top",
     "name": "Round Top",
     "status": "qualified"
   },
   {
-    "slug": "south-cairo",
-    "name": "South Cairo",
+    "slug": "surprise",
+    "name": "Surprise",
     "status": "qualified"
   },
   {
-    "slug": "surprise",
-    "name": "Surprise",
+    "slug": "south-cairo",
+    "name": "South Cairo",
     "status": "qualified"
   },
   {
@@ -305,13 +305,13 @@
     "status": "qualified"
   },
   {
-    "slug": "ancram",
-    "name": "Ancram",
+    "slug": "ancramdale",
+    "name": "Ancramdale",
     "status": "qualified"
   },
   {
-    "slug": "ancramdale",
-    "name": "Ancramdale",
+    "slug": "ancram",
+    "name": "Ancram",
     "status": "qualified"
   },
   {
@@ -390,13 +390,13 @@
     "status": "qualified"
   },
   {
-    "slug": "kinderhook",
-    "name": "Kinderhook",
+    "slug": "livingston",
+    "name": "Livingston",
     "status": "qualified"
   },
   {
-    "slug": "livingston",
-    "name": "Livingston",
+    "slug": "kinderhook",
+    "name": "Kinderhook",
     "status": "qualified"
   },
   {
@@ -425,13 +425,13 @@
     "status": "qualified"
   },
   {
-    "slug": "philmont",
-    "name": "Philmont",
+    "slug": "old-chatham",
+    "name": "Old Chatham",
     "status": "qualified"
   },
   {
-    "slug": "old-chatham",
-    "name": "Old Chatham",
+    "slug": "philmont",
+    "name": "Philmont",
     "status": "qualified"
   },
   {
@@ -450,13 +450,13 @@
     "status": "qualified"
   },
   {
-    "slug": "stuyvesant-falls",
-    "name": "Stuyvesant Falls",
+    "slug": "valatie",
+    "name": "Valatie",
     "status": "qualified"
   },
   {
-    "slug": "valatie",
-    "name": "Valatie",
+    "slug": "stuyvesant-falls",
+    "name": "Stuyvesant Falls",
     "status": "qualified"
   },
   {
@@ -472,7 +472,7 @@
   {
     "slug": "annandale-on-hudson",
     "name": "Annandale On Hudson",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "bangall",
@@ -480,13 +480,13 @@
     "status": "qualified"
   },
   {
-    "slug": "barrytown",
-    "name": "Barrytown",
+    "slug": "beacon",
+    "name": "Beacon",
     "status": "qualified"
   },
   {
-    "slug": "beacon",
-    "name": "Beacon",
+    "slug": "barrytown",
+    "name": "Barrytown",
     "status": "qualified"
   },
   {
@@ -540,13 +540,13 @@
     "status": "qualified"
   },
   {
-    "slug": "hyde-park",
-    "name": "Hyde Park",
+    "slug": "lagrangeville",
+    "name": "Lagrangeville",
     "status": "qualified"
   },
   {
-    "slug": "lagrangeville",
-    "name": "Lagrangeville",
+    "slug": "hyde-park",
+    "name": "Hyde Park",
     "status": "qualified"
   },
   {
@@ -555,13 +555,13 @@
     "status": "qualified"
   },
   {
-    "slug": "millerton",
-    "name": "Millerton",
+    "slug": "pawling",
+    "name": "Pawling",
     "status": "qualified"
   },
   {
-    "slug": "pawling",
-    "name": "Pawling",
+    "slug": "millerton",
+    "name": "Millerton",
     "status": "qualified"
   },
   {
@@ -610,11 +610,6 @@
     "status": "qualified"
   },
   {
-    "slug": "tivoli",
-    "name": "Tivoli",
-    "status": "no-coords"
-  },
-  {
     "slug": "stanfordville",
     "name": "Stanfordville",
     "status": "qualified"
@@ -625,14 +620,14 @@
     "status": "qualified"
   },
   {
-    "slug": "verbank",
-    "name": "Verbank",
+    "slug": "tivoli",
+    "name": "Tivoli",
     "status": "qualified"
   },
   {
-    "slug": "wingdale",
-    "name": "Wingdale",
-    "status": "no-coords"
+    "slug": "verbank",
+    "name": "Verbank",
+    "status": "qualified"
   },
   {
     "slug": "wappingers-falls",
@@ -645,13 +640,18 @@
     "status": "qualified"
   },
   {
-    "slug": "accord",
-    "name": "Accord",
+    "slug": "wingdale",
+    "name": "Wingdale",
     "status": "qualified"
   },
   {
     "slug": "bearsville",
     "name": "Bearsville",
+    "status": "qualified"
+  },
+  {
+    "slug": "accord",
+    "name": "Accord",
     "status": "qualified"
   },
   {
@@ -665,11 +665,6 @@
     "status": "qualified"
   },
   {
-    "slug": "clintondale",
-    "name": "Clintondale",
-    "status": "no-coords"
-  },
-  {
     "slug": "boiceville",
     "name": "Boiceville",
     "status": "qualified"
@@ -677,6 +672,11 @@
   {
     "slug": "chichester",
     "name": "Chichester",
+    "status": "qualified"
+  },
+  {
+    "slug": "clintondale",
+    "name": "Clintondale",
     "status": "qualified"
   },
   {
@@ -747,16 +747,16 @@
   {
     "slug": "kerhonkson",
     "name": "Kerhonkson",
-    "status": "no-coords"
-  },
-  {
-    "slug": "kingston",
-    "name": "Kingston",
     "status": "qualified"
   },
   {
     "slug": "lake-hill",
     "name": "Lake Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston",
     "status": "qualified"
   },
   {
@@ -767,12 +767,7 @@
   {
     "slug": "malden-on-hudson",
     "name": "Malden On Hudson",
-    "status": "no-coords"
-  },
-  {
-    "slug": "modena",
-    "name": "Modena",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "marlboro",
@@ -782,6 +777,11 @@
   {
     "slug": "milton",
     "name": "Milton",
+    "status": "qualified"
+  },
+  {
+    "slug": "modena",
+    "name": "Modena",
     "status": "qualified"
   },
   {
@@ -840,13 +840,13 @@
     "status": "qualified"
   },
   {
-    "slug": "ruby",
-    "name": "Ruby",
+    "slug": "saugerties",
+    "name": "Saugerties",
     "status": "qualified"
   },
   {
-    "slug": "saugerties",
-    "name": "Saugerties",
+    "slug": "ruby",
+    "name": "Ruby",
     "status": "qualified"
   },
   {
@@ -855,13 +855,13 @@
     "status": "qualified"
   },
   {
-    "slug": "shokan",
-    "name": "Shokan",
+    "slug": "spring-glen",
+    "name": "Spring Glen",
     "status": "qualified"
   },
   {
-    "slug": "spring-glen",
-    "name": "Spring Glen",
+    "slug": "shokan",
+    "name": "Shokan",
     "status": "qualified"
   },
   {
@@ -885,13 +885,13 @@
     "status": "qualified"
   },
   {
-    "slug": "wallkill",
-    "name": "Wallkill",
+    "slug": "wawarsing",
+    "name": "Wawarsing",
     "status": "qualified"
   },
   {
-    "slug": "wawarsing",
-    "name": "Wawarsing",
+    "slug": "wallkill",
+    "name": "Wallkill",
     "status": "qualified"
   },
   {
@@ -900,13 +900,13 @@
     "status": "qualified"
   },
   {
-    "slug": "west-hurley",
-    "name": "West Hurley",
+    "slug": "west-park",
+    "name": "West Park",
     "status": "qualified"
   },
   {
-    "slug": "west-park",
-    "name": "West Park",
+    "slug": "west-hurley",
+    "name": "West Hurley",
     "status": "qualified"
   },
   {
@@ -945,18 +945,23 @@
     "status": "qualified"
   },
   {
-    "slug": "davenport",
-    "name": "Davenport",
-    "status": "qualified"
-  },
-  {
     "slug": "davenport-center",
     "name": "Davenport Center",
     "status": "qualified"
   },
   {
+    "slug": "davenport",
+    "name": "Davenport",
+    "status": "qualified"
+  },
+  {
     "slug": "delancey",
     "name": "Delancey",
+    "status": "qualified"
+  },
+  {
+    "slug": "denver",
+    "name": "Denver",
     "status": "qualified"
   },
   {
@@ -967,11 +972,6 @@
   {
     "slug": "downsville",
     "name": "Downsville",
-    "status": "no-coords"
-  },
-  {
-    "slug": "denver",
-    "name": "Denver",
     "status": "qualified"
   },
   {
@@ -990,13 +990,13 @@
     "status": "qualified"
   },
   {
-    "slug": "fleischmanns",
-    "name": "Fleischmanns",
+    "slug": "franklin",
+    "name": "Franklin",
     "status": "qualified"
   },
   {
-    "slug": "franklin",
-    "name": "Franklin",
+    "slug": "fleischmanns",
+    "name": "Fleischmanns",
     "status": "qualified"
   },
   {
@@ -1005,13 +1005,13 @@
     "status": "qualified"
   },
   {
-    "slug": "halcottsville",
-    "name": "Halcottsville",
+    "slug": "hamden",
+    "name": "Hamden",
     "status": "qualified"
   },
   {
-    "slug": "hamden",
-    "name": "Hamden",
+    "slug": "halcottsville",
+    "name": "Halcottsville",
     "status": "qualified"
   },
   {
@@ -1020,13 +1020,13 @@
     "status": "qualified"
   },
   {
-    "slug": "harpersfield",
-    "name": "Harpersfield",
+    "slug": "hobart",
+    "name": "Hobart",
     "status": "qualified"
   },
   {
-    "slug": "hobart",
-    "name": "Hobart",
+    "slug": "harpersfield",
+    "name": "Harpersfield",
     "status": "qualified"
   },
   {
@@ -1090,11 +1090,6 @@
     "status": "qualified"
   },
   {
-    "slug": "burlington-flats",
-    "name": "Burlington Flats",
-    "status": "no-coords"
-  },
-  {
     "slug": "west-davenport",
     "name": "West Davenport",
     "status": "qualified"
@@ -1105,14 +1100,14 @@
     "status": "qualified"
   },
   {
-    "slug": "colliersville",
-    "name": "Colliersville",
+    "slug": "burlington-flats",
+    "name": "Burlington Flats",
     "status": "qualified"
   },
   {
-    "slug": "east-worcester",
-    "name": "East Worcester",
-    "status": "no-coords"
+    "slug": "colliersville",
+    "name": "Colliersville",
+    "status": "qualified"
   },
   {
     "slug": "cooperstown",
@@ -1125,6 +1120,11 @@
     "status": "qualified"
   },
   {
+    "slug": "east-worcester",
+    "name": "East Worcester",
+    "status": "qualified"
+  },
+  {
     "slug": "edmeston",
     "name": "Edmeston",
     "status": "qualified"
@@ -1132,12 +1132,12 @@
   {
     "slug": "fly-creek",
     "name": "Fly Creek",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "garrattsville",
     "name": "Garrattsville",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "gilbertsville",
@@ -1205,23 +1205,23 @@
     "status": "qualified"
   },
   {
-    "slug": "schuyler-lake",
-    "name": "Schuyler Lake",
-    "status": "no-coords"
-  },
-  {
     "slug": "schenevus",
     "name": "Schenevus",
     "status": "qualified"
   },
   {
-    "slug": "springfield-center",
-    "name": "Springfield Center",
+    "slug": "schuyler-lake",
+    "name": "Schuyler Lake",
     "status": "qualified"
   },
   {
     "slug": "unadilla",
     "name": "Unadilla",
+    "status": "qualified"
+  },
+  {
+    "slug": "springfield-center",
+    "name": "Springfield Center",
     "status": "qualified"
   },
   {
@@ -1290,11 +1290,6 @@
     "status": "qualified"
   },
   {
-    "slug": "north-blenheim",
-    "name": "North Blenheim",
-    "status": "no-coords"
-  },
-  {
     "slug": "jefferson",
     "name": "Jefferson",
     "status": "qualified"
@@ -1302,6 +1297,11 @@
   {
     "slug": "middleburgh",
     "name": "Middleburgh",
+    "status": "qualified"
+  },
+  {
+    "slug": "north-blenheim",
+    "name": "North Blenheim",
     "status": "qualified"
   },
   {
@@ -1320,13 +1320,13 @@
     "status": "qualified"
   },
   {
-    "slug": "sloansville",
-    "name": "Sloansville",
+    "slug": "summit",
+    "name": "Summit",
     "status": "qualified"
   },
   {
-    "slug": "summit",
-    "name": "Summit",
+    "slug": "sloansville",
+    "name": "Sloansville",
     "status": "qualified"
   },
   {
@@ -1335,23 +1335,23 @@
     "status": "qualified"
   },
   {
-    "slug": "west-fulton",
-    "name": "West Fulton",
-    "status": "qualified"
-  },
-  {
-    "slug": "esperance",
-    "name": "Esperance",
-    "status": "no-coords"
-  },
-  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "status": "qualified"
   },
   {
+    "slug": "west-fulton",
+    "name": "West Fulton",
+    "status": "qualified"
+  },
+  {
     "slug": "canajoharie",
     "name": "Canajoharie",
+    "status": "qualified"
+  },
+  {
+    "slug": "esperance",
+    "name": "Esperance",
     "status": "qualified"
   },
   {
@@ -1380,28 +1380,18 @@
     "status": "qualified"
   },
   {
-    "slug": "nelliston",
-    "name": "Nelliston",
-    "status": "qualified"
-  },
-  {
     "slug": "hagaman",
     "name": "Hagaman",
     "status": "qualified"
   },
   {
-    "slug": "saint-johnsville",
-    "name": "Saint Johnsville",
-    "status": "no-coords"
+    "slug": "nelliston",
+    "name": "Nelliston",
+    "status": "qualified"
   },
   {
     "slug": "palatine-bridge",
     "name": "Palatine Bridge",
-    "status": "qualified"
-  },
-  {
-    "slug": "tribes-hill",
-    "name": "Tribes Hill",
     "status": "qualified"
   },
   {
@@ -1410,13 +1400,18 @@
     "status": "qualified"
   },
   {
-    "slug": "averill-park",
-    "name": "Averill Park",
+    "slug": "saint-johnsville",
+    "name": "Saint Johnsville",
     "status": "qualified"
   },
   {
-    "slug": "brainard",
-    "name": "Brainard",
+    "slug": "tribes-hill",
+    "name": "Tribes Hill",
+    "status": "qualified"
+  },
+  {
+    "slug": "averill-park",
+    "name": "Averill Park",
     "status": "qualified"
   },
   {
@@ -1425,14 +1420,14 @@
     "status": "qualified"
   },
   {
-    "slug": "castleton-on-hudson",
-    "name": "Castleton On Hudson",
-    "status": "no-coords"
+    "slug": "brainard",
+    "name": "Brainard",
+    "status": "qualified"
   },
   {
-    "slug": "eagle-bridge",
-    "name": "Eagle Bridge",
-    "status": "no-coords"
+    "slug": "castleton-on-hudson",
+    "name": "Castleton On Hudson",
+    "status": "qualified"
   },
   {
     "slug": "cherry-plain",
@@ -1440,13 +1435,18 @@
     "status": "qualified"
   },
   {
-    "slug": "east-greenbush",
-    "name": "East Greenbush",
+    "slug": "cropseyville",
+    "name": "Cropseyville",
     "status": "qualified"
   },
   {
-    "slug": "cropseyville",
-    "name": "Cropseyville",
+    "slug": "eagle-bridge",
+    "name": "Eagle Bridge",
+    "status": "qualified"
+  },
+  {
+    "slug": "east-greenbush",
+    "name": "East Greenbush",
     "status": "qualified"
   },
   {
@@ -1545,13 +1545,13 @@
     "status": "qualified"
   },
   {
-    "slug": "wynantskill",
-    "name": "Wynantskill",
+    "slug": "ballston-lake",
+    "name": "Ballston Lake",
     "status": "qualified"
   },
   {
-    "slug": "ballston-lake",
-    "name": "Ballston Lake",
+    "slug": "wynantskill",
+    "name": "Wynantskill",
     "status": "qualified"
   },
   {
@@ -1620,24 +1620,19 @@
     "status": "qualified"
   },
   {
-    "slug": "saratoga-springs",
-    "name": "Saratoga Springs",
+    "slug": "round-lake",
+    "name": "Round Lake",
     "status": "qualified"
   },
   {
-    "slug": "round-lake",
-    "name": "Round Lake",
+    "slug": "saratoga-springs",
+    "name": "Saratoga Springs",
     "status": "qualified"
   },
   {
     "slug": "schuylerville",
     "name": "Schuylerville",
     "status": "qualified"
-  },
-  {
-    "slug": "victory-mills",
-    "name": "Victory Mills",
-    "status": "no-coords"
   },
   {
     "slug": "south-glens-falls",
@@ -1647,6 +1642,11 @@
   {
     "slug": "stillwater",
     "name": "Stillwater",
+    "status": "qualified"
+  },
+  {
+    "slug": "victory-mills",
+    "name": "Victory Mills",
     "status": "qualified"
   },
   {
@@ -1700,13 +1700,13 @@
     "status": "qualified"
   },
   {
-    "slug": "buskirk",
-    "name": "Buskirk",
-    "status": "no-coords"
-  },
-  {
     "slug": "argyle",
     "name": "Argyle",
+    "status": "qualified"
+  },
+  {
+    "slug": "buskirk",
+    "name": "Buskirk",
     "status": "qualified"
   },
   {
@@ -1725,13 +1725,13 @@
     "status": "qualified"
   },
   {
-    "slug": "fort-ann",
-    "name": "Fort Ann",
+    "slug": "cossayuna",
+    "name": "Cossayuna",
     "status": "qualified"
   },
   {
-    "slug": "cossayuna",
-    "name": "Cossayuna",
+    "slug": "fort-ann",
+    "name": "Fort Ann",
     "status": "qualified"
   },
   {
@@ -1755,13 +1755,13 @@
     "status": "qualified"
   },
   {
-    "slug": "hudson-falls",
-    "name": "Hudson Falls",
+    "slug": "hartford",
+    "name": "Hartford",
     "status": "qualified"
   },
   {
-    "slug": "hartford",
-    "name": "Hartford",
+    "slug": "hudson-falls",
+    "name": "Hudson Falls",
     "status": "qualified"
   },
   {
@@ -1810,16 +1810,6 @@
     "status": "qualified"
   },
   {
-    "slug": "bolton-landing",
-    "name": "Bolton Landing",
-    "status": "no-coords"
-  },
-  {
-    "slug": "brant-lake",
-    "name": "Brant Lake",
-    "status": "no-coords"
-  },
-  {
     "slug": "athol",
     "name": "Athol",
     "status": "qualified"
@@ -1830,8 +1820,13 @@
     "status": "qualified"
   },
   {
-    "slug": "chestertown",
-    "name": "Chestertown",
+    "slug": "bolton-landing",
+    "name": "Bolton Landing",
+    "status": "qualified"
+  },
+  {
+    "slug": "brant-lake",
+    "name": "Brant Lake",
     "status": "qualified"
   },
   {
@@ -1840,8 +1835,18 @@
     "status": "qualified"
   },
   {
+    "slug": "chestertown",
+    "name": "Chestertown",
+    "status": "qualified"
+  },
+  {
     "slug": "diamond-point",
     "name": "Diamond Point",
+    "status": "qualified"
+  },
+  {
+    "slug": "hague",
+    "name": "Hague",
     "status": "qualified"
   },
   {
@@ -1850,19 +1855,14 @@
     "status": "qualified"
   },
   {
-    "slug": "kattskill-bay",
-    "name": "Kattskill Bay",
-    "status": "no-coords"
-  },
-  {
-    "slug": "hague",
-    "name": "Hague",
-    "status": "qualified"
-  },
-  {
     "slug": "johnsburg",
     "name": "Johnsburg",
     "status": "qualified"
+  },
+  {
+    "slug": "kattskill-bay",
+    "name": "Kattskill Bay",
+    "status": "no-coords"
   },
   {
     "slug": "lake-george",
@@ -1955,13 +1955,13 @@
     "status": "qualified"
   },
   {
-    "slug": "raquette-lake",
-    "name": "Raquette Lake",
+    "slug": "sabael",
+    "name": "Sabael",
     "status": "qualified"
   },
   {
-    "slug": "sabael",
-    "name": "Sabael",
+    "slug": "raquette-lake",
+    "name": "Raquette Lake",
     "status": "qualified"
   },
   {
@@ -1995,13 +1995,13 @@
     "status": "qualified"
   },
   {
-    "slug": "keene",
-    "name": "Keene",
+    "slug": "jay",
+    "name": "Jay",
     "status": "qualified"
   },
   {
-    "slug": "jay",
-    "name": "Jay",
+    "slug": "keene",
+    "name": "Keene",
     "status": "qualified"
   },
   {
@@ -2010,13 +2010,13 @@
     "status": "qualified"
   },
   {
-    "slug": "lewis",
-    "name": "Lewis",
+    "slug": "lake-placid",
+    "name": "Lake Placid",
     "status": "qualified"
   },
   {
-    "slug": "lake-placid",
-    "name": "Lake Placid",
+    "slug": "lewis",
+    "name": "Lewis",
     "status": "qualified"
   },
   {
@@ -2025,13 +2025,13 @@
     "status": "qualified"
   },
   {
-    "slug": "moriah",
-    "name": "Moriah",
+    "slug": "mineville",
+    "name": "Mineville",
     "status": "qualified"
   },
   {
-    "slug": "mineville",
-    "name": "Mineville",
+    "slug": "moriah",
+    "name": "Moriah",
     "status": "qualified"
   },
   {
@@ -2040,13 +2040,13 @@
     "status": "qualified"
   },
   {
-    "slug": "newcomb",
-    "name": "Newcomb",
+    "slug": "new-russia",
+    "name": "New Russia",
     "status": "qualified"
   },
   {
-    "slug": "new-russia",
-    "name": "New Russia",
+    "slug": "newcomb",
+    "name": "Newcomb",
     "status": "qualified"
   },
   {
@@ -2165,14 +2165,14 @@
     "status": "qualified"
   },
   {
-    "slug": "hogansburg",
-    "name": "Hogansburg",
+    "slug": "lake-clear",
+    "name": "Lake Clear",
     "status": "qualified"
   },
   {
-    "slug": "lake-clear",
-    "name": "Lake Clear",
-    "status": "no-coords"
+    "slug": "hogansburg",
+    "name": "Hogansburg",
+    "status": "qualified"
   },
   {
     "slug": "malone",
@@ -2207,7 +2207,7 @@
   {
     "slug": "saint-regis-falls",
     "name": "Saint Regis Falls",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "saranac-lake",
@@ -2290,13 +2290,13 @@
     "status": "qualified"
   },
   {
-    "slug": "mooers-forks",
-    "name": "Mooers Forks",
+    "slug": "mooers",
+    "name": "Mooers",
     "status": "qualified"
   },
   {
-    "slug": "mooers",
-    "name": "Mooers",
+    "slug": "mooers-forks",
+    "name": "Mooers Forks",
     "status": "qualified"
   },
   {
@@ -2347,7 +2347,7 @@
   {
     "slug": "dolgeville",
     "name": "Dolgeville",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "eagle-bay",
@@ -2510,23 +2510,23 @@
     "status": "qualified"
   },
   {
-    "slug": "hinsdale",
-    "name": "Hinsdale",
-    "status": "qualified"
-  },
-  {
     "slug": "lanesboro",
     "name": "Lanesboro",
     "status": "no-coords"
   },
   {
-    "slug": "lenox",
-    "name": "Lenox",
+    "slug": "hinsdale",
+    "name": "Hinsdale",
     "status": "qualified"
   },
   {
     "slug": "lee",
     "name": "Lee",
+    "status": "qualified"
+  },
+  {
+    "slug": "lenox",
+    "name": "Lenox",
     "status": "qualified"
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "slug": "east-dorset",
     "name": "East Dorset",
-    "status": "no-coords"
+    "status": "qualified"
   },
   {
     "slug": "manchester",
@@ -2795,13 +2795,13 @@
     "status": "qualified"
   },
   {
-    "slug": "west-pawlet",
-    "name": "West Pawlet",
-    "status": "no-coords"
-  },
-  {
     "slug": "wells-rutland-county",
     "name": "Wells",
+    "status": "qualified"
+  },
+  {
+    "slug": "west-pawlet",
+    "name": "West Pawlet",
     "status": "qualified"
   },
   {

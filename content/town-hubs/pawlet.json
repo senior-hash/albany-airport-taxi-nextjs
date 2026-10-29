@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Barn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.thebarnrestaurantvt.com/"
         },
         {
           "name": "Bernardo's",
@@ -85,19 +86,23 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         },
         {
           "name": "Wells Lakeside Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wellsvt.com/explore-wells-3/wells-lakeside-park/"
         },
         {
           "name": "Honey Pond Farm Estate",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://honeypondfarmvt.com/"
         },
         {
           "name": "Rupert Town Green",
@@ -122,7 +127,8 @@
         },
         {
           "name": "Wells Town Offices",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://wellsvt.com/"
         },
         {
           "name": "Granville Municipal Building",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Poultney Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.poultney.vt.gov/"
         },
         {
           "name": "Hartford Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:27.838Z"
+  "fetchedAt": "2026-10-29T10:28:07.176Z"
 }

@@ -48,11 +48,13 @@
         },
         {
           "name": "Red's Ale House & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.redsalehouseoneonta.com/"
         },
         {
           "name": "Simply Thai",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.simplythaioneonta.com"
         },
         {
           "name": "Black Oak Tavern",
@@ -64,11 +66,13 @@
         },
         {
           "name": "Tiger Sushi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tigersushiny.com/"
         },
         {
           "name": "Toscana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://toscanaoneonta.com/"
         },
         {
           "name": "Nick's Diner",
@@ -130,7 +134,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -138,11 +143,13 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Walton Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:56.552Z"
+  "fetchedAt": "2026-10-29T10:23:23.140Z"
 }

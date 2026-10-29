@@ -56,23 +56,28 @@
         },
         {
           "name": "Upstate Taco",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.upstatetacony.com"
         },
         {
           "name": "Outpost BBQ at the Kerhonkytonk Roadhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.outpostbbqkerhonkson.com/"
         },
         {
           "name": "The Spy",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thespysocialeatery.com"
         },
         {
           "name": "The Egg's Nest",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.theeggsnest.com/"
         },
         {
           "name": "Ollie's Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ollieshighfalls.com/"
         }
       ]
     },
@@ -93,7 +98,8 @@
         },
         {
           "name": "Tongore Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.marbletown.net/government/departments/youth-and-recreation-department/town-park/"
         },
         {
           "name": "Hardenbergh Park",
@@ -101,11 +107,13 @@
         },
         {
           "name": "Sky Lake Lodge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://skylake.shambhala.org/"
         },
         {
           "name": "Shawangunk Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/103446.html"
         },
         {
           "name": "Blueberry Fields",
@@ -118,15 +126,18 @@
       "items": [
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Village Hall",
@@ -138,7 +149,8 @@
         },
         {
           "name": "Hurley Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townhurley.digitaltowpath.org:10077/content/"
         },
         {
           "name": "New Paltz Village Hall",
@@ -152,5 +164,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:03.921Z"
+  "fetchedAt": "2026-10-29T10:22:27.828Z"
 }

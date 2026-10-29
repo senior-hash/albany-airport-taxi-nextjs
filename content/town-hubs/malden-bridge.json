@@ -48,7 +48,8 @@
         },
         {
           "name": "S & S Farm Brewery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sandsbrewery.com/"
         },
         {
           "name": "Zia's Pizza",
@@ -56,7 +57,8 @@
         },
         {
           "name": "Tacos Diablos",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tacosdiablo.com/"
         },
         {
           "name": "Silver Brothers Spirits Company",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Jimmy's Lakeside Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/Jimmys-Lakeside-Grill-110888014945510/"
         },
         {
           "name": "Fireside Pizza Den",
@@ -97,7 +100,8 @@
         },
         {
           "name": "Schodack Town Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/park.htm"
         },
         {
           "name": "Kinderhook Village Green",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Kinderhook Village Hall",
@@ -134,11 +139,13 @@
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://upstatederm.com/"
         },
         {
           "name": "Ghent Town Hall",
@@ -146,11 +153,12 @@
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:26.807Z"
+  "fetchedAt": "2026-10-29T10:21:47.104Z"
 }

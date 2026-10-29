@@ -60,7 +60,8 @@
         },
         {
           "name": "Brandywine Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://brandywinewindham.com/"
         },
         {
           "name": "Wheelhouse Lodge",
@@ -88,27 +89,27 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "K Lift",
-          "driveTime": "about 15 min"
-        },
-        {
-          "name": "East Peak Express Quad",
-          "driveTime": "about 15 min"
-        },
-        {
-          "name": "Whiteway Express Quad",
-          "driveTime": "about 15 min"
-        },
-        {
           "name": "Mountain Top Arboretum",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Wonderama Express Quad",
+          "name": "Harris's Happy Hunter Hideaway",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Harris's Happy Hunter Hideaway",
+          "name": "Deer Mountain Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "The Fairlawn Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Trail View Inn",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Ashland Park",
           "driveTime": "about 15 min"
         }
       ]
@@ -126,7 +127,8 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Hunter Village Hall",
@@ -146,11 +148,12 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:00.607Z"
+  "fetchedAt": "2026-10-29T10:21:22.765Z"
 }

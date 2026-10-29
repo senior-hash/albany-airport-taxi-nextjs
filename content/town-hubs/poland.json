@@ -48,7 +48,8 @@
         },
         {
           "name": "Woodland Farm Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.woodlandbeer.com/"
         },
         {
           "name": "12 North Sports Bar",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/utica/300-river-rd-98033"
         },
         {
           "name": "Tasty Treat",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Chesterfield's Tavolo",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tavolo315.com/"
         },
         {
           "name": "Delmonico's Italian Steakhouse",
@@ -89,7 +92,8 @@
         },
         {
           "name": "Cincinnati Creek Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/9239.html"
         },
         {
           "name": "Remsen Town Park",
@@ -134,7 +138,8 @@
         },
         {
           "name": "Utica City Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.cityofutica.com/"
         },
         {
           "name": "CNY Cardiology",
@@ -142,15 +147,17 @@
         },
         {
           "name": "Wynn Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://mvhealthsystem.org/wynn-hospital"
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.plannedparenthood.org/health-center/new-york/utica/13502/utica-center-3318-91180"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:29.768Z"
+  "fetchedAt": "2026-10-29T10:27:09.165Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.pizza23west.com/"
         },
         {
           "name": "Soda Jerks",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Undercover Eggplant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.undercovereggplant.com/"
         },
         {
           "name": "Dante's",
@@ -122,7 +124,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -130,7 +133,8 @@
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Laurens Town Hall",
@@ -142,7 +146,8 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Otego Village Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:31.848Z"
+  "fetchedAt": "2026-10-29T10:24:02.315Z"
 }

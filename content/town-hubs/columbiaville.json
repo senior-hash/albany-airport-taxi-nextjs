@@ -48,11 +48,13 @@
         },
         {
           "name": "Del's Roadside",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://delsdairyfarm.com/"
         },
         {
           "name": "Quinnie's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.quinniesnewyork.com/"
         },
         {
           "name": "Padrona",
@@ -60,11 +62,13 @@
         },
         {
           "name": "Fish & Game",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.fishandgamehudson.com/"
         },
         {
           "name": "Culture Cream",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://eatculturecream.com"
         },
         {
           "name": "Red Dot Restaurant & Bar",
@@ -97,7 +101,8 @@
         },
         {
           "name": "Martin Van Buren National Historic Site",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nps.gov/mava/index.htm"
         },
         {
           "name": "7th Street Park",
@@ -130,7 +135,8 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         },
         {
           "name": "Kinderhook Village Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:17.025Z"
+  "fetchedAt": "2026-10-29T10:21:37.177Z"
 }

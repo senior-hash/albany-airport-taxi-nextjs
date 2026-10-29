@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "McSweeney's Irish Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mcsweeneysirishpub.com/"
         },
         {
           "name": "Indian Lake Restaurant, Tavern, and Liquors",
@@ -85,7 +86,8 @@
         },
         {
           "name": "Blue Mountain Lake Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bluemountainlakeinn.com/"
         },
         {
           "name": "Mt Sabattis Town Park",
@@ -96,20 +98,22 @@
           "driveTime": "about 30 min"
         },
         {
-          "name": "Topridge Quad",
+          "name": "Long Lake Town Beach",
           "driveTime": "about 30 min"
         },
         {
-          "name": "Sunway",
-          "driveTime": "about 30 min"
+          "name": "Highwinds Inn",
+          "driveTime": "about 45 min"
         },
         {
-          "name": "Northwoods Gondola",
-          "driveTime": "about 30 min"
+          "name": "Aunt Pollys Bed and Breakfast",
+          "driveTime": "about 45 min",
+          "website": "http://www.auntpollysbb.com/"
         },
         {
-          "name": "Adirondack Express",
-          "driveTime": "about 30 min"
+          "name": "The Pilot's House",
+          "driveTime": "about 1 hr",
+          "website": "https://www.cloudsplitteroutfitters.com/the-pilot-s-house.html"
         }
       ]
     },
@@ -132,5 +136,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:17.048Z"
+  "fetchedAt": "2026-10-29T10:25:53.309Z"
 }

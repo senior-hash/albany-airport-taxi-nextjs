@@ -44,23 +44,28 @@
       "items": [
         {
           "name": "Buena Ventura",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.buenaventurarestaurant.com/"
         },
         {
           "name": "Schatzi's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.iloveschatzis.com"
         },
         {
           "name": "Slate Point Meadery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.spmeadery.com"
         },
         {
           "name": "Zeus Brewing Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.zeusbrewingco.com"
         },
         {
           "name": "Emiliano's Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.emilianospizza.com/"
         },
         {
           "name": "Danny's Restaurant",
@@ -68,7 +73,8 @@
         },
         {
           "name": "Brasserie 292",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.brasserie292.com/"
         },
         {
           "name": "Sylvia's",
@@ -97,7 +103,8 @@
         },
         {
           "name": "Clinton House State Historic Site",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://parks.ny.gov/historic-sites/clintonhouse/details.aspx"
         },
         {
           "name": "Kaal Rock Park",
@@ -118,7 +125,8 @@
       "items": [
         {
           "name": "Poughkeepsie City Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cityofpoughkeepsie.com/"
         },
         {
           "name": "Pine Street Medical Building",
@@ -130,15 +138,18 @@
         },
         {
           "name": "Vassar Brothers Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.northwell.edu/locations/vassar-brothers-medical-center"
         },
         {
           "name": "MidHudson Regional Hospital",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.wmchealth.org/locations/midhudson-regional-hospital"
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://pulse-mdurgentcare.com/locations/poughkeepsie-north-road/"
         },
         {
           "name": "Dr. Magdalena Goralczyk, endodontist",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:53.698Z"
+  "fetchedAt": "2026-10-29T10:22:15.647Z"
 }

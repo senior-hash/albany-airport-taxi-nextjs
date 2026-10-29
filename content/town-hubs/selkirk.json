@@ -60,7 +60,8 @@
         },
         {
           "name": "Akira",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.akiraalbany.com/"
         },
         {
           "name": "Angelo's Pizza & Pasta",
@@ -126,7 +127,8 @@
         },
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "Addictions Care Center of Albany",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:40.920Z"
+  "fetchedAt": "2026-10-29T10:21:01.010Z"
 }

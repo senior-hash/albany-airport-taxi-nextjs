@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "The Old Mine",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://oldminerstavern.com/"
         },
         {
           "name": "King's Corner",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Golden Palace",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.goldenpalace.com/"
         },
         {
           "name": "Frank's Knotty Pine",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Foote's Port Henry Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://m.facebook.com/profile.php?id=100045236091213"
         }
       ]
     },
@@ -93,23 +96,28 @@
         },
         {
           "name": "The Olde Mill Inn Bed and Breakfast",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.oldemillinnbnb.com/"
         },
         {
           "name": "Crown Point State Historic Site",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://nysparks.com/historic-sites/34/details.aspx"
         },
         {
           "name": "Stoneleigh Bed & Breakfast",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.adirondackinns.com/stoneleigh/"
         },
         {
           "name": "Namaste Inn Bed & Breakfast",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.namasteinnny.com/"
         },
         {
           "name": "Frontier Town Campground, Equestrian and Day Use Area",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/outdoor/112046.html"
         }
       ]
     },
@@ -118,7 +126,8 @@
       "items": [
         {
           "name": "Moriah Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hhhn.org/locations/moriah-health-center/"
         },
         {
           "name": "Back to Health Chiropractic",
@@ -134,7 +143,8 @@
         },
         {
           "name": "Westport Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westportny.net/"
         },
         {
           "name": "Crown Point Town Hall",
@@ -152,5 +162,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:31.791Z"
+  "fetchedAt": "2026-10-29T10:26:09.064Z"
 }

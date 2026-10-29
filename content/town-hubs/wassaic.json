@@ -81,7 +81,8 @@
       "items": [
         {
           "name": "Hotel Caravana",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://hotelcaravana.com/"
         },
         {
           "name": "Ketcham Park",
@@ -109,7 +110,8 @@
         },
         {
           "name": "Stanford Recreation Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.facebook.com/Stanford-Recreation-900609743302736/"
         }
       ]
     },
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:03.245Z"
+  "fetchedAt": "2026-10-29T10:22:25.244Z"
 }

@@ -89,7 +89,8 @@
         },
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "Richmondville Firemans Memorial Park",
@@ -97,7 +98,8 @@
         },
         {
           "name": "Max V. Shaul State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         },
         {
           "name": "Clinton Circle Park",
@@ -146,11 +148,12 @@
         },
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:40.928Z"
+  "fetchedAt": "2026-10-29T10:24:11.900Z"
 }

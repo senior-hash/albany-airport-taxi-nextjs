@@ -81,7 +81,8 @@
       "items": [
         {
           "name": "Cadyville Recreation Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.townofplattsburghrecreation.com/Default.aspx?tabid=550987"
         },
         {
           "name": "Picketts Corner Park",
@@ -142,7 +143,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-north-country-new-york"
         },
         {
           "name": "Plattsburgh City Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:08.132Z"
+  "fetchedAt": "2026-10-29T10:26:46.618Z"
 }

@@ -48,7 +48,8 @@
         },
         {
           "name": "Justin's Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.justinspizzany.com/"
         },
         {
           "name": "Mill Rock",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:23.380Z"
+  "fetchedAt": "2026-10-29T10:24:57.694Z"
 }

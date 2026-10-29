@@ -48,7 +48,8 @@
         },
         {
           "name": "Southern Girl Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.southerngirlfood.com/"
         },
         {
           "name": "China Garden",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Saltsman's Hotel",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "http://www.saltsmans.com"
         }
       ]
     },
@@ -110,7 +112,8 @@
       "items": [
         {
           "name": "MVHS Medical Group - Little Falls Office",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mvhealthsystem.org/location/little-falls/"
         },
         {
           "name": "Little Falls City Hall",
@@ -118,7 +121,8 @@
         },
         {
           "name": "Little Falls Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/little-falls-hospital/"
         },
         {
           "name": "Bleecker Town Hall",
@@ -132,5 +136,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:38.845Z"
+  "fetchedAt": "2026-10-29T10:27:17.882Z"
 }

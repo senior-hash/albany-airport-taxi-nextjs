@@ -48,11 +48,13 @@
         },
         {
           "name": "Il Paradiso Pizza and Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.toasttab.com/il-paradiso/v3"
         },
         {
           "name": "China House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.eatchinahouse.com/"
         },
         {
           "name": "The Cup & Saucer Diner",
@@ -60,7 +62,8 @@
         },
         {
           "name": "Outpost BBQ at the Kerhonkytonk Roadhouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.outpostbbqkerhonkson.com/"
         },
         {
           "name": "Hoot Owl",
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Village Hall",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Crawford Town Hall",
@@ -138,7 +143,8 @@
         },
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Walden Village Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:10.495Z"
+  "fetchedAt": "2026-10-29T10:22:35.001Z"
 }

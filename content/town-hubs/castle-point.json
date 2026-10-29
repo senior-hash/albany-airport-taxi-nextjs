@@ -52,7 +52,8 @@
         },
         {
           "name": "Noble Pies",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.noblepies.com"
         },
         {
           "name": "Tito Santana Taqueria",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Kitchen Sink Supper Club",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.kitchensinkny.com"
         },
         {
           "name": "The Pandorica",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thepandoricarestaurant.com"
         },
         {
           "name": "Meyer's Olde Dutch",
@@ -109,7 +112,8 @@
         },
         {
           "name": "Geering Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.fishkillrecreation.com/town-of-fishkill-parks.html"
         }
       ]
     },
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "Castle Point VA Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.va.gov/hudson-valley-health-care/"
         },
         {
           "name": "Wappinger Town Hall",
@@ -130,7 +135,8 @@
         },
         {
           "name": "Wappingers Falls Village Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wappingersfallsny.gov/"
         },
         {
           "name": "City of Beacon Municipal Center",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:41.602Z"
+  "fetchedAt": "2026-10-29T10:22:03.630Z"
 }

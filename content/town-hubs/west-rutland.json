@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Sweet Caroline's Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sweetcarolines.biz/index.html"
         },
         {
           "name": "The Maple Angus",
@@ -81,15 +82,18 @@
       "items": [
         {
           "name": "Baxter Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/baxterstreetpark"
         },
         {
           "name": "Depot Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/depotpark"
         },
         {
           "name": "Center Street Marketplace Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/centerstreetmarketplace"
         },
         {
           "name": "Blueberry Hill Wildlife Management Area",
@@ -97,11 +101,13 @@
         },
         {
           "name": "Justin Thomas Memorial Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/justinthomasmemorialpark"
         },
         {
           "name": "Main Street Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandrec.com/main-street-park"
         },
         {
           "name": "Georgetti Park and Hiking Trails",
@@ -126,7 +132,8 @@
         },
         {
           "name": "Rutland County Free Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rutlandcountyfreeclinic.org/"
         },
         {
           "name": "Rutland City Hall",
@@ -146,11 +153,12 @@
         },
         {
           "name": "Rutland Regional Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rrmc.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:32.743Z"
+  "fetchedAt": "2026-10-29T10:28:13.753Z"
 }

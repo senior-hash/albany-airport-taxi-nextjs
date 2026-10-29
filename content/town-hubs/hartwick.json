@@ -56,11 +56,13 @@
         },
         {
           "name": "Leatherstocking Golf Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.otesaga.com/dine/leatherstocking-golf-bar-grill"
         },
         {
           "name": "Pizza 23 West",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.pizza23west.com/"
         },
         {
           "name": "Red Shed Brewery",
@@ -130,7 +132,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Burlington Town Hall",
@@ -142,7 +145,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:17.954Z"
+  "fetchedAt": "2026-10-29T10:23:47.795Z"
 }

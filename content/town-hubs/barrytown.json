@@ -56,7 +56,8 @@
         },
         {
           "name": "Cancun's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.cancunsrestaurant.com/"
         },
         {
           "name": "Village Pizza III",
@@ -64,15 +65,18 @@
         },
         {
           "name": "Red Hook Curry House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redhookcurryhouse.com/"
         },
         {
           "name": "Flatiron",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.flatironsteakhouse.com/"
         },
         {
           "name": "Charlie O's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.charlieosbarandgrill.com/"
         }
       ]
     },
@@ -134,7 +138,8 @@
         },
         {
           "name": "Northern Dutchess Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.northwell.edu/locations/northern-dutchess-hospital"
         },
         {
           "name": "Rhinebeck Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:39.186Z"
+  "fetchedAt": "2026-10-29T10:22:01.241Z"
 }

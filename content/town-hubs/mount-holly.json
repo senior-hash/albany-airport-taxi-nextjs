@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Rustic Rooster",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.vtrusticrooster.com/"
         },
         {
           "name": "Whistle Stop",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Goodman's American Pie",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.goodmansamericanpie.com/"
         },
         {
           "name": "The Hatchery",
@@ -101,7 +103,8 @@
         },
         {
           "name": "Northern Ski Works",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://northernskiworks.com"
         },
         {
           "name": "Weston Recreation Area",
@@ -109,7 +112,8 @@
         },
         {
           "name": "Lower Clarendon Gorge State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://vermontriverconservancy.org/sites/lower-clarendon-gorge-state-forest"
         }
       ]
     },
@@ -130,7 +134,8 @@
         },
         {
           "name": "Ludlow Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://springfieldmed.org/ludlow-health-center/"
         },
         {
           "name": "Clarendon Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:25.486Z"
+  "fetchedAt": "2026-10-29T10:28:06.009Z"
 }

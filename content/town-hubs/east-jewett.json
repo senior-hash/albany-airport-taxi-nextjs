@@ -52,7 +52,8 @@
         },
         {
           "name": "Pancho's Villa",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.panchovillamex.com/"
         },
         {
           "name": "Tabla",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Tanners Boathouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tannersboathouse.com"
         }
       ]
     },
@@ -130,7 +132,8 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "Town of Lexington Municipal Building",
@@ -142,15 +145,17 @@
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:52.953Z"
+  "fetchedAt": "2026-10-29T10:21:13.003Z"
 }

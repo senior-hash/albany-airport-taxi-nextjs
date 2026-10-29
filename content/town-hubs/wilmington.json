@@ -48,11 +48,13 @@
         },
         {
           "name": "Country Bear",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.countrybeardiner.com"
         },
         {
           "name": "Rudy's Scar Bar + Grille",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.rudyschaletwhiteface.com/"
         },
         {
           "name": "Base Lodge Food Court",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Adirondack Mountain Coffee Cafe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.adkmountaincoffee.com/"
         }
       ]
     },
@@ -126,7 +129,8 @@
         },
         {
           "name": "Town of Black Brook",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://blackbrook.webflow.io/"
         },
         {
           "name": "Black Brook Town Hall",
@@ -146,11 +150,12 @@
         },
         {
           "name": "Lake Placid Health and Medical Fitness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.adirondackhealth.org/location/lake-placid-health-and-medical-fitness-center"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:46.009Z"
+  "fetchedAt": "2026-10-29T10:26:22.220Z"
 }

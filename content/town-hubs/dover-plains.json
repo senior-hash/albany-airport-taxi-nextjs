@@ -68,11 +68,13 @@
         },
         {
           "name": "Amore Pizzeria",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://i8at.com/sites/ss/website.php"
         },
         {
           "name": "A&A Italian Deli",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://aandaitaliandeli.com"
         }
       ]
     },
@@ -85,7 +87,8 @@
         },
         {
           "name": "Hotel Caravana",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hotelcaravana.com/"
         },
         {
           "name": "Town of Dover",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:44.020Z"
+  "fetchedAt": "2026-10-29T10:22:06.035Z"
 }

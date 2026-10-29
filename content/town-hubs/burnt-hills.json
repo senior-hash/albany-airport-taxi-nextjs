@@ -52,11 +52,13 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/glenville/268-saratoga-road-78021"
         },
         {
           "name": "Neon Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.neonsushiny.com"
         },
         {
           "name": "Talon's Pub",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Glenville Queen Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://myglenvillequeen.com/"
         },
         {
           "name": "Rocco's on Main",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:20.966Z"
+  "fetchedAt": "2026-10-29T10:24:55.292Z"
 }

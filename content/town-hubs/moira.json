@@ -56,7 +56,8 @@
         },
         {
           "name": "Maple Steak & Ale",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mohawkcasino.com/restaurants/maple-steak-ale"
         },
         {
           "name": "Cascades Lounge",
@@ -101,7 +102,8 @@
         },
         {
           "name": "Salmon River Waterway Access",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.dec.ny.gov/docs/fish_marine_pdf/pfrsalmonrf.pdf"
         },
         {
           "name": "Akwasasne Walking/Biking/Nature Trails",
@@ -148,5 +150,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:55.751Z"
+  "fetchedAt": "2026-10-29T10:26:34.219Z"
 }

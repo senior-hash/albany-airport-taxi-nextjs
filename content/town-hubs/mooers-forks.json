@@ -48,7 +48,8 @@
         },
         {
           "name": "Ristorante Casa Capitano",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.casa-capitano.com/"
         },
         {
           "name": "Best Friends Family Diner",
@@ -89,7 +90,8 @@
         },
         {
           "name": "Rouses Point Trailway",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Miner Lake State Park",
@@ -140,5 +142,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:12.951Z"
+  "fetchedAt": "2026-10-29T10:26:52.348Z"
 }

@@ -60,7 +60,8 @@
         },
         {
           "name": "Wolfe's Market & Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wolfesmarketandpizza-ny.com"
         },
         {
           "name": "The Bear's Steakhouse",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         },
         {
           "name": "Cobleskill Diner",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:44.377Z"
+  "fetchedAt": "2026-10-29T10:24:16.726Z"
 }

@@ -48,27 +48,33 @@
         },
         {
           "name": "The 421 Craft Bar & Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.the421craftbar.com/"
         },
         {
           "name": "Madison Brewing Co.",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.madisonbrewingco.com/"
         },
         {
           "name": "Ramunto's Brick Oven Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://ramuntos.com/"
         },
         {
           "name": "Spice Root",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.spiceroot.com/"
         },
         {
           "name": "Blue Mango",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://bluemangoma.smiledining.com/?2025021402"
         },
         {
           "name": "CRUST",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://crustpz.com"
         },
         {
           "name": "Tony's Sombrero Mexican Cuisine",
@@ -92,10 +98,6 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Science Quad",
-          "driveTime": "about 15 min"
-        },
-        {
           "name": "Memorial Park",
           "driveTime": "about 15 min"
         },
@@ -104,11 +106,15 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Currier Quad",
+          "name": "Vermont Veterans Home Deer Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Vermont Veterans Home Deer Park",
+          "name": "Monument Square",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Linear Park",
           "driveTime": "about 15 min"
         }
       ]
@@ -122,7 +128,8 @@
         },
         {
           "name": "Bennington Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.benningtonvt.org/"
         },
         {
           "name": "Williamstown Town Hall",
@@ -130,11 +137,13 @@
         },
         {
           "name": "Southwestern Vermont Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://svmc.org/"
         },
         {
           "name": "Williamstown Medical Associates",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.berkshirehealthsystems.org/wma"
         },
         {
           "name": "Tri State Podiatry",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:09.036Z"
+  "fetchedAt": "2026-10-29T10:27:49.626Z"
 }

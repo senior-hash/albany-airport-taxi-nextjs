@@ -60,11 +60,13 @@
         },
         {
           "name": "Papa Joe's Pizzaria",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.papajoespizzeriamenu.com"
         },
         {
           "name": "Red Lantern House",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://red-lantern-house.edan.io/"
         },
         {
           "name": "Erie Station",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Mediterranean Kitchen",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.yelp.com/biz/mediterranean-kitchen-fort-plain-2"
         }
       ]
     },
@@ -101,7 +104,8 @@
         },
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "River Front park",
@@ -142,7 +146,8 @@
         },
         {
           "name": "Bassett Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/bassett-medical-center"
         },
         {
           "name": "Warren Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:13.079Z"
+  "fetchedAt": "2026-10-29T10:23:40.522Z"
 }

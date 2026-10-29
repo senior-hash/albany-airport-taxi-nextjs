@@ -56,7 +56,8 @@
         },
         {
           "name": "Elsasser's @ 111",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://elsassers111.com/"
         },
         {
           "name": "Juniper",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Argyle Brewing Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.argylebrewing.com/"
         },
         {
           "name": "Old Station Inn",
@@ -101,7 +103,8 @@
         },
         {
           "name": "Gannon Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://villageofgreenwich.org/location/gannon-park/"
         },
         {
           "name": "Salem Street Park",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Town of Saratoga Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofsaratoga.com/"
         },
         {
           "name": "Village of Victory",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:53.323Z"
+  "fetchedAt": "2026-10-29T10:25:29.049Z"
 }

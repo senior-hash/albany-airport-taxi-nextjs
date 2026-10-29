@@ -48,11 +48,13 @@
         },
         {
           "name": "Fish & Game",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.fishandgamehudson.com/"
         },
         {
           "name": "Culture Cream",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://eatculturecream.com"
         },
         {
           "name": "Red Dot Restaurant & Bar",
@@ -64,15 +66,18 @@
         },
         {
           "name": "Tanzy's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://tanzyshudson.com/"
         },
         {
           "name": "The Half Moon",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.thehalfmoonhudson.com/"
         },
         {
           "name": "225 Warren Bar and Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.225warren.com/"
         }
       ]
     },
@@ -130,7 +135,8 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Coxsackie Town Hall",
@@ -138,7 +144,8 @@
         },
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "Hudson City Hall",
@@ -146,11 +153,12 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:45.719Z"
+  "fetchedAt": "2026-10-29T10:21:05.804Z"
 }

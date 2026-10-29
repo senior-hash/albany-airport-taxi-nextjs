@@ -64,7 +64,8 @@
         },
         {
           "name": "Akira",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.akiraalbany.com/"
         },
         {
           "name": "Milestone",
@@ -138,7 +139,8 @@
         },
         {
           "name": "Albany Medical Center South Clinical Campus",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.amc.edu/patient/services/ambulatory/"
         },
         {
           "name": "Capital Region Foot Care",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:33.725Z"
+  "fetchedAt": "2026-10-29T10:20:51.411Z"
 }

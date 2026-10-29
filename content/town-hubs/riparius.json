@@ -52,11 +52,13 @@
         },
         {
           "name": "Basil & Wick's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://basilandwicks.com/"
         },
         {
           "name": "becks TAVERN",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.beckstavern.com/"
         },
         {
           "name": "The Hub",
@@ -68,11 +70,13 @@
         },
         {
           "name": "The Inn on Gore Mountain",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.innongore.com/index.asp"
         },
         {
           "name": "DeCesare's Pizzeria",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.schroonlakeregion.com/dine-and-shop/dining/decesares-pizzeria"
         }
       ]
     },
@@ -92,24 +96,24 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Village Chair",
-          "driveTime": "about 15 min"
-        },
-        {
           "name": "Town of Horicon",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Hudson Chair",
+          "name": "The Alpine Homestead",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Sunway",
+          "name": "Courtney Park",
           "driveTime": "about 15 min"
         },
         {
-          "name": "Topridge Quad",
-          "driveTime": "about 15 min"
+          "name": "Bandstand Park",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Loch House Inn",
+          "driveTime": "about 30 min"
         }
       ]
     },
@@ -148,5 +152,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:10.216Z"
+  "fetchedAt": "2026-10-29T10:25:48.331Z"
 }

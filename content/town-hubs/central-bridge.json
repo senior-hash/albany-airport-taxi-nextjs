@@ -56,11 +56,13 @@
         },
         {
           "name": "Wolfe's Market & Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wolfesmarketandpizza-ny.com"
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         },
         {
           "name": "Cobleskill Diner",
@@ -146,11 +148,12 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:34.750Z"
+  "fetchedAt": "2026-10-29T10:24:05.606Z"
 }

@@ -52,11 +52,13 @@
         },
         {
           "name": "Turtle Island Cafe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://turtleislandcafe.com/"
         },
         {
           "name": "Old Orchard Place",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oldorchardplace.com/"
         },
         {
           "name": "Dogwood Bread Co.",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Backyard Bistro",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.backyardbistrovt.com/"
         },
         {
           "name": "Village Tavern",
@@ -72,7 +75,8 @@
         },
         {
           "name": "Folino's Pizza",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.folinopizza.com/"
         }
       ]
     },
@@ -105,7 +109,8 @@
         },
         {
           "name": "Shelburne Town Beach",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.shelburnevt.org/182/Beach-Information"
         },
         {
           "name": "Baycrest Park",
@@ -126,7 +131,8 @@
         },
         {
           "name": "Westport Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westportny.net/"
         },
         {
           "name": "Charlotte Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:26.762Z"
+  "fetchedAt": "2026-10-29T10:26:02.999Z"
 }

@@ -48,7 +48,8 @@
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://gnomeslicepizzeria.com/"
         },
         {
           "name": "People's Pub",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Yummy Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.yummykitchen.xyz/berry-farm"
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Dan's Diner & Quick Lunch",
@@ -105,7 +108,8 @@
         },
         {
           "name": "Art Omi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.artomi.org/"
         },
         {
           "name": "Rothermel Park",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:21.980Z"
+  "fetchedAt": "2026-10-29T10:21:42.271Z"
 }

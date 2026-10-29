@@ -68,11 +68,13 @@
         },
         {
           "name": "Eadilyn's Table",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.eadilynstable.com"
         },
         {
           "name": "La Bella Pizza & Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.labellapizzawynantskill.com/"
         }
       ]
     },
@@ -81,7 +83,8 @@
       "items": [
         {
           "name": "Barberville Falls Preserve",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://hudsontaconic.org/htl-preserves/barberville-falls-preserve/"
         },
         {
           "name": "Brunswick Sports Complex",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:11.335Z"
+  "fetchedAt": "2026-10-29T10:24:45.699Z"
 }

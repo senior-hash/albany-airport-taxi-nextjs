@@ -68,7 +68,8 @@
         },
         {
           "name": "Battle Hill Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://battlehillbrewing.com/"
         },
         {
           "name": "Sasquatch Saloon",
@@ -85,11 +86,13 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Granville Little League",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://granvillelittleleague.sportngin.com/home"
         },
         {
           "name": "Riverside Park",
@@ -105,11 +108,13 @@
         },
         {
           "name": "Wells Lakeside Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wellsvt.com/explore-wells-3/wells-lakeside-park/"
         },
         {
           "name": "Boczek Marsh Wildlife Management Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://fpr.vermont.gov/buczek-wildlife-management-area"
         }
       ]
     },
@@ -126,7 +131,8 @@
         },
         {
           "name": "Wells Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wellsvt.com/"
         },
         {
           "name": "Hampton Town Hall",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Poultney Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.poultney.vt.gov/"
         },
         {
           "name": "Pawlet Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:55.445Z"
+  "fetchedAt": "2026-10-29T10:25:29.864Z"
 }

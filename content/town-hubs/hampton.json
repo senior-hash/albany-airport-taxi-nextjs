@@ -52,7 +52,8 @@
         },
         {
           "name": "Tasteful Station",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tastefulstation.com/"
         },
         {
           "name": "The Rail Trail Eatery diner",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Iron Lantern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ironlanternrestaurant.com"
         },
         {
           "name": "Sunrise Family Restaurant",
@@ -89,7 +91,8 @@
         },
         {
           "name": "Boczek Marsh Wildlife Management Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://fpr.vermont.gov/buczek-wildlife-management-area"
         },
         {
           "name": "Riverside Park",
@@ -105,11 +108,13 @@
         },
         {
           "name": "The Sheldon Mansion Inn",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sheldonmansion.com/"
         },
         {
           "name": "Wells Lakeside Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://wellsvt.com/explore-wells-3/wells-lakeside-park/"
         }
       ]
     },
@@ -126,7 +131,8 @@
         },
         {
           "name": "Poultney Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.poultney.vt.gov/"
         },
         {
           "name": "Castleton Town Office",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Castleton Family Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.chcrr.org/location/castleton-family-health-center/"
         },
         {
           "name": "Granville Municipal Building",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:50.624Z"
+  "fetchedAt": "2026-10-29T10:25:25.075Z"
 }

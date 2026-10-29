@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Adirondack Mountain Coffee Cafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.adkmountaincoffee.com/"
         },
         {
           "name": "Country Bear",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.countrybeardiner.com"
         },
         {
           "name": "Pourman's Tap House",
@@ -56,11 +58,13 @@
         },
         {
           "name": "20 Main",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://20-main.edan.io/"
         },
         {
           "name": "Rudy's Scar Bar + Grille",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rudyschaletwhiteface.com/"
         },
         {
           "name": "Base Lodge Food Court",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Town of Black Brook",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://blackbrook.webflow.io/"
         },
         {
           "name": "Black Brook Town Hall",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:26.980Z"
+  "fetchedAt": "2026-10-29T10:26:04.196Z"
 }

@@ -52,7 +52,8 @@
         },
         {
           "name": "Bella Luna",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.bellalunaofsaugertiesny.com/"
         },
         {
           "name": "The Pig Bar",
@@ -60,11 +61,13 @@
         },
         {
           "name": "Miss Lucy's Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.misslucyskitchen.com/"
         },
         {
           "name": "Marqaux Bar",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.margauxupstate.com/"
         },
         {
           "name": "Rock da Casbah",
@@ -72,7 +75,8 @@
         },
         {
           "name": "The Dutch Ale House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dutchalehouse.com/"
         }
       ]
     },
@@ -93,7 +97,8 @@
         },
         {
           "name": "Barclay Heights Smythe House Bed and Breakfast",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://smythehouse.com"
         },
         {
           "name": "Tina Chorvas Park",
@@ -109,7 +114,8 @@
         },
         {
           "name": "Ruth Reynolds Glunt Nature Preserve",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.saugertieslighthouse.com/"
         }
       ]
     },
@@ -126,11 +132,13 @@
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "Advanced Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.drkircher.com/"
         },
         {
           "name": "Optum Urgent Care",
@@ -142,7 +150,8 @@
         },
         {
           "name": "VA Kingston Outpatient Clinic",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albany.va.gov/locations/Kingston.asp"
         },
         {
           "name": "Nuvance Health - GoHealth Urgent Care",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:32.899Z"
+  "fetchedAt": "2026-10-29T10:22:59.042Z"
 }

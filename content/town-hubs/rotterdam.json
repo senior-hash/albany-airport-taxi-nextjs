@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Mallozzi's Banquet & Ballrooms",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mallozzis.com/"
         },
         {
           "name": "Recovery Sport Bar & Grill",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Pizza Hut",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://locations.pizzahut.com/ny/schenectady/1820-altamont-ave"
         },
         {
           "name": "Cusato's Pizzeria",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Mi bandera Peruvian Restaurant",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.facebook.com/mibanderape"
         },
         {
           "name": "Fu Sing Chinese Restaurant",
@@ -126,7 +129,8 @@
         },
         {
           "name": "Hometown Health Centers",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hometownhealthcenters.org/"
         },
         {
           "name": "Ellis Medicine State Street Health Center",
@@ -134,7 +138,8 @@
         },
         {
           "name": "Planned Parenthood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.plannedparenthood.org/health-center/new-york/schenectady/12307/schenectady-center-4192-91110"
         },
         {
           "name": "Schenectady City Hall",
@@ -142,7 +147,8 @@
         },
         {
           "name": "Ellis Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellismedicine.org/locations/ellis-health-center.aspx"
         },
         {
           "name": "Wicker Wellness Center",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:36.262Z"
+  "fetchedAt": "2026-10-29T10:25:10.619Z"
 }

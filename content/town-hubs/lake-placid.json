@@ -52,7 +52,8 @@
         },
         {
           "name": "The Pickled Pig",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.pickledpig.com/"
         },
         {
           "name": "Veranda",
@@ -72,7 +73,8 @@
         },
         {
           "name": "Bazzi's Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://bazzispizza.com/"
         }
       ]
     },
@@ -89,7 +91,8 @@
         },
         {
           "name": "Kiwanis Teddy Bear Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.lakeplacid.com/do/activities/kiwanis-teddy-bear-park"
         },
         {
           "name": "The Interlaken Inn & Restaurant",
@@ -101,7 +104,8 @@
         },
         {
           "name": "Lake Placid Olympic Ski Jumping Complex",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lakeplacidolympicsites.com/olympic-sites/jumping-complex/"
         },
         {
           "name": "The Spruce Inn",
@@ -126,7 +130,8 @@
         },
         {
           "name": "Lake Placid Health and Medical Fitness Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.adirondackhealth.org/location/lake-placid-health-and-medical-fitness-center"
         },
         {
           "name": "Harrietstown Town Hall",
@@ -142,7 +147,8 @@
         },
         {
           "name": "Adirondack Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.adirondackhealth.org/adirondack-medical-center-saranac-lake"
         },
         {
           "name": "Keene Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:29.378Z"
+  "fetchedAt": "2026-10-29T10:26:06.635Z"
 }

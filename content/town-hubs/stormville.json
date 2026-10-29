@@ -60,11 +60,13 @@
         },
         {
           "name": "Hopewell Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hopewelljunctionpizza.com/"
         },
         {
           "name": "Hopewell Deli & Juice Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://hopewelldeliandjuicebar.secureserversites.net/"
         },
         {
           "name": "Tokoharu",
@@ -89,7 +91,8 @@
         },
         {
           "name": "Sylvan Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/60854.html"
         },
         {
           "name": "East Fishkill Veterans Memorial",
@@ -130,7 +133,8 @@
         },
         {
           "name": "PM Pediatrics - Specialized Urgent Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pmpediatriccare.com/location/pm-pediatrics-dutchess-hopewell-junction/"
         },
         {
           "name": "Ogleh Nesheiwat, M.D. - Internal Medicine / Primary Care",
@@ -142,15 +146,17 @@
         },
         {
           "name": "Pulse-MD Urgent Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://pulse-mdurgentcare.com"
         },
         {
           "name": "Nuvance Health Primary Care",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.nuvancehealth.org/locations/nuvance-health-medical-practice-primary-care-hopewell-junction"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:00.832Z"
+  "fetchedAt": "2026-10-29T10:22:22.852Z"
 }

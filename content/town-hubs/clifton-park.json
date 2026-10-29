@@ -56,7 +56,8 @@
         },
         {
           "name": "Sabor Azteca",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.saboraztecany.com/"
         },
         {
           "name": "Friendly's",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Druthers Brewing Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.druthersbrewing.com/"
         },
         {
           "name": "Jimmy's Egg",
@@ -97,7 +99,8 @@
         },
         {
           "name": "Clifton Park Town Center Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cliftonpark.org/index.php?option=com_jbusinessdirectory&view=companies&companyId=68&Itemid=2767"
         },
         {
           "name": "George T. Smith Park",
@@ -122,27 +125,33 @@
         },
         {
           "name": "Neurology at Albany Medical Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/location/clifton-park-neurology-route-146/"
         },
         {
           "name": "Bone and Joint",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.theboneandjointcenter.com/"
         },
         {
           "name": "Clifton Park Family Practice",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sphp.com/clifton-park-family-practice"
         },
         {
           "name": "St. Peter's Urgent Care - Clifton Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sphp.com/st-peters-urgent-care-clifton-park"
         },
         {
           "name": "Medical Center of Clifton Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.ellismedicine.org/clifton-park/"
         },
         {
           "name": "Rubin Dialysis Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dciinc.org/cliftonpark/"
         },
         {
           "name": "Upstate Dermatology",
@@ -152,5 +161,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:20.981Z"
+  "fetchedAt": "2026-10-29T10:24:55.308Z"
 }

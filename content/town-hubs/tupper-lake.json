@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Guido's Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.guidospizzeria.com/"
         },
         {
           "name": "Little Italy",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Amado",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.amadony.com/"
         },
         {
           "name": "The Woodshed on Park",
@@ -68,11 +70,13 @@
         },
         {
           "name": "P-2's Irish Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.P2sIrishPub.com/"
         },
         {
           "name": "Lumberjack Inn",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://lumberjacksteakhouse.com"
         }
       ]
     },
@@ -94,7 +98,8 @@
       "items": [
         {
           "name": "Tupper Lake Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.adirondackhealth.org/locations/tupper-lake-health-center/"
         },
         {
           "name": "Town of Tupper Lake",
@@ -112,5 +117,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:00.559Z"
+  "fetchedAt": "2026-10-29T10:26:39.379Z"
 }

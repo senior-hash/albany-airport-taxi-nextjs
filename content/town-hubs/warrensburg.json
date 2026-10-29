@@ -48,7 +48,8 @@
         },
         {
           "name": "The Pizza Shop",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thepizzashopwarrensburg.com/"
         },
         {
           "name": "George Henry's",
@@ -138,7 +139,8 @@
         },
         {
           "name": "Queensbury Family Health",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hhhn.org/HealthCenters/?HCID=8"
         },
         {
           "name": "Queensbury Town Hall",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:12.616Z"
+  "fetchedAt": "2026-10-29T10:25:50.851Z"
 }

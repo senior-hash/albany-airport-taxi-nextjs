@@ -44,27 +44,33 @@
       "items": [
         {
           "name": "Oliver's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.oliversny.com"
         },
         {
           "name": "The Pines",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://catskillpines.com"
         },
         {
           "name": "Woodnotes Grille",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://emersonresort.com/woodnotesgrille/"
         },
         {
           "name": "Foxfire Bar Room",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.foxfiremountainhouse.com/menu"
         },
         {
           "name": "Woodstock Brewing",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.drinkwoodstock.com"
         },
         {
           "name": "Phoenicia Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.phoeniciadiner.com"
         },
         {
           "name": "The Boiceville Inn",
@@ -72,7 +78,8 @@
         },
         {
           "name": "The Phoenician Steakhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thephoeniciansteakhouse.com"
         }
       ]
     },
@@ -81,7 +88,8 @@
       "items": [
         {
           "name": "Catskills Visitor Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://catskillsvisitorcenter.org"
         },
         {
           "name": "Simpson Mini-Park",
@@ -93,15 +101,18 @@
         },
         {
           "name": "Little Blue House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.littlebluehousecatskills.com"
         },
         {
           "name": "Grant Avery Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/recreation/"
         },
         {
           "name": "Lester S. Davis Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/recreation/"
         },
         {
           "name": "Glenbrook Park",
@@ -118,19 +129,23 @@
       "items": [
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Woodstock Town Hall",
@@ -138,11 +153,13 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "Hunter Village Hall",
@@ -152,5 +169,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:24.819Z"
+  "fetchedAt": "2026-10-29T10:22:49.835Z"
 }

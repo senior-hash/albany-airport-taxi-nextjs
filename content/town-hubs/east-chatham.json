@@ -48,7 +48,8 @@
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Chatham Brewing",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gnomeslicepizzeria.com/"
         },
         {
           "name": "Silver Brothers Spirits Company",
@@ -134,11 +136,13 @@
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "Kinderhook Village Hall",
@@ -146,11 +150,12 @@
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:19.575Z"
+  "fetchedAt": "2026-10-29T10:21:39.853Z"
 }

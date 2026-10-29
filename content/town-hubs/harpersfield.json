@@ -89,7 +89,8 @@
         },
         {
           "name": "Mine Kill State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/minekill/"
         },
         {
           "name": "West Davenport Park",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:00.928Z"
+  "fetchedAt": "2026-10-29T10:23:28.508Z"
 }

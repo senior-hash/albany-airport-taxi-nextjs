@@ -48,15 +48,18 @@
         },
         {
           "name": "Livingood's Restaurant & Brewery",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.livingoodsrestaurant.com/"
         },
         {
           "name": "20 Main",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://20-main.edan.io/"
         },
         {
           "name": "Pasquale's Restaurant and Bar",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.pasqualesrestaurant.org/"
         },
         {
           "name": "Pourman's Tap House",
@@ -64,7 +67,8 @@
         },
         {
           "name": "Country Bear",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "http://www.countrybeardiner.com"
         }
       ]
     },
@@ -77,7 +81,8 @@
         },
         {
           "name": "Cadyville Recreation Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.townofplattsburghrecreation.com/Default.aspx?tabid=550987"
         },
         {
           "name": "East Morrisonville Park",
@@ -89,7 +94,8 @@
         },
         {
           "name": "Adirondack Backwoods Elegance",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.airbnb.com/rooms/6896868"
         },
         {
           "name": "Jefferson Dukette Memorial Field",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Town of Black Brook",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://blackbrook.webflow.io/"
         },
         {
           "name": "Peru Town Hall",
@@ -144,5 +151,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:17.270Z"
+  "fetchedAt": "2026-10-29T10:26:55.820Z"
 }

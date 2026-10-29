@@ -56,11 +56,13 @@
         },
         {
           "name": "Red's Ale House & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.redsalehouseoneonta.com/"
         },
         {
           "name": "Simply Thai",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.simplythaioneonta.com"
         },
         {
           "name": "Denny's",
@@ -122,7 +124,8 @@
         },
         {
           "name": "O'Connor Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/oconnor-hospital"
         },
         {
           "name": "Davenport Town Hall",
@@ -138,7 +141,8 @@
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Oneonta Municipal Building",
@@ -146,11 +150,12 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:03.774Z"
+  "fetchedAt": "2026-10-29T10:23:30.907Z"
 }

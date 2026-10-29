@@ -56,7 +56,8 @@
         },
         {
           "name": "The Pizza Shop",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://thepizzashopwarrensburg.com/"
         },
         {
           "name": "Lucky Star Restaurant",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:12.584Z"
+  "fetchedAt": "2026-10-29T10:25:49.364Z"
 }

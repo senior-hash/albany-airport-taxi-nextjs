@@ -48,7 +48,8 @@
         },
         {
           "name": "Red's Seafood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redsrestaurant.com/"
         },
         {
           "name": "The Yellow Deli",
@@ -118,7 +119,8 @@
       "items": [
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "Coxsackie Town Hall",
@@ -142,7 +144,8 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         },
         {
           "name": "Pioneer Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:48.134Z"
+  "fetchedAt": "2026-10-29T10:21:08.219Z"
 }

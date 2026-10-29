@@ -72,7 +72,8 @@
         },
         {
           "name": "Tammy's Candy Kettle",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tammyscandykettle.com/"
         }
       ]
     },
@@ -101,7 +102,8 @@
         },
         {
           "name": "Hoosick River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Lincoln Square",
@@ -130,11 +132,13 @@
         },
         {
           "name": "Bennington Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.benningtonvt.org/"
         },
         {
           "name": "Southwestern Vermont Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://svmc.org/"
         },
         {
           "name": "Cambridge Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:06.536Z"
+  "fetchedAt": "2026-10-29T10:24:40.854Z"
 }

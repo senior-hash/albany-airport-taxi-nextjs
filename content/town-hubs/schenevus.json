@@ -64,7 +64,8 @@
         },
         {
           "name": "No. 1 Chinese Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.no1chineseoneonta.com"
         },
         {
           "name": "Mount Fuji",
@@ -89,7 +90,8 @@
         },
         {
           "name": "Goodyear Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/23876.html"
         },
         {
           "name": "Fortin Park",
@@ -105,7 +107,8 @@
         },
         {
           "name": "Betty and Wilbur Davis State Park",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://parks.ny.gov/parks/bettywilburdavis/"
         },
         {
           "name": "West Davenport Park",
@@ -138,19 +141,22 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:27.550Z"
+  "fetchedAt": "2026-10-29T10:23:57.455Z"
 }

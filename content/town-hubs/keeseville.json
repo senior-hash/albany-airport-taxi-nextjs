@@ -48,31 +48,38 @@
         },
         {
           "name": "Ausable Brewing Company",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://ausablebrewing.com/"
         },
         {
           "name": "Pasquale's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.pasqualesrestaurant.org/"
         },
         {
           "name": "Rulfs Orchard",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "rulfs.orchard.com"
         },
         {
           "name": "Livingood's Restaurant & Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.livingoodsrestaurant.com/"
         },
         {
           "name": "20 Main",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://20-main.edan.io/"
         },
         {
           "name": "Old Orchard Place",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oldorchardplace.com/"
         },
         {
           "name": "Turtle Island Cafe",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://turtleislandcafe.com/"
         }
       ]
     },
@@ -134,7 +141,8 @@
         },
         {
           "name": "Town of Black Brook",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://blackbrook.webflow.io/"
         },
         {
           "name": "Black Brook Town Hall",
@@ -146,11 +154,12 @@
         },
         {
           "name": "Pearl Street Youth Health Center",
-          "driveTime": "about 1 hr 30 min"
+          "driveTime": "about 1 hr 30 min",
+          "website": "https://www.chcb.org/locations-providers/pearl-street-youth-health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:10.550Z"
+  "fetchedAt": "2026-10-29T10:26:49.950Z"
 }

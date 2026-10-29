@@ -48,7 +48,8 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/oneonta/5006-state-highway-23-97048"
         },
         {
           "name": "Mount Fuji",
@@ -64,15 +65,18 @@
         },
         {
           "name": "Taqueria Guadalajara",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.taqueria-de-guadalajara.com/"
         },
         {
           "name": "Nina's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://ninasitalian.com/"
         },
         {
           "name": "Autumn Café",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://autumncafe.com/"
         }
       ]
     },
@@ -126,15 +130,18 @@
         },
         {
           "name": "A. O. Fox Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/locations/ao-fox-hospital"
         },
         {
           "name": "Hoffman Family Medicine",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.hoffmanfamilymedicine.com/"
         },
         {
           "name": "Perrella Wellness Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hartwick.edu/campus-life/health-wellness/health-center/"
         },
         {
           "name": "Village of Delhi",
@@ -146,11 +153,12 @@
         },
         {
           "name": "O'Connor Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.bassett.org/locations/oconnor-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:54.110Z"
+  "fetchedAt": "2026-10-29T10:23:20.730Z"
 }

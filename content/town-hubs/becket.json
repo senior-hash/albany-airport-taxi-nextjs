@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Route 8 Pub",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.route8pub.com/"
         },
         {
           "name": "Ozzie's",
@@ -56,19 +57,23 @@
         },
         {
           "name": "51 Park Restaurant & Tavern",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.51parkrestaurant.com"
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Cafe Triskele",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://cafetriskele.com/"
         },
         {
           "name": "Lee's Corner Kitchen",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://leescornerkitchen.com"
         },
         {
           "name": "Grouse House",
@@ -85,7 +90,8 @@
         },
         {
           "name": "Becket Historic Quarry and Forest trailhead",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://becketlandtrust.org/"
         },
         {
           "name": "East Lee Park",
@@ -118,31 +124,38 @@
       "items": [
         {
           "name": "Washington Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.washington-ma.com/"
         },
         {
           "name": "Becket Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbecket.org/"
         },
         {
           "name": "Hinsdale Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hinsdalemass.com/"
         },
         {
           "name": "Chester Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofchester.net/"
         },
         {
           "name": "Middlefield Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.middlefieldma.net/"
         },
         {
           "name": "Lee Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.lee.ma.us/"
         },
         {
           "name": "Peru Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townofperuma.com/"
         },
         {
           "name": "Berkshire Eye Center",
@@ -152,5 +165,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:41.252Z"
+  "fetchedAt": "2026-10-29T10:27:20.306Z"
 }

@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Shaker Mill Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://shakermilltavernfamilysmokehouse.com/"
         },
         {
           "name": "High Woods Manor House",
@@ -56,19 +57,23 @@
         },
         {
           "name": "51 Park Restaurant & Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.51parkrestaurant.com"
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Cafe Triskele",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://cafetriskele.com/"
         },
         {
           "name": "Barrington Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.barringtonbrewery.net/"
         },
         {
           "name": "cafe Adam",
@@ -118,39 +123,47 @@
       "items": [
         {
           "name": "Austen Riggs Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.austenriggs.org/"
         },
         {
           "name": "Stockbridge Town Offices",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townofstockbridge.com/"
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Lee Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.lee.ma.us/"
         },
         {
           "name": "Lenox Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townoflenox.com/"
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "Great Barrington Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofgb.org/"
         },
         {
           "name": "Tyringham Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tyringham-ma.gov/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:59.378Z"
+  "fetchedAt": "2026-10-29T10:27:39.356Z"
 }

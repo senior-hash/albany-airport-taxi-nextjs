@@ -56,7 +56,8 @@
         },
         {
           "name": "The Dutchess Biercafe",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thedutchessbiercafe.com"
         },
         {
           "name": "Trattoria Locanda",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Sapore Steak House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://saporesteakhouse.com"
         },
         {
           "name": "Cosimo's Pizza",
@@ -85,7 +87,8 @@
         },
         {
           "name": "Geering Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.fishkillrecreation.com/town-of-fishkill-parks.html"
         },
         {
           "name": "Doug Phillips Park",
@@ -142,7 +145,8 @@
         },
         {
           "name": "Northwell Health/GoHealth Urgent Care",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.healthquest.org/urgent-care/urgent-care.aspx"
         },
         {
           "name": "Wappinger Town Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:44.085Z"
+  "fetchedAt": "2026-10-29T10:22:06.036Z"
 }

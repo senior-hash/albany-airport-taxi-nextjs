@@ -44,35 +44,43 @@
       "items": [
         {
           "name": "Brio's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://brios.net"
         },
         {
           "name": "The Phoenician Steakhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thephoeniciansteakhouse.com"
         },
         {
           "name": "Phoenicia Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.phoeniciadiner.com"
         },
         {
           "name": "Woodstock Brewing",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.drinkwoodstock.com"
         },
         {
           "name": "Woodnotes Grille",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://emersonresort.com/woodnotesgrille/"
         },
         {
           "name": "Foxfire Bar Room",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.foxfiremountainhouse.com/menu"
         },
         {
           "name": "Oliver's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.oliversny.com"
         },
         {
           "name": "The Pines",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://catskillpines.com"
         }
       ]
     },
@@ -93,7 +101,8 @@
         },
         {
           "name": "Catskills Visitor Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://catskillsvisitorcenter.org"
         },
         {
           "name": "Big Indian Park",
@@ -101,7 +110,8 @@
         },
         {
           "name": "Little Blue House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.littlebluehousecatskills.com"
         },
         {
           "name": "Trail View Inn",
@@ -118,11 +128,13 @@
       "items": [
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mahv.net/"
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Hunter Village Hall",
@@ -130,7 +142,8 @@
         },
         {
           "name": "Olive Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofolive.org/"
         },
         {
           "name": "Fleischmanns Village Hall",
@@ -138,11 +151,13 @@
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Hudson Valley Gastroenterology",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://www.hvgpc.com"
         },
         {
           "name": "Woodstock Town Hall",
@@ -152,5 +167,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:08.077Z"
+  "fetchedAt": "2026-10-29T10:22:30.623Z"
 }

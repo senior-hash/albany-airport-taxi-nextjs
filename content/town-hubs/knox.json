@@ -60,7 +60,8 @@
         },
         {
           "name": "Village Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.villagepizzaaltamont.com/"
         },
         {
           "name": "Paisano's Pizza Villa",
@@ -152,5 +153,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:34.097Z"
+  "fetchedAt": "2026-10-29T10:20:53.815Z"
 }

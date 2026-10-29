@@ -4,13 +4,14 @@ import fs from "node:fs";
 import path from "node:path";
 import type { Metadata } from "next";
 import { getCities, getCityBySlug, getCountyById, getStateById } from "@/lib/content";
-import { getVenues } from "@/lib/venues";
+import { getVenues, findVenueByName } from "@/lib/venues";
 import { getTownHub, getTownHubNote } from "@/lib/town-hubs";
 import { PageHeading } from "@/components/PageHeading";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Container } from "@/components/Container";
 import { BookingCard } from "@/components/BookingCard";
 import { QuoteForm } from "@/components/QuoteForm";
+import { PlaceLink } from "@/components/PlaceLink";
 
 // Airport display names/order for the drive-time table — same 6 airports
 // scripts/town-hubs/refresh-town-hubs.mjs pulls real drive times for.
@@ -33,13 +34,19 @@ const SHORT_NAME_OVERRIDES: Record<string, string> = {
 };
 
 type WikidataCoord = { lat: number; lon: number };
-let wikidataCoordsCache: Record<string, WikidataCoord> | undefined;
-function loadWikidataCoords(): Record<string, WikidataCoord> {
-  if (!wikidataCoordsCache) {
-    const file = path.join(process.cwd(), "content", "town-hub-wikidata.json");
-    wikidataCoordsCache = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : {};
+let coordsCache: Record<string, WikidataCoord> | undefined;
+function loadTownCoords(): Record<string, WikidataCoord> {
+  if (!coordsCache) {
+    const readJson = (name: string): Record<string, WikidataCoord> => {
+      const file = path.join(process.cwd(), "content", name);
+      return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : {};
+    };
+    // content/town-hub-osm-centers.json covers towns with no Wikidata match
+    // (see scripts/town-hubs/extract_local_places.py) — merge both so
+    // "nearby towns" distance-sorts correctly for them too.
+    coordsCache = { ...readJson("town-hub-osm-centers.json"), ...readJson("town-hub-wikidata.json") };
   }
-  return wikidataCoordsCache!;
+  return coordsCache!;
 }
 
 function haversineMiles(a: WikidataCoord, b: WikidataCoord): number {
@@ -93,7 +100,7 @@ export default async function TownHubPage({ params }: { params: Promise<{ townSl
 
   const nearbyVenues = county ? getVenues().filter((v) => v.county === county.name).slice(0, 6) : [];
 
-  const coords = loadWikidataCoords();
+  const coords = loadTownCoords();
   const myCoord = coords[townSlug];
   const neighborTowns = myCoord
     ? getCities()
@@ -140,14 +147,25 @@ export default async function TownHubPage({ params }: { params: Promise<{ townSl
           {hub?.population != null && (
             <p className="text-sm text-ink-muted">
               Population: {hub.population.toLocaleString()}.{" "}
-              <a
-                href={`https://www.wikidata.org/wiki/${hub.wikidataQid}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="underline"
-              >
-                Source: Wikidata contributors
-              </a>
+              {hub.wikidataQid ? (
+                <a
+                  href={`https://www.wikidata.org/wiki/${hub.wikidataQid}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline"
+                >
+                  Source: Wikidata contributors
+                </a>
+              ) : (
+                <a
+                  href="https://www.openstreetmap.org/copyright"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline"
+                >
+                  Source: OpenStreetMap contributors
+                </a>
+              )}
               .
             </p>
           )}
@@ -183,11 +201,19 @@ export default async function TownHubPage({ params }: { params: Promise<{ townSl
               <div key={key}>
                 <h2>{group.label}</h2>
                 <ul>
-                  {group.items.map((item) => (
-                    <li key={item.name}>
-                      {item.name} &mdash; {item.driveTime}
-                    </li>
-                  ))}
+                  {group.items.map((item) => {
+                    const venue = findVenueByName(item.name);
+                    return (
+                      <li key={item.name}>
+                        <PlaceLink
+                          name={item.name}
+                          website={item.website}
+                          venueHref={venue ? `/venues/${venue.slug}` : undefined}
+                        />{" "}
+                        &mdash; {item.driveTime}
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
             ))}

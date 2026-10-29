@@ -52,7 +52,8 @@
         },
         {
           "name": "Blue Plate Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://chathamblueplate.com"
         },
         {
           "name": "Chatham Brewing",
@@ -68,11 +69,13 @@
         },
         {
           "name": "S & S Farm Brewery",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sandsbrewery.com/"
         },
         {
           "name": "Gnome Slice Pizzeria",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://gnomeslicepizzeria.com/"
         }
       ]
     },
@@ -138,19 +141,22 @@
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.richmondma.org/"
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.schodack.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:14.775Z"
+  "fetchedAt": "2026-10-29T10:21:35.009Z"
 }

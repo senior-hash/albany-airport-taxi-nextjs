@@ -60,7 +60,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         },
         {
           "name": "Cobleskill Diner",
@@ -118,7 +119,8 @@
       "items": [
         {
           "name": "Beard Wellness Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cobleskill.edu/campus-life/wellness-center/"
         },
         {
           "name": "Cobleskill Municipal Offices",
@@ -134,7 +136,8 @@
         },
         {
           "name": "Cobleskill Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bassett.org/medical/locations/hospitals/cobleskill-regional-hospital"
         },
         {
           "name": "Summit Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:46.249Z"
+  "fetchedAt": "2026-10-29T10:24:17.659Z"
 }

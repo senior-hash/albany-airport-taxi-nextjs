@@ -68,11 +68,13 @@
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/glenville/268-saratoga-road-78021"
         },
         {
           "name": "Neon Sushi",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.neonsushiny.com"
         }
       ]
     },
@@ -138,11 +140,13 @@
         },
         {
           "name": "Neurology at Albany Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/location/clifton-park-neurology-route-146/"
         },
         {
           "name": "Bone and Joint",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.theboneandjointcenter.com/"
         },
         {
           "name": "Round Lake Village Hall",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:18.581Z"
+  "fetchedAt": "2026-10-29T10:24:52.906Z"
 }

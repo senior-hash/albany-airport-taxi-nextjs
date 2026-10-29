@@ -44,11 +44,13 @@
       "items": [
         {
           "name": "Nat's Mountain House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.lechateaubelleview.com/"
         },
         {
           "name": "Tanners Boathouse",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tannersboathouse.com"
         },
         {
           "name": "Fortune Garden",
@@ -56,7 +58,8 @@
         },
         {
           "name": "Pancho's Villa",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.panchovillamex.com/"
         },
         {
           "name": "Tabla",
@@ -134,15 +137,18 @@
         },
         {
           "name": "Saugerties Wellness Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.sphp.com/location/saugerties-wellness-center"
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Shandaken Town Hall",
-          "driveTime": "about 45 min"
+          "driveTime": "about 45 min",
+          "website": "https://www.shandaken-ny.com/"
         },
         {
           "name": "Saugerties Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:53.066Z"
+  "fetchedAt": "2026-10-29T10:21:13.002Z"
 }

@@ -101,7 +101,8 @@
         },
         {
           "name": "Hoosick River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Lincoln Square",
@@ -130,11 +131,13 @@
         },
         {
           "name": "Bennington Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.benningtonvt.org/"
         },
         {
           "name": "Southwestern Vermont Medical Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://svmc.org/"
         },
         {
           "name": "Pittstown Town Hall",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:08.953Z"
+  "fetchedAt": "2026-10-29T10:24:43.290Z"
 }

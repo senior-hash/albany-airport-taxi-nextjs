@@ -86,7 +86,8 @@
         },
         {
           "name": "Alice Hyde Medical Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.uvmhealth.org/locations/alice-hyde-medical-center"
         },
         {
           "name": "Malone Town Hall",
@@ -116,5 +117,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:57.999Z"
+  "fetchedAt": "2026-10-29T10:26:35.516Z"
 }

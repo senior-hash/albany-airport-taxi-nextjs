@@ -56,7 +56,8 @@
         },
         {
           "name": "Coray Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.coraykitchen.com/"
         },
         {
           "name": "Pastina",
@@ -85,7 +86,8 @@
         },
         {
           "name": "Normans Kill Ravines Park",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofbethlehem.org/893/Normans-Kill-Ravines-Park"
         },
         {
           "name": "Volunteer Fire-EMS Services Memorial Park",
@@ -118,7 +120,8 @@
       "items": [
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "First Care",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:31.328Z"
+  "fetchedAt": "2026-10-29T10:20:49.004Z"
 }

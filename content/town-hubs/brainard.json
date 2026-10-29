@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "S & S Farm Brewery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sandsbrewery.com/"
         },
         {
           "name": "The Pillars Restaurant",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Tacos Diablos",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://tacosdiablo.com/"
         },
         {
           "name": "Shaker Mountain Barbecue",
@@ -68,7 +70,8 @@
         },
         {
           "name": "Mario's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.mariosrestaurantnewlebanon.com/"
         },
         {
           "name": "Old Daley Inn on Crooked Lake",
@@ -109,7 +112,8 @@
         },
         {
           "name": "Schodack Town Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/park.htm"
         }
       ]
     },
@@ -118,7 +122,8 @@
       "items": [
         {
           "name": "New Lebanon Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofnewlebanon.com/"
         },
         {
           "name": "Stephentown Town Hall",
@@ -134,15 +139,18 @@
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://upstatederm.com/"
         },
         {
           "name": "Tracy Memorial Village Hall",
@@ -152,5 +160,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:58.973Z"
+  "fetchedAt": "2026-10-29T10:24:32.114Z"
 }

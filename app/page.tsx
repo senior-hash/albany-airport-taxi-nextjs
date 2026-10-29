@@ -9,6 +9,7 @@ import { QuoteForm } from "@/components/QuoteForm";
 import { RouteLine } from "@/components/RouteLine";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { FAQ } from "@/components/FAQ";
+import { Reviews } from "@/components/Reviews";
 import { JsonLd } from "@/components/JsonLd";
 import { getAirportDistance } from "@/lib/airport-distances";
 import { GENERAL_FAQ } from "@/lib/faq";
@@ -269,6 +270,12 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </Container>
+      </section>
+
+      <section className="border-t border-border">
+        <Container className="py-16">
+          <Reviews />
         </Container>
       </section>
 

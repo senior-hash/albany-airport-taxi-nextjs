@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Slingerlands Station Deli & Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://https:/www.slingerlandsstationpizza.com"
         },
         {
           "name": "Gold Coin Chinese Restaurant",
@@ -64,7 +65,8 @@
         },
         {
           "name": "Mint",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mint518.com/albany"
         },
         {
           "name": "Big Box Pub & Grille",
@@ -93,11 +95,13 @@
         },
         {
           "name": "Normans Kill Ravines Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbethlehem.org/893/Normans-Kill-Ravines-Park"
         },
         {
           "name": "North Bethlehem Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofbethlehem.org/277/North-Bethlehem-Park"
         },
         {
           "name": "Buckingham Lake Park",
@@ -122,7 +126,8 @@
         },
         {
           "name": "Bethlehem Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.townofbethlehem.org/"
         },
         {
           "name": "New Scotland Town Hall",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Saint Peter's Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sphp.com/location/st-peters-hospital-main-hospital"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:40.986Z"
+  "fetchedAt": "2026-10-29T10:21:01.009Z"
 }

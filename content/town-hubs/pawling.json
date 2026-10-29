@@ -44,19 +44,23 @@
       "items": [
         {
           "name": "The Farmhouse",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://thefarmhousert22.com"
         },
         {
           "name": "Putnam Diner & Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://putnamdinerny.com"
         },
         {
           "name": "A&A Italian Deli",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://aandaitaliandeli.com"
         },
         {
           "name": "La Famiglia Bar & Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://lafamigliagrill.com"
         },
         {
           "name": "Greenhaven Italian Bistro",
@@ -105,7 +109,8 @@
         },
         {
           "name": "Sylvan Lake Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/outdoor/60854.html"
         },
         {
           "name": "Ryan's Field",
@@ -138,7 +143,8 @@
         },
         {
           "name": "Southeast Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.southeast-ny.gov/"
         },
         {
           "name": "Union Vale Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:51.300Z"
+  "fetchedAt": "2026-10-29T10:22:13.227Z"
 }

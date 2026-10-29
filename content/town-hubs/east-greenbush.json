@@ -44,35 +44,43 @@
       "items": [
         {
           "name": "Elias Pizzeria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.eliaspizzeriamenu.com/"
         },
         {
           "name": "Nic's Trattoria",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://nicstrattoria.com/"
         },
         {
           "name": "Sankalp - The Taste Of India",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sankalpalbanyny.com/"
         },
         {
           "name": "Junior's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.juniorsbarandgrill.com"
         },
         {
           "name": "Soho",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.sohoalbany.com/"
         },
         {
           "name": "Masala House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.masalahouse518.com/"
         },
         {
           "name": "Cafe Madison",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.cafemadisonalbany.com/"
         },
         {
           "name": "Salsa Latina",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://misalsalatina.com/"
         }
       ]
     },
@@ -118,19 +126,23 @@
       "items": [
         {
           "name": "Dialysis Clinic, Inc.",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.dciinc.org/location/east-greenbush/"
         },
         {
           "name": "Schodack Podiatry",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.schodackpodiatry.com"
         },
         {
           "name": "Upstate Dermatology",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://upstatederm.com/"
         },
         {
           "name": "Schodack Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.schodack.org/"
         },
         {
           "name": "East Greenbush Town Hall",
@@ -142,7 +154,8 @@
         },
         {
           "name": "Rosewood Rehabilitation and Nursing Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.rosewoodrehabilitation.com/"
         },
         {
           "name": "WellNow",
@@ -152,5 +165,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:01.369Z"
+  "fetchedAt": "2026-10-29T10:24:36.042Z"
 }

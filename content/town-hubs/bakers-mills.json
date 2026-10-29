@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "The Inn on Gore Mountain",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.innongore.com/index.asp"
         },
         {
           "name": "becks TAVERN",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.beckstavern.com/"
         },
         {
           "name": "Basil & Wick's Restaurant and Bar",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://basilandwicks.com/"
         },
         {
           "name": "Ski Bowl Cafe",
@@ -68,7 +71,8 @@
         },
         {
           "name": "Sporty's Saloon",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "http://Sportysirondukesaloon.com/"
         },
         {
           "name": "Lucky Star Restaurant",
@@ -84,32 +88,32 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Village Chair",
-          "driveTime": "about 15 min"
+          "name": "The Chester Inn",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Hudson Chair",
-          "driveTime": "about 15 min"
+          "name": "Landon Hill Bed & Breakfast",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Topridge Quad",
-          "driveTime": "about 15 min"
+          "name": "Courtney Park",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Sunway",
-          "driveTime": "about 15 min"
+          "name": "The Alpine Homestead",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Northwoods Gondola",
-          "driveTime": "about 15 min"
+          "name": "Floyd Bennett Park",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "Adirondack Express",
-          "driveTime": "about 15 min"
+          "name": "The Bond 1786",
+          "driveTime": "about 30 min"
         },
         {
-          "name": "North Quad",
-          "driveTime": "about 15 min"
+          "name": "Calvin Engle Park",
+          "driveTime": "about 30 min"
         }
       ]
     },
@@ -144,5 +148,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:00.555Z"
+  "fetchedAt": "2026-10-29T10:25:36.270Z"
 }

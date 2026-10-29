@@ -48,11 +48,13 @@
         },
         {
           "name": "Il Paradiso Pizza and Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.toasttab.com/il-paradiso/v3"
         },
         {
           "name": "China House",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.eatchinahouse.com/"
         },
         {
           "name": "Custer's Last Stand",
@@ -60,15 +62,18 @@
         },
         {
           "name": "Danny's Village Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/profile.php?id=100089201357312"
         },
         {
           "name": "The Red Dot Vegetarian Kitchen",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://thered.kitchen/"
         },
         {
           "name": "Pasta D'oro",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.pastadoro.net/"
         },
         {
           "name": "Tiki Bar",
@@ -118,7 +123,8 @@
       "items": [
         {
           "name": "Town of Wawarsing Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://townwawarsing.digitaltowpath.org:10809/content"
         },
         {
           "name": "Ellenville Village Hall",
@@ -126,7 +132,8 @@
         },
         {
           "name": "Ellenville Regional Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.ellenvilleregional.org/"
         },
         {
           "name": "Bloomingburg Village Hall",
@@ -134,7 +141,8 @@
         },
         {
           "name": "Rochester Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofrochester.ny.gov/"
         },
         {
           "name": "Woodridge Village Hall",
@@ -146,11 +154,12 @@
         },
         {
           "name": "Fallsburg Town Hall",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.townoffallsburg.com/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:35.932Z"
+  "fetchedAt": "2026-10-29T10:23:01.449Z"
 }

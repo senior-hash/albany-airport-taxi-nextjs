@@ -44,19 +44,23 @@
       "items": [
         {
           "name": "Sans Souci",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "Www.facebook.com/SansSouciLakeGeorge"
         },
         {
           "name": "Dunham's Bay Lake George Resort",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "www.DunhamsBay,co"
         },
         {
           "name": "Ridge Terrace",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.theridgeterrace.com/"
         },
         {
           "name": "East Cove",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.eastcove.com/"
         },
         {
           "name": "Shepard's Cove",
@@ -68,7 +72,8 @@
         },
         {
           "name": "The Breakfast Spot",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.facebook.com/VintageRestaurantsInc/"
         },
         {
           "name": "Boardwalk Restaurant and Marina",
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:02.653Z"
+  "fetchedAt": "2026-10-29T10:25:38.672Z"
 }

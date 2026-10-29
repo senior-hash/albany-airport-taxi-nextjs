@@ -48,7 +48,8 @@
         },
         {
           "name": "Iron Lantern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.ironlanternrestaurant.com"
         },
         {
           "name": "Sunrise Family Restaurant",
@@ -60,15 +61,18 @@
         },
         {
           "name": "Blue Cat Bistro",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.bluecatcastleton.com/"
         },
         {
           "name": "Castleton Pizza Place and Deli",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.castletonpizza.com/"
         },
         {
           "name": "Birdseye Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.birdseyediner.com/"
         },
         {
           "name": "Scotch Hill Brewing Co.",
@@ -97,7 +101,8 @@
         },
         {
           "name": "Boczek Marsh Wildlife Management Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://fpr.vermont.gov/buczek-wildlife-management-area"
         },
         {
           "name": "Riverside Park",
@@ -122,7 +127,8 @@
         },
         {
           "name": "Castleton Family Health Center",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.chcrr.org/location/castleton-family-health-center/"
         },
         {
           "name": "Fair Haven Town Hall",
@@ -134,7 +140,8 @@
         },
         {
           "name": "Poultney Town Office",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.poultney.vt.gov/"
         },
         {
           "name": "West Rutland Town Hall",
@@ -152,5 +159,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:28:23.066Z"
+  "fetchedAt": "2026-10-29T10:28:03.602Z"
 }

@@ -12,6 +12,7 @@ import { Phone } from "@/components/Phone";
 import { FlightStatusChecker } from "@/components/FlightStatusChecker";
 import { JsonLd } from "@/components/JsonLd";
 import { FAQ } from "@/components/FAQ";
+import { Reviews } from "@/components/Reviews";
 import { serviceSchema, faqSchema } from "@/lib/schema";
 import { getAirportDistance } from "@/lib/airport-distances";
 import { getPageFAQ } from "@/lib/faq";
@@ -92,11 +93,23 @@ export default async function AirportPage({
               .
             </p>
           )}
+          {(airport.slug === "alb" || airport.slug === "jfk") && (
+            <p className="mt-6 text-sm text-ink-muted">
+              Comparing options for JFK? See how a{" "}
+              <Link href="/jfk-shuttle-vs-private-car" className="text-accent hover:underline">
+                shared shuttle stacks up against a private car
+              </Link>
+              .
+            </p>
+          )}
           {pageFAQ.length > 0 && (
             <div className="mt-12">
               <FAQ items={pageFAQ} title={`${airport.name} Taxi FAQ`} />
             </div>
           )}
+          <div className="mt-12">
+            <Reviews />
+          </div>
         </div>
         <aside className="space-y-6">
           <BookingCard />

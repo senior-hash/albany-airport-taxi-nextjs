@@ -72,7 +72,8 @@
         },
         {
           "name": "IL Cenacolo",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ilcenacolorestaurant.com/"
         }
       ]
     },
@@ -97,7 +98,8 @@
         },
         {
           "name": "Hemlock Ridge Multiple Use Area",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/lands/104628.html"
         },
         {
           "name": "Alogonquin Park",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:23:29.634Z"
+  "fetchedAt": "2026-10-29T10:22:54.670Z"
 }

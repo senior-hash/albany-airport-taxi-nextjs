@@ -60,11 +60,13 @@
         },
         {
           "name": "Foote's Port Henry Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://m.facebook.com/profile.php?id=100045236091213"
         },
         {
           "name": "Golden Palace",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.goldenpalace.com/"
         },
         {
           "name": "Frank's Knotty Pine",
@@ -81,15 +83,18 @@
       "items": [
         {
           "name": "Crown Point State Historic Site",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://nysparks.com/historic-sites/34/details.aspx"
         },
         {
           "name": "Carrilon Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofticonderoga.gov/parks/"
         },
         {
           "name": "Artillery Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofticonderoga.gov/parks/"
         },
         {
           "name": "Rogers Rock Campground Entrance",
@@ -109,7 +114,8 @@
         },
         {
           "name": "Peggy's Point",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://lglc.org/"
         }
       ]
     },
@@ -138,19 +144,22 @@
         },
         {
           "name": "Ticonderoga Health Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.hhhn.org/locations/ticonderoga-health-center/"
         },
         {
           "name": "Elizabethtown Community Hospital - Ticonderoga",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.uvmhealth.org/locations/elizabethtown-community-hospital-ticonderoga-university-of-vermont-health"
         },
         {
           "name": "Moriah Health Center",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.hhhn.org/locations/moriah-health-center/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:24.564Z"
+  "fetchedAt": "2026-10-29T10:26:01.769Z"
 }

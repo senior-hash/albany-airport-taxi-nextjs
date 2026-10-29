@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Roadside Store & Café",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.gouldfarm.org/roadside-store-and-cafe/"
         },
         {
           "name": "Grouse House",
@@ -56,15 +57,18 @@
         },
         {
           "name": "Xicohtencatl Restaurant",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.xicohmexicano.com/"
         },
         {
           "name": "Shiro Kitchen & Asian Market",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.berkshiro.com/"
         },
         {
           "name": "Four Brothers Pizza Inn",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://fourbrothersrestaurants.com/"
         },
         {
           "name": "Great Barrington Pizza House",
@@ -72,7 +76,8 @@
         },
         {
           "name": "Marketplace Kitchen Table",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://marketplacekitchen.com/"
         }
       ]
     },
@@ -93,7 +98,8 @@
         },
         {
           "name": "Stanton Home",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://stantonhome.org/"
         },
         {
           "name": "Charles Castranova Park",
@@ -122,7 +128,8 @@
         },
         {
           "name": "Tyringham Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tyringham-ma.gov/"
         },
         {
           "name": "Otis Town Hall",
@@ -130,19 +137,23 @@
         },
         {
           "name": "Great Barrington Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townofgb.org/"
         },
         {
           "name": "New Marlborough Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.newmarlboroughma.gov/"
         },
         {
           "name": "Fairview Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.berkshirehealthsystems.org/fairview"
         },
         {
           "name": "Sandisfield Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.sandisfieldma.gov/"
         },
         {
           "name": "Egremont Town Hall",
@@ -152,5 +163,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:49.586Z"
+  "fetchedAt": "2026-10-29T10:27:29.709Z"
 }

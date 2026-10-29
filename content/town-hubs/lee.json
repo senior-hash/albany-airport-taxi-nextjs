@@ -44,19 +44,23 @@
       "items": [
         {
           "name": "Cafe Triskele",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cafetriskele.com/"
         },
         {
           "name": "51 Park Restaurant & Tavern",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.51parkrestaurant.com"
         },
         {
           "name": "Salmon Run Fish House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://salmonrunfishhouse.com/"
         },
         {
           "name": "Lee's Corner Kitchen",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://leescornerkitchen.com"
         },
         {
           "name": "Roses Restaurant",
@@ -118,27 +122,33 @@
       "items": [
         {
           "name": "Lee Town Hall",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.lee.ma.us/"
         },
         {
           "name": "Lenox Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.townoflenox.com/"
         },
         {
           "name": "Stockbridge Town Offices",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://townofstockbridge.com/"
         },
         {
           "name": "Austen Riggs Center",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.austenriggs.org/"
         },
         {
           "name": "Tyringham Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.tyringham-ma.gov/"
         },
         {
           "name": "West Stockbridge Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.weststockbridge-ma.gov/"
         },
         {
           "name": "Tapestry - Sexual & Reproductive Health Clinic",
@@ -146,11 +156,12 @@
         },
         {
           "name": "Richmond Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.richmondma.org/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:27:49.332Z"
+  "fetchedAt": "2026-10-29T10:27:27.504Z"
 }

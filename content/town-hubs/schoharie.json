@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Middle Village Pasta and Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.middlevillagepastaandgrill.com"
         },
         {
           "name": "Green Wolf Brewing Co.",
@@ -60,7 +61,8 @@
         },
         {
           "name": "Wolfe's Market & Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://wolfesmarketandpizza-ny.com"
         },
         {
           "name": "Rubbin’ Butts Bar-B-Que",
@@ -72,7 +74,8 @@
         },
         {
           "name": "Rubbin Butts Bar-B-Q",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://rubbinbuttsbbqcobleskill.com"
         }
       ]
     },
@@ -109,7 +112,8 @@
         },
         {
           "name": "Max V. Shaul State Park",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/maxvshaul/"
         }
       ]
     },
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:24:43.327Z"
+  "fetchedAt": "2026-10-29T10:24:14.321Z"
 }

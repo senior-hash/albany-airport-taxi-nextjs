@@ -56,19 +56,23 @@
         },
         {
           "name": "The Store at Five Corners",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://storeatfivecorners.com"
         },
         {
           "name": "Spice Root",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.spiceroot.com/"
         },
         {
           "name": "Blue Mango",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://bluemangoma.smiledining.com/?2025021402"
         },
         {
           "name": "CRUST",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://crustpz.com"
         },
         {
           "name": "Tony's Sombrero Mexican Cuisine",
@@ -92,6 +96,11 @@
           "driveTime": "about 15 min"
         },
         {
+          "name": "Cherry Plain State Park",
+          "driveTime": "about 15 min",
+          "website": "https://parks.ny.gov/parks/cherryplain/"
+        },
+        {
           "name": "Field Park",
           "driveTime": "about 15 min"
         },
@@ -100,15 +109,11 @@
           "driveTime": "about 15 min"
         },
         {
-          "name": "Science Quad",
+          "name": "Hoosic Falls Youth Sports Fields",
           "driveTime": "about 15 min"
         },
         {
           "name": "Blair Hiking Area",
-          "driveTime": "about 15 min"
-        },
-        {
-          "name": "Currier Quad",
           "driveTime": "about 15 min"
         }
       ]
@@ -134,7 +139,8 @@
         },
         {
           "name": "Williamstown Medical Associates",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.berkshirehealthsystems.org/wma"
         },
         {
           "name": "New Ashford Town Hall",
@@ -152,5 +158,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:10.102Z"
+  "fetchedAt": "2026-10-29T10:24:44.130Z"
 }

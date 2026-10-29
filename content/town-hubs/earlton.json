@@ -48,7 +48,8 @@
         },
         {
           "name": "Red's Seafood",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.redsrestaurant.com/"
         },
         {
           "name": "The Yellow Deli",
@@ -56,7 +57,8 @@
         },
         {
           "name": "The Tasting Lab",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://www.thetastinglab.com"
         },
         {
           "name": "Tiny Diner",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Lil’ Piece BBQ and Catering",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "http://lilpiecebbq.com"
         },
         {
           "name": "Honey Hollow Brewing Company",
@@ -118,7 +121,8 @@
       "items": [
         {
           "name": "Albany Med EmUrgentCare",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.albanymed.org/location/emurgentcare-coxsackie/"
         },
         {
           "name": "Coxsackie Town Hall",
@@ -146,11 +150,12 @@
         },
         {
           "name": "Greene Medical Arts",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.columbiamemorialhealth.org/towns/catskill/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:50.650Z"
+  "fetchedAt": "2026-10-29T10:21:10.614Z"
 }

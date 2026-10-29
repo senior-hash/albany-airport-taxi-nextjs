@@ -56,7 +56,8 @@
         },
         {
           "name": "Smith's Public House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.smithspublichouse.com/"
         },
         {
           "name": "Yuan Sushi",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Cohoes House of Pizza",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://cohoeshouseofpizza.com/"
         },
         {
           "name": "Matchbox Bar And Grill",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:31.313Z"
+  "fetchedAt": "2026-10-29T10:20:48.984Z"
 }

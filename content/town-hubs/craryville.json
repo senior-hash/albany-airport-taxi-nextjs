@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Zinnia's Dinette",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.zinniasdinette.com/"
         },
         {
           "name": "Washington House",
@@ -68,7 +69,8 @@
         },
         {
           "name": "Dad's Copake Diner",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://dadscopakediner.com/"
         },
         {
           "name": "Full Moon Organics Bakery/Restaurant",
@@ -89,7 +91,8 @@
         },
         {
           "name": "Berkshire Hills Sculpture Garden",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.bhsculpturegarden.com/"
         },
         {
           "name": "Town Park",
@@ -142,15 +145,17 @@
         },
         {
           "name": "Columbia Memorial Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.albanymed.org/hudson/"
         },
         {
           "name": "Fairview Hospital",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.berkshirehealthsystems.org/fairview"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:22:19.423Z"
+  "fetchedAt": "2026-10-29T10:21:39.581Z"
 }

@@ -44,15 +44,18 @@
       "items": [
         {
           "name": "Neon Sushi",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.neonsushiny.com"
         },
         {
           "name": "Applebee's",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://restaurants.applebees.com/en-us/ny/glenville/268-saratoga-road-78021"
         },
         {
           "name": "Glenville Queen Diner",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://myglenvillequeen.com/"
         },
         {
           "name": "Manhattan Bistro & Bagel",
@@ -64,7 +67,8 @@
         },
         {
           "name": "Glenville Pizza and Deli",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.glenvillepizzaanddeli.com"
         },
         {
           "name": "Skyport Restaurant",
@@ -72,7 +76,8 @@
         },
         {
           "name": "Max410 at The Waters Edge",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://max410.com/"
         }
       ]
     },
@@ -152,5 +157,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:38.461Z"
+  "fetchedAt": "2026-10-29T10:25:12.246Z"
 }

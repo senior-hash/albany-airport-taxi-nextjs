@@ -1,0 +1,104 @@
+{
+  "slug": "saint-regis-falls",
+  "name": "Saint Regis Falls",
+  "county": "Franklin County",
+  "state": "New York",
+  "lat": 44.6739468,
+  "lon": -74.5448962,
+  "population": 432,
+  "airportDistances": {
+    "alb": {
+      "miles": "~175 miles",
+      "driveTime": "about 4 hr"
+    },
+    "jfk": {
+      "miles": "~345 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "lga": {
+      "miles": "~335 miles",
+      "driveTime": "about 7 hr 15 min"
+    },
+    "ewr": {
+      "miles": "~335 miles",
+      "driveTime": "about 7 hr"
+    },
+    "logan": {
+      "miles": "~345 miles",
+      "driveTime": "about 7 hr"
+    },
+    "bradley": {
+      "miles": "~275 miles",
+      "driveTime": "about 6 hr 15 min"
+    }
+  },
+  "nearestAmtrak": {
+    "name": "Plattsburgh station",
+    "miles": "~75 miles",
+    "driveTime": "about 1 hr 45 min"
+  },
+  "places": {
+    "dinner-and-nights-out": {
+      "label": "Dinner and nights out",
+      "items": [
+        {
+          "name": "Deer Valley Trails",
+          "driveTime": "about 15 min",
+          "website": "https://deer-valley-trails.com/"
+        },
+        {
+          "name": "The Cedar",
+          "driveTime": "about 45 min"
+        }
+      ]
+    },
+    "getting-around": {
+      "label": "Getting around",
+      "items": [
+        {
+          "name": "Hopkinton Town Green",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Walter F Pratt Memorial Forest",
+          "driveTime": "about 30 min"
+        }
+      ]
+    },
+    "appointments": {
+      "label": "Appointments",
+      "items": [
+        {
+          "name": "Hopkinton Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Lawrence Town Hall",
+          "driveTime": "about 15 min"
+        },
+        {
+          "name": "Moira Town Offices",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Parishville Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Bangor Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Stockholm Town Hall",
+          "driveTime": "about 30 min"
+        },
+        {
+          "name": "Brasher Municipal Building",
+          "driveTime": "about 30 min"
+        }
+      ]
+    }
+  },
+  "qualifies": true,
+  "fetchedAt": "2026-10-29T10:26:37.898Z"
+}

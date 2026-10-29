@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Maple Steak & Ale",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.mohawkcasino.com/restaurants/maple-steak-ale"
         },
         {
           "name": "Cascades Lounge",
@@ -134,7 +135,8 @@
         },
         {
           "name": "Massena Memorial Hospital",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.stlawrencehealthsystem.org/locations/massena-hospital"
         },
         {
           "name": "Westville Town Offices",
@@ -152,5 +154,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:26:53.637Z"
+  "fetchedAt": "2026-10-29T10:26:31.831Z"
 }

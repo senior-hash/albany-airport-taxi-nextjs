@@ -44,7 +44,8 @@
       "items": [
         {
           "name": "Battle Hill Brewing Company",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://battlehillbrewing.com/"
         },
         {
           "name": "Time Served",
@@ -52,7 +53,8 @@
         },
         {
           "name": "Adirondack Bar and Grill",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "www.adirondack-bar-and-grill.com"
         },
         {
           "name": "Shake, Rattle & Roll",
@@ -64,7 +66,8 @@
         },
         {
           "name": "Ginny Rae's",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ginnyraes.com/"
         },
         {
           "name": "Bistro LeRoux",
@@ -152,5 +155,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:46.123Z"
+  "fetchedAt": "2026-10-29T10:25:21.857Z"
 }

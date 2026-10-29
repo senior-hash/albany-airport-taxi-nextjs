@@ -60,15 +60,18 @@
         },
         {
           "name": "Hunter Mountain Brewery",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "https://www.hmbcatskills.com/"
         },
         {
           "name": "Nat's Mountain House",
-          "driveTime": "about 5 min"
+          "driveTime": "about 5 min",
+          "website": "http://www.lechateaubelleview.com/"
         },
         {
           "name": "Colonial Country Club",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://colonialccny.com/"
         },
         {
           "name": "Fortune Garden",
@@ -134,11 +137,13 @@
         },
         {
           "name": "Ashland Town Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.ashlandny.com/"
         },
         {
           "name": "West Kill - Lexington Community Hall",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.westkill-lex-communityhall.org"
         },
         {
           "name": "Prattsville Town Hall",
@@ -146,11 +151,12 @@
         },
         {
           "name": "Medical Associates of the Hudson Valley",
-          "driveTime": "about 30 min"
+          "driveTime": "about 30 min",
+          "website": "https://www.mahv.net/"
         }
       ]
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:21:57.738Z"
+  "fetchedAt": "2026-10-29T10:21:17.851Z"
 }

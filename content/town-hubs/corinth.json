@@ -48,15 +48,18 @@
         },
         {
           "name": "The Wishing Well",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.wishingwellrestaurant.com/"
         },
         {
           "name": "Amore Pizza",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.amorepizzapie.com/"
         },
         {
           "name": "The Tavern",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://qbytavern.com/"
         },
         {
           "name": "Kerrie's Northway Diner",
@@ -81,7 +84,8 @@
       "items": [
         {
           "name": "Hudson River Waterway Access",
-          "driveTime": "about 15 min"
+          "driveTime": "about 15 min",
+          "website": "https://www.dec.ny.gov/"
         },
         {
           "name": "Lamplight Inn Bed & Breakfast",
@@ -152,5 +156,5 @@
     }
   },
   "qualifies": true,
-  "fetchedAt": "2026-10-29T02:25:22.113Z"
+  "fetchedAt": "2026-10-29T10:24:56.167Z"
 }
