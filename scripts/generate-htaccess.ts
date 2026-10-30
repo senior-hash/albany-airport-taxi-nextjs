@@ -14,6 +14,13 @@ type Redirect = { from: string; to: string };
 // externally. Add entries here rather than hand-editing deploy/.htaccess.
 const EXTRA_REDIRECTS: Redirect[] = [{ from: "/cars/lincoln-mkt/", to: "/cars/" }];
 
+// Subdomains reserved for something other than the main site, excluded
+// from the catch-all below so it doesn't bounce them to the homepage.
+// content.albanyairport.taxi: reserved for a future WordPress install (the
+// /blog backend) — not live yet, so also excluded from
+// scratch/redirects/cloudflare-bulk-redirects.csv for now.
+const RESERVED_SUBDOMAINS = ["content"];
+
 function parseLegacyUrl(from: string): { script: string; query: string } {
   const [script, query = ""] = from.replace(/^\//, "").split("?");
   return { script, query };
@@ -44,9 +51,14 @@ function main() {
   lines.push("# --- Any other *.albanyairport.taxi host (legacy per-town subdomains not");
   lines.push("# --- covered by the Cloudflare Bulk Redirects list) -> homepage. Must come");
   lines.push("# --- before the canonical-host block below, and relies on a wildcard");
-  lines.push("# --- subdomain/vhost in cPanel so these hosts reach this docroot at all. ---");
+  lines.push("# --- subdomain/vhost in cPanel so these hosts reach this docroot at all.");
+  lines.push("# --- Excludes RESERVED_SUBDOMAINS (reserved for something other than");
+  lines.push("# --- this site, e.g. content.albanyairport.taxi for a future WordPress).");
   lines.push(`RewriteCond %{HTTP_HOST} !^${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
   lines.push(`RewriteCond %{HTTP_HOST} !^www\\.${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
+  for (const sub of RESERVED_SUBDOMAINS) {
+    lines.push(`RewriteCond %{HTTP_HOST} !^${sub}\\.${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
+  }
   lines.push(`RewriteRule ^(.*)$ https://${PRIMARY_DOMAIN}/ [R=301,L]`);
   lines.push("");
   lines.push("# --- Canonical host: force apex, non-www, https ---");
