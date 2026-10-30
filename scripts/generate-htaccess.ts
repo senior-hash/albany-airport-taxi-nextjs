@@ -41,6 +41,14 @@ function main() {
   lines.push("");
   lines.push("RewriteEngine On");
   lines.push("");
+  lines.push("# --- Any other *.albanyairport.taxi host (legacy per-town subdomains not");
+  lines.push("# --- covered by the Cloudflare Bulk Redirects list) -> homepage. Must come");
+  lines.push("# --- before the canonical-host block below, and relies on a wildcard");
+  lines.push("# --- subdomain/vhost in cPanel so these hosts reach this docroot at all. ---");
+  lines.push(`RewriteCond %{HTTP_HOST} !^${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
+  lines.push(`RewriteCond %{HTTP_HOST} !^www\\.${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
+  lines.push(`RewriteRule ^(.*)$ https://${PRIMARY_DOMAIN}/ [R=301,L]`);
+  lines.push("");
   lines.push("# --- Canonical host: force apex, non-www, https ---");
   lines.push(`RewriteCond %{HTTP_HOST} ^www\\.${PRIMARY_DOMAIN.replace(/\./g, "\\.")}$ [NC]`);
   lines.push(`RewriteRule ^(.*)$ https://${PRIMARY_DOMAIN}/$1 [R=301,L]`);
