@@ -3,17 +3,6 @@
 
 RewriteEngine On
 
-# --- Any other *.albanyairport.taxi host (legacy per-town subdomains not
-# --- covered by the Cloudflare Bulk Redirects list) -> homepage. Must come
-# --- before the canonical-host block below, and relies on a wildcard
-# --- subdomain/vhost in cPanel so these hosts reach this docroot at all.
-# --- Excludes RESERVED_SUBDOMAINS (reserved for something other than
-# --- this site, e.g. content.albanyairport.taxi for a future WordPress).
-RewriteCond %{HTTP_HOST} !^albanyairport\.taxi$ [NC]
-RewriteCond %{HTTP_HOST} !^www\.albanyairport\.taxi$ [NC]
-RewriteCond %{HTTP_HOST} !^content\.albanyairport\.taxi$ [NC]
-RewriteRule ^(.*)$ https://albanyairport.taxi/ [R=301,L]
-
 # --- Canonical host: force apex, non-www, https ---
 RewriteCond %{HTTP_HOST} ^www\.albanyairport\.taxi$ [NC]
 RewriteRule ^(.*)$ https://albanyairport.taxi/$1 [R=301,L]
